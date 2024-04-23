@@ -50,25 +50,29 @@ def each_version(template_name: str, code, include_base: bool = False,
 					yield (versionID, {**base, **versionDict})
 
 
-def write_json(name: str, minName: str, docs: Dict[Any, Dict[str, Any]]):
-	items = []
-	for (id, doc) in docs.items():
-		named = {k: v for (k, v) in doc.items() if not k.startswith("__")}
-		nameless = named.copy()
-		if "name" in nameless:
-			del nameless["name"]
-		if nameless != {}:
-			items.append((id, named, nameless))
-	items.sort(key=lambda k: int(k[0]))
-
-	withNames = collections.OrderedDict([(k, v) for (k, v, _) in items])
+def write_json(name: str, minName: str, data: dict):
+	if name is None:
+		return
 	with open(name, "w+") as fi:
-		json.dump(withNames, fi, indent=2)
-
-	withoutNames = collections.OrderedDict([(k, v) for (k, _, v) in items])
+		json.dump(data, fi, indent=2)
+	if minName is None:
+		return
 	with open(minName, "w+") as fi:
-		json.dump(withoutNames, fi, separators=(",", ":"))
+		json.dump(data, fi, separators=(",", ":"))
 
+# mostly a copy of get_doc_for_id_string but just returning a list
+def get_ids_for_page(source: str, version: Dict[str, str]) -> Optional[Dict]:
+	if not "id" in version:
+		print("page {} is missing an id".format(source))
+		return None
+
+	ids = [id for id in map(lambda id: id.strip(), str(version["id"]).split(",")) if id != "" and id.isdigit()]
+
+	if len(ids) == 0:
+		print("page {} is has an empty id".format(source))
+		return None
+
+	return ids
 
 def get_doc_for_id_string(source: str, version: Dict[str, str], docs: Dict[str, Dict],
 	allow_duplicates: bool = False) -> Optional[Dict]:
