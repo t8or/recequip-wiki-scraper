@@ -152,14 +152,18 @@ def run():
             "titles": '|'.join(titles)
         }, "rvcontinue")
         for pageBatch in res:
+            allActivityGearRecs = {}
             for pageID, page in pageBatch['query']['pages'].items():
                 print(pageID, page['title'])
                 pageContent = page["revisions"][0]['slots']['main']["*"]
                 # print(res[0].keys())
                 # print(res[0]["query"]["pages"][str(pageID)]["revisions"][0]['slots']['main']['*'])
-                all_gear_recs = get_page_tabs(pageContent)
+                allGearRecs = get_page_tabs(pageContent)
+                titleParts = page['title'].split('/')
+                allActivityGearRecs[titleParts[0]] = allGearRecs
 
-                fileName = page['title'].replace('/', '-')
-                util.write_json(f'recs/{fileName}.json', f'recs/{fileName}.min.json', all_gear_recs)
+                fileName = '-'.join(titleParts)
+                util.write_json(f'recs/{fileName}.json', f'recs/{fileName}.min.json', allGearRecs)
+        util.write_json(f'recs/all.json', f'recs/all.min.json', allActivityGearRecs)
     util.write_json(None, itemCacheFile, itemCache)
 
