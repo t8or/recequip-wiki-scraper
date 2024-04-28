@@ -51,14 +51,12 @@ def each_version(template_name: str, code, include_base: bool = False,
 
 
 def write_json(name: str, minName: str, data: dict):
-	if name is None:
-		return
-	with open(name, "w+") as fi:
-		json.dump(data, fi, indent=2)
-	if minName is None:
-		return
-	with open(minName, "w+") as fi:
-		json.dump(data, fi, separators=(",", ":"))
+	if name is not None:
+		with open(name, "w+") as fi:
+			json.dump(data, fi, indent=2)
+	if minName is not None:
+		with open(minName, "w+") as fi:
+			json.dump(data, fi, separators=(",", ":"))
 
 # mostly a copy of get_doc_for_id_string but just returning a list
 def get_ids_for_page(source: str, version: Dict[str, str]) -> Optional[Dict]:
@@ -66,7 +64,7 @@ def get_ids_for_page(source: str, version: Dict[str, str]) -> Optional[Dict]:
 		print("page {} is missing an id".format(source))
 		return None
 
-	ids = [id for id in map(lambda id: id.strip(), str(version["id"]).split(",")) if id != "" and id.isdigit()]
+	ids = [int(id) for id in map(lambda id: id.strip(), str(version["id"]).split(",")) if id != "" and id.isdigit()]
 
 	if len(ids) == 0:
 		print("page {} is has an empty id".format(source))
