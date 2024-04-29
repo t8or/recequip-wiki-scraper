@@ -6,10 +6,11 @@ import csv
 import json
 import mwparserfromhell as mw
 from collections import defaultdict
+from mwparserfromhell.wikicode import Wikicode
 
 itemCache = {}
 
-def get_item_page_code(itemName):
+def get_item_page_code(itemName: str):
     itemPage = api.get_wiki_api({
         'action': 'query',
         'prop': 'revisions',
@@ -24,7 +25,7 @@ def get_item_page_code(itemName):
     itemPage = itemPage[pageID]["revisions"][0]['slots']['main']['*']
     return mw.parse(itemPage, skip_style_tags=True)
 
-def get_ids_of_item(itemCode, itemName):
+def get_ids_of_item(itemCode: Wikicode, itemName: str):
     if itemName in itemCache:
         return itemCache[itemName]
     versions = util.each_version("Infobox Item", itemCode)
@@ -51,6 +52,12 @@ def handle_special_cases(itemName):
         ids = []
         for i in range(1, 5):
             itemCode = get_item_page_code(itemName + f" {i}")
+            ids.extend(get_ids_of_item(itemCode, itemName))
+        return ids
+    elif itemName == 'Barrows body':
+        ids = []
+        for i in ["Ahrim's robetop", "Dharok's platebody", "Guthan's platebody", "Karil's leathertop", "Torag's platebody", "Verac's brassard"]:
+            itemCode = get_item_page_code(i)
             ids.extend(get_ids_of_item(itemCode, itemName))
         return ids
 
