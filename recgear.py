@@ -187,8 +187,9 @@ def run():
             # "pageids": pageID
             "titles": '|'.join(titles)
         }, "rvcontinue")
+
+        allActivityGearRecs = {}
         for pageBatch in res:
-            allActivityGearRecs = {}
             for pageID, page in pageBatch['query']['pages'].items():
                 print(pageID, page['title'])
                 pageContent = page["revisions"][0]['slots']['main']["*"]
