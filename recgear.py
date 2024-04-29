@@ -6,7 +6,7 @@ import csv
 import json
 import mwparserfromhell as mw
 from collections import defaultdict
-from mwparserfromhell.wikicode import Wikicode
+from mwparserfromhell.wikicode import Wikicode, Template
 
 itemCache = {}
 
@@ -39,7 +39,7 @@ def get_ids_of_item(itemCode: Wikicode, itemName: str):
         ids.extend(idsForVersion)
     return ids
 
-def handle_special_cases(itemName):
+def handle_special_cases(itemName: str, template: Template):
     if itemName.replace('_', ' ').startswith('Cape of Accomplishment'):
         capePages = api.query_category('Capes of Accomplishment')
         ids = []
@@ -54,12 +54,30 @@ def handle_special_cases(itemName):
             itemCode = get_item_page_code(itemName + f" {i}")
             ids.extend(get_ids_of_item(itemCode, itemName))
         return ids
+    elif itemName == 'Barrows helm':
+        ids = []
+        for i in ["Ahrim's hood", "Dharok's helm", "Guthan's helm", "Karil's coif", "Torag's helm", "Verac's helm"]:
+            itemCode = get_item_page_code(i)
+            ids.extend(get_ids_of_item(itemCode, itemName))
+        return ids
     elif itemName == 'Barrows body':
         ids = []
         for i in ["Ahrim's robetop", "Dharok's platebody", "Guthan's platebody", "Karil's leathertop", "Torag's platebody", "Verac's brassard"]:
             itemCode = get_item_page_code(i)
             ids.extend(get_ids_of_item(itemCode, itemName))
         return ids
+    elif itemName == 'Barrows legs':
+        ids = []
+        for i in ["Ahrim's robeskirt", "Dharok's platelegs", "Guthan's chainskirt", "Karil's leatherskirt", "Torag's platelegs", "Verac's plateskirt"]:
+            itemCode = get_item_page_code(i)
+            ids.extend(get_ids_of_item(itemCode, itemName))
+        return ids
+    elif itemName == 'Barrows equipment':
+        if template.has('txt'):
+            itemName = template.get('txt').value.strip()
+            return handle_special_cases(itemName, template)
+        else:
+            raise Exception(f'No txt found for {itemName}')
 
 def get_gear_from_slot(template, slot):
     gear = []
@@ -77,7 +95,7 @@ def get_gear_from_slot(template, slot):
                         itemsWithIDs[name] = itemCache[name]
                         continue
 
-                    specialCase = handle_special_cases(name)
+                    specialCase = handle_special_cases(name, tmp)
                     if specialCase:
                         itemCache[name] = itemsWithIDs[name] = specialCase
                         continue
