@@ -38,6 +38,22 @@ def get_ids_of_item(itemCode, itemName):
         ids.extend(idsForVersion)
     return ids
 
+def handle_special_cases(itemName):
+    if itemName.replace('_', ' ').startswith('Cape of Accomplishment'):
+        capePages = api.query_category('Capes of Accomplishment')
+        ids = []
+        for capeName, capePage in capePages.items():
+            if capeName.endswith('cape'):
+                capeCode = mw.parse(capePage, skip_style_tags=True)
+                ids.extend(get_ids_of_item(capeCode, capeName))
+        return ids
+    elif itemName == "Explorer's ring":
+        ids = []
+        for i in range(1, 5):
+            itemCode = get_item_page_code(itemName + f" {i}")
+            ids.extend(get_ids_of_item(itemCode, itemName))
+        return ids
+
 def get_gear_from_slot(template, slot):
     gear = []
     for i in range(1, 6):
@@ -54,26 +70,21 @@ def get_gear_from_slot(template, slot):
                         itemsWithIDs[name] = itemCache[name]
                         continue
 
-                    if name.replace('_', ' ').startswith('Cape of Accomplishment'):
-                        capePages = api.query_category('Capes of Accomplishment')
-                        itemCache[name] = itemsWithIDs[name] = []
-                        for capeName, capePage in capePages.items():
-                            if capeName.endswith('cape'):
-                                capeCode = mw.parse(capePage, skip_style_tags=True)
-                                itemsWithIDs[name].extend(get_ids_of_item(capeCode, capeName))
+                    specialCase = handle_special_cases(name)
+                    if specialCase:
+                        itemCache[name] = itemsWithIDs[name] = specialCase
                         continue
 
                     itemCode = get_item_page_code(name)
                     itemCache[name] = itemsWithIDs[name] = get_ids_of_item(itemCode, name)
 
                     if len(itemsWithIDs[name]) == 0:
-
-
                         ft = itemCode.filter_templates(matches=lambda t: t.name.matches('plink') or t.name.matches('CostLine'))
                         for tmp in ft:
                             subName = tmp.params[0].value.strip()
                             itemCode = get_item_page_code(subName)
                             itemsWithIDs[name].extend(get_ids_of_item(itemCode, subName))
+
                     # if still no ids found, raise exception
                     if len(itemsWithIDs[name]) == 0:
                         print(f'No ids found for {name}', file=sys.stderr)
