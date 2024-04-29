@@ -142,7 +142,7 @@ def run():
     with open('data_to_import.csv', 'r') as csvfile:
         data = csv.reader(csvfile)
         next(data)
-        titles = [row[1].replace('https://oldschool.runescape.wiki/w/', '') for row in data]
+        titles = [row[1].replace('https://oldschool.runescape.wiki/w/', '') for row in data if row[1]]
         res = api.get_wiki_api({
             "action": "query",
             "prop": "revisions",

@@ -1,0 +1,807 @@
+{
+  "Magic": {
+    "head": [
+      {
+        "Ancestral hat": [
+          21018
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
+        ]
+      },
+      {
+        "Void mage helm": [
+          11663,
+          20477,
+          24183
+        ]
+      },
+      {
+        "Ahrim's hood": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860
+        ]
+      },
+      {
+        "Infinity hat": [
+          6918
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      },
+      {
+        "Amulet of magic": [
+          1727
+        ]
+      },
+      {
+        "Amulet of power": [
+          1731
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "God capes#Imbuing": [
+          2412,
+          2414,
+          2413,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      },
+      {
+        "God capes": [
+          2412,
+          2414,
+          2413,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
+        ]
+      },
+      {
+        "Ardougne cloak 3": [
+          13123
+        ]
+      },
+      {
+        "Ardougne cloak 2": [
+          13122
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
+        ],
+        "Void knight top": [
+          8839,
+          20465,
+          24177
+        ]
+      },
+      {
+        "Ahrim's robetop": [
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872
+        ]
+      },
+      {
+        "Infinity top": [
+          6916
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
+        ],
+        "Void knight robe": [
+          8840,
+          20469,
+          24179
+        ]
+      },
+      {
+        "Ahrim's robeskirt": [
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878
+        ]
+      },
+      {
+        "Infinity bottoms": [
+          6924
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ]
+      },
+      {
+        "Trident of the swamp": [
+          12900,
+          12899
+        ]
+      },
+      {
+        "Trident of the seas": [
+          11908,
+          11907,
+          11905
+        ]
+      },
+      {}
+    ],
+    "shield": [
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Elidinis' ward": [
+          25985
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ]
+      },
+      {
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Mage's book": [
+          6889
+        ]
+      },
+      {
+        "Malediction ward": [
+          11924
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Rada's blessing 3": [
+          22945
+        ],
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      },
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ]
+      },
+      {
+        "Rune gloves": [
+          7460
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Eternal boots": [
+          13235
+        ]
+      },
+      {
+        "Infinity boots": [
+          6920
+        ]
+      },
+      {
+        "Bloodbark boots": [
+          25410
+        ],
+        "Wizard boots": [
+          2579
+        ]
+      },
+      {
+        "Mystic boots": [
+          4097
+        ]
+      },
+      {
+        "Splitbark boots": [
+          3393
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Magus ring": [
+          28313
+        ]
+      },
+      {
+        "Seers ring (i)": [
+          11770,
+          25258,
+          26767
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
+      },
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Lunar ring": [
+          9104
+        ],
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Dragon dagger(p++)": [
+          1215,
+          1231,
+          5680,
+          5698
+        ]
+      },
+      {},
+      {}
+    ]
+  },
+  "Ranged": {
+    "head": [
+      {
+        "Masori mask (f)": [
+          27235
+        ]
+      },
+      {
+        "Armadyl helmet": [
+          11826
+        ],
+        "Crystal helm": [
+          23971,
+          23973
+        ]
+      },
+      {
+        "Void ranger helm": [
+          11664,
+          20479,
+          24184
+        ]
+      },
+      {
+        "Blessed coif": [
+          12496,
+          12512,
+          12504,
+          10382,
+          10390,
+          10374
+        ]
+      },
+      {
+        "Archer helm": [
+          3749
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      },
+      {},
+      {}
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      },
+      {
+        "Ava's accumulator": [
+          10499
+        ]
+      },
+      {
+        "Ranging cape(t)": [
+          9756,
+          9757
+        ],
+        "Ava's attractor": [
+          10498
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Armadyl chestplate": [
+          11828
+        ],
+        "Crystal body": [
+          23975,
+          23977
+        ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
+        ],
+        "Void knight top": [
+          8839,
+          20465,
+          24177
+        ]
+      },
+      {
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
+        ]
+      },
+      {
+        "Blessed body": [
+          12492,
+          12508,
+          12500,
+          10378,
+          10386,
+          10370
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Armadyl chainskirt": [
+          11830
+        ],
+        "Crystal legs": [
+          23979,
+          23981
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
+        ],
+        "Void knight robe": [
+          8840,
+          20469,
+          24179
+        ]
+      },
+      {
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
+        ]
+      },
+      {
+        "Blessed chaps": [
+          12494,
+          12510,
+          12502,
+          10380,
+          10388,
+          10372
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Twisted buckler": [
+          21000
+        ]
+      },
+      {
+        "Dragonfire ward": [
+          22003,
+          22002
+        ]
+      },
+      {
+        "Odium ward": [
+          11926
+        ]
+      },
+      {
+        "Book of law": [
+          12610
+        ]
+      },
+      {
+        "Unholy book": [
+          3842
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Rada's blessing 3": [
+          22945
+        ],
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      },
+      {
+        "Diamond dragon bolts (e)": [
+          21946
+        ]
+      },
+      {
+        "Diamond bolts (e)": [
+          9243
+        ]
+      },
+      {}
+    ],
+    "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182
+        ]
+      },
+      {
+        "Ranger gloves": [
+          19994
+        ]
+      },
+      {
+        "Blessed vambraces": [
+          12490,
+          12506,
+          12498,
+          10376,
+          10384,
+          10368
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Pegasian boots": [
+          13237
+        ]
+      },
+      {
+        "Ranger boots": [
+          2577
+        ]
+      },
+      {
+        "Blessed boots": [
+          19921,
+          19930,
+          19924,
+          19927,
+          19933,
+          19936
+        ]
+      },
+      {
+        "Shayzien boots (5)": [
+          13378
+        ]
+      },
+      {
+        "Snakeskin boots": [
+          6328
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Venator ring": [
+          28310
+        ]
+      },
+      {
+        "Archers ring (i)": [
+          11771,
+          25260,
+          26768
+        ]
+      },
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ],
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Dragon dagger(p++)": [
+          1215,
+          1231,
+          5680,
+          5698
+        ]
+      },
+      {},
+      {}
+    ]
+  }
+}

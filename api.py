@@ -7,21 +7,26 @@ from typing import *
 use_cache: bool = True
 user_agent: Dict[str, str] = {"User-Agent": "Runelite Wiki Scraper/1.0 (+abex@runelite.net)"}
 
-
 def get_wiki_api(args: Dict[str, str], continueKey: str) -> Iterator[Any]:
 	args["format"] = "json"
+	titles = args.get("titles", []).split('|')
+	batches = [titles[i:i+50] for i in range(0, len(titles), 50)]
+	for batch in batches:
+		args["titles"] = "|".join(batch)
+		for js in get_wiki_api_helper(args, continueKey):
+			yield js
+
+def get_wiki_api_helper(args: Dict[str, str], continueKey: str) -> Iterator[Any]:
 	while True:
 		url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args)
 		print("Grabbing " + url)
 		with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
 			js = json.load(raw)
-
 		yield js
 		if "continue" in js:
 			args[continueKey] = js["continue"][continueKey]
 		else:
 			return
-
 
 def query_category(category_name: str) -> Dict[str, str]:
 	"""

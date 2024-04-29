@@ -1,0 +1,206 @@
+{
+  "Default": {
+    "head": [
+      {
+        "Torva full helm": [
+          26376,
+          26382
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ]
+      },
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of blood fury": [
+          24780
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ]
+      },
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Osmumten's fang": [
+          26219
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {
+        "Elysian spirit shield": [
+          12817
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      },
+      {
+        "Ruby dragon bolts (e)": [
+          21944
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Ultor ring": [
+          28307
+        ],
+        "Venator ring": [
+          28310
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Berserker ring": [
+          6737
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1065 @@
+{
+  "Entry mode": {
+    "head": [
+      {
+        "Void melee helm": [
+          11665,
+          20481,
+          24185
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "God capes#Imbuing": [
+          2412,
+          2414,
+          2413,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Dragon scimitar": [
+          4587
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Amethyst arrows": [
+          21326,
+          21332,
+          21334,
+          21336
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Dragon boots": [
+          11840
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Dragon dagger(p++)": [
+          1215,
+          1231,
+          5680,
+          5698
+        ]
+      }
+    ]
+  },
+  "Learner": {
+    "head": [
+      {
+        "Void melee helm": [
+          11665,
+          20481,
+          24185
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "neck": [
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of blood fury": [
+          24780
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
+        ]
+      },
+      {},
+      {}
+    ],
+    "legs": [
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
+        ]
+      },
+      {},
+      {}
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [
+      {},
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Ruby bolts (e)": [
+          9242
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182
+        ]
+      },
+      {},
+      {}
+    ],
+    "feet": [
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Bellator ring": [
+          28316
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Dragon claws": [
+          13652
+        ],
+        "Dragon warhammer": [
+          13576
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ],
+        "Bandos godsword": [
+          11804
+        ]
+      },
+      {
+        "Barrelchest anchor": [
+          10887,
+          10888
+        ]
+      }
+    ]
+  },
+  "Freezer": {
+    "head": [
+      {
+        "Torva full helm": [
+          26376,
+          26382
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ]
+      },
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      },
+      {},
+      {}
+    ],
+    "neck": [
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of blood fury": [
+          24780
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {},
+      {}
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ]
+      },
+      {},
+      {}
+    ],
+    "legs": [
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
+        "Bandos tassets": [
+          11834
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
+        ]
+      },
+      {},
+      {}
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "ammo": [
+      {
+        "Dragon arrows": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      },
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      },
+      {},
+      {}
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "feet": [
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Bellator ring": [
+          28316
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {},
+      {}
+    ],
+    "special": [
+      {
+        "Dragon claws": [
+          13652
+        ],
+        "Dragon warhammer": [
+          13576
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ],
+        "Bandos godsword": [
+          11804
+        ]
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Ranger": {
+    "head": [
+      {
+        "Torva full helm": [
+          26376,
+          26382
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ]
+      },
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      },
+      {},
+      {}
+    ],
+    "neck": [
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of blood fury": [
+          24780
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {},
+      {}
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ]
+      },
+      {},
+      {}
+    ],
+    "legs": [
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
+        "Bandos tassets": [
+          11834
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
+        ]
+      },
+      {},
+      {}
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "ammo": [
+      {
+        "Dragon arrows": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      },
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      },
+      {},
+      {}
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "feet": [
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Bellator ring": [
+          28316
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {},
+      {}
+    ],
+    "special": [
+      {
+        "Dragon claws": [
+          13652
+        ],
+        "Dragon warhammer": [
+          13576
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ],
+        "Bandos godsword": [
+          11804
+        ]
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "Melee DPS": {
+    "head": [
+      {
+        "Torva full helm": [
+          26376,
+          26382
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ]
+      },
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      },
+      {},
+      {}
+    ],
+    "neck": [
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of blood fury": [
+          24780
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {},
+      {}
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ]
+      },
+      {},
+      {}
+    ],
+    "legs": [
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
+        "Bandos tassets": [
+          11834
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
+        ]
+      },
+      {},
+      {}
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "ammo": [
+      {
+        "Dragon arrows": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      },
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      },
+      {},
+      {}
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "feet": [
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Bellator ring": [
+          28316
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {},
+      {}
+    ],
+    "special": [
+      {
+        "Dragon claws": [
+          13652
+        ],
+        "Dragon warhammer": [
+          13576
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ],
+        "Bandos godsword": [
+          11804
+        ]
+      },
+      {},
+      {},
+      {}
+    ]
+  }
+}

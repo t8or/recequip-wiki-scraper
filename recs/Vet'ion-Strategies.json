@@ -1,0 +1,466 @@
+{
+  "Default": {
+    "head": [
+      {
+        "Torva full helm": [
+          26376,
+          26382
+        ]
+      },
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      },
+      {
+        "Helm of neitiznot": [
+          10828
+        ]
+      },
+      {
+        "Berserker helm": [
+          3751
+        ]
+      },
+      {
+        "Dwarven helmet": [
+          11200
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Salve amulet (e)": [
+          10588
+        ]
+      },
+      {
+        "Salve amulet": [
+          4081
+        ]
+      },
+      {
+        "Amulet of strength": [
+          1725
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      },
+      {
+        "Amulet of power": [
+          1731
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ],
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Mythical cape": [
+          22114
+        ]
+      },
+      {
+        "Mixed hide cape": [
+          29289
+        ]
+      },
+      {
+        "Cape of Accomplishment": [
+          9771,
+          9772,
+          13340,
+          13341,
+          9747,
+          9748,
+          9768,
+          9769,
+          9789,
+          9790,
+          9801,
+          9802,
+          9753,
+          9754,
+          9810,
+          9811,
+          9804,
+          9805,
+          9798,
+          9799,
+          9783,
+          9784,
+          9762,
+          9763,
+          9774,
+          9775,
+          9780,
+          9781,
+          9948,
+          9949,
+          19476,
+          13069,
+          13329,
+          20447,
+          24134,
+          13337,
+          13335,
+          20760,
+          21285,
+          21289,
+          24133,
+          21776,
+          24238,
+          24232,
+          21784,
+          24242,
+          24234,
+          21780,
+          24246,
+          24233,
+          21898,
+          21916,
+          24135,
+          28902,
+          28906,
+          28830,
+          9792,
+          9793,
+          9759,
+          9760,
+          9786,
+          9787,
+          9795,
+          9796,
+          9777,
+          9778,
+          9813,
+          13068,
+          9750,
+          9751,
+          9756,
+          9757,
+          9765,
+          9766,
+          9807,
+          9808,
+          13221,
+          13222,
+          13280,
+          13342,
+          13333,
+          13331,
+          24855,
+          27363,
+          27361,
+          27365
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ]
+      },
+      {
+        "Mixed hide top": [
+          29280
+        ]
+      },
+      {
+        "Black d'hide body": [
+          2503
+        ]
+      },
+      {
+        "Proselyte hauberk": [
+          9674
+        ]
+      },
+      {
+        "Monk's robe top": [
+          544
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
+        "Inquisitor's plateskirt": [
+          24421
+        ]
+      },
+      {
+        "Black d'hide chaps": [
+          2497
+        ]
+      },
+      {
+        "Proselyte cuisse": [
+          9676
+        ],
+        "Proselyte tasset": [
+          9678
+        ]
+      },
+      {
+        "Monk's robe": [
+          542
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Ursine chainmace": [
+          27657,
+          27660
+        ],
+        "Viggora's chainmace": [
+          22542,
+          22545
+        ]
+      },
+      {
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Abyssal bludgeon": [
+          13263
+        ],
+        "Zamorakian hasta": [
+          11889
+        ],
+        "Zombie axe": [
+          28810
+        ],
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Sarachnis cudgel": [
+          23528
+        ],
+        "Elder maul": [
+          21003
+        ],
+        "Leaf-bladed battleaxe": [
+          20727
+        ]
+      },
+      {
+        "Dragon mace": [
+          1434
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {
+        "Dragonfire shield": [
+          11284,
+          11283
+        ]
+      },
+      {
+        "Rune defender": [
+          8850,
+          20461,
+          24142
+        ],
+        "Toktz-ket-xil": [
+          6524
+        ]
+      },
+      {
+        "Book of war": [
+          12608
+        ],
+        "Falador shield 4": [
+          13120
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Rada's blessing 3": [
+          22945
+        ],
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Rune gloves": [
+          7460
+        ]
+      },
+      {
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Dragon boots": [
+          11840
+        ]
+      },
+      {
+        "Rune boots": [
+          4131
+        ]
+      },
+      {
+        "Mixed hide boots": [
+          29286
+        ]
+      },
+      {
+        "Climbing boots": [
+          3105
+        ]
+      },
+      {
+        "Fremennik sea boots 4": [
+          13132
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
+      {
+        "Ring of wealth (i)": [
+          12785,
+          20790,
+          20789,
+          20788,
+          20787,
+          20786
+        ]
+      },
+      {
+        "Explorer's ring 4": [
+          13128
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Ursine chainmace": [
+          27657,
+          27660
+        ]
+      },
+      {
+        "Dragon warhammer": [
+          13576
+        ]
+      },
+      {
+        "Dragon mace": [
+          1434
+        ]
+      },
+      {
+        "Barrelchest anchor": [
+          10887,
+          10888
+        ]
+      }
+    ]
+  }
+}
