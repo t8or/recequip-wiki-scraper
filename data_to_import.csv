@@ -1,7 +1,108 @@
-Name,URL,Category,Location,F2P/P2P
-Barrows,https://oldschool.runescape.wiki/w/Barrows/Strategies,Boss,Mortanyia,Members
-Scurrius,https://oldschool.runescape.wiki/w/Scurrius/Strategies,Boss,Misthalin,Members
-Giant Mole,https://oldschool.runescape.wiki/w/Giant_Mole/Strategies,Boss,Asgarnia,Members
-Deranged Archaeologist,https://oldschool.runescape.wiki/w/Deranged_archaeologist/Strategies,Boss,Misthalin,Members
-Dagannoth Kings,https://oldschool.runescape.wiki/w/Dagannoth_Kings/Strategies,Boss,Fremennik,Members
-Sarachnis,https://oldschool.runescape.wiki/w/Sarachnis/Strategies,Boss,Kourend,Members
+Name,URL,Category,Location
+Barrows,https://oldschool.runescape.wiki/w/Barrows/Strategies,World,Mortanyia
+Scurrius,https://oldschool.runescape.wiki/w/Scurrius/Strategies,World,Misthalin
+Giant Mole,https://oldschool.runescape.wiki/w/Giant_Mole/Strategies,World,Asgarnia
+Deranged Archaeologist,https://oldschool.runescape.wiki/w/Deranged_archaeologist/Strategies,World,Misthalin
+Dagannoth Kings,https://oldschool.runescape.wiki/w/Dagannoth_Kings/Strategies,World,Fremennik
+Sarachnis,https://oldschool.runescape.wiki/w/Sarachnis/Strategies,World,Kourend
+Moons of Peril,https://oldschool.runescape.wiki/w/Moons_of_Peril/Strategies,World,Varlamore
+Kalphite Queen,https://oldschool.runescape.wiki/w/Kalphite_Queen/Strategies,World,Desert
+Kree'arra,https://oldschool.runescape.wiki/w/Kree%27arra/Strategies,World,Asgarnia
+Commander Zilyana,https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies,World,Asgarnia
+General Graardor,https://oldschool.runescape.wiki/w/General_Graardor/Strategies,World,Asgarnia
+K'ril Tsutsaroth,https://oldschool.runescape.wiki/w/K%27ril_Tsutsaroth/Strategies,World,Asgarnia
+Corporeal Beast,https://oldschool.runescape.wiki/w/Corporeal_Beast/Strategies,World,Wilderness
+Nex,https://oldschool.runescape.wiki/w/Nex/Strategies,World,Asgarnia
+Chaos Fanatic,https://oldschool.runescape.wiki/w/Chaos_Fanatic/Strategies,Wilderness,Wilderness
+Crazy archaeologist,https://oldschool.runescape.wiki/w/Crazy_archaeologist/Strategies,Wilderness,Wilderness
+Scorpia,https://oldschool.runescape.wiki/w/Scorpia/Strategies,Wilderness,Wilderness
+King Black Dragon,https://oldschool.runescape.wiki/w/King_Black_Dragon/Strategies,Wilderness,Wilderness
+Chaos Elemental,https://oldschool.runescape.wiki/w/Chaos_Elemental/Strategies,Wilderness,Wilderness
+Revenant maledictus,,Wilderness,Wilderness
+Calvar'ion,https://oldschool.runescape.wiki/w/Vet%27ion/Strategies,Wilderness,Wilderness
+Vet'ion,https://oldschool.runescape.wiki/w/Vet%27ion/Strategies,Wilderness,Wilderness
+Spindel,https://oldschool.runescape.wiki/w/Venenatis/Strategies,Wilderness,Wilderness
+Venenatis,https://oldschool.runescape.wiki/w/Venenatis/Strategies,Wilderness,Wilderness
+Artio,https://oldschool.runescape.wiki/w/Artio/Strategies,Wilderness,Wilderness
+Callisto,https://oldschool.runescape.wiki/w/Artio/Strategies,Wilderness,Wilderness
+Zulrah,https://oldschool.runescape.wiki/w/Zulrah/Strategies,Instanced,Tirannwn
+Vorkath,https://oldschool.runescape.wiki/w/Vorkath/Strategies,Instanced,Fremennik
+Phantom Muspah,https://oldschool.runescape.wiki/w/Phantom_Muspah/Strategies,Instanced,Fremennik
+The Nightmare,https://oldschool.runescape.wiki/w/The_Nightmare/Strategies,Instanced,Mortanyia
+Phosani's Nightmare,https://oldschool.runescape.wiki/w/Phosani%27s_Nightmare/Strategies,Instanced,Mortanyia
+Duke Sucellus,https://oldschool.runescape.wiki/w/Duke_Sucellus/Strategies,Forgotten 4,Asgarnia
+The Leviathan,https://oldschool.runescape.wiki/w/The_Leviathan/Strategies,Forgotten 4,Misthalin
+The Whisperer,https://oldschool.runescape.wiki/w/The_Whisperer/Strategies,Forgotten 4,Asgarnia
+Vardorvis,https://oldschool.runescape.wiki/w/Vardorvis/Strategies,Forgotten 4,Kourend
+Obor,,Sporadic,Misthalin
+Bryophyta,,Sporadic,Misthalin
+The Mimic,https://oldschool.runescape.wiki/w/The_Mimic/Strategies,Sporadic,Kourend
+Hespori,,Sporadic,Kourend
+Skotizo,https://oldschool.runescape.wiki/w/Skotizo/Strategies,Sporadic,Kourend
+Grotesque Guardians,https://oldschool.runescape.wiki/w/Grotesque_Guardians/Strategies,Slayer,Mortanyia
+Abyssal Sire,https://oldschool.runescape.wiki/w/Abyssal_Sire/Strategies,Slayer,Misthalin
+Kraken,https://oldschool.runescape.wiki/w/Kraken/Strategies,Slayer,Kandarin
+Cerberus,https://oldschool.runescape.wiki/w/Cerberus/Strategies,Slayer,Asgarnia
+Thermonuclear smoke devil,https://oldschool.runescape.wiki/w/Thermonuclear_smoke_devil/Strategies,Slayer,Kandarin
+Alchemical Hydra,https://oldschool.runescape.wiki/w/Alchemical_Hydra/Strategies,Slayer,Kourend
+Crystalline Hunllef,,Minigame,Tirannwn
+Corrupted Hunllef,,Minigame,Tirannwn
+TzTok-Jad,https://oldschool.runescape.wiki/w/TzHaar_Fight_Cave/Strategies#TzTok-Jad,Minigame,Karamja
+TzKal-Zuk,https://oldschool.runescape.wiki/w/Inferno/Strategies#TzKal-Zuk,Minigame,Karamja
+Sol Heredit,https://oldschool.runescape.wiki/w/Fortis_Colosseum/Strategies#Sol_Heredit,Minigame,Varlamore
+Tempoross,https://oldschool.runescape.wiki/w/Tempoross/Strategies,Skilling,Desert
+Wintertodt,https://oldschool.runescape.wiki/w/Wintertodt/Strategies,Skilling,Kourend
+Zalcano,https://oldschool.runescape.wiki/w/Zalcano/Strategies,Skilling,Tirannwn
+Chambers of Xeric,https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies,Raid,Kourend
+Theater of Blood,https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies,Raid,Mortanyia
+Tombs of Amascut,https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies,Raid,Desert
+Abomination,,Quest,
+Agrith Naar,,Quest,
+Ancient Guardian,,Quest,
+Arzinian Being of Bordanzan,,Quest,
+Arrg,,Quest,
+Barrelchest,,Quest,
+Black demon,,Quest,
+Black Knight Titan,,Quest,
+Bouncer,,Quest,
+Chronozon,,Quest,
+Corrupt Lizardman,,Quest,
+Count Draynor,,Quest,
+Culinaromancer,,Quest,
+Dad,,Quest,
+Dagannoth mother,,Quest,
+Delrith,,Quest,
+Tree spirit,,Quest,
+The Draugen,,Quest,
+Elvarg,,Quest,
+Evil spirit,,Quest,
+Fragment of Seren,,Quest,
+Gadderanks,,Quest,
+Galvek,https://oldschool.runescape.wiki/w/Galvek_Speed-Trialist,Quest,Fremennik
+General Khazard,,Quest,
+Giant Roc,,Quest,
+Giant Scarab,,Quest,
+Giant Sea Snake,,Quest,
+Glod,,Quest,
+Glough,https://oldschool.runescape.wiki/w/Glough_Speed-Trialist,Quest,Asgarnia
+Ice Troll King,,Quest,
+Ithoi the Navigator,,Quest,
+Jungle Demon,,Quest,
+Khazard Ogre,,Quest,
+Koschei the deathless,,Quest,
+Me,,Quest,
+Melzar the Mad,,Quest,
+Moss Guardian,,Quest,
+Nezikchened,,Quest,
+Ranis Drakan,,Quest,
+Sand Snake,,Quest,
+Sea Troll Queen,,Quest,
+Sigmund,,Quest,
+Sir Leye,,Quest,
+Sir Mordred,,Quest,
+Slagilith,,Quest,
+Slash Bash,,Quest,
+Tarn Razorlor,,Quest,
+Tolna,,Quest,
+Treus Dayth,,Quest,
+Ulfric Longbeard,,Quest,
