@@ -78,6 +78,20 @@ def handle_special_cases(itemName: str, template: Template):
             return handle_special_cases(itemName, template)
         else:
             raise Exception(f'No txt found for {itemName}')
+    elif itemName == 'God staves':
+        # TODO: would be nice to handle it below using the Infotable Bonuses template but
+        # we need to check the redirect fragment and only get stuff inside
+        return get_items_from_page('God spells')
+
+def get_items_from_page(pageName: str):
+    itemCode = get_item_page_code(pageName)
+    ft = itemCode.filter_templates(matches=lambda t: t.name.matches('plink') or t.name.matches('plinkp') or t.name.matches('CostLine'))
+    ids = []
+    for tmp in ft:
+        subName = tmp.params[0].value.strip()
+        itemCode = get_item_page_code(subName)
+        ids.extend(get_ids_of_item(itemCode, subName))
+    return ids
 
 def get_gear_from_slot(template, slot):
     gear = []
@@ -104,11 +118,19 @@ def get_gear_from_slot(template, slot):
                     itemCache[name] = itemsWithIDs[name] = get_ids_of_item(itemCode, name)
 
                     if len(itemsWithIDs[name]) == 0:
-                        ft = itemCode.filter_templates(matches=lambda t: t.name.matches('plink') or t.name.matches('CostLine'))
-                        for tmp in ft:
-                            subName = tmp.params[0].value.strip()
-                            itemCode = get_item_page_code(subName)
-                            itemsWithIDs[name].extend(get_ids_of_item(itemCode, subName))
+                        ft = itemCode.filter_templates(matches=lambda t: t.name.matches('Infotable Bonuses'))
+                        if len(ft) > 0:
+                            for tmp in ft:
+                                positionalParams = [p.value.strip() for p in tmp.params if not p.showkey]
+                                for p in positionalParams:
+                                    itemCode = get_item_page_code(p)
+                                    itemsWithIDs[name].extend(get_ids_of_item(itemCode, p))
+                        else:
+                            ft = itemCode.filter_templates(matches=lambda t: t.name.matches('plink') or t.name.matches('CostLine'))
+                            for tmp in ft:
+                                subName = tmp.params[0].value.strip()
+                                itemCode = get_item_page_code(subName)
+                                itemsWithIDs[name].extend(get_ids_of_item(itemCode, subName))
 
                     # if still no ids found, raise exception
                     if len(itemsWithIDs[name]) == 0:
@@ -166,19 +188,19 @@ def run():
             global itemCache
             itemCache = json.load(fi)
     os.makedirs('recs', exist_ok=True)
-    # titles = [
-    #     'TzHaar_Fight_Cave/Strategies',
-    #     'Barrows/Strategies',
-    #     'Scurrius/Strategies',
-    #     'Giant_Mole/Strategies',
-    #     'Deranged_archaeologist/Strategies',
-    #     'Dagannoth_Kings/Strategies',
-    #     'Sarachnis/Strategies'
-    # ]
     with open('data_to_import.csv', 'r') as csvfile:
         data = csv.reader(csvfile)
         next(data)
         titles = [row[1].replace('https://oldschool.runescape.wiki/w/', '') for row in data if row[1]]
+        # titles = [
+        #     'TzHaar_Fight_Cave/Strategies',
+        #     'Barrows/Strategies',
+        #     'Scurrius/Strategies',
+        #     'Giant_Mole/Strategies',
+        #     'Deranged_archaeologist/Strategies',
+        #     'Dagannoth_Kings/Strategies',
+        #     'Sarachnis/Strategies'
+        # ]
         res = api.get_wiki_api({
             "action": "query",
             "prop": "revisions",
