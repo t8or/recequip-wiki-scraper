@@ -82,7 +82,7 @@ def handle_special_cases(itemName: str, template: Template):
         # TODO: would be nice to handle it below using the Infotable Bonuses template but
         # we need to check the redirect fragment and only get stuff inside
         return get_items_from_page('God spells')
-    elif itemName == 'Damaged book':
+    elif itemName == 'Damaged book' or itemName == 'Halo':
         itemCode = get_item_page_code(itemName)
         ids = []
         for link in itemCode.filter_wikilinks():
