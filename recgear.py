@@ -83,15 +83,31 @@ def handle_special_cases(itemName: str, template: Template):
         # we need to check the redirect fragment and only get stuff inside
         return get_items_from_page('God spells')
 
-def get_items_from_page(pageName: str):
-    itemCode = get_item_page_code(pageName)
-    ft = itemCode.filter_templates(matches=lambda t: t.name.matches('plink') or t.name.matches('plinkp') or t.name.matches('CostLine'))
+def get_items_from_page(itemName: str):
+    itemCode = get_item_page_code(itemName)
     ids = []
-    for tmp in ft:
-        subName = tmp.params[0].value.strip()
-        itemCode = get_item_page_code(subName)
-        ids.extend(get_ids_of_item(itemCode, subName))
-    return ids
+    for ft in itemCode.filter_templates():
+        # Real item page, break out after getting ids
+        if ft.name.matches('Infobox Item'):
+            ids.extend(get_ids_of_item(itemCode, itemName))
+            break
+
+        # If a page has a bonus table, use it to get ids
+        if ft.name.matches('Infotable Bonuses'):
+            positionalParams = [p.value.strip() for p in ft.params if not p.showkey]
+            for p in positionalParams:
+                itemCode = get_item_page_code(p)
+                ids.extend(get_ids_of_item(itemCode, p))
+            break
+
+        if ft.name.matches('plink') or ft.name.matches('plinkp') or ft.name.matches('CostLine'):
+            subName = ft.params[0].value.strip()
+            itemCode = get_item_page_code(subName)
+            ids.extend(get_ids_of_item(itemCode, subName))
+            continue
+
+    # remove duplicates from ids without changing order
+    return list(dict.fromkeys(ids))
 
 def get_gear_from_slot(template, slot):
     gear = []
@@ -114,25 +130,9 @@ def get_gear_from_slot(template, slot):
                         itemCache[name] = itemsWithIDs[name] = specialCase
                         continue
 
-                    itemCode = get_item_page_code(name)
-                    itemCache[name] = itemsWithIDs[name] = get_ids_of_item(itemCode, name)
+                    itemCache[name] = itemsWithIDs[name] = get_items_from_page(name)
 
-                    if len(itemsWithIDs[name]) == 0:
-                        ft = itemCode.filter_templates(matches=lambda t: t.name.matches('Infotable Bonuses'))
-                        if len(ft) > 0:
-                            for tmp in ft:
-                                positionalParams = [p.value.strip() for p in tmp.params if not p.showkey]
-                                for p in positionalParams:
-                                    itemCode = get_item_page_code(p)
-                                    itemsWithIDs[name].extend(get_ids_of_item(itemCode, p))
-                        else:
-                            ft = itemCode.filter_templates(matches=lambda t: t.name.matches('plink') or t.name.matches('CostLine'))
-                            for tmp in ft:
-                                subName = tmp.params[0].value.strip()
-                                itemCode = get_item_page_code(subName)
-                                itemsWithIDs[name].extend(get_ids_of_item(itemCode, subName))
-
-                    # if still no ids found, raise exception
+                    # if no ids found, add it to a file to be manually checked later
                     if len(itemsWithIDs[name]) == 0:
                         print(f'No ids found for {name}', file=sys.stderr)
                         del itemCache[name]
