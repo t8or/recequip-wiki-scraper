@@ -106,7 +106,7 @@ def get_items_from_page(itemName: str):
                 ids.extend(get_ids_of_item(itemCode, p))
             break
 
-        if ft.name.matches('plink') or ft.name.matches('plinkp') or ft.name.matches('CostLine'):
+        if ft.name.matches('plink') or ft.name.matches('plinkp') or ft.name.matches('plinkt') or ft.name.matches('CostLine'):
             subName = ft.params[0].value.strip()
             itemCode = get_item_page_code(subName)
             ids.extend(get_ids_of_item(itemCode, subName))

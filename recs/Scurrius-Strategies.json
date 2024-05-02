@@ -265,7 +265,12 @@
     ],
     "ammo": [
       {
-        "Rada's blessing": [],
+        "Rada's blessing": [
+          22941,
+          22943,
+          22945,
+          22947
+        ],
         "God blessing": [
           20220,
           20223,
@@ -878,7 +883,12 @@
     ],
     "ammo": [
       {
-        "Rada's blessing": [],
+        "Rada's blessing": [
+          22941,
+          22943,
+          22945,
+          22947
+        ],
         "God blessing": [
           20220,
           20223,
