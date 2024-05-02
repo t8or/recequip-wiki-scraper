@@ -48,7 +48,20 @@ def handle_special_cases(itemName: str, template: Template):
                 capeCode = mw.parse(capePage, skip_style_tags=True)
                 ids.extend(get_ids_of_item(capeCode, capeName))
         return ids
-    elif itemName == "Explorer's ring":
+    elif itemName in [
+        "Ardougne cloak",
+        "Desert amulet",
+        "Falador shield",
+        "Fremennik sea boots",
+        "Kandarin headgear",
+        "Karamja gloves",
+        "Rada's blessing",
+        "Explorer's ring",
+        "Morytania legs",
+        "Varrock armour",
+        "Western banner",
+        "Wilderness sword"
+    ]:
         ids = []
         for i in range(1, 5):
             itemCode = get_item_page_code(itemName + f" {i}")
