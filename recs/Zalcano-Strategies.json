@@ -1,5 +1,6 @@
-{
-  "Default": {
+[
+  {
+    "name": "Default",
     "head": [
       {
         "Graceful hood": [
@@ -313,4 +314,4 @@
     ],
     "special": []
   }
-}
+]

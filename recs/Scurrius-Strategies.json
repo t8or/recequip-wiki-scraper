@@ -1,5 +1,6 @@
-{
-  "Melee (mid level)": {
+[
+  {
+    "name": "Melee (mid level)",
     "head": [
       {
         "Void melee helm": [
@@ -390,7 +391,8 @@
       }
     ]
   },
-  "Range (mid level)": {
+  {
+    "name": "Range (mid level)",
     "head": [
       {
         "Void ranger helm": [
@@ -681,7 +683,8 @@
     ],
     "special": []
   },
-  "Magic (mid level)": {
+  {
+    "name": "Magic (mid level)",
     "head": [
       {
         "Bloodbark helm": [
@@ -960,7 +963,8 @@
     ],
     "special": []
   },
-  "Melee (high level)": {
+  {
+    "name": "Melee (high level)",
     "head": [
       {
         "Torva full helm": [
@@ -1284,7 +1288,8 @@
       }
     ]
   },
-  "Range (high level)": {
+  {
+    "name": "Range (high level)",
     "head": [
       {
         "Masori mask (f)": [
@@ -1620,7 +1625,8 @@
       }
     ]
   },
-  "Magic (high level)": {
+  {
+    "name": "Magic (high level)",
     "head": [
       {
         "Ancestral hat": [
@@ -1908,4 +1914,4 @@
     ],
     "special": []
   }
-}
+]

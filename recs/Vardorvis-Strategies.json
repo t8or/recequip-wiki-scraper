@@ -1,5 +1,6 @@
-{
-  "Default": {
+[
+  {
+    "name": "Default",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -553,4 +554,4 @@
       }
     ]
   }
-}
+]

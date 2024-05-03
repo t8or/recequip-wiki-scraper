@@ -1,5 +1,6 @@
-{
-  "Melee": {
+[
+  {
+    "name": "Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -420,7 +421,8 @@
       }
     ]
   },
-  "Torag's": {
+  {
+    "name": "Torag's",
     "head": [
       {
         "Torag's helm": [
@@ -567,7 +569,8 @@
       }
     ]
   },
-  "Melee (Anti-magic)": {
+  {
+    "name": "Melee (Anti-magic)",
     "head": [
       {
         "Neitiznot faceguard": [
@@ -825,7 +828,8 @@
       }
     ]
   },
-  "Ranged": {
+  {
+    "name": "Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1128,4 +1132,4 @@
     ],
     "special": []
   }
-}
+]

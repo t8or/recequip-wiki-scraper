@@ -1,5 +1,6 @@
-{
-  "Ranged": {
+[
+  {
+    "name": "Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -342,7 +343,8 @@
       }
     ]
   },
-  "Magic": {
+  {
+    "name": "Magic",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -584,7 +586,8 @@
     ],
     "special": []
   },
-  "Ranged Void": {
+  {
+    "name": "Ranged Void",
     "head": [
       {
         "Void ranger helm": [
@@ -787,7 +790,8 @@
       }
     ]
   },
-  "Melee": {
+  {
+    "name": "Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1131,7 +1135,8 @@
       }
     ]
   },
-  "Dharok's": {
+  {
+    "name": "Dharok's",
     "head": [
       {
         "Dharok's helm": [
@@ -1477,7 +1482,8 @@
       }
     ]
   },
-  "Melee & Prayer Budget": {
+  {
+    "name": "Melee & Prayer Budget",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1753,4 +1759,4 @@
       }
     ]
   }
-}
+]

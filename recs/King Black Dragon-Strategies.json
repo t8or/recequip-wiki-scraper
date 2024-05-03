@@ -1,5 +1,6 @@
-{
-  "4-item melee": {
+[
+  {
+    "name": "4-item melee",
     "head": [
       {
         "Helm of neitiznot": [
@@ -275,7 +276,8 @@
       {}
     ]
   },
-  "Melee BIS smuggle": {
+  {
+    "name": "Melee BIS smuggle",
     "head": [
       {
         "Neitiznot faceguard": [
@@ -623,7 +625,8 @@
       {}
     ]
   },
-  "Twisted bow": {
+  {
+    "name": "Twisted bow",
     "head": [
       {
         "Blessed coif": [
@@ -829,7 +832,8 @@
       {}
     ]
   },
-  "Bowfa (shield swap)": {
+  {
+    "name": "Bowfa (shield swap)",
     "head": [
       {
         "Crystal helm": [
@@ -953,7 +957,8 @@
       {}
     ]
   },
-  "Crossbow": {
+  {
+    "name": "Crossbow",
     "head": [
       {
         "Blessed coif": [
@@ -1181,7 +1186,8 @@
       {}
     ]
   },
-  "Ranged BIS smuggle": {
+  {
+    "name": "Ranged BIS smuggle",
     "head": [
       {
         "Masori mask (f)": [
@@ -1516,4 +1522,4 @@
       {}
     ]
   }
-}
+]

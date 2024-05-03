@@ -1,5 +1,6 @@
-{
-  "Magic (Rex only)": {
+[
+  {
+    "name": "Magic (Rex only)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -538,7 +539,8 @@
     ],
     "special": []
   },
-  "Tribrid (All Kings)": {
+  {
+    "name": "Tribrid (All Kings)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1026,7 +1028,8 @@
       }
     ]
   },
-  "Budget Magic (Rex only)": {
+  {
+    "name": "Budget Magic (Rex only)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1425,7 +1428,8 @@
       }
     ]
   },
-  "Range": {
+  {
+    "name": "Range",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1854,4 +1858,4 @@
       }
     ]
   }
-}
+]

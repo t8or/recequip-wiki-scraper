@@ -1,5 +1,6 @@
-{
-  "Melee": {
+[
+  {
+    "name": "Melee",
     "head": [
       {
         "Torva full helm": [
@@ -221,7 +222,8 @@
       }
     ]
   },
-  "Ranged": {
+  {
+    "name": "Ranged",
     "head": [
       {
         "Masori mask (f)": [
@@ -433,7 +435,8 @@
       }
     ]
   },
-  "Magic": {
+  {
+    "name": "Magic",
     "head": [
       {
         "Ancestral hat": [
@@ -587,7 +590,8 @@
     ],
     "special": []
   },
-  "Tekton": {
+  {
+    "name": "Tekton",
     "head": [],
     "neck": [],
     "cape": [],
@@ -631,7 +635,8 @@
     "ring": [],
     "special": []
   },
-  "Vespula": {
+  {
+    "name": "Vespula",
     "head": [],
     "neck": [],
     "cape": [],
@@ -674,7 +679,8 @@
     "ring": [],
     "special": []
   },
-  "crystals": {
+  {
+    "name": "crystals",
     "head": [],
     "neck": [],
     "cape": [],
@@ -717,7 +723,8 @@
     "ring": [],
     "special": []
   },
-  "Melee Vanguard": {
+  {
+    "name": "Melee Vanguard",
     "head": [],
     "neck": [],
     "cape": [],
@@ -750,7 +757,8 @@
     "ring": [],
     "special": []
   },
-  "Range Vanguard": {
+  {
+    "name": "Range Vanguard",
     "head": [],
     "neck": [],
     "cape": [],
@@ -791,7 +799,8 @@
     "ring": [],
     "special": []
   },
-  "Mage Vanguard": {
+  {
+    "name": "Mage Vanguard",
     "head": [],
     "neck": [],
     "cape": [],
@@ -829,7 +838,8 @@
     "ring": [],
     "special": []
   },
-  "Guardians": {
+  {
+    "name": "Guardians",
     "head": [],
     "neck": [],
     "cape": [],
@@ -860,7 +870,8 @@
     "ring": [],
     "special": []
   },
-  "Baby Muttadile": {
+  {
+    "name": "Baby Muttadile",
     "head": [],
     "neck": [],
     "cape": [],
@@ -915,7 +926,8 @@
     "ring": [],
     "special": []
   },
-  "Big Muttadile": {
+  {
+    "name": "Big Muttadile",
     "head": [],
     "neck": [],
     "cape": [],
@@ -967,7 +979,8 @@
     "ring": [],
     "special": []
   },
-  "Great Olm": {
+  {
+    "name": "Great Olm",
     "head": [],
     "neck": [],
     "cape": [],
@@ -1040,4 +1053,4 @@
     "ring": [],
     "special": []
   }
-}
+]

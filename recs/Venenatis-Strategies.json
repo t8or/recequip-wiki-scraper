@@ -1,5 +1,6 @@
-{
-  "Melee": {
+[
+  {
+    "name": "Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -353,7 +354,8 @@
       }
     ]
   },
-  "Ranged": {
+  {
+    "name": "Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -610,4 +612,4 @@
     ],
     "special": []
   }
-}
+]

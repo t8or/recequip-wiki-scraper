@@ -1,6 +1,7 @@
 {
-  "Abyssal Sire": {
-    "Ranged": {
+  "Abyssal Sire": [
+    {
+      "name": "Phase 1 Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -91,44 +92,23 @@
           "Max cape": [
             13280,
             13342
-          ]
-        },
-        {
+          ],
           "Ranging cape": [
             9756,
             9757
-          ]
-        },
-        {
-          "Infernal cape": [
-            21295,
-            21287,
-            24224
-          ],
-          "Mythical cape": [
-            22114
           ]
         }
       ],
       "body": [
         {
-          "Masori body (f)": [
-            27238
+          "Crystal body": [
+            23975,
+            23977
           ]
         },
         {
           "Armadyl chestplate": [
             11828
-          ]
-        },
-        {
-          "Karil's leathertop": [
-            4736,
-            4940,
-            4941,
-            4942,
-            4943,
-            4944
           ]
         },
         {
@@ -139,9 +119,15 @@
             10378,
             10386,
             10370
-          ]
-        },
-        {
+          ],
+          "Karil's leathertop": [
+            4736,
+            4940,
+            4941,
+            4942,
+            4943,
+            4944
+          ],
           "Black d'hide body": [
             2503
           ]
@@ -149,23 +135,14 @@
       ],
       "legs": [
         {
-          "Masori chaps (f)": [
-            27241
+          "Crystal legs": [
+            23979,
+            23981
           ]
         },
         {
           "Armadyl chainskirt": [
             11830
-          ]
-        },
-        {
-          "Karil's leatherskirt": [
-            4738,
-            4946,
-            4947,
-            4948,
-            4949,
-            4950
           ]
         },
         {
@@ -176,9 +153,15 @@
             10380,
             10388,
             10372
-          ]
-        },
-        {
+          ],
+          "Karil's leatherskirt": [
+            4738,
+            4946,
+            4947,
+            4948,
+            4949,
+            4950
+          ],
           "Black d'hide chaps": [
             2497
           ]
@@ -186,8 +169,9 @@
       ],
       "weapon": [
         {
-          "Twisted bow": [
-            20997
+          "Bow of faerdhinen": [
+            25862,
+            25865
           ]
         },
         {
@@ -195,105 +179,59 @@
             12924,
             12926
           ],
-          "Adamant dart": [
-            810,
-            816,
-            5633,
-            5640
-          ]
-        }
-      ],
-      "shield": [
-        {
-          "Avernic defender": [
-            22322,
-            22441,
-            24186
+          "amethyst dart": [
+            25849,
+            25851,
+            25855,
+            25857
           ]
         },
         {
-          "Dragon defender": [
-            12954,
-            20463,
-            24143
-          ]
-        }
-      ],
-      "ammo": [
-        {
-          "Dragon arrow": [
-            11212,
-            11227,
-            11228,
-            11229
+          "Webweaver bow": [
+            27652,
+            27655
           ]
         },
         {
-          "Amethyst arrow": [
-            21326,
-            21332,
-            21334,
-            21336
-          ]
-        },
-        {
-          "Rune arrow": [
-            892,
-            893,
-            5621,
-            5627
+          "Craw's bow": [
+            22547,
+            22550
+          ],
+          "Crystal bow": [
+            23983,
+            23985,
+            24123
           ]
         }
       ],
+      "shield": [],
+      "ammo": [],
       "hands": [
+        {
+          "Zaryte vambraces": [
+            26235
+          ]
+        },
         {
           "Barrows gloves": [
             7462
           ]
         },
         {
-          "Dragon gloves": [
-            7461
-          ]
-        },
-        {
-          "Rune gloves": [
-            7460
-          ]
-        }
-      ],
-      "feet": [
-        {
-          "Pegasian boots": [
-            13237
-          ]
-        },
-        {
-          "Ranger boots": [
-            2577
-          ]
-        },
-        {
-          "Blessed boots": [
-            19921,
-            19930,
-            19924,
-            19927,
-            19933,
-            19936
-          ]
-        },
-        {
-          "Guardian boots": [
-            21733
-          ]
-        },
-        {
-          "Snakeskin boots": [
-            6328
+          "Blessed vambraces": [
+            12490,
+            12506,
+            12498,
+            10376,
+            10384,
+            10368
+          ],
+          "Black d'hide vambraces": [
+            2491
           ]
         }
       ],
+      "feet": [],
       "ring": [
         {
           "Venator ring": [
@@ -325,29 +263,10 @@
           ]
         }
       ],
-      "special": [
-        {
-          "Dragon warhammer": [
-            13576
-          ],
-          "Bandos godsword": [
-            11804
-          ]
-        },
-        {
-          "Toxic blowpipe": [
-            12924,
-            12926
-          ]
-        },
-        {
-          "Dragon claws": [
-            13652
-          ]
-        }
-      ]
+      "special": []
     },
-    "Magic": {
+    {
+      "name": "Phase 1 Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -399,70 +318,10 @@
           "Occult necklace": [
             12002
           ]
-        },
-        {
-          "Amulet of fury": [
-            6585
-          ]
-        },
-        {
-          "Amulet of glory": [
-            1704,
-            1706,
-            1708,
-            1710,
-            1712,
-            11976,
-            11978
-          ]
         }
       ],
       "cape": [
-        {
-          "God capes#Imbuing": [
-            2412,
-            2414,
-            2413,
-            21791,
-            24236,
-            24248,
-            21795,
-            24244,
-            24250,
-            21793,
-            24240,
-            24249
-          ]
-        },
-        {
-          "God capes": [
-            2412,
-            2414,
-            2413,
-            21791,
-            24236,
-            24248,
-            21795,
-            24244,
-            24250,
-            21793,
-            24240,
-            24249
-          ]
-        },
-        {
-          "Max cape": [
-            13280,
-            13342
-          ]
-        },
-        {
-          "Infernal cape": [
-            21295,
-            21287,
-            24224
-          ]
-        }
+        {}
       ],
       "body": [
         {
@@ -494,6 +353,25 @@
             27277,
             27275
           ]
+        },
+        {
+          "Sanguinesti staff": [
+            22481,
+            22323
+          ]
+        },
+        {
+          "Trident of the swamp": [
+            12900,
+            12899
+          ]
+        },
+        {
+          "Trident of the seas": [
+            11908,
+            11907,
+            11905
+          ]
         }
       ],
       "shield": [
@@ -506,16 +384,283 @@
           "Elidinis' ward": [
             25985
           ]
-        },
+        }
+      ],
+      "ammo": [],
+      "hands": [
         {
-          "Mage's book": [
-            6889
+          "Tormented bracelet": [
+            19544
+          ]
+        }
+      ],
+      "feet": [],
+      "ring": [],
+      "special": []
+    },
+    {
+      "name": "Phase 2 Osmumten's Fang",
+      "head": [
+        {
+          "Slayer helmet (i)": [
+            11865,
+            25177,
+            26674
           ]
         },
         {
-          "Tome of fire": [
-            20716,
-            20714
+          "Black mask (i)": [
+            11784,
+            11783,
+            11782,
+            11781,
+            11780,
+            11779,
+            11778,
+            11777,
+            11776,
+            11775,
+            11774,
+            25276,
+            25275,
+            25274,
+            25273,
+            25272,
+            25271,
+            25270,
+            25269,
+            25268,
+            25267,
+            25266,
+            26781,
+            26780,
+            26779,
+            26778,
+            26777,
+            26776,
+            26775,
+            26774,
+            26773,
+            26772,
+            26771
+          ]
+        }
+      ],
+      "neck": [
+        {
+          "Amulet of torture": [
+            19553
+          ]
+        },
+        {
+          "Amulet of fury": [
+            6585
+          ]
+        },
+        {
+          "Amulet of glory": [
+            1704,
+            1706,
+            1708,
+            1710,
+            1712,
+            11976,
+            11978
+          ]
+        }
+      ],
+      "cape": [
+        {
+          "Infernal cape": [
+            21295,
+            21287,
+            24224
+          ]
+        },
+        {
+          "Fire cape": [
+            6570,
+            20445,
+            24223
+          ]
+        },
+        {
+          "Ardougne cloak 4": [
+            13124
+          ]
+        },
+        {
+          "Max cape": [
+            13280,
+            13342
+          ],
+          "Hitpoints cape": [
+            9768,
+            9769
+          ]
+        }
+      ],
+      "body": [
+        {
+          "Torva platebody": [
+            26378,
+            26384
+          ]
+        },
+        {
+          "Bandos chestplate": [
+            11832
+          ]
+        },
+        {
+          "Justiciar chestguard": [
+            22327
+          ]
+        },
+        {
+          "Barrows equipment": [
+            4712,
+            4868,
+            4869,
+            4870,
+            4871,
+            4872,
+            4720,
+            4892,
+            4893,
+            4894,
+            4895,
+            4896,
+            4728,
+            4916,
+            4917,
+            4918,
+            4919,
+            4920,
+            4736,
+            4940,
+            4941,
+            4942,
+            4943,
+            4944,
+            4749,
+            4964,
+            4965,
+            4966,
+            4967,
+            4968,
+            4757,
+            4988,
+            4989,
+            4990,
+            4991,
+            4992
+          ]
+        },
+        {
+          "Fighter torso": [
+            10551,
+            20513,
+            24175
+          ]
+        }
+      ],
+      "legs": [
+        {
+          "Torva platelegs": [
+            26380,
+            26386
+          ]
+        },
+        {
+          "Bandos tassets": [
+            11834
+          ]
+        },
+        {
+          "Justiciar legguards": [
+            22328
+          ]
+        },
+        {
+          "Barrows equipment": [
+            4712,
+            4868,
+            4869,
+            4870,
+            4871,
+            4872,
+            4720,
+            4892,
+            4893,
+            4894,
+            4895,
+            4896,
+            4728,
+            4916,
+            4917,
+            4918,
+            4919,
+            4920,
+            4736,
+            4940,
+            4941,
+            4942,
+            4943,
+            4944,
+            4749,
+            4964,
+            4965,
+            4966,
+            4967,
+            4968,
+            4757,
+            4988,
+            4989,
+            4990,
+            4991,
+            4992
+          ]
+        },
+        {
+          "Obsidian platelegs": [
+            21304
+          ]
+        }
+      ],
+      "weapon": [
+        {
+          "Osmumten's fang": [
+            26219
+          ]
+        }
+      ],
+      "shield": [
+        {
+          "Avernic defender": [
+            22322,
+            22441,
+            24186
+          ]
+        },
+        {
+          "Dragon defender": [
+            12954,
+            20463,
+            24143
+          ]
+        },
+        {
+          "Dragonfire shield": [
+            11284,
+            11283
+          ]
+        },
+        {
+          "Rune defender": [
+            8850,
+            20461,
+            24142
           ]
         }
       ],
@@ -524,19 +669,44 @@
           "Rada's blessing 4": [
             22947
           ]
+        },
+        {
+          "God blessing": [
+            20220,
+            20223,
+            20226,
+            20229,
+            20232,
+            20235
+          ]
         }
       ],
       "hands": [
         {
-          "Tormented bracelet": [
-            19544
+          "Ferocious gloves": [
+            22981
+          ]
+        },
+        {
+          "Barrows gloves": [
+            7462
+          ]
+        },
+        {
+          "Dragon gloves": [
+            7461
           ]
         }
       ],
       "feet": [
         {
-          "Eternal boots": [
-            13235
+          "Primordial boots": [
+            13239
+          ]
+        },
+        {
+          "Dragon boots": [
+            11840
           ]
         },
         {
@@ -548,26 +718,14 @@
           "Guardian boots": [
             21733
           ]
+        },
+        {
+          "Rune boots": [
+            4131
+          ]
         }
       ],
       "ring": [
-        {
-          "Magus ring": [
-            28313
-          ]
-        },
-        {
-          "Seers ring (i)": [
-            11770,
-            25258,
-            26767
-          ]
-        },
-        {
-          "Brimstone ring": [
-            22975
-          ]
-        },
         {
           "Lightbearer": [
             25975
@@ -576,19 +734,40 @@
       ],
       "special": [
         {
-          "Eldritch nightmare staff": [
-            24425
+          "Dragon claws": [
+            13652
+          ],
+          "Crystal halberd": [
+            23987,
+            23989,
+            24125
           ]
         },
         {
-          "Accursed sceptre": [
-            27662,
-            27665
+          "Voidwaker": [
+            27690
+          ]
+        },
+        {
+          "Dragon dagger": [
+            1215,
+            1231,
+            5680,
+            5698
+          ]
+        },
+        {
+          "Abyssal dagger": [
+            13265,
+            13267,
+            13269,
+            13271
           ]
         }
       ]
     },
-    "Melee": {
+    {
+      "name": "Phase 2 Other Melee Weapons",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -983,10 +1162,601 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Phase 2 Ranged",
+      "head": [
+        {
+          "Slayer helmet (i)": [
+            11865,
+            25177,
+            26674
+          ]
+        },
+        {
+          "Black mask (i)": [
+            11784,
+            11783,
+            11782,
+            11781,
+            11780,
+            11779,
+            11778,
+            11777,
+            11776,
+            11775,
+            11774,
+            25276,
+            25275,
+            25274,
+            25273,
+            25272,
+            25271,
+            25270,
+            25269,
+            25268,
+            25267,
+            25266,
+            26781,
+            26780,
+            26779,
+            26778,
+            26777,
+            26776,
+            26775,
+            26774,
+            26773,
+            26772,
+            26771
+          ]
+        }
+      ],
+      "neck": [
+        {
+          "Necklace of anguish": [
+            19547
+          ]
+        },
+        {
+          "Amulet of fury": [
+            6585
+          ]
+        },
+        {
+          "Amulet of glory": [
+            1704,
+            1706,
+            1708,
+            1710,
+            1712,
+            11976,
+            11978
+          ]
+        }
+      ],
+      "cape": [
+        {
+          "Dizana's quiver": [
+            28947,
+            28951,
+            28949,
+            28953,
+            28826
+          ]
+        },
+        {
+          "Ava's assembler": [
+            22109,
+            21914,
+            24222
+          ]
+        },
+        {
+          "Max cape": [
+            13280,
+            13342
+          ]
+        },
+        {
+          "Ranging cape": [
+            9756,
+            9757
+          ]
+        },
+        {
+          "Infernal cape": [
+            21295,
+            21287,
+            24224
+          ],
+          "Mythical cape": [
+            22114
+          ]
+        }
+      ],
+      "body": [
+        {
+          "Masori body (f)": [
+            27238
+          ]
+        },
+        {
+          "Armadyl chestplate": [
+            11828
+          ]
+        },
+        {
+          "Karil's leathertop": [
+            4736,
+            4940,
+            4941,
+            4942,
+            4943,
+            4944
+          ]
+        },
+        {
+          "Blessed body": [
+            12492,
+            12508,
+            12500,
+            10378,
+            10386,
+            10370
+          ]
+        },
+        {
+          "Black d'hide body": [
+            2503
+          ]
+        }
+      ],
+      "legs": [
+        {
+          "Masori chaps (f)": [
+            27241
+          ]
+        },
+        {
+          "Armadyl chainskirt": [
+            11830
+          ]
+        },
+        {
+          "Karil's leatherskirt": [
+            4738,
+            4946,
+            4947,
+            4948,
+            4949,
+            4950
+          ]
+        },
+        {
+          "Blessed chaps": [
+            12494,
+            12510,
+            12502,
+            10380,
+            10388,
+            10372
+          ]
+        },
+        {
+          "Black d'hide chaps": [
+            2497
+          ]
+        }
+      ],
+      "weapon": [
+        {
+          "Twisted bow": [
+            20997
+          ]
+        },
+        {
+          "Toxic blowpipe": [
+            12924,
+            12926
+          ],
+          "Adamant dart": [
+            810,
+            816,
+            5633,
+            5640
+          ]
+        }
+      ],
+      "shield": [
+        {
+          "Avernic defender": [
+            22322,
+            22441,
+            24186
+          ]
+        },
+        {
+          "Dragon defender": [
+            12954,
+            20463,
+            24143
+          ]
+        }
+      ],
+      "ammo": [
+        {
+          "Dragon arrow": [
+            11212,
+            11227,
+            11228,
+            11229
+          ]
+        },
+        {
+          "Amethyst arrow": [
+            21326,
+            21332,
+            21334,
+            21336
+          ]
+        },
+        {
+          "Rune arrow": [
+            892,
+            893,
+            5621,
+            5627
+          ]
+        }
+      ],
+      "hands": [
+        {
+          "Barrows gloves": [
+            7462
+          ]
+        },
+        {
+          "Dragon gloves": [
+            7461
+          ]
+        },
+        {
+          "Rune gloves": [
+            7460
+          ]
+        }
+      ],
+      "feet": [
+        {
+          "Pegasian boots": [
+            13237
+          ]
+        },
+        {
+          "Ranger boots": [
+            2577
+          ]
+        },
+        {
+          "Blessed boots": [
+            19921,
+            19930,
+            19924,
+            19927,
+            19933,
+            19936
+          ]
+        },
+        {
+          "Guardian boots": [
+            21733
+          ]
+        },
+        {
+          "Snakeskin boots": [
+            6328
+          ]
+        }
+      ],
+      "ring": [
+        {
+          "Venator ring": [
+            28310
+          ]
+        },
+        {
+          "Archers ring (i)": [
+            11771,
+            25260,
+            26768
+          ]
+        },
+        {
+          "Ring of suffering (i)": [
+            19710,
+            20657,
+            25246,
+            25248,
+            26761,
+            26762
+          ]
+        },
+        {
+          "Tyrannical ring (i)": [
+            12691,
+            25254,
+            26765
+          ]
+        }
+      ],
+      "special": [
+        {
+          "Dragon warhammer": [
+            13576
+          ],
+          "Bandos godsword": [
+            11804
+          ]
+        },
+        {
+          "Toxic blowpipe": [
+            12924,
+            12926
+          ]
+        },
+        {
+          "Dragon claws": [
+            13652
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phase 2 Magic",
+      "head": [
+        {
+          "Slayer helmet (i)": [
+            11865,
+            25177,
+            26674
+          ]
+        },
+        {
+          "Black mask (i)": [
+            11784,
+            11783,
+            11782,
+            11781,
+            11780,
+            11779,
+            11778,
+            11777,
+            11776,
+            11775,
+            11774,
+            25276,
+            25275,
+            25274,
+            25273,
+            25272,
+            25271,
+            25270,
+            25269,
+            25268,
+            25267,
+            25266,
+            26781,
+            26780,
+            26779,
+            26778,
+            26777,
+            26776,
+            26775,
+            26774,
+            26773,
+            26772,
+            26771
+          ]
+        }
+      ],
+      "neck": [
+        {
+          "Occult necklace": [
+            12002
+          ]
+        },
+        {
+          "Amulet of fury": [
+            6585
+          ]
+        },
+        {
+          "Amulet of glory": [
+            1704,
+            1706,
+            1708,
+            1710,
+            1712,
+            11976,
+            11978
+          ]
+        }
+      ],
+      "cape": [
+        {
+          "God capes#Imbuing": [
+            2412,
+            2414,
+            2413,
+            21791,
+            24236,
+            24248,
+            21795,
+            24244,
+            24250,
+            21793,
+            24240,
+            24249
+          ]
+        },
+        {
+          "God capes": [
+            2412,
+            2414,
+            2413,
+            21791,
+            24236,
+            24248,
+            21795,
+            24244,
+            24250,
+            21793,
+            24240,
+            24249
+          ]
+        },
+        {
+          "Max cape": [
+            13280,
+            13342
+          ]
+        },
+        {
+          "Infernal cape": [
+            21295,
+            21287,
+            24224
+          ]
+        }
+      ],
+      "body": [
+        {
+          "Ancestral robe top": [
+            21021
+          ]
+        },
+        {
+          "Virtus robe top": [
+            26243
+          ]
+        }
+      ],
+      "legs": [
+        {
+          "Ancestral robe bottom": [
+            21024
+          ]
+        },
+        {
+          "Virtus robe bottom": [
+            26245
+          ]
+        }
+      ],
+      "weapon": [
+        {
+          "Tumeken's shadow": [
+            27277,
+            27275
+          ]
+        }
+      ],
+      "shield": [
+        {
+          "Elidinis' ward (f)": [
+            27251
+          ]
+        },
+        {
+          "Elidinis' ward": [
+            25985
+          ]
+        },
+        {
+          "Mage's book": [
+            6889
+          ]
+        },
+        {
+          "Tome of fire": [
+            20716,
+            20714
+          ]
+        }
+      ],
+      "ammo": [
+        {
+          "Rada's blessing 4": [
+            22947
+          ]
+        }
+      ],
+      "hands": [
+        {
+          "Tormented bracelet": [
+            19544
+          ]
+        }
+      ],
+      "feet": [
+        {
+          "Eternal boots": [
+            13235
+          ]
+        },
+        {
+          "Echo boots": [
+            28945
+          ]
+        },
+        {
+          "Guardian boots": [
+            21733
+          ]
+        }
+      ],
+      "ring": [
+        {
+          "Magus ring": [
+            28313
+          ]
+        },
+        {
+          "Seers ring (i)": [
+            11770,
+            25258,
+            26767
+          ]
+        },
+        {
+          "Brimstone ring": [
+            22975
+          ]
+        },
+        {
+          "Lightbearer": [
+            25975
+          ]
+        }
+      ],
+      "special": [
+        {
+          "Eldritch nightmare staff": [
+            24425
+          ]
+        },
+        {
+          "Accursed sceptre": [
+            27662,
+            27665
+          ]
+        }
+      ]
     }
-  },
-  "Alchemical Hydra": {
-    "Ranged": {
+  ],
+  "Alchemical Hydra": [
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -1305,7 +2075,8 @@
         }
       ]
     },
-    "Melee": {
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -1601,9 +2372,10 @@
         }
       ]
     }
-  },
-  "Artio": {
-    "Ranged": {
+  ],
+  "Artio": [
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -1960,7 +2732,8 @@
         }
       ]
     },
-    "Magic": {
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -2300,9 +3073,10 @@
       ],
       "special": []
     }
-  },
-  "Barrows": {
-    "High-end gear, fewer switches": {
+  ],
+  "Barrows": [
+    {
+      "name": "High-end gear, fewer switches",
       "head": [
         {
           "Ancestral hat": [
@@ -2434,7 +3208,8 @@
       ],
       "special": []
     },
-    "High level": {
+    {
+      "name": "High level",
       "head": [
         {
           "Ancestral hat": [
@@ -2661,7 +3436,8 @@
         }
       ]
     },
-    "Medium level": {
+    {
+      "name": "Medium level",
       "head": [
         {
           "Helm of neitiznot": [
@@ -2865,7 +3641,8 @@
         }
       ]
     },
-    "Low level": {
+    {
+      "name": "Low level",
       "head": [
         {
           "Helm of neitiznot": [
@@ -3086,7 +3863,8 @@
         }
       ]
     },
-    "Minimum low level": {
+    {
+      "name": "Minimum low level",
       "head": [
         {
           "Rune full helm": [
@@ -3245,9 +4023,10 @@
         }
       ]
     }
-  },
-  "Cerberus": {
-    "Melee": {
+  ],
+  "Cerberus": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -3696,7 +4475,8 @@
         }
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -4077,9 +4857,10 @@
         }
       ]
     }
-  },
-  "Chambers of Xeric": {
-    "Melee": {
+  ],
+  "Chambers of Xeric": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Torva full helm": [
@@ -4301,7 +5082,8 @@
         }
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Masori mask (f)": [
@@ -4513,7 +5295,8 @@
         }
       ]
     },
-    "Magic": {
+    {
+      "name": "Magic",
       "head": [
         {
           "Ancestral hat": [
@@ -4667,7 +5450,8 @@
       ],
       "special": []
     },
-    "Tekton": {
+    {
+      "name": "Tekton",
       "head": [],
       "neck": [],
       "cape": [],
@@ -4711,7 +5495,8 @@
       "ring": [],
       "special": []
     },
-    "Vespula": {
+    {
+      "name": "Vespula",
       "head": [],
       "neck": [],
       "cape": [],
@@ -4754,7 +5539,8 @@
       "ring": [],
       "special": []
     },
-    "crystals": {
+    {
+      "name": "crystals",
       "head": [],
       "neck": [],
       "cape": [],
@@ -4797,7 +5583,8 @@
       "ring": [],
       "special": []
     },
-    "Melee Vanguard": {
+    {
+      "name": "Melee Vanguard",
       "head": [],
       "neck": [],
       "cape": [],
@@ -4830,7 +5617,8 @@
       "ring": [],
       "special": []
     },
-    "Range Vanguard": {
+    {
+      "name": "Range Vanguard",
       "head": [],
       "neck": [],
       "cape": [],
@@ -4871,7 +5659,8 @@
       "ring": [],
       "special": []
     },
-    "Mage Vanguard": {
+    {
+      "name": "Mage Vanguard",
       "head": [],
       "neck": [],
       "cape": [],
@@ -4909,7 +5698,8 @@
       "ring": [],
       "special": []
     },
-    "Guardians": {
+    {
+      "name": "Guardians",
       "head": [],
       "neck": [],
       "cape": [],
@@ -4940,7 +5730,8 @@
       "ring": [],
       "special": []
     },
-    "Baby Muttadile": {
+    {
+      "name": "Baby Muttadile",
       "head": [],
       "neck": [],
       "cape": [],
@@ -4995,7 +5786,8 @@
       "ring": [],
       "special": []
     },
-    "Big Muttadile": {
+    {
+      "name": "Big Muttadile",
       "head": [],
       "neck": [],
       "cape": [],
@@ -5047,7 +5839,8 @@
       "ring": [],
       "special": []
     },
-    "Great Olm": {
+    {
+      "name": "Great Olm",
       "head": [],
       "neck": [],
       "cape": [],
@@ -5120,9 +5913,10 @@
       "ring": [],
       "special": []
     }
-  },
-  "Chaos Elemental": {
-    "Melee": {
+  ],
+  "Chaos Elemental": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -5543,7 +6337,8 @@
         }
       ]
     },
-    "Torag's": {
+    {
+      "name": "Torag's",
       "head": [
         {
           "Torag's helm": [
@@ -5690,7 +6485,8 @@
         }
       ]
     },
-    "Melee (Anti-magic)": {
+    {
+      "name": "Melee (Anti-magic)",
       "head": [
         {
           "Neitiznot faceguard": [
@@ -5948,7 +6744,8 @@
         }
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -6251,9 +7048,10 @@
       ],
       "special": []
     }
-  },
-  "Chaos Fanatic": {
-    "Ranged": {
+  ],
+  "Chaos Fanatic": [
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -6549,9 +7347,10 @@
       ],
       "special": []
     }
-  },
-  "Commander Zilyana": {
-    "Magic": {
+  ],
+  "Commander Zilyana": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Ancestral hat": [
@@ -6707,7 +7506,8 @@
         }
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Masori mask (f)": [
@@ -7096,9 +7896,10 @@
         }
       ]
     }
-  },
-  "Corporeal Beast": {
-    "Solo melee": {
+  ],
+  "Corporeal Beast": [
+    {
+      "name": "Solo melee",
       "head": [
         {
           "Torva full helm": [
@@ -7436,7 +8237,8 @@
         {}
       ]
     },
-    "Void": {
+    {
+      "name": "Void",
       "head": [
         {
           "Void melee helm": [
@@ -7705,7 +8507,8 @@
         {}
       ]
     },
-    "Fewer stat drains": {
+    {
+      "name": "Fewer stat drains",
       "head": [
         {
           "Torva full helm": [
@@ -7954,7 +8757,8 @@
         }
       ]
     },
-    "Team melee": {
+    {
+      "name": "Team melee",
       "head": [
         {
           "Torva full helm": [
@@ -8269,7 +9073,8 @@
         {}
       ]
     },
-    "Melee masses": {
+    {
+      "name": "Melee masses",
       "head": [
         {
           "Torva full helm": [
@@ -8581,7 +9386,8 @@
         {}
       ]
     },
-    "Ranged masses": {
+    {
+      "name": "Ranged masses",
       "head": [
         {
           "Masori mask (f)": [
@@ -8964,9 +9770,10 @@
         {}
       ]
     }
-  },
-  "Crazy archaeologist": {
-    "Magic": {
+  ],
+  "Crazy archaeologist": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -9332,9 +10139,10 @@
       ],
       "special": []
     }
-  },
-  "Dagannoth Kings": {
-    "Magic (Rex only)": {
+  ],
+  "Dagannoth Kings": [
+    {
+      "name": "Magic (Rex only)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -9873,7 +10681,8 @@
       ],
       "special": []
     },
-    "Tribrid (All Kings)": {
+    {
+      "name": "Tribrid (All Kings)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -10361,7 +11170,8 @@
         }
       ]
     },
-    "Budget Magic (Rex only)": {
+    {
+      "name": "Budget Magic (Rex only)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -10760,7 +11570,8 @@
         }
       ]
     },
-    "Range": {
+    {
+      "name": "Range",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -11189,9 +12000,10 @@
         }
       ]
     }
-  },
-  "Deranged archaeologist": {
-    "Default": {
+  ],
+  "Deranged archaeologist": [
+    {
+      "name": "Default",
       "head": [
         {
           "Ancestral hat": [
@@ -11631,9 +12443,10 @@
       ],
       "special": []
     }
-  },
-  "Duke Sucellus": {
-    "Melee": {
+  ],
+  "Duke Sucellus": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -12001,9 +12814,10 @@
         }
       ]
     }
-  },
-  "Fortis Colosseum": {
-    "Melee": {
+  ],
+  "Fortis Colosseum": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Torva full helm": [
@@ -12343,7 +13157,8 @@
         }
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Torva full helm": [
@@ -12689,7 +13504,8 @@
         }
       ]
     },
-    "Mage": {
+    {
+      "name": "Mage",
       "head": [
         {
           "Torva full helm": [
@@ -13017,9 +13833,10 @@
         }
       ]
     }
-  },
-  "General Graardor": {
-    "Advanced Tank": {
+  ],
+  "General Graardor": [
+    {
+      "name": "Advanced Tank",
       "head": [
         {
           "Justiciar faceguard": [
@@ -13407,7 +14224,8 @@
         }
       ]
     },
-    "Ranged Tank": {
+    {
+      "name": "Ranged Tank",
       "head": [
         {
           "Justiciar faceguard": [
@@ -13759,7 +14577,8 @@
       ],
       "special": []
     },
-    "Melee Attacker": {
+    {
+      "name": "Melee Attacker",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -14159,7 +14978,8 @@
         }
       ]
     },
-    "Ranged Attacker": {
+    {
+      "name": "Ranged Attacker",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -14528,7 +15348,8 @@
         }
       ]
     },
-    "Solo (Melee)": {
+    {
+      "name": "Solo (Melee)",
       "head": [
         {
           "Torva full helm": [
@@ -15004,7 +15825,8 @@
         }
       ]
     },
-    "Solo (Magic)": {
+    {
+      "name": "Solo (Magic)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -15252,7 +16074,8 @@
         }
       ]
     },
-    "Solo (Ranged 6:0)": {
+    {
+      "name": "Solo (Ranged 6:0)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -15524,7 +16347,8 @@
         }
       ]
     },
-    "Solo (Ranged 7:0)": {
+    {
+      "name": "Solo (Ranged 7:0)",
       "head": [
         {
           "Crystal helm": [
@@ -15682,9 +16506,10 @@
         }
       ]
     }
-  },
-  "Giant Mole": {
-    "Ranged": {
+  ],
+  "Giant Mole": [
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -16027,7 +16852,8 @@
         }
       ]
     },
-    "Magic": {
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -16269,7 +17095,8 @@
       ],
       "special": []
     },
-    "Ranged Void": {
+    {
+      "name": "Ranged Void",
       "head": [
         {
           "Void ranger helm": [
@@ -16472,7 +17299,8 @@
         }
       ]
     },
-    "Melee": {
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -16816,7 +17644,8 @@
         }
       ]
     },
-    "Dharok's": {
+    {
+      "name": "Dharok's",
       "head": [
         {
           "Dharok's helm": [
@@ -17162,7 +17991,8 @@
         }
       ]
     },
-    "Melee & Prayer Budget": {
+    {
+      "name": "Melee & Prayer Budget",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -17438,9 +18268,10 @@
         }
       ]
     }
-  },
-  "Grotesque Guardians": {
-    "Melee": {
+  ],
+  "Grotesque Guardians": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -17869,7 +18700,8 @@
         }
       ]
     },
-    "Ranged switches": {
+    {
+      "name": "Ranged switches",
       "head": [],
       "neck": [
         {
@@ -18088,9 +18920,10 @@
       "ring": [],
       "special": []
     }
-  },
-  "Inferno": {
-    "Learners": {
+  ],
+  "Inferno": [
+    {
+      "name": "Learners",
       "head": [
         {
           "Justiciar faceguard": [
@@ -18447,7 +19280,8 @@
         }
       ]
     },
-    "On task": {
+    {
+      "name": "On task",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -18765,9 +19599,10 @@
       ],
       "special": []
     }
-  },
-  "K'ril Tsutsaroth": {
-    "Solo Shadow": {
+  ],
+  "K'ril Tsutsaroth": [
+    {
+      "name": "Solo Shadow",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -18928,7 +19763,8 @@
         }
       ]
     },
-    "Solo Melee": {
+    {
+      "name": "Solo Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -19260,7 +20096,8 @@
         }
       ]
     },
-    "Solo Ranged": {
+    {
+      "name": "Solo Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -19526,7 +20363,8 @@
         }
       ]
     },
-    "Melee tank": {
+    {
+      "name": "Melee tank",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -19839,7 +20677,8 @@
         }
       ]
     },
-    "Ranged tank": {
+    {
+      "name": "Ranged tank",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -20137,7 +20976,8 @@
         }
       ]
     },
-    "Melee attacker": {
+    {
+      "name": "Melee attacker",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -20554,7 +21394,8 @@
         }
       ]
     },
-    "Ranged attacker": {
+    {
+      "name": "Ranged attacker",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -20824,7 +21665,8 @@
         }
       ]
     },
-    "Magic": {
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -21236,9 +22078,10 @@
       ],
       "special": []
     }
-  },
-  "Kalphite Queen": {
-    "high DPS (phase one)": {
+  ],
+  "Kalphite Queen": [
+    {
+      "name": "high DPS (phase one)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -21572,7 +22415,8 @@
         }
       ]
     },
-    "high DPS (phase two)": {
+    {
+      "name": "high DPS (phase two)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -21953,7 +22797,8 @@
       ],
       "special": []
     },
-    "Default": {
+    {
+      "name": "Default",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -22247,7 +23092,8 @@
         }
       ]
     },
-    "Verac the Defiled's": {
+    {
+      "name": "Verac the Defiled's",
       "head": [
         {
           "Verac's helm": [
@@ -22444,7 +23290,8 @@
       ],
       "special": []
     },
-    "mid-game players (phase one)": {
+    {
+      "name": "mid-game players (phase one)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -22713,7 +23560,8 @@
         }
       ]
     },
-    "mid-game players (phase two)": {
+    {
+      "name": "mid-game players (phase two)",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -23041,7 +23889,8 @@
         }
       ]
     },
-    "pre-diary method": {
+    {
+      "name": "pre-diary method",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -23294,9 +24143,10 @@
       ],
       "special": []
     }
-  },
-  "King Black Dragon": {
-    "4-item melee": {
+  ],
+  "King Black Dragon": [
+    {
+      "name": "4-item melee",
       "head": [
         {
           "Helm of neitiznot": [
@@ -23572,7 +24422,8 @@
         {}
       ]
     },
-    "Melee BIS smuggle": {
+    {
+      "name": "Melee BIS smuggle",
       "head": [
         {
           "Neitiznot faceguard": [
@@ -23920,7 +24771,8 @@
         {}
       ]
     },
-    "Twisted bow": {
+    {
+      "name": "Twisted bow",
       "head": [
         {
           "Blessed coif": [
@@ -24126,7 +24978,8 @@
         {}
       ]
     },
-    "Bowfa (shield swap)": {
+    {
+      "name": "Bowfa (shield swap)",
       "head": [
         {
           "Crystal helm": [
@@ -24250,7 +25103,8 @@
         {}
       ]
     },
-    "Crossbow": {
+    {
+      "name": "Crossbow",
       "head": [
         {
           "Blessed coif": [
@@ -24478,7 +25332,8 @@
         {}
       ]
     },
-    "Ranged BIS smuggle": {
+    {
+      "name": "Ranged BIS smuggle",
       "head": [
         {
           "Masori mask (f)": [
@@ -24813,9 +25668,10 @@
         {}
       ]
     }
-  },
-  "Kraken": {
-    "Magic": {
+  ],
+  "Kraken": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -25265,9 +26121,10 @@
         }
       ]
     }
-  },
-  "Kree'arra": {
-    "Magic": {
+  ],
+  "Kree'arra": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -25483,7 +26340,8 @@
         }
       ]
     },
-    "Chinchompas": {
+    {
+      "name": "Chinchompas",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -25819,7 +26677,8 @@
       ],
       "special": []
     },
-    "Ranged Tank": {
+    {
+      "name": "Ranged Tank",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -26187,7 +27046,8 @@
         }
       ]
     },
-    "Tbow / Bowfa": {
+    {
+      "name": "Tbow / Bowfa",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -26509,9 +27369,10 @@
         }
       ]
     }
-  },
-  "Moons of Peril": {
-    "Eclipse Moon": {
+  ],
+  "Moons of Peril": [
+    {
+      "name": "Eclipse Moon",
       "head": [
         {
           "Torva full helm": [
@@ -27062,7 +27923,8 @@
         {}
       ]
     },
-    "Blue Moon": {
+    {
+      "name": "Blue Moon",
       "head": [
         {
           "Torva full helm": [
@@ -27626,7 +28488,8 @@
         }
       ]
     },
-    "Blood Moon": {
+    {
+      "name": "Blood Moon",
       "head": [
         {
           "Torva full helm": [
@@ -28190,9 +29053,257 @@
         }
       ]
     }
-  },
-  "Nex": {
-    "Default": {
+  ],
+  "Nex": [
+    {
+      "name": "Default",
+      "head": [
+        {
+          "Masori mask (f)": [
+            27235
+          ]
+        },
+        {
+          "Armadyl helmet": [
+            11826
+          ]
+        },
+        {
+          "Slayer helmet (i)": [
+            11865,
+            25177,
+            26674
+          ],
+          "Ancient coif": [
+            12496
+          ]
+        }
+      ],
+      "neck": [
+        {
+          "Necklace of anguish": [
+            19547
+          ]
+        },
+        {
+          "Amulet of fury": [
+            6585
+          ]
+        }
+      ],
+      "cape": [
+        {
+          "Blessed dizana's quiver": [
+            28955,
+            28957,
+            28828
+          ],
+          "Dizana's quiver": [
+            28947,
+            28951,
+            28949,
+            28953,
+            28826
+          ]
+        },
+        {
+          "Ava's assembler": [
+            22109,
+            21914,
+            24222
+          ]
+        },
+        {
+          "Max cape": [
+            13280,
+            13342
+          ],
+          "Ranging cape(t)": [
+            9756,
+            9757
+          ]
+        }
+      ],
+      "body": [
+        {
+          "Masori body (f)": [
+            27238
+          ]
+        },
+        {
+          "Armadyl chestplate": [
+            11828
+          ]
+        },
+        {
+          "Karil's leathertop": [
+            4736,
+            4940,
+            4941,
+            4942,
+            4943,
+            4944
+          ],
+          "Ancient d'hide body": [
+            12492
+          ]
+        }
+      ],
+      "legs": [
+        {
+          "Masori chaps (f)": [
+            27241
+          ]
+        },
+        {
+          "Armadyl chainskirt": [
+            11830
+          ]
+        },
+        {
+          "Karil's leatherskirt": [
+            4738,
+            4946,
+            4947,
+            4948,
+            4949,
+            4950
+          ],
+          "Ancient chaps": [
+            12494
+          ]
+        }
+      ],
+      "weapon": [
+        {
+          "Zaryte crossbow": [
+            26374
+          ],
+          "Twisted bow": [
+            20997
+          ]
+        },
+        {
+          "Armadyl crossbow": [
+            11785
+          ]
+        },
+        {
+          "Dragon hunter crossbow": [
+            21012
+          ],
+          "Dragon crossbow": [
+            21902
+          ]
+        }
+      ],
+      "shield": [
+        {
+          "Twisted buckler": [
+            21000
+          ]
+        },
+        {
+          "Elysian spirit shield": [
+            12817
+          ]
+        },
+        {
+          "Spectral spirit shield": [
+            12821
+          ]
+        }
+      ],
+      "ammo": [
+        {
+          "Ruby dragon bolts (e)": [
+            21944
+          ],
+          "Dragon arrow": [
+            11212,
+            11227,
+            11228,
+            11229
+          ]
+        },
+        {
+          "Ruby bolts (e)": [
+            9242
+          ]
+        }
+      ],
+      "hands": [
+        {
+          "Zaryte vambraces": [
+            26235
+          ]
+        },
+        {
+          "Barrows gloves": [
+            7462
+          ]
+        },
+        {
+          "Ancient bracers": [
+            12490
+          ]
+        }
+      ],
+      "feet": [
+        {
+          "Pegasian boots": [
+            13237
+          ]
+        },
+        {
+          "Ancient d'hide boots": [
+            19921
+          ]
+        }
+      ],
+      "ring": [
+        {
+          "Lightbearer": [
+            25975
+          ]
+        },
+        {
+          "Archers ring (i)": [
+            11771,
+            25260,
+            26768
+          ]
+        },
+        {
+          "Brimstone ring": [
+            22975
+          ]
+        }
+      ],
+      "special": [
+        {
+          "Zaryte crossbow": [
+            26374
+          ]
+        },
+        {
+          "Armadyl crossbow": [
+            11785
+          ],
+          "Voidwaker": [
+            27690
+          ]
+        },
+        {
+          "Toxic blowpipe": [
+            12924,
+            12926
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Default",
       "head": [
         {
           "Torva full helm": [
@@ -28396,9 +29507,10 @@
         }
       ]
     }
-  },
-  "Phantom Muspah": {
-    "Magic & Ranged": {
+  ],
+  "Phantom Muspah": [
+    {
+      "name": "Magic & Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -29054,7 +30166,8 @@
         }
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -29540,9 +30653,10 @@
         }
       ]
     }
-  },
-  "Phosani's Nightmare": {
-    "Solo": {
+  ],
+  "Phosani's Nightmare": [
+    {
+      "name": "Solo",
       "head": [
         {
           "Inquisitor's great helm": [
@@ -29887,7 +31001,8 @@
         }
       ]
     },
-    "Totems": {
+    {
+      "name": "Totems",
       "head": [],
       "neck": [],
       "cape": [],
@@ -29925,9 +31040,10 @@
       "ring": [],
       "special": []
     }
-  },
-  "Sarachnis": {
-    "Melee": {
+  ],
+  "Sarachnis": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -30360,7 +31476,8 @@
         }
       ]
     },
-    "Melee Tank": {
+    {
+      "name": "Melee Tank",
       "head": [
         {
           "Justiciar faceguard": [
@@ -30689,9 +31806,10 @@
         }
       ]
     }
-  },
-  "Scorpia": {
-    "Magic": {
+  ],
+  "Scorpia": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -31039,9 +32157,10 @@
       ],
       "special": []
     }
-  },
-  "Scurrius": {
-    "Melee (mid level)": {
+  ],
+  "Scurrius": [
+    {
+      "name": "Melee (mid level)",
       "head": [
         {
           "Void melee helm": [
@@ -31432,7 +32551,8 @@
         }
       ]
     },
-    "Range (mid level)": {
+    {
+      "name": "Range (mid level)",
       "head": [
         {
           "Void ranger helm": [
@@ -31723,7 +32843,8 @@
       ],
       "special": []
     },
-    "Magic (mid level)": {
+    {
+      "name": "Magic (mid level)",
       "head": [
         {
           "Bloodbark helm": [
@@ -32002,7 +33123,8 @@
       ],
       "special": []
     },
-    "Melee (high level)": {
+    {
+      "name": "Melee (high level)",
       "head": [
         {
           "Torva full helm": [
@@ -32326,7 +33448,8 @@
         }
       ]
     },
-    "Range (high level)": {
+    {
+      "name": "Range (high level)",
       "head": [
         {
           "Masori mask (f)": [
@@ -32662,7 +33785,8 @@
         }
       ]
     },
-    "Magic (high level)": {
+    {
+      "name": "Magic (high level)",
       "head": [
         {
           "Ancestral hat": [
@@ -32950,9 +34074,10 @@
       ],
       "special": []
     }
-  },
-  "Skotizo": {
-    "Melee": {
+  ],
+  "Skotizo": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet": [
@@ -33432,7 +34557,8 @@
         }
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Masori mask (f)": [
@@ -33890,9 +35016,395 @@
         }
       ]
     }
-  },
-  "Tempoross": {
-    "Default": {
+  ],
+  "Tempoross": [
+    {
+      "name": "Default",
+      "head": [
+        {
+          "Spirit angler headband": [
+            25592
+          ]
+        },
+        {
+          "Angler hat": [
+            13258
+          ]
+        },
+        {
+          "Graceful hood": [
+            11850,
+            11851
+          ]
+        }
+      ],
+      "neck": [],
+      "cape": [
+        {
+          "Max cape": [
+            13280,
+            13342
+          ],
+          "Agility cape": [
+            9771,
+            9772,
+            13340,
+            13341
+          ]
+        },
+        {
+          "Graceful cape": [
+            11852,
+            11853
+          ]
+        },
+        {
+          "Spottier cape": [
+            10071,
+            10074
+          ],
+          "Spotted cape": [
+            10069,
+            10073
+          ]
+        }
+      ],
+      "body": [
+        {
+          "Spirit angler top": [
+            25594
+          ]
+        },
+        {
+          "Angler top": [
+            13259
+          ]
+        },
+        {
+          "Graceful top": [
+            11854,
+            11855
+          ]
+        }
+      ],
+      "legs": [
+        {
+          "Spirit angler waders": [
+            25596
+          ]
+        },
+        {
+          "Angler waders": [
+            13260
+          ]
+        },
+        {
+          "Graceful legs": [
+            11856,
+            11857
+          ]
+        }
+      ],
+      "weapon": [
+        {
+          "Crystal harpoon": [
+            23762,
+            23764
+          ],
+          "Infernal harpoon": [
+            21031,
+            21033
+          ]
+        },
+        {
+          "Dragon harpoon": [
+            21028
+          ]
+        },
+        {
+          "Imcando hammer": [
+            25644,
+            25633
+          ],
+          "Barb-tail harpoon": [
+            10129
+          ]
+        }
+      ],
+      "shield": [],
+      "ammo": [
+        {
+          "Ghommal's lucky penny": [
+            27544
+          ]
+        }
+      ],
+      "hands": [
+        {
+          "Graceful gloves": [
+            11858,
+            11859
+          ]
+        },
+        {
+          "Penance gloves": [
+            10553,
+            10554
+          ]
+        }
+      ],
+      "feet": [
+        {
+          "Spirit angler boots": [
+            25598
+          ]
+        },
+        {
+          "Angler boots": [
+            13261
+          ]
+        },
+        {
+          "Graceful boots": [
+            11860,
+            11861
+          ],
+          "Boots of lightness": [
+            88,
+            89
+          ]
+        }
+      ],
+      "ring": [
+        {
+          "Lightbearer": [
+            25975
+          ]
+        },
+        {
+          "Elven signet": [
+            23943
+          ],
+          "Celestial signet": [
+            25543,
+            25545
+          ]
+        }
+      ],
+      "special": []
+    },
+    {
+      "name": "Default",
+      "head": [
+        {
+          "Spirit angler headband": [
+            25592
+          ]
+        },
+        {
+          "Angler hat": [
+            13258
+          ]
+        }
+      ],
+      "neck": [],
+      "cape": [],
+      "body": [
+        {
+          "Spirit angler top": [
+            25594
+          ]
+        },
+        {
+          "Angler top": [
+            13259
+          ]
+        }
+      ],
+      "legs": [
+        {
+          "Spirit angler waders": [
+            25596
+          ]
+        },
+        {
+          "Angler waders": [
+            13260
+          ]
+        }
+      ],
+      "weapon": [
+        {
+          "Infernal harpoon": [
+            21031,
+            21033
+          ],
+          "Crystal harpoon": [
+            23762,
+            23764
+          ]
+        },
+        {
+          "Dragon harpoon": [
+            21028
+          ]
+        },
+        {
+          "Imcando hammer": [
+            25644,
+            25633
+          ]
+        }
+      ],
+      "shield": [
+        {
+          "Tome of water": [
+            25576,
+            25574
+          ],
+          "Tome of fire": [
+            20716,
+            20714
+          ]
+        }
+      ],
+      "ammo": [],
+      "hands": [],
+      "feet": [
+        {
+          "Spirit angler boots": [
+            25598
+          ]
+        },
+        {
+          "Angler boots": [
+            13261
+          ]
+        }
+      ],
+      "ring": [
+        {
+          "Lightbearer": [
+            25975
+          ]
+        }
+      ],
+      "special": []
+    },
+    {
+      "name": "Default",
+      "head": [
+        {
+          "Spirit angler headband": [
+            25592
+          ]
+        },
+        {
+          "Angler hat": [
+            13258
+          ]
+        }
+      ],
+      "neck": [],
+      "cape": [],
+      "body": [
+        {
+          "Spirit angler top": [
+            25594
+          ]
+        },
+        {
+          "Angler top": [
+            13259
+          ]
+        }
+      ],
+      "legs": [
+        {
+          "Spirit angler waders": [
+            25596
+          ]
+        },
+        {
+          "Angler waders": [
+            13260
+          ]
+        }
+      ],
+      "weapon": [
+        {
+          "Infernal harpoon": [
+            21031,
+            21033
+          ]
+        }
+      ],
+      "shield": [],
+      "ammo": [],
+      "hands": [],
+      "feet": [
+        {
+          "Spirit angler boots": [
+            25598
+          ]
+        },
+        {
+          "Angler boots": [
+            13261
+          ]
+        }
+      ],
+      "ring": [],
+      "special": []
+    },
+    {
+      "name": "Default",
+      "head": [
+        {
+          "Spirit angler headband": [
+            25592
+          ]
+        }
+      ],
+      "neck": [],
+      "cape": [],
+      "body": [
+        {
+          "Spirit angler top": [
+            25594
+          ]
+        }
+      ],
+      "legs": [
+        {
+          "Spirit angler waders": [
+            25596
+          ]
+        }
+      ],
+      "weapon": [
+        {
+          "Imcando hammer": [
+            25644,
+            25633
+          ]
+        }
+      ],
+      "shield": [],
+      "ammo": [],
+      "hands": [],
+      "feet": [
+        {
+          "Spirit angler boots": [
+            25598
+          ]
+        }
+      ],
+      "ring": [],
+      "special": []
+    },
+    {
+      "name": "Default",
       "head": [
         {
           "Spirit angler headband": [
@@ -33974,9 +35486,10 @@
       ],
       "special": []
     }
-  },
-  "The Leviathan": {
-    "Ranged": {
+  ],
+  "The Leviathan": [
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -34409,9 +35922,10 @@
         }
       ]
     }
-  },
-  "The Mimic": {
-    "Magic": {
+  ],
+  "The Mimic": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Ancestral hat": [
@@ -34806,7 +36320,8 @@
         {}
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Masori mask (f)": [
@@ -35216,9 +36731,10 @@
         {}
       ]
     }
-  },
-  "The Nightmare": {
-    "5 man groups": {
+  ],
+  "The Nightmare": [
+    {
+      "name": "5 man groups",
       "head": [
         {
           "Inquisitor's great helm": [
@@ -35550,9 +37066,10 @@
         }
       ]
     }
-  },
-  "The Whisperer": {
-    "Magic": {
+  ],
+  "The Whisperer": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -36043,9 +37560,10 @@
         {}
       ]
     }
-  },
-  "Theatre of Blood": {
-    "Entry mode": {
+  ],
+  "Theatre of Blood": [
+    {
+      "name": "Entry mode",
       "head": [
         {
           "Void melee helm": [
@@ -36166,7 +37684,8 @@
         }
       ]
     },
-    "Learner": {
+    {
+      "name": "Learner",
       "head": [
         {
           "Void melee helm": [
@@ -36349,7 +37868,8 @@
         }
       ]
     },
-    "Freezer": {
+    {
+      "name": "Freezer",
       "head": [
         {
           "Torva full helm": [
@@ -36602,7 +38122,8 @@
         {}
       ]
     },
-    "Ranger": {
+    {
+      "name": "Ranger",
       "head": [
         {
           "Torva full helm": [
@@ -36855,7 +38376,8 @@
         {}
       ]
     },
-    "Melee DPS": {
+    {
+      "name": "Melee DPS",
       "head": [
         {
           "Torva full helm": [
@@ -37108,9 +38630,10 @@
         {}
       ]
     }
-  },
-  "Thermonuclear smoke devil": {
-    "Magic": {
+  ],
+  "Thermonuclear smoke devil": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -37457,7 +38980,8 @@
       ],
       "special": []
     },
-    "Melee": {
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -37800,9 +39324,10 @@
         }
       ]
     }
-  },
-  "TzHaar Fight Cave": {
-    "Ranged": {
+  ],
+  "TzHaar Fight Cave": [
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -38341,7 +39866,8 @@
       ],
       "special": []
     },
-    "Void": {
+    {
+      "name": "Void",
       "head": [
         {
           "Void ranger helm": [
@@ -38690,7 +40216,8 @@
         {}
       ]
     },
-    "Ranged+Guthan's": {
+    {
+      "name": "Ranged+Guthan's",
       "head": [
         {
           "Guthan's helm": [
@@ -39140,7 +40667,8 @@
       ],
       "special": []
     },
-    "Tank": {
+    {
+      "name": "Tank",
       "head": [
         {
           "Verac's helm": [
@@ -39616,7 +41144,8 @@
         {}
       ]
     },
-    "Melee": {
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -40127,7 +41656,8 @@
         }
       ]
     },
-    "Magic": {
+    {
+      "name": "Magic",
       "head": [
         {
           "Ancestral hat": [
@@ -40615,7 +42145,8 @@
         {}
       ]
     },
-    "Pure": {
+    {
+      "name": "Pure",
       "head": [
         {
           "Mitre": [
@@ -41097,7 +42628,8 @@
       ],
       "special": []
     },
-    "Early-game iron": {
+    {
+      "name": "Early-game iron",
       "head": [
         {
           "Karil's coif": [
@@ -41542,9 +43074,10 @@
         }
       ]
     }
-  },
-  "Vardorvis": {
-    "Default": {
+  ],
+  "Vardorvis": [
+    {
+      "name": "Default",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -42098,9 +43631,10 @@
         }
       ]
     }
-  },
-  "Venenatis": {
-    "Melee": {
+  ],
+  "Venenatis": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -42454,7 +43988,8 @@
         }
       ]
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -42711,9 +44246,10 @@
       ],
       "special": []
     }
-  },
-  "Vet'ion": {
-    "Default": {
+  ],
+  "Vet'ion": [
+    {
+      "name": "Default",
       "head": [
         {
           "Torva full helm": [
@@ -43177,9 +44713,10 @@
         }
       ]
     }
-  },
-  "Vorkath": {
-    "Ranged (crossbow)": {
+  ],
+  "Vorkath": [
+    {
+      "name": "Ranged (crossbow)",
       "head": [
         {
           "Masori mask (f)": [
@@ -43582,7 +45119,8 @@
         }
       ]
     },
-    "Ranged (blowpipe)": {
+    {
+      "name": "Ranged (blowpipe)",
       "head": [
         {
           "Masori mask (f)": [
@@ -43927,7 +45465,8 @@
         }
       ]
     },
-    "Melee": {
+    {
+      "name": "Melee",
       "head": [
         {
           "Torva full helm": [
@@ -44390,9 +45929,10 @@
         }
       ]
     }
-  },
-  "Wintertodt": {
-    "99 HP": {
+  ],
+  "Wintertodt": [
+    {
+      "name": "99 HP",
       "head": [
         {
           "Pyromancer hood": [
@@ -44539,9 +46079,10 @@
       ],
       "special": []
     }
-  },
-  "Zalcano": {
-    "Default": {
+  ],
+  "Zalcano": [
+    {
+      "name": "Default",
       "head": [
         {
           "Graceful hood": [
@@ -44855,9 +46396,10 @@
       ],
       "special": []
     }
-  },
-  "Zulrah": {
-    "Magic": {
+  ],
+  "Zulrah": [
+    {
+      "name": "Magic",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -45329,7 +46871,8 @@
       ],
       "special": []
     },
-    "Magic & Ranged": {
+    {
+      "name": "Magic & Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -45900,7 +47443,8 @@
       ],
       "special": []
     },
-    "Ranged": {
+    {
+      "name": "Ranged",
       "head": [
         {
           "Slayer helmet (i)": [
@@ -46209,9 +47753,10 @@
         }
       ]
     }
-  },
-  "Galvek Speed-Trialist": {
-    "Melee": {
+  ],
+  "Galvek Speed-Trialist": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Torva full helm": [
@@ -46712,9 +48257,10 @@
         }
       ]
     }
-  },
-  "Glough Speed-Trialist": {
-    "Melee": {
+  ],
+  "Glough Speed-Trialist": [
+    {
+      "name": "Melee",
       "head": [
         {
           "Torva full helm": [
@@ -47153,9 +48699,10 @@
         }
       ]
     }
-  },
-  "Tombs of Amascut": {
-    "Melee switch": {
+  ],
+  "Tombs of Amascut": [
+    {
+      "name": "Melee switch",
       "head": [
         {
           "Torva full helm": [
@@ -47435,7 +48982,8 @@
         }
       ]
     },
-    "Ranged switch": {
+    {
+      "name": "Ranged switch",
       "head": [
         {
           "Masori mask (f)": [
@@ -47745,7 +49293,8 @@
         }
       ]
     },
-    "Magic switch": {
+    {
+      "name": "Magic switch",
       "head": [
         {
           "Ancestral hat": [
@@ -47987,7 +49536,8 @@
         {}
       ]
     },
-    "Zebak": {
+    {
+      "name": "Zebak",
       "head": [],
       "neck": [],
       "cape": [],
@@ -48024,7 +49574,8 @@
       "ring": [],
       "special": []
     },
-    "Kephri": {
+    {
+      "name": "Kephri",
       "head": [],
       "neck": [],
       "cape": [],
@@ -48059,7 +49610,8 @@
       "ring": [],
       "special": []
     },
-    "Akkha": {
+    {
+      "name": "Akkha",
       "head": [],
       "neck": [],
       "cape": [],
@@ -48115,7 +49667,8 @@
       "ring": [],
       "special": []
     },
-    "Ba-Ba": {
+    {
+      "name": "Ba-Ba",
       "head": [],
       "neck": [],
       "cape": [],
@@ -48151,5 +49704,5 @@
       "ring": [],
       "special": []
     }
-  }
+  ]
 }

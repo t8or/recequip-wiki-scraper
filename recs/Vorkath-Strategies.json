@@ -1,5 +1,6 @@
-{
-  "Ranged (crossbow)": {
+[
+  {
+    "name": "Ranged (crossbow)",
     "head": [
       {
         "Masori mask (f)": [
@@ -402,7 +403,8 @@
       }
     ]
   },
-  "Ranged (blowpipe)": {
+  {
+    "name": "Ranged (blowpipe)",
     "head": [
       {
         "Masori mask (f)": [
@@ -747,7 +749,8 @@
       }
     ]
   },
-  "Melee": {
+  {
+    "name": "Melee",
     "head": [
       {
         "Torva full helm": [
@@ -1210,4 +1213,4 @@
       }
     ]
   }
-}
+]

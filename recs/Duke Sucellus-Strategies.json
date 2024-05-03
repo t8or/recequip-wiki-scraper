@@ -1,5 +1,6 @@
-{
-  "Melee": {
+[
+  {
+    "name": "Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -367,4 +368,4 @@
       }
     ]
   }
-}
+]

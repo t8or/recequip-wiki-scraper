@@ -1,5 +1,6 @@
-{
-  "Default": {
+[
+  {
+    "name": "Default",
     "head": [
       {
         "Ancestral hat": [
@@ -439,4 +440,4 @@
     ],
     "special": []
   }
-}
+]

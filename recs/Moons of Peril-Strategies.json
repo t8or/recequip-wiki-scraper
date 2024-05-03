@@ -1,5 +1,6 @@
-{
-  "Eclipse Moon": {
+[
+  {
+    "name": "Eclipse Moon",
     "head": [
       {
         "Torva full helm": [
@@ -550,7 +551,8 @@
       {}
     ]
   },
-  "Blue Moon": {
+  {
+    "name": "Blue Moon",
     "head": [
       {
         "Torva full helm": [
@@ -1114,7 +1116,8 @@
       }
     ]
   },
-  "Blood Moon": {
+  {
+    "name": "Blood Moon",
     "head": [
       {
         "Torva full helm": [
@@ -1678,4 +1681,4 @@
       }
     ]
   }
-}
+]

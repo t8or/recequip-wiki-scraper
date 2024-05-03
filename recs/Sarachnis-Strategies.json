@@ -1,5 +1,6 @@
-{
-  "Melee": {
+[
+  {
+    "name": "Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -432,7 +433,8 @@
       }
     ]
   },
-  "Melee Tank": {
+  {
+    "name": "Melee Tank",
     "head": [
       {
         "Justiciar faceguard": [
@@ -761,4 +763,4 @@
       }
     ]
   }
-}
+]

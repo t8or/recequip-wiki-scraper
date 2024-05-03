@@ -1,5 +1,6 @@
-{
-  "99 HP": {
+[
+  {
+    "name": "99 HP",
     "head": [
       {
         "Pyromancer hood": [
@@ -146,4 +147,4 @@
     ],
     "special": []
   }
-}
+]

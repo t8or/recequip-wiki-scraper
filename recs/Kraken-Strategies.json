@@ -1,5 +1,6 @@
-{
-  "Magic": {
+[
+  {
+    "name": "Magic",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -449,4 +450,4 @@
       }
     ]
   }
-}
+]

@@ -1,5 +1,6 @@
-{
-  "Learners": {
+[
+  {
+    "name": "Learners",
     "head": [
       {
         "Justiciar faceguard": [
@@ -356,7 +357,8 @@
       }
     ]
   },
-  "On task": {
+  {
+    "name": "On task",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -674,4 +676,4 @@
     ],
     "special": []
   }
-}
+]

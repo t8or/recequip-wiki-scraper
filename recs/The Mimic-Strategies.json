@@ -1,5 +1,6 @@
-{
-  "Magic": {
+[
+  {
+    "name": "Magic",
     "head": [
       {
         "Ancestral hat": [
@@ -394,7 +395,8 @@
       {}
     ]
   },
-  "Ranged": {
+  {
+    "name": "Ranged",
     "head": [
       {
         "Masori mask (f)": [
@@ -804,4 +806,4 @@
       {}
     ]
   }
-}
+]

@@ -166,7 +166,7 @@ def get_gear_from_slot(template, slot):
 
 def get_page_tabs(page):
     code = mw.parse(page, skip_style_tags=True)
-    tabs = defaultdict(dict)
+    tabs = []
 
     # Will probably need to do better parsing to be able to utilize tab names. Not all tabs have the rec template.
     # Perhaps when we look at the tabber and find the tab, we can "get the next rec template" unless we find another tab.
@@ -181,23 +181,25 @@ def get_page_tabs(page):
 
     for template in code.filter_templates(matches=lambda t: t.name.matches("Recommended equipment")):
         styleName = template.get("style").value.strip() if template.has("style") else "Default"
+        style = { 'name': styleName }
         print('Getting recs for', styleName)
         slots = [
-            "head", 
-            "neck", 
-            "cape", 
-            "body", 
-            "legs", 
-            "weapon", 
-            "shield", 
-            "ammo", 
-            "hands", 
-            "feet", 
-            "ring", 
+            "head",
+            "neck",
+            "cape",
+            "body",
+            "legs",
+            "weapon",
+            "shield",
+            "ammo",
+            "hands",
+            "feet",
+            "ring",
             "special",
         ]
         for slot in slots:
-            tabs[styleName][slot] = get_gear_from_slot(template, slot)
+            style[slot] = get_gear_from_slot(template, slot)
+        tabs.append(style)
     return tabs
 
 def run():

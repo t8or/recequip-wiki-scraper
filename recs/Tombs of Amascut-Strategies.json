@@ -1,5 +1,6 @@
-{
-  "Melee switch": {
+[
+  {
+    "name": "Melee switch",
     "head": [
       {
         "Torva full helm": [
@@ -279,7 +280,8 @@
       }
     ]
   },
-  "Ranged switch": {
+  {
+    "name": "Ranged switch",
     "head": [
       {
         "Masori mask (f)": [
@@ -589,7 +591,8 @@
       }
     ]
   },
-  "Magic switch": {
+  {
+    "name": "Magic switch",
     "head": [
       {
         "Ancestral hat": [
@@ -831,7 +834,8 @@
       {}
     ]
   },
-  "Zebak": {
+  {
+    "name": "Zebak",
     "head": [],
     "neck": [],
     "cape": [],
@@ -868,7 +872,8 @@
     "ring": [],
     "special": []
   },
-  "Kephri": {
+  {
+    "name": "Kephri",
     "head": [],
     "neck": [],
     "cape": [],
@@ -903,7 +908,8 @@
     "ring": [],
     "special": []
   },
-  "Akkha": {
+  {
+    "name": "Akkha",
     "head": [],
     "neck": [],
     "cape": [],
@@ -959,7 +965,8 @@
     "ring": [],
     "special": []
   },
-  "Ba-Ba": {
+  {
+    "name": "Ba-Ba",
     "head": [],
     "neck": [],
     "cape": [],
@@ -995,4 +1002,4 @@
     "ring": [],
     "special": []
   }
-}
+]

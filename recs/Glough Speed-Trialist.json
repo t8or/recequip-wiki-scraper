@@ -1,5 +1,6 @@
-{
-  "Melee": {
+[
+  {
+    "name": "Melee",
     "head": [
       {
         "Torva full helm": [
@@ -438,4 +439,4 @@
       }
     ]
   }
-}
+]

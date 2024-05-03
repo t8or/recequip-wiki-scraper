@@ -1,5 +1,6 @@
-{
-  "High-end gear, fewer switches": {
+[
+  {
+    "name": "High-end gear, fewer switches",
     "head": [
       {
         "Ancestral hat": [
@@ -131,7 +132,8 @@
     ],
     "special": []
   },
-  "High level": {
+  {
+    "name": "High level",
     "head": [
       {
         "Ancestral hat": [
@@ -358,7 +360,8 @@
       }
     ]
   },
-  "Medium level": {
+  {
+    "name": "Medium level",
     "head": [
       {
         "Helm of neitiznot": [
@@ -562,7 +565,8 @@
       }
     ]
   },
-  "Low level": {
+  {
+    "name": "Low level",
     "head": [
       {
         "Helm of neitiznot": [
@@ -783,7 +787,8 @@
       }
     ]
   },
-  "Minimum low level": {
+  {
+    "name": "Minimum low level",
     "head": [
       {
         "Rune full helm": [
@@ -942,4 +947,4 @@
       }
     ]
   }
-}
+]

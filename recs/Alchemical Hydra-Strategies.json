@@ -1,5 +1,6 @@
-{
-  "Ranged": {
+[
+  {
+    "name": "Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -318,7 +319,8 @@
       }
     ]
   },
-  "Melee": {
+  {
+    "name": "Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -614,4 +616,4 @@
       }
     ]
   }
-}
+]

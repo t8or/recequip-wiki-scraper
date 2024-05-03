@@ -1,5 +1,6 @@
-{
-  "Default": {
+[
+  {
+    "name": "Default",
     "head": [
       {
         "Torva full helm": [
@@ -463,4 +464,4 @@
       }
     ]
   }
-}
+]

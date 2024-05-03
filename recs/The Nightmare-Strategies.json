@@ -1,5 +1,6 @@
-{
-  "5 man groups": {
+[
+  {
+    "name": "5 man groups",
     "head": [
       {
         "Inquisitor's great helm": [
@@ -331,4 +332,4 @@
       }
     ]
   }
-}
+]

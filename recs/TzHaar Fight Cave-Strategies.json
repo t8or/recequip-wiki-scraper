@@ -1,5 +1,6 @@
-{
-  "Ranged": {
+[
+  {
+    "name": "Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -538,7 +539,8 @@
     ],
     "special": []
   },
-  "Void": {
+  {
+    "name": "Void",
     "head": [
       {
         "Void ranger helm": [
@@ -887,7 +889,8 @@
       {}
     ]
   },
-  "Ranged+Guthan's": {
+  {
+    "name": "Ranged+Guthan's",
     "head": [
       {
         "Guthan's helm": [
@@ -1337,7 +1340,8 @@
     ],
     "special": []
   },
-  "Tank": {
+  {
+    "name": "Tank",
     "head": [
       {
         "Verac's helm": [
@@ -1813,7 +1817,8 @@
       {}
     ]
   },
-  "Melee": {
+  {
+    "name": "Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -2324,7 +2329,8 @@
       }
     ]
   },
-  "Magic": {
+  {
+    "name": "Magic",
     "head": [
       {
         "Ancestral hat": [
@@ -2812,7 +2818,8 @@
       {}
     ]
   },
-  "Pure": {
+  {
+    "name": "Pure",
     "head": [
       {
         "Mitre": [
@@ -3294,7 +3301,8 @@
     ],
     "special": []
   },
-  "Early-game iron": {
+  {
+    "name": "Early-game iron",
     "head": [
       {
         "Karil's coif": [
@@ -3739,4 +3747,4 @@
       }
     ]
   }
-}
+]

@@ -1,5 +1,6 @@
-{
-  "Advanced Tank": {
+[
+  {
+    "name": "Advanced Tank",
     "head": [
       {
         "Justiciar faceguard": [
@@ -387,7 +388,8 @@
       }
     ]
   },
-  "Ranged Tank": {
+  {
+    "name": "Ranged Tank",
     "head": [
       {
         "Justiciar faceguard": [
@@ -739,7 +741,8 @@
     ],
     "special": []
   },
-  "Melee Attacker": {
+  {
+    "name": "Melee Attacker",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1139,7 +1142,8 @@
       }
     ]
   },
-  "Ranged Attacker": {
+  {
+    "name": "Ranged Attacker",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1508,7 +1512,8 @@
       }
     ]
   },
-  "Solo (Melee)": {
+  {
+    "name": "Solo (Melee)",
     "head": [
       {
         "Torva full helm": [
@@ -1984,7 +1989,8 @@
       }
     ]
   },
-  "Solo (Magic)": {
+  {
+    "name": "Solo (Magic)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -2232,7 +2238,8 @@
       }
     ]
   },
-  "Solo (Ranged 6:0)": {
+  {
+    "name": "Solo (Ranged 6:0)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -2504,7 +2511,8 @@
       }
     ]
   },
-  "Solo (Ranged 7:0)": {
+  {
+    "name": "Solo (Ranged 7:0)",
     "head": [
       {
         "Crystal helm": [
@@ -2662,4 +2670,4 @@
       }
     ]
   }
-}
+]

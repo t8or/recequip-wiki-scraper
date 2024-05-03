@@ -1,5 +1,6 @@
-{
-  "Solo melee": {
+[
+  {
+    "name": "Solo melee",
     "head": [
       {
         "Torva full helm": [
@@ -337,7 +338,8 @@
       {}
     ]
   },
-  "Void": {
+  {
+    "name": "Void",
     "head": [
       {
         "Void melee helm": [
@@ -606,7 +608,8 @@
       {}
     ]
   },
-  "Fewer stat drains": {
+  {
+    "name": "Fewer stat drains",
     "head": [
       {
         "Torva full helm": [
@@ -855,7 +858,8 @@
       }
     ]
   },
-  "Team melee": {
+  {
+    "name": "Team melee",
     "head": [
       {
         "Torva full helm": [
@@ -1170,7 +1174,8 @@
       {}
     ]
   },
-  "Melee masses": {
+  {
+    "name": "Melee masses",
     "head": [
       {
         "Torva full helm": [
@@ -1482,7 +1487,8 @@
       {}
     ]
   },
-  "Ranged masses": {
+  {
+    "name": "Ranged masses",
     "head": [
       {
         "Masori mask (f)": [
@@ -1865,4 +1871,4 @@
       {}
     ]
   }
-}
+]

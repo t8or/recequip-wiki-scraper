@@ -1,5 +1,6 @@
-{
-  "Solo Shadow": {
+[
+  {
+    "name": "Solo Shadow",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -160,7 +161,8 @@
       }
     ]
   },
-  "Solo Melee": {
+  {
+    "name": "Solo Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -492,7 +494,8 @@
       }
     ]
   },
-  "Solo Ranged": {
+  {
+    "name": "Solo Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -758,7 +761,8 @@
       }
     ]
   },
-  "Melee tank": {
+  {
+    "name": "Melee tank",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1071,7 +1075,8 @@
       }
     ]
   },
-  "Ranged tank": {
+  {
+    "name": "Ranged tank",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1369,7 +1374,8 @@
       }
     ]
   },
-  "Melee attacker": {
+  {
+    "name": "Melee attacker",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1786,7 +1792,8 @@
       }
     ]
   },
-  "Ranged attacker": {
+  {
+    "name": "Ranged attacker",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -2056,7 +2063,8 @@
       }
     ]
   },
-  "Magic": {
+  {
+    "name": "Magic",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -2468,4 +2476,4 @@
     ],
     "special": []
   }
-}
+]

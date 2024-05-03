@@ -1,5 +1,6 @@
-{
-  "Solo": {
+[
+  {
+    "name": "Solo",
     "head": [
       {
         "Inquisitor's great helm": [
@@ -344,7 +345,8 @@
       }
     ]
   },
-  "Totems": {
+  {
+    "name": "Totems",
     "head": [],
     "neck": [],
     "cape": [],
@@ -382,4 +384,4 @@
     "ring": [],
     "special": []
   }
-}
+]

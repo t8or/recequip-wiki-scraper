@@ -1,5 +1,6 @@
-{
-  "high DPS (phase one)": {
+[
+  {
+    "name": "high DPS (phase one)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -333,7 +334,8 @@
       }
     ]
   },
-  "high DPS (phase two)": {
+  {
+    "name": "high DPS (phase two)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -714,7 +716,8 @@
     ],
     "special": []
   },
-  "Default": {
+  {
+    "name": "Default",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1008,7 +1011,8 @@
       }
     ]
   },
-  "Verac the Defiled's": {
+  {
+    "name": "Verac the Defiled's",
     "head": [
       {
         "Verac's helm": [
@@ -1205,7 +1209,8 @@
     ],
     "special": []
   },
-  "mid-game players (phase one)": {
+  {
+    "name": "mid-game players (phase one)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1474,7 +1479,8 @@
       }
     ]
   },
-  "mid-game players (phase two)": {
+  {
+    "name": "mid-game players (phase two)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1802,7 +1808,8 @@
       }
     ]
   },
-  "pre-diary method": {
+  {
+    "name": "pre-diary method",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -2055,4 +2062,4 @@
     ],
     "special": []
   }
-}
+]

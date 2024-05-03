@@ -1,5 +1,6 @@
-{
-  "Magic": {
+[
+  {
+    "name": "Magic",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -215,7 +216,8 @@
       }
     ]
   },
-  "Chinchompas": {
+  {
+    "name": "Chinchompas",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -551,7 +553,8 @@
     ],
     "special": []
   },
-  "Ranged Tank": {
+  {
+    "name": "Ranged Tank",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -919,7 +922,8 @@
       }
     ]
   },
-  "Tbow / Bowfa": {
+  {
+    "name": "Tbow / Bowfa",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1241,4 +1245,4 @@
       }
     ]
   }
-}
+]

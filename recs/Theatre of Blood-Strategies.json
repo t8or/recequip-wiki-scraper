@@ -1,5 +1,6 @@
-{
-  "Entry mode": {
+[
+  {
+    "name": "Entry mode",
     "head": [
       {
         "Void melee helm": [
@@ -120,7 +121,8 @@
       }
     ]
   },
-  "Learner": {
+  {
+    "name": "Learner",
     "head": [
       {
         "Void melee helm": [
@@ -303,7 +305,8 @@
       }
     ]
   },
-  "Freezer": {
+  {
+    "name": "Freezer",
     "head": [
       {
         "Torva full helm": [
@@ -556,7 +559,8 @@
       {}
     ]
   },
-  "Ranger": {
+  {
+    "name": "Ranger",
     "head": [
       {
         "Torva full helm": [
@@ -809,7 +813,8 @@
       {}
     ]
   },
-  "Melee DPS": {
+  {
+    "name": "Melee DPS",
     "head": [
       {
         "Torva full helm": [
@@ -1062,4 +1067,4 @@
       {}
     ]
   }
-}
+]

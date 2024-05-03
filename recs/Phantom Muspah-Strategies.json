@@ -1,5 +1,6 @@
-{
-  "Magic & Ranged": {
+[
+  {
+    "name": "Magic & Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -655,7 +656,8 @@
       }
     ]
   },
-  "Ranged": {
+  {
+    "name": "Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1141,4 +1143,4 @@
       }
     ]
   }
-}
+]

@@ -1,5 +1,6 @@
-{
-  "Melee": {
+[
+  {
+    "name": "Melee",
     "head": [
       {
         "Torva full helm": [
@@ -339,7 +340,8 @@
       }
     ]
   },
-  "Ranged": {
+  {
+    "name": "Ranged",
     "head": [
       {
         "Torva full helm": [
@@ -685,7 +687,8 @@
       }
     ]
   },
-  "Mage": {
+  {
+    "name": "Mage",
     "head": [
       {
         "Torva full helm": [
@@ -1013,4 +1016,4 @@
       }
     ]
   }
-}
+]
