@@ -23,13 +23,16 @@ jobs:
     - name: Check for changes
       id: check_changes
       run: |
-        git diff-index --quiet HEAD || exit 1
+        if git diff --quiet HEAD; then
+          echo "No changes detected, exiting workflow"
+          echo "nochanges=true" >> $GITHUB_OUTPUT
+        fi
     - name: Get current date
-      if: steps.check_changes.outputs.result == 'success'
+      if: steps.check_changes.outputs.nochanges != 'true'
       id: get_date
       run: echo "date=$(date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
     - name: Create branch and commit
-      if: steps.check_changes.outputs.result == 'success'
+      if: steps.check_changes.outputs.nochanges != 'true'
       env:
         CURRENT_DATE: ${{ steps.get_date.outputs.date }}
       run: |
@@ -39,13 +42,13 @@ jobs:
         git add .
         git commit -m "Update wiki data"
     - name: Push changes
-      if: steps.check_changes.outputs.result == 'success'
+      if: steps.check_changes.outputs.nochanges != 'true'
       uses: ad-m/github-push-action@master
       with:
         branch: wiki-data-${{ steps.get_date.outputs.date }}
         github_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Create Pull Request
-      if: steps.check_changes.outputs.result == 'success'
+      if: steps.check_changes.outputs.nochanges != 'true'
       uses: peter-evans/create-pull-request@v6
       with:
         branch: wiki-data-${{ steps.get_date.outputs.date }}
