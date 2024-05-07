@@ -9,10 +9,22 @@ user_agent: Dict[str, str] = {"User-Agent": "Runelite Wiki Scraper/1.0 (+abex@ru
 
 def get_wiki_api(args: Dict[str, str], continueKey: str) -> Iterator[Any]:
 	args["format"] = "json"
-	titles = args.get("titles", []).split('|')
-	batches = [titles[i:i+50] for i in range(0, len(titles), 50)]
-	for batch in batches:
-		args["titles"] = "|".join(batch)
+	batches = []
+	if 'titles' in args:
+		titles = args.get("titles").split('|')
+		batches = [titles[i:i+50] for i in range(0, len(titles), 50)]
+	elif 'pageids' in args:
+		pageids = args.get("pageids").split('|')
+		batches = [pageids[i:i+50] for i in range(0, len(pageids), 50)]
+	if batches:
+		for batch in batches:
+			if 'titles' in args:
+				args["titles"] = "|".join(batch)
+			elif 'pageids' in args:
+				args["pageids"] = "|".join(batch)
+			for js in get_wiki_api_helper(args, continueKey):
+				yield js
+	else:
 		for js in get_wiki_api_helper(args, continueKey):
 			yield js
 
