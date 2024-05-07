@@ -19,13 +19,19 @@
         ]
       },
       {
-        "Helm of neitiznot": [
-          10828
+        "Serpentine helm": [
+          12929,
+          12931
+        ],
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
         ]
       },
       {
-        "Dwarven helmet": [
-          11200
+        "Helm of neitiznot": [
+          10828
         ]
       }
     ],
@@ -101,20 +107,17 @@
         ]
       },
       {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ]
+      },
+      {
         "Fighter torso": [
           10551,
           20513,
           24175
-        ]
-      },
-      {
-        "Verac's brassard": [
-          4757,
-          4988,
-          4989,
-          4990,
-          4991,
-          4992
         ]
       }
     ],
@@ -136,18 +139,15 @@
         ]
       },
       {
-        "Obsidian platelegs": [
-          21304
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
-        "Verac's plateskirt": [
-          4759,
-          4994,
-          4995,
-          4996,
-          4997,
-          4998
+        "Obsidian platelegs": [
+          21304
         ]
       }
     ],
@@ -174,8 +174,8 @@
         ]
       },
       {
-        "Zamorakian hasta": [
-          11889
+        "Dual macuahuitl": [
+          28997
         ]
       }
     ],

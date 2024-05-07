@@ -5076,6 +5076,14 @@
           ]
         },
         {
+          "Bone dagger": [
+            8872,
+            8874,
+            8876,
+            8878
+          ]
+        },
+        {
           "Arclight": [
             19675
           ]
@@ -28867,8 +28875,8 @@
           ]
         },
         {
-          "Sulphur blades": [
-            29084
+          "Zombie axe": [
+            28810
           ]
         }
       ],
@@ -30675,13 +30683,19 @@
           ]
         },
         {
-          "Helm of neitiznot": [
-            10828
+          "Serpentine helm": [
+            12929,
+            12931
+          ],
+          "Blood moon helm": [
+            29028,
+            29047,
+            29073
           ]
         },
         {
-          "Dwarven helmet": [
-            11200
+          "Helm of neitiznot": [
+            10828
           ]
         }
       ],
@@ -30757,20 +30771,17 @@
           ]
         },
         {
+          "Blood moon chestplate": [
+            29022,
+            29043,
+            29067
+          ]
+        },
+        {
           "Fighter torso": [
             10551,
             20513,
             24175
-          ]
-        },
-        {
-          "Verac's brassard": [
-            4757,
-            4988,
-            4989,
-            4990,
-            4991,
-            4992
           ]
         }
       ],
@@ -30792,18 +30803,15 @@
           ]
         },
         {
-          "Obsidian platelegs": [
-            21304
+          "Blood moon tassets": [
+            29025,
+            29045,
+            29070
           ]
         },
         {
-          "Verac's plateskirt": [
-            4759,
-            4994,
-            4995,
-            4996,
-            4997,
-            4998
+          "Obsidian platelegs": [
+            21304
           ]
         }
       ],
@@ -30830,8 +30838,8 @@
           ]
         },
         {
-          "Zamorakian hasta": [
-            11889
+          "Dual macuahuitl": [
+            28997
           ]
         }
       ],
@@ -36753,13 +36761,19 @@
           ]
         },
         {
-          "Helm of neitiznot": [
-            10828
+          "Serpentine helm": [
+            12929,
+            12931
+          ],
+          "Blood moon helm": [
+            29028,
+            29047,
+            29073
           ]
         },
         {
-          "Dwarven helmet": [
-            11200
+          "Helm of neitiznot": [
+            10828
           ]
         }
       ],
@@ -36830,20 +36844,17 @@
           ]
         },
         {
+          "Blood moon chestplate": [
+            29022,
+            29043,
+            29067
+          ]
+        },
+        {
           "Fighter torso": [
             10551,
             20513,
             24175
-          ]
-        },
-        {
-          "Verac's brassard": [
-            4757,
-            4988,
-            4989,
-            4990,
-            4991,
-            4992
           ]
         }
       ],
@@ -36865,18 +36876,15 @@
           ]
         },
         {
-          "Obsidian platelegs": [
-            21304
+          "Blood moon tassets": [
+            29025,
+            29045,
+            29070
           ]
         },
         {
-          "Verac's plateskirt": [
-            4759,
-            4994,
-            4995,
-            4996,
-            4997,
-            4998
+          "Obsidian platelegs": [
+            21304
           ]
         }
       ],
@@ -36895,25 +36903,17 @@
         {
           "Abyssal bludgeon": [
             13263
-          ],
-          "Zamorakian hasta": [
-            11889
           ]
         },
         {
-          "Osmumten's fang": [
-            26219
-          ],
-          "Sarachnis cudgel": [
-            23528
+          "Dual macuahuitl": [
+            28997
           ]
         },
         {
-          "Zombie axe": [
-            28810
-          ],
-          "Dragon mace": [
-            1434
+          "Ursine chainmace (u)": [
+            27657,
+            27660
           ]
         }
       ],
