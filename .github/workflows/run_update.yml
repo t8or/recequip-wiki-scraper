@@ -12,7 +12,25 @@ on:
   workflow_dispatch:
 
 jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      import: ${{ steps.filter.outputs.import }}
+      export: ${{ steps.filter.outputs.export }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          filters: |
+            import:
+              - 'data_to_import.csv'
+              - '*.py'
+            export:
+              - 'recs/**'
   build:
+    needs: changes
+    if: ${{ needs.changes.outputs.import == 'true' && needs.changes.outputs.export == 'false' }}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
