@@ -3,6 +3,12 @@ name: Scrape wiki
 on:
   schedule:
     - cron: '21 0 * * fri'
+  push:
+    branches:
+      - master
+    paths:
+      - 'data_to_import.csv'
+      - '*.py'
   workflow_dispatch:
 
 jobs:

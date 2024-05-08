@@ -8,6 +8,7 @@ import mwparserfromhell as mw
 from collections import defaultdict
 from mwparserfromhell.wikicode import Wikicode, Template
 
+useCache: bool = True
 itemCache = {}
 
 def get_item_page_code(itemName: str):
@@ -204,7 +205,7 @@ def get_page_tabs(page):
 
 def run():
     itemCacheFile = 'item_ids.cache.json'
-    if os.path.isfile(itemCacheFile):
+    if useCache and os.path.isfile(itemCacheFile):
         with open(itemCacheFile, 'r') as fi:
             global itemCache
             itemCache = json.load(fi)

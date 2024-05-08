@@ -1,12 +1,8 @@
 import api
 
-import items
-import npcs
-import recgear
+import recequip
 
 api.use_cache = True
 
-# items.run()
-# npcs.run()
-
-recgear.run()
+recequip.useCache = True
+recequip.run()
