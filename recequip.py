@@ -216,7 +216,8 @@ def run():
         strategies = [{
             "name": row[0],
             "title": row[1].replace('https://oldschool.runescape.wiki/w/', ''),
-            "category": row[2]
+            "category": row[2],
+            # "location": row[3],
         } for row in data if row[1]]
         titles = [strategy['title'] for strategy in strategies]
         print(titles)
@@ -237,16 +238,22 @@ def run():
             "titles": '|'.join(titles)
         }, "rvcontinue")
 
-        nameMap = { row["title"].split('#')[0]: row["name"] for row in strategies }
+        urlMap = { row["title"].split('#')[0]: row for row in strategies }
 
-        allActivityGearRecs = {}
+        allActivityGearRecs = []
         for pageBatch in res:
             for pageID, page in pageBatch['query']['pages'].items():
                 print(page['title'], pageID)
                 pageContent = page["revisions"][0]['slots']['main']["*"]
                 allGearRecs = get_page_tabs(pageContent)
-                name = nameMap[page['title'].replace(' ', '_')]
-                allActivityGearRecs[name] = allGearRecs
+                data = urlMap[page['title'].replace(' ', '_')]
+                name = data['name']
+                allActivityGearRecs.append({
+                    'name': name,
+                    'category': data['category'],
+                    # 'location': data['location'],
+                    'styles': allGearRecs
+                })
 
                 util.write_json(f'recs/{name}.json', f'recs/{name}.min.json', allGearRecs)
         util.write_json(f'recs/all.json', f'recs/all.min.json', allActivityGearRecs)
