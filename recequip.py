@@ -213,7 +213,13 @@ def run():
     with open('data_to_import.csv', 'r') as csvfile:
         data = csv.reader(csvfile)
         next(data)
-        titles = [row[1].replace('https://oldschool.runescape.wiki/w/', '') for row in data if row[1]]
+        strategies = [{
+            "name": row[0],
+            "title": row[1].replace('https://oldschool.runescape.wiki/w/', ''),
+            "category": row[2]
+        } for row in data if row[1]]
+        titles = [strategy['title'] for strategy in strategies]
+        print(titles)
         # titles = [
         #     'TzHaar_Fight_Cave/Strategies',
         #     'Barrows/Strategies',
@@ -228,23 +234,21 @@ def run():
             "prop": "revisions",
             "rvprop": "content",
             "rvslots": "main",
-            # "pageids": pageID
             "titles": '|'.join(titles)
         }, "rvcontinue")
+
+        nameMap = { row["title"].split('#')[0]: row["name"] for row in strategies }
 
         allActivityGearRecs = {}
         for pageBatch in res:
             for pageID, page in pageBatch['query']['pages'].items():
-                print(pageID, page['title'])
+                print(page['title'], pageID)
                 pageContent = page["revisions"][0]['slots']['main']["*"]
-                # print(res[0].keys())
-                # print(res[0]["query"]["pages"][str(pageID)]["revisions"][0]['slots']['main']['*'])
                 allGearRecs = get_page_tabs(pageContent)
-                titleParts = page['title'].split('/')
-                allActivityGearRecs[titleParts[0]] = allGearRecs
+                name = nameMap[page['title'].replace(' ', '_')]
+                allActivityGearRecs[name] = allGearRecs
 
-                fileName = '-'.join(titleParts)
-                util.write_json(f'recs/{fileName}.json', f'recs/{fileName}.min.json', allGearRecs)
+                util.write_json(f'recs/{name}.json', f'recs/{name}.min.json', allGearRecs)
         util.write_json(f'recs/all.json', f'recs/all.min.json', allActivityGearRecs)
     util.write_json(None, itemCacheFile, itemCache)
 
