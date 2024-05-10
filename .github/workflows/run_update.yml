@@ -27,7 +27,7 @@ jobs:
               - 'data_to_import.csv'
               - '*.py'
             export:
-              - 'recs/**'
+              - 'recs/all.min.json'
   build:
     needs: changes
     if: ${{ github.event_name != 'push' || (needs.changes.outputs.import == 'true' && needs.changes.outputs.export == 'false') }}

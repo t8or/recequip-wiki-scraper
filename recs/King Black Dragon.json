@@ -272,9 +272,7 @@
         ]
       }
     ],
-    "special": [
-      {}
-    ]
+    "special": []
   },
   {
     "name": "Melee BIS smuggle",
@@ -621,9 +619,7 @@
         ]
       }
     ],
-    "special": [
-      {}
-    ]
+    "special": []
   },
   {
     "name": "Twisted bow",
@@ -828,9 +824,7 @@
         ]
       }
     ],
-    "special": [
-      {}
-    ]
+    "special": []
   },
   {
     "name": "Bowfa (shield swap)",
@@ -912,9 +906,7 @@
         ]
       }
     ],
-    "shield": [
-      {}
-    ],
+    "shield": [],
     "ammo": [
       {
         "Rada's blessing 4": [
@@ -953,9 +945,7 @@
         ]
       }
     ],
-    "special": [
-      {}
-    ]
+    "special": []
   },
   {
     "name": "Crossbow",
@@ -1182,9 +1172,7 @@
         ]
       }
     ],
-    "special": [
-      {}
-    ]
+    "special": []
   },
   {
     "name": "Ranged BIS smuggle",
@@ -1518,8 +1506,6 @@
         ]
       }
     ],
-    "special": [
-      {}
-    ]
+    "special": []
   }
 ]

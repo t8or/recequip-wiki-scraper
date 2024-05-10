@@ -174,9 +174,7 @@
         ]
       }
     ],
-    "ammo": [
-      {}
-    ],
+    "ammo": [],
     "hands": [
       {
         "Ferocious gloves": [
@@ -777,9 +775,7 @@
         ]
       }
     ],
-    "ammo": [
-      {}
-    ],
+    "ammo": [],
     "hands": [
       {
         "Tormented bracelet": [
@@ -830,9 +826,7 @@
         ]
       }
     ],
-    "special": [
-      {}
-    ]
+    "special": []
   },
   {
     "name": "Zebak",

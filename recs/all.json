@@ -1,6 +1,7 @@
 [
   {
     "name": "Abyssal Sire",
+    "url": "https://oldschool.runescape.wiki/w/Abyssal_Sire/Strategies",
     "category": "Slayer",
     "styles": [
       {
@@ -324,7 +325,22 @@
           }
         ],
         "cape": [
-          {}
+          {
+            "Imbued god cape": [
+              2412,
+              2414,
+              2413,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          }
         ],
         "body": [
           {
@@ -1760,6 +1776,7 @@
   },
   {
     "name": "Alchemical Hydra",
+    "url": "https://oldschool.runescape.wiki/w/Alchemical_Hydra/Strategies",
     "category": "Slayer",
     "styles": [
       {
@@ -2383,6 +2400,7 @@
   },
   {
     "name": "Artio",
+    "url": "https://oldschool.runescape.wiki/w/Artio/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -2599,7 +2617,6 @@
           }
         ],
         "shield": [
-          {},
           {
             "Twisted buckler": [
               21000
@@ -3088,6 +3105,7 @@
   },
   {
     "name": "Barrows",
+    "url": "https://oldschool.runescape.wiki/w/Barrows/Strategies",
     "category": "World",
     "styles": [
       {
@@ -4042,6 +4060,7 @@
   },
   {
     "name": "Callisto",
+    "url": "https://oldschool.runescape.wiki/w/Callisto/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -4258,7 +4277,6 @@
           }
         ],
         "shield": [
-          {},
           {
             "Twisted buckler": [
               21000
@@ -4794,6 +4812,7 @@
   },
   {
     "name": "Cerberus",
+    "url": "https://oldschool.runescape.wiki/w/Cerberus/Strategies",
     "category": "Slayer",
     "styles": [
       {
@@ -5632,6 +5651,7 @@
   },
   {
     "name": "Chambers of Xeric",
+    "url": "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
     "category": "Raid",
     "styles": [
       {
@@ -5788,9 +5808,7 @@
             ]
           }
         ],
-        "ammo": [
-          {}
-        ],
+        "ammo": [],
         "hands": [
           {
             "Ferocious gloves": [
@@ -5884,8 +5902,7 @@
               20479,
               24184
             ]
-          },
-          {}
+          }
         ],
         "neck": [
           {
@@ -6066,9 +6083,7 @@
             ]
           }
         ],
-        "ring": [
-          {}
-        ],
+        "ring": [],
         "special": [
           {
             "Toxic blowpipe": [
@@ -6085,8 +6100,7 @@
             "Ancestral hat": [
               21018
             ]
-          },
-          {}
+          }
         ],
         "neck": [
           {
@@ -6210,9 +6224,7 @@
             ]
           }
         ],
-        "ammo": [
-          {}
-        ],
+        "ammo": [],
         "hands": [
           {
             "Tormented bracelet": [
@@ -6225,12 +6237,8 @@
             ]
           }
         ],
-        "feet": [
-          {}
-        ],
-        "ring": [
-          {}
-        ],
+        "feet": [],
+        "ring": [],
         "special": []
       },
       {
@@ -6700,6 +6708,7 @@
   },
   {
     "name": "Chaos Elemental",
+    "url": "https://oldschool.runescape.wiki/w/Chaos_Elemental/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -7702,7 +7711,6 @@
           }
         ],
         "shield": [
-          {},
           {
             "Book of law": [
               12610
@@ -7839,6 +7847,7 @@
   },
   {
     "name": "Chaos Fanatic",
+    "url": "https://oldschool.runescape.wiki/w/Chaos_Fanatic/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -8037,7 +8046,6 @@
           }
         ],
         "shield": [
-          {},
           {
             "Book of law": [
               12610
@@ -8055,7 +8063,6 @@
           }
         ],
         "ammo": [
-          {},
           {
             "Amethyst arrow": [
               21326,
@@ -8142,6 +8149,7 @@
   },
   {
     "name": "Commander Zilyana",
+    "url": "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies",
     "category": "World",
     "styles": [
       {
@@ -8156,21 +8164,14 @@
             "Virtus mask": [
               26241
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "neck": [
           {
             "Occult necklace": [
               12002
             ]
-          },
-          {},
-          {},
-          {},
-          {}
+          }
         ],
         "cape": [
           {
@@ -8185,9 +8186,7 @@
               13280,
               13342
             ]
-          },
-          {},
-          {}
+          }
         ],
         "body": [
           {
@@ -8211,8 +8210,7 @@
             "Virtus robe bottom": [
               26245
             ]
-          },
-          {}
+          }
         ],
         "weapon": [
           {
@@ -8224,39 +8222,28 @@
               22481,
               22323
             ]
-          },
-          {},
-          {},
-          {},
-          {}
+          }
         ],
         "shield": [
           {
             "Elidinis' ward (f)": [
               27251
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "ammo": [
           {
             "Unholy blessing": [
               20223
             ]
-          },
-          {},
-          {}
+          }
         ],
         "hands": [
           {
             "Tormented bracelet": [
               19544
             ]
-          },
-          {},
-          {}
+          }
         ],
         "feet": [
           {
@@ -8268,9 +8255,7 @@
             "Infinity boots": [
               6920
             ]
-          },
-          {},
-          {}
+          }
         ],
         "ring": [
           {
@@ -8282,10 +8267,7 @@
             "Lightbearer": [
               25975
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "special": [
           {
@@ -8695,6 +8677,7 @@
   },
   {
     "name": "Corporeal Beast",
+    "url": "https://oldschool.runescape.wiki/w/Corporeal_Beast/Strategies",
     "category": "World",
     "styles": [
       {
@@ -8906,13 +8889,7 @@
             ]
           }
         ],
-        "shield": [
-          {},
-          {},
-          {},
-          {},
-          {}
-        ],
+        "shield": [],
         "ammo": [
           {
             "Rada's blessing 4": [
@@ -8931,10 +8908,7 @@
             "Rada's blessing 3": [
               22945
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -9031,9 +9005,7 @@
             "Bandos godsword": [
               11804
             ]
-          },
-          {},
-          {}
+          }
         ]
       },
       {
@@ -9045,11 +9017,7 @@
               20481,
               24185
             ]
-          },
-          {},
-          {},
-          {},
-          {}
+          }
         ],
         "neck": [
           {
@@ -9129,10 +9097,7 @@
               20465,
               24177
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "legs": [
           {
@@ -9148,10 +9113,7 @@
               20469,
               24179
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "weapon": [
           {
@@ -9189,13 +9151,7 @@
             ]
           }
         ],
-        "shield": [
-          {},
-          {},
-          {},
-          {},
-          {}
-        ],
+        "shield": [],
         "ammo": [
           {
             "Rada's blessing 4": [
@@ -9214,10 +9170,7 @@
             "Rada's blessing 3": [
               22945
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -9226,11 +9179,7 @@
               20475,
               24182
             ]
-          },
-          {},
-          {},
-          {},
-          {}
+          }
         ],
         "feet": [
           {
@@ -9281,8 +9230,7 @@
             "Berserker ring": [
               6737
             ]
-          },
-          {}
+          }
         ],
         "special": [
           {
@@ -9301,9 +9249,7 @@
             "Bandos godsword": [
               11804
             ]
-          },
-          {},
-          {}
+          }
         ]
       },
       {
@@ -9676,8 +9622,7 @@
             "Armadyl d'hide body": [
               12508
             ]
-          },
-          {}
+          }
         ],
         "legs": [
           {
@@ -9704,8 +9649,7 @@
             "Armadyl chaps": [
               12510
             ]
-          },
-          {}
+          }
         ],
         "weapon": [
           {
@@ -9743,13 +9687,7 @@
             ]
           }
         ],
-        "shield": [
-          {},
-          {},
-          {},
-          {},
-          {}
-        ],
+        "shield": [],
         "ammo": [
           {
             "Rada's blessing 4": [
@@ -9768,10 +9706,7 @@
             "Rada's blessing 3": [
               22945
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -9849,8 +9784,7 @@
             "Berserker ring": [
               6737
             ]
-          },
-          {}
+          }
         ],
         "special": [
           {
@@ -9867,9 +9801,7 @@
             "Bandos godsword": [
               11804
             ]
-          },
-          {},
-          {}
+          }
         ]
       },
       {
@@ -10064,13 +9996,7 @@
             ]
           }
         ],
-        "shield": [
-          {},
-          {},
-          {},
-          {},
-          {}
-        ],
+        "shield": [],
         "ammo": [
           {
             "Rada's blessing 4": [
@@ -10089,10 +10015,7 @@
             "Rada's blessing 3": [
               22945
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -10170,19 +10093,14 @@
             "Berserker ring": [
               6737
             ]
-          },
-          {}
+          }
         ],
         "special": [
           {
             "Osmumten's fang": [
               26219
             ]
-          },
-          {},
-          {},
-          {},
-          {}
+          }
         ]
       },
       {
@@ -10458,9 +10376,7 @@
             "Ruby bolts (e)": [
               9242
             ]
-          },
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -10554,25 +10470,21 @@
             "Archers ring": [
               6733
             ]
-          },
-          {}
+          }
         ],
         "special": [
           {
             "Zaryte crossbow": [
               26374
             ]
-          },
-          {},
-          {},
-          {},
-          {}
+          }
         ]
       }
     ]
   },
   {
     "name": "Crazy archaeologist",
+    "url": "https://oldschool.runescape.wiki/w/Crazy_archaeologist/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -10946,6 +10858,7 @@
   },
   {
     "name": "Dagannoth Kings",
+    "url": "https://oldschool.runescape.wiki/w/Dagannoth_Kings/Strategies",
     "category": "World",
     "styles": [
       {
@@ -12819,6 +12732,7 @@
   },
   {
     "name": "Deranged Archaeologist",
+    "url": "https://oldschool.runescape.wiki/w/Deranged_archaeologist/Strategies",
     "category": "World",
     "styles": [
       {
@@ -13266,6 +13180,7 @@
   },
   {
     "name": "Duke Sucellus",
+    "url": "https://oldschool.runescape.wiki/w/Duke_Sucellus/Strategies",
     "category": "Forgotten 4",
     "styles": [
       {
@@ -13641,6 +13556,7 @@
   },
   {
     "name": "Sol Heredit",
+    "url": "https://oldschool.runescape.wiki/w/Fortis_Colosseum/Strategies#Sol_Heredit",
     "category": "Minigame",
     "styles": [
       {
@@ -14664,6 +14580,7 @@
   },
   {
     "name": "General Graardor",
+    "url": "https://oldschool.runescape.wiki/w/General_Graardor/Strategies",
     "category": "World",
     "styles": [
       {
@@ -17341,6 +17258,7 @@
   },
   {
     "name": "Giant Mole",
+    "url": "https://oldschool.runescape.wiki/w/Giant_Mole/Strategies",
     "category": "World",
     "styles": [
       {
@@ -19107,6 +19025,7 @@
   },
   {
     "name": "Grotesque Guardians",
+    "url": "https://oldschool.runescape.wiki/w/Grotesque_Guardians/Strategies",
     "category": "Slayer",
     "styles": [
       {
@@ -19867,6 +19786,7 @@
   },
   {
     "name": "TzKal-Zuk",
+    "url": "https://oldschool.runescape.wiki/w/Inferno/Strategies#TzKal-Zuk",
     "category": "Minigame",
     "styles": [
       {
@@ -20550,6 +20470,7 @@
   },
   {
     "name": "K'ril Tsutsaroth",
+    "url": "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth/Strategies",
     "category": "World",
     "styles": [
       {
@@ -23033,6 +22954,7 @@
   },
   {
     "name": "Kalphite Queen",
+    "url": "https://oldschool.runescape.wiki/w/Kalphite_Queen/Strategies",
     "category": "World",
     "styles": [
       {
@@ -25102,6 +25024,7 @@
   },
   {
     "name": "King Black Dragon",
+    "url": "https://oldschool.runescape.wiki/w/King_Black_Dragon/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -25377,9 +25300,7 @@
             ]
           }
         ],
-        "special": [
-          {}
-        ]
+        "special": []
       },
       {
         "name": "Melee BIS smuggle",
@@ -25726,9 +25647,7 @@
             ]
           }
         ],
-        "special": [
-          {}
-        ]
+        "special": []
       },
       {
         "name": "Twisted bow",
@@ -25933,9 +25852,7 @@
             ]
           }
         ],
-        "special": [
-          {}
-        ]
+        "special": []
       },
       {
         "name": "Bowfa (shield swap)",
@@ -26017,9 +25934,7 @@
             ]
           }
         ],
-        "shield": [
-          {}
-        ],
+        "shield": [],
         "ammo": [
           {
             "Rada's blessing 4": [
@@ -26058,9 +25973,7 @@
             ]
           }
         ],
-        "special": [
-          {}
-        ]
+        "special": []
       },
       {
         "name": "Crossbow",
@@ -26287,9 +26200,7 @@
             ]
           }
         ],
-        "special": [
-          {}
-        ]
+        "special": []
       },
       {
         "name": "Ranged BIS smuggle",
@@ -26623,14 +26534,13 @@
             ]
           }
         ],
-        "special": [
-          {}
-        ]
+        "special": []
       }
     ]
   },
   {
     "name": "Kraken",
+    "url": "https://oldschool.runescape.wiki/w/Kraken/Strategies",
     "category": "Slayer",
     "styles": [
       {
@@ -27088,6 +26998,7 @@
   },
   {
     "name": "Kree'arra",
+    "url": "https://oldschool.runescape.wiki/w/Kree'arra/Strategies",
     "category": "World",
     "styles": [
       {
@@ -28340,6 +28251,7 @@
   },
   {
     "name": "Moons of Peril",
+    "url": "https://oldschool.runescape.wiki/w/Moons_of_Peril/Strategies",
     "category": "World",
     "styles": [
       {
@@ -30028,6 +29940,7 @@
   },
   {
     "name": "Nex",
+    "url": "https://oldschool.runescape.wiki/w/Nex/Strategies",
     "category": "World",
     "styles": [
       {
@@ -30490,6 +30403,7 @@
   },
   {
     "name": "Phantom Muspah",
+    "url": "https://oldschool.runescape.wiki/w/Phantom_Muspah/Strategies",
     "category": "Instanced",
     "styles": [
       {
@@ -31640,6 +31554,7 @@
   },
   {
     "name": "Phosani's Nightmare",
+    "url": "https://oldschool.runescape.wiki/w/Phosani's_Nightmare/Strategies",
     "category": "Instanced",
     "styles": [
       {
@@ -32031,6 +31946,7 @@
   },
   {
     "name": "Sarachnis",
+    "url": "https://oldschool.runescape.wiki/w/Sarachnis/Strategies",
     "category": "World",
     "styles": [
       {
@@ -32801,6 +32717,7 @@
   },
   {
     "name": "Scorpia",
+    "url": "https://oldschool.runescape.wiki/w/Scorpia/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -33156,6 +33073,7 @@
   },
   {
     "name": "Scurrius",
+    "url": "https://oldschool.runescape.wiki/w/Scurrius/Strategies",
     "category": "World",
     "styles": [
       {
@@ -35077,6 +34995,7 @@
   },
   {
     "name": "Skotizo",
+    "url": "https://oldschool.runescape.wiki/w/Skotizo/Strategies",
     "category": "Sporadic",
     "styles": [
       {
@@ -35789,7 +35708,6 @@
           }
         ],
         "shield": [
-          {},
           {
             "Twisted buckler": [
               21000
@@ -36023,6 +35941,7 @@
   },
   {
     "name": "Tempoross",
+    "url": "https://oldschool.runescape.wiki/w/Tempoross/Strategies",
     "category": "Skilling",
     "styles": [
       {
@@ -36497,6 +36416,7 @@
   },
   {
     "name": "The Leviathan",
+    "url": "https://oldschool.runescape.wiki/w/The_Leviathan/Strategies",
     "category": "Forgotten 4",
     "styles": [
       {
@@ -36937,6 +36857,7 @@
   },
   {
     "name": "The Mimic",
+    "url": "https://oldschool.runescape.wiki/w/The_Mimic/Strategies",
     "category": "Sporadic",
     "styles": [
       {
@@ -37160,8 +37081,7 @@
               11907,
               11905
             ]
-          },
-          {}
+          }
         ],
         "shield": [
           {
@@ -37330,9 +37250,7 @@
               5680,
               5698
             ]
-          },
-          {},
-          {}
+          }
         ]
       },
       {
@@ -37396,9 +37314,7 @@
               11976,
               11978
             ]
-          },
-          {},
-          {}
+          }
         ],
         "cape": [
           {
@@ -37614,8 +37530,7 @@
             "Diamond bolts (e)": [
               9243
             ]
-          },
-          {}
+          }
         ],
         "hands": [
           {
@@ -37741,15 +37656,14 @@
               5680,
               5698
             ]
-          },
-          {},
-          {}
+          }
         ]
       }
     ]
   },
   {
     "name": "The Nightmare",
+    "url": "https://oldschool.runescape.wiki/w/The_Nightmare/Strategies",
     "category": "Instanced",
     "styles": [
       {
@@ -38081,6 +37995,7 @@
   },
   {
     "name": "The Whisperer",
+    "url": "https://oldschool.runescape.wiki/w/The_Whisperer/Strategies",
     "category": "Forgotten 4",
     "styles": [
       {
@@ -38453,10 +38368,7 @@
             "Rada's blessing 3": [
               22945
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -38571,14 +38483,14 @@
             "Rune thrownaxe": [
               805
             ]
-          },
-          {}
+          }
         ]
       }
     ]
   },
   {
     "name": "Theater of Blood",
+    "url": "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies",
     "category": "Raid",
     "styles": [
       {
@@ -38712,10 +38624,7 @@
               20481,
               24185
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "neck": [
           {
@@ -38757,9 +38666,7 @@
               20467,
               24178
             ]
-          },
-          {},
-          {}
+          }
         ],
         "legs": [
           {
@@ -38768,9 +38675,7 @@
               20471,
               24180
             ]
-          },
-          {},
-          {}
+          }
         ],
         "weapon": [
           {
@@ -38795,7 +38700,6 @@
           }
         ],
         "shield": [
-          {},
           {
             "Avernic defender": [
               22322,
@@ -38825,9 +38729,7 @@
               20475,
               24182
             ]
-          },
-          {},
-          {}
+          }
         ],
         "feet": [
           {
@@ -38906,9 +38808,7 @@
               12929,
               12931
             ]
-          },
-          {},
-          {}
+          }
         ],
         "neck": [
           {
@@ -38925,9 +38825,7 @@
             "Amulet of fury": [
               6585
             ]
-          },
-          {},
-          {}
+          }
         ],
         "cape": [
           {
@@ -38943,10 +38841,7 @@
               20445,
               24223
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "body": [
           {
@@ -38966,9 +38861,7 @@
               20513,
               24175
             ]
-          },
-          {},
-          {}
+          }
         ],
         "legs": [
           {
@@ -38986,9 +38879,7 @@
             "Obsidian platelegs": [
               21304
             ]
-          },
-          {},
-          {}
+          }
         ],
         "weapon": [
           {
@@ -39031,10 +38922,7 @@
               20463,
               24143
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "ammo": [
           {
@@ -39062,9 +38950,7 @@
             "Rada's blessing 3": [
               22945
             ]
-          },
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -39076,10 +38962,7 @@
             "Barrows gloves": [
               7462
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "feet": [
           {
@@ -39091,10 +38974,7 @@
             "Dragon boots": [
               11840
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "ring": [
           {
@@ -39113,9 +38993,7 @@
               25264,
               26770
             ]
-          },
-          {},
-          {}
+          }
         ],
         "special": [
           {
@@ -39135,10 +39013,7 @@
             "Bandos godsword": [
               11804
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ]
       },
       {
@@ -39160,9 +39035,7 @@
               12929,
               12931
             ]
-          },
-          {},
-          {}
+          }
         ],
         "neck": [
           {
@@ -39179,9 +39052,7 @@
             "Amulet of fury": [
               6585
             ]
-          },
-          {},
-          {}
+          }
         ],
         "cape": [
           {
@@ -39197,10 +39068,7 @@
               20445,
               24223
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "body": [
           {
@@ -39220,9 +39088,7 @@
               20513,
               24175
             ]
-          },
-          {},
-          {}
+          }
         ],
         "legs": [
           {
@@ -39240,9 +39106,7 @@
             "Obsidian platelegs": [
               21304
             ]
-          },
-          {},
-          {}
+          }
         ],
         "weapon": [
           {
@@ -39285,10 +39149,7 @@
               20463,
               24143
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "ammo": [
           {
@@ -39316,9 +39177,7 @@
             "Rada's blessing 3": [
               22945
             ]
-          },
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -39330,10 +39189,7 @@
             "Barrows gloves": [
               7462
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "feet": [
           {
@@ -39345,10 +39201,7 @@
             "Dragon boots": [
               11840
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "ring": [
           {
@@ -39367,9 +39220,7 @@
               25264,
               26770
             ]
-          },
-          {},
-          {}
+          }
         ],
         "special": [
           {
@@ -39389,10 +39240,7 @@
             "Bandos godsword": [
               11804
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ]
       },
       {
@@ -39414,9 +39262,7 @@
               12929,
               12931
             ]
-          },
-          {},
-          {}
+          }
         ],
         "neck": [
           {
@@ -39433,9 +39279,7 @@
             "Amulet of fury": [
               6585
             ]
-          },
-          {},
-          {}
+          }
         ],
         "cape": [
           {
@@ -39451,10 +39295,7 @@
               20445,
               24223
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "body": [
           {
@@ -39474,9 +39315,7 @@
               20513,
               24175
             ]
-          },
-          {},
-          {}
+          }
         ],
         "legs": [
           {
@@ -39494,9 +39333,7 @@
             "Obsidian platelegs": [
               21304
             ]
-          },
-          {},
-          {}
+          }
         ],
         "weapon": [
           {
@@ -39539,10 +39376,7 @@
               20463,
               24143
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "ammo": [
           {
@@ -39570,9 +39404,7 @@
             "Rada's blessing 3": [
               22945
             ]
-          },
-          {},
-          {}
+          }
         ],
         "hands": [
           {
@@ -39584,10 +39416,7 @@
             "Barrows gloves": [
               7462
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "feet": [
           {
@@ -39599,10 +39428,7 @@
             "Dragon boots": [
               11840
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ],
         "ring": [
           {
@@ -39621,9 +39447,7 @@
               25264,
               26770
             ]
-          },
-          {},
-          {}
+          }
         ],
         "special": [
           {
@@ -39643,16 +39467,14 @@
             "Bandos godsword": [
               11804
             ]
-          },
-          {},
-          {},
-          {}
+          }
         ]
       }
     ]
   },
   {
     "name": "Thermonuclear smoke devil",
+    "url": "https://oldschool.runescape.wiki/w/Thermonuclear_smoke_devil/Strategies",
     "category": "Slayer",
     "styles": [
       {
@@ -40351,6 +40173,7 @@
   },
   {
     "name": "TzTok-Jad",
+    "url": "https://oldschool.runescape.wiki/w/TzHaar_Fight_Cave/Strategies#TzTok-Jad",
     "category": "Minigame",
     "styles": [
       {
@@ -41239,8 +41062,7 @@
             "Saradomin godsword": [
               11806
             ]
-          },
-          {}
+          }
         ]
       },
       {
@@ -42167,8 +41989,7 @@
             "Saradomin godsword": [
               11806
             ]
-          },
-          {}
+          }
         ]
       },
       {
@@ -43174,8 +42995,7 @@
             "Eldritch nightmare staff": [
               24425
             ]
-          },
-          {}
+          }
         ]
       },
       {
@@ -44111,6 +43931,7 @@
   },
   {
     "name": "Vardorvis",
+    "url": "https://oldschool.runescape.wiki/w/Vardorvis/Strategies",
     "category": "Forgotten 4",
     "styles": [
       {
@@ -44672,6 +44493,7 @@
   },
   {
     "name": "Venenatis",
+    "url": "https://oldschool.runescape.wiki/w/Venenatis/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -45291,6 +45113,7 @@
   },
   {
     "name": "Vet'ion",
+    "url": "https://oldschool.runescape.wiki/w/Vet'ion/Strategies",
     "category": "Wilderness",
     "styles": [
       {
@@ -45762,6 +45585,7 @@
   },
   {
     "name": "Vorkath",
+    "url": "https://oldschool.runescape.wiki/w/Vorkath/Strategies",
     "category": "Instanced",
     "styles": [
       {
@@ -46448,6 +46272,11 @@
             ]
           },
           {
+            "Boots of brimstone": [
+              22951
+            ]
+          },
+          {
             "Shayzien boots (5)": [
               13378
             ]
@@ -46982,6 +46811,7 @@
   },
   {
     "name": "Wintertodt",
+    "url": "https://oldschool.runescape.wiki/w/Wintertodt/Strategies",
     "category": "Skilling",
     "styles": [
       {
@@ -47136,6 +46966,7 @@
   },
   {
     "name": "Zalcano",
+    "url": "https://oldschool.runescape.wiki/w/Zalcano/Strategies",
     "category": "Skilling",
     "styles": [
       {
@@ -47310,7 +47141,6 @@
           }
         ],
         "shield": [
-          {},
           {
             "God book": [
               3840,
@@ -47457,6 +47287,7 @@
   },
   {
     "name": "Zulrah",
+    "url": "https://oldschool.runescape.wiki/w/Zulrah/Strategies",
     "category": "Instanced",
     "styles": [
       {
@@ -48818,6 +48649,7 @@
   },
   {
     "name": "Galvek",
+    "url": "https://oldschool.runescape.wiki/w/Galvek_Speed-Trialist",
     "category": "Quest",
     "styles": [
       {
@@ -49326,6 +49158,7 @@
   },
   {
     "name": "Glough",
+    "url": "https://oldschool.runescape.wiki/w/Glough_Speed-Trialist",
     "category": "Quest",
     "styles": [
       {
@@ -49772,6 +49605,7 @@
   },
   {
     "name": "Tombs of Amascut",
+    "url": "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies",
     "category": "Raid",
     "styles": [
       {
@@ -49949,9 +49783,7 @@
             ]
           }
         ],
-        "ammo": [
-          {}
-        ],
+        "ammo": [],
         "hands": [
           {
             "Ferocious gloves": [
@@ -50552,9 +50384,7 @@
             ]
           }
         ],
-        "ammo": [
-          {}
-        ],
+        "ammo": [],
         "hands": [
           {
             "Tormented bracelet": [
@@ -50605,9 +50435,7 @@
             ]
           }
         ],
-        "special": [
-          {}
-        ]
+        "special": []
       },
       {
         "name": "Zebak",

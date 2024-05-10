@@ -153,9 +153,7 @@
         ]
       }
     ],
-    "ammo": [
-      {}
-    ],
+    "ammo": [],
     "hands": [
       {
         "Ferocious gloves": [
@@ -249,8 +247,7 @@
           20479,
           24184
         ]
-      },
-      {}
+      }
     ],
     "neck": [
       {
@@ -431,9 +428,7 @@
         ]
       }
     ],
-    "ring": [
-      {}
-    ],
+    "ring": [],
     "special": [
       {
         "Toxic blowpipe": [
@@ -450,8 +445,7 @@
         "Ancestral hat": [
           21018
         ]
-      },
-      {}
+      }
     ],
     "neck": [
       {
@@ -575,9 +569,7 @@
         ]
       }
     ],
-    "ammo": [
-      {}
-    ],
+    "ammo": [],
     "hands": [
       {
         "Tormented bracelet": [
@@ -590,12 +582,8 @@
         ]
       }
     ],
-    "feet": [
-      {}
-    ],
-    "ring": [
-      {}
-    ],
+    "feet": [],
+    "ring": [],
     "special": []
   },
   {

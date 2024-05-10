@@ -217,12 +217,12 @@ def run():
         next(data)
         strategies = [{
             "name": row[0],
+            "url": row[1],
             "title": row[1].replace('https://oldschool.runescape.wiki/w/', ''),
             "category": row[2],
             # "location": row[3],
         } for row in data if row[1]]
         titles = [strategy['title'] for strategy in strategies]
-        print(titles)
         # titles = [
         #     'TzHaar_Fight_Cave/Strategies',
         #     'Barrows/Strategies',
@@ -250,12 +250,12 @@ def run():
                 allGearRecs = get_page_tabs(pageContent)
                 data = urlMap[page['title'].replace(' ', '_')]
                 name = data['name']
-                allActivityGearRecs.append({
-                    'name': name,
-                    'category': data['category'],
-                    # 'location': data['location'],
+                newData = {
+                    **data,
                     'styles': allGearRecs
-                })
+                }
+                del newData['title']
+                allActivityGearRecs.append(newData)
 
                 util.write_json(f'recs/{name}.json', f'recs/{name}.min.json', allGearRecs)
         util.write_json(f'recs/all.json', f'recs/all.min.json', allActivityGearRecs)
