@@ -30,7 +30,7 @@ jobs:
               - 'recs/**'
   build:
     needs: changes
-    if: ${{ needs.changes.outputs.import == 'true' && needs.changes.outputs.export == 'false' }}
+    if: ${{ github.event_name != "push" || (needs.changes.outputs.import == 'true' && needs.changes.outputs.export == 'false') }}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
