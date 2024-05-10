@@ -136,7 +136,9 @@ def get_gear_from_slot(template, slot):
             # print(f"{slot}{i}")
             item = template.get(f"{slot}{i}").value
             tmps = item.filter_templates()
-            # print(tmps)
+            # No templates in slot
+            if len(tmps) == 0:
+                continue
             itemsWithIDs = defaultdict(list)
             for tmp in tmps:
                 if tmp.name.matches('plink'):
