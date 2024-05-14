@@ -6,7 +6,8 @@ import csv
 import json
 import mwparserfromhell as mw
 from collections import defaultdict
-from mwparserfromhell.wikicode import Wikicode, Template
+from itertools import chain
+from mwparserfromhell.wikicode import Wikicode, Template, Tag, Text
 
 useCache: bool = True
 itemCache = {}
@@ -135,34 +136,44 @@ def get_gear_from_slot(template, slot):
         if template.has(f"{slot}{i}"):
             # print(f"{slot}{i}")
             item = template.get(f"{slot}{i}").value
-            tmps = item.filter_templates()
+
+            # Stolen and modified from Wikicode source
+            def getter(i, node):
+                for ch in Wikicode._get_children(node):
+                    if isinstance(ch, Tag) and ch.tag == 'ref':
+                        break
+                    if isinstance(ch, Text):
+                        continue
+                    yield (i, ch)
+            nodes = chain(*(getter(i, n) for i, n in enumerate(item.nodes)))
+            tmps = [node for i, node in nodes if isinstance(node, Template) and node.name.matches('plink')]
+
             # No templates in slot
             if len(tmps) == 0:
                 continue
             itemsWithIDs = defaultdict(list)
             for tmp in tmps:
-                if tmp.name.matches('plink'):
-                    name = tmp.params[0].value.strip()
-                    if name in itemCache:
-                        itemsWithIDs[name] = itemCache[name]
-                        continue
+                name = tmp.params[0].value.strip()
+                if name in itemCache:
+                    itemsWithIDs[name] = itemCache[name]
+                    continue
 
-                    specialCase = handle_special_cases(name, tmp)
-                    if specialCase:
-                        itemCache[name] = itemsWithIDs[name] = specialCase
-                        continue
+                specialCase = handle_special_cases(name, tmp)
+                if specialCase:
+                    itemCache[name] = itemsWithIDs[name] = specialCase
+                    continue
 
-                    itemCache[name] = itemsWithIDs[name] = get_items_from_page(name)
+                itemCache[name] = itemsWithIDs[name] = get_items_from_page(name)
 
-                    # if no ids found, add it to a file to be manually checked later
-                    if len(itemsWithIDs[name]) == 0:
-                        print(f'No ids found for {name}', file=sys.stderr)
-                        del itemCache[name]
-                        with open('items_that_need_special_handling.txt', 'r+') as fi:
-                            if name in fi.read():
-                                continue
-                            fi.write(f'{name}\n')
-                        # raise Exception(f'No ids found for {name}')
+                # if no ids found, add it to a file to be manually checked later
+                if len(itemsWithIDs[name]) == 0:
+                    print(f'No ids found for {name}', file=sys.stderr)
+                    del itemCache[name]
+                    with open('items_that_need_special_handling.txt', 'r+') as fi:
+                        if name in fi.read():
+                            continue
+                        fi.write(f'{name}\n')
+                    # raise Exception(f'No ids found for {name}')
             gear.append(itemsWithIDs)
 
     return gear
@@ -224,13 +235,15 @@ def run():
         } for row in data if row[1]]
         titles = [strategy['title'] for strategy in strategies]
         # titles = [
-        #     'TzHaar_Fight_Cave/Strategies',
-        #     'Barrows/Strategies',
-        #     'Scurrius/Strategies',
-        #     'Giant_Mole/Strategies',
-        #     'Deranged_archaeologist/Strategies',
-        #     'Dagannoth_Kings/Strategies',
-        #     'Sarachnis/Strategies'
+        #     # 'TzHaar_Fight_Cave/Strategies',
+        #     # 'Barrows/Strategies',
+        #     # 'Scurrius/Strategies',
+        #     # 'Giant_Mole/Strategies',
+        #     # 'Deranged_archaeologist/Strategies',
+        #     # 'Dagannoth_Kings/Strategies',
+        #     # 'Sarachnis/Strategies'
+        #     'Callisto/Strategies',
+        #     # 'The Leviathan/Strategies',
         # ]
         res = api.get_wiki_api({
             "action": "query",
