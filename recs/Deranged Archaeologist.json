@@ -249,6 +249,12 @@
     ],
     "weapon": [
       {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
         "Harmonised nightmare staff": [
           24423
         ]
@@ -257,19 +263,21 @@
         "Sanguinesti staff": [
           22481,
           22323
-        ]
-      },
-      {
+        ],
         "Trident of the swamp": [
           12900,
           12899
-        ]
-      },
-      {
+        ],
         "Trident of the seas": [
           11908,
           11907,
           11905
+        ]
+      },
+      {
+        "Warped sceptre": [
+          28583,
+          28585
         ]
       },
       {
@@ -404,6 +412,11 @@
     ],
     "ring": [
       {
+        "Magus ring": [
+          28313
+        ]
+      },
+      {
         "Ring of the gods (i)": [
           13202,
           25252,
@@ -418,13 +431,6 @@
           25248,
           26761,
           26762
-        ]
-      },
-      {
-        "Seers ring (i)": [
-          11770,
-          25258,
-          26767
         ]
       },
       {
