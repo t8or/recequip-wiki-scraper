@@ -1001,9 +1001,15 @@
           22481,
           22323
         ],
-        "Bow of faerdhinen": [
-          25862,
-          25865
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ],
+        "Dragon dart": [
+          11230,
+          11231,
+          11233,
+          11234
         ],
         "Dragon hunter lance": [
           22978
@@ -1027,18 +1033,12 @@
           11907,
           11905
         ],
-        "Toxic blowpipe": [
-          12924,
-          12926
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ],
-        "Dragon dart": [
-          11230,
-          11231,
-          11233,
-          11234
-        ],
-        "Zamorakian hasta": [
-          11889
+        "Abyssal tentacle": [
+          12006
         ]
       }
     ],

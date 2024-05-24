@@ -437,8 +437,10 @@
         "Brimstone ring": [
           22975
         ],
-        "Berserker ring": [
-          6737
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
         ]
       }
     ],
@@ -451,6 +453,11 @@
       {
         "Zaryte crossbow": [
           26374
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
         ]
       }
     ]
