@@ -133,6 +133,11 @@
         ]
       },
       {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
         "Fighter torso": [
           10551,
           20513,
@@ -140,13 +145,13 @@
         ]
       },
       {
-        "Verac's brassard": [
-          4757,
-          4988,
-          4989,
-          4990,
-          4991,
-          4992
+        "Obsidian platebody": [
+          21301
+        ],
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
         ]
       },
       {
@@ -165,6 +170,21 @@
       {
         "Bandos tassets": [
           11834
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
+        ],
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
         ]
       },
       {
@@ -175,11 +195,6 @@
           4996,
           4997,
           4998
-        ]
-      },
-      {
-        "Obsidian platelegs": [
-          21304
         ]
       },
       {
@@ -405,6 +420,14 @@
         ]
       },
       {
+        "Dragon dagger(p++)": [
+          1215,
+          1231,
+          5680,
+          5698
+        ]
+      },
+      {
         "Toxic blowpipe": [
           12924,
           12926
@@ -413,14 +436,6 @@
       {
         "Saradomin godsword": [
           11806
-        ]
-      },
-      {
-        "Dragon dagger(p++)": [
-          1215,
-          1231,
-          5680,
-          5698
         ]
       },
       {
@@ -567,11 +582,17 @@
         ]
       },
       {
+        "Hunters' sunlight crossbow": [
+          28869
+        ],
         "Zaryte crossbow": [
           26374
         ]
       },
       {
+        "Magic shortbow (i)": [
+          12788
+        ],
         "Armadyl crossbow": [
           11785
         ]
@@ -586,6 +607,12 @@
       {
         "Twisted buckler": [
           21000
+        ]
+      },
+      {
+        "Dragonfire ward": [
+          22003,
+          22002
         ]
       },
       {
