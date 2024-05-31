@@ -559,6 +559,11 @@
         ]
       },
       {
+        "Hunters' sunlight crossbow": [
+          28869
+        ]
+      },
+      {
         "Magic shortbow (i)": [
           12788
         ]
@@ -574,7 +579,18 @@
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Book of law": [
+          12610
+        ]
+      },
+      {
+        "Unholy book": [
+          3842
+        ]
+      }
+    ],
     "ammo": [
       {
         "Amethyst arrow": [
@@ -582,6 +598,11 @@
           21332,
           21334,
           21336
+        ]
+      },
+      {
+        "Moonlight antler bolts": [
+          28878
         ]
       },
       {

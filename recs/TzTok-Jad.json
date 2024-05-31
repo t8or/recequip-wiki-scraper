@@ -315,6 +315,12 @@
         ]
       },
       {
+        "Dragonfire ward": [
+          22003,
+          22002
+        ]
+      },
+      {
         "Odium ward": [
           11926
         ]
@@ -324,9 +330,7 @@
           23991,
           23993,
           24127
-        ]
-      },
-      {
+        ],
         "Blessed spirit shield": [
           12831
         ]
@@ -725,6 +729,12 @@
         ]
       },
       {
+        "Dragonfire ward": [
+          22003,
+          22002
+        ]
+      },
+      {
         "Odium ward": [
           11926
         ]
@@ -734,9 +744,7 @@
           23991,
           23993,
           24127
-        ]
-      },
-      {
+        ],
         "Blessed spirit shield": [
           12831
         ]
@@ -745,9 +753,8 @@
         "Toktz-ket-xil": [
           6524
         ],
-        "Dragonfire shield": [
-          11284,
-          11283
+        "Dragon kiteshield": [
+          21895
         ]
       }
     ],
@@ -819,6 +826,14 @@
           19927,
           19933,
           19936
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
+        ],
+        "Guardian boots": [
+          21733
         ]
       },
       {
@@ -1163,6 +1178,12 @@
         ],
         "Blessed spirit shield": [
           12831
+        ]
+      },
+      {
+        "Dragonfire ward": [
+          22003,
+          22002
         ]
       },
       {
@@ -1623,8 +1644,9 @@
         ]
       },
       {
-        "Odium ward": [
-          11926
+        "Dragonfire ward": [
+          22003,
+          22002
         ],
         "Crystal shield": [
           23991,
@@ -1633,6 +1655,9 @@
         ]
       },
       {
+        "Odium ward": [
+          11926
+        ],
         "Blessed spirit shield": [
           12831
         ]
@@ -1735,6 +1760,9 @@
       {
         "Pegasian boots": [
           13237
+        ],
+        "Echo boots": [
+          28945
         ],
         "Guardian boots": [
           21733
@@ -2248,6 +2276,9 @@
         ]
       },
       {
+        "Echo boots": [
+          28945
+        ],
         "Guardian boots": [
           21733
         ]
@@ -2689,6 +2720,12 @@
         ]
       },
       {
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ]
+      },
+      {
         "Malediction ward": [
           11924
         ]
@@ -2750,11 +2787,17 @@
         ]
       },
       {
-        "Bandos boots": [
-          11836
+        "Echo boots": [
+          28945
+        ],
+        "Guardian boots": [
+          21733
         ]
       },
       {
+        "Bandos boots": [
+          11836
+        ],
         "Infinity boots": [
           6920
         ]

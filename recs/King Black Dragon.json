@@ -3,29 +3,16 @@
     "name": "4-item melee",
     "head": [
       {
-        "Helm of neitiznot": [
-          10828
-        ],
         "Slayer helmet": [
           11864
+        ],
+        "Helm of neitiznot": [
+          10828
         ]
       },
       {
         "Berserker helm": [
           3751
-        ],
-        "Black mask": [
-          8921,
-          8919,
-          8917,
-          8915,
-          8913,
-          8911,
-          8909,
-          8907,
-          8905,
-          8903,
-          8901
         ]
       }
     ],
@@ -59,32 +46,126 @@
     ],
     "cape": [
       {
-        "Ardougne cloak 4": [
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ],
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Ardougne cloak": [
+          13121,
+          13122,
+          13123,
           13124
-        ]
-      },
-      {
-        "Ardougne cloak 3": [
-          13123
-        ]
-      },
-      {
-        "Ardougne cloak 2": [
-          13122
-        ]
-      },
-      {
-        "Ardougne cloak 1": [
-          13121
         ]
       },
       {
         "Mythical cape": [
           22114
         ]
+      },
+      {
+        "Cape of accomplishment": [
+          9771,
+          9772,
+          13340,
+          13341,
+          9773,
+          9747,
+          9748,
+          9749,
+          9789,
+          9790,
+          9791,
+          9801,
+          9802,
+          9803,
+          9780,
+          9781,
+          9782,
+          9753,
+          9754,
+          9755,
+          9810,
+          9811,
+          9812,
+          9804,
+          9805,
+          9806,
+          9798,
+          9799,
+          9800,
+          9783,
+          9784,
+          9785,
+          9774,
+          9775,
+          9776,
+          9768,
+          9769,
+          9770,
+          9948,
+          9949,
+          9950,
+          9762,
+          9763,
+          9764,
+          9792,
+          9793,
+          9794,
+          9759,
+          9760,
+          9761,
+          9756,
+          9757,
+          9758,
+          9765,
+          9766,
+          9767,
+          9786,
+          9787,
+          9788,
+          9795,
+          9796,
+          9797,
+          9750,
+          9751,
+          9752,
+          9777,
+          9778,
+          9779,
+          9807,
+          9808,
+          9809,
+          9813,
+          13068,
+          9814,
+          19476,
+          13069,
+          13070,
+          13221,
+          13222,
+          13223,
+          13280,
+          13342,
+          13281,
+          13679,
+          25502
+        ]
       }
     ],
     "body": [
+      {
+        "Mixed hide top": [
+          29280
+        ]
+      },
       {
         "Proselyte hauberk": [
           9674
@@ -101,11 +182,13 @@
     ],
     "legs": [
       {
+        "Mixed hide legs": [
+          29283
+        ]
+      },
+      {
         "Proselyte cuisse": [
           9676
-        ],
-        "Proselyte tasset": [
-          9678
         ]
       },
       {
@@ -134,15 +217,6 @@
       {
         "Zamorakian hasta": [
           11889
-        ]
-      },
-      {
-        "Blade of saeldor": [
-          23997,
-          23995
-        ],
-        "Inquisitor's mace": [
-          24417
         ]
       },
       {
@@ -222,6 +296,11 @@
     ],
     "feet": [
       {
+        "Dragon boots": [
+          11840
+        ]
+      },
+      {
         "Rune boots": [
           4131
         ],
@@ -233,15 +312,17 @@
         ]
       },
       {
-        "Adamant boots": [
-          4129
-        ],
         "Fremennik sea boots 4": [
           13132
         ]
       }
     ],
     "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
       {
         "Treasonous ring (i)": [
           12692,
@@ -260,16 +341,6 @@
           25264,
           26770
         ]
-      },
-      {
-        "Treasonous ring": [
-          12605
-        ]
-      },
-      {
-        "Berserker ring": [
-          6737
-        ]
       }
     ],
     "special": []
@@ -278,11 +349,12 @@
     "name": "Melee BIS smuggle",
     "head": [
       {
-        "Neitiznot faceguard": [
-          24271
-        ],
         "Slayer helmet": [
           11864
+        ],
+        "Torva full helm": [
+          26376,
+          26382
         ]
       },
       {
@@ -290,23 +362,8 @@
           12929,
           12931
         ],
-        "Black mask": [
-          8921,
-          8919,
-          8917,
-          8915,
-          8913,
-          8911,
-          8909,
-          8907,
-          8905,
-          8903,
-          8901
-        ]
-      },
-      {
-        "Inquisitor's great helm": [
-          24419
+        "Neitiznot faceguard": [
+          24271
         ]
       },
       {
@@ -362,9 +419,7 @@
           21295,
           21287,
           24224
-        ]
-      },
-      {
+        ],
         "Fire cape": [
           6570,
           20445,
@@ -372,22 +427,115 @@
         ]
       },
       {
-        "Ardougne cloak 4": [
+        "Ardougne cloak": [
+          13121,
+          13122,
+          13123,
           13124
         ]
       },
       {
-        "Ardougne cloak 3": [
-          13123
+        "Mythical cape": [
+          22114
         ]
       },
       {
-        "Ardougne cloak 2": [
-          13122
+        "Cape of accomplishment": [
+          9771,
+          9772,
+          13340,
+          13341,
+          9773,
+          9747,
+          9748,
+          9749,
+          9789,
+          9790,
+          9791,
+          9801,
+          9802,
+          9803,
+          9780,
+          9781,
+          9782,
+          9753,
+          9754,
+          9755,
+          9810,
+          9811,
+          9812,
+          9804,
+          9805,
+          9806,
+          9798,
+          9799,
+          9800,
+          9783,
+          9784,
+          9785,
+          9774,
+          9775,
+          9776,
+          9768,
+          9769,
+          9770,
+          9948,
+          9949,
+          9950,
+          9762,
+          9763,
+          9764,
+          9792,
+          9793,
+          9794,
+          9759,
+          9760,
+          9761,
+          9756,
+          9757,
+          9758,
+          9765,
+          9766,
+          9767,
+          9786,
+          9787,
+          9788,
+          9795,
+          9796,
+          9797,
+          9750,
+          9751,
+          9752,
+          9777,
+          9778,
+          9779,
+          9807,
+          9808,
+          9809,
+          9813,
+          13068,
+          9814,
+          19476,
+          13069,
+          13070,
+          13221,
+          13222,
+          13223,
+          13280,
+          13342,
+          13281,
+          13679,
+          25502
         ]
       }
     ],
     "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ]
+      },
       {
         "Bandos chestplate": [
           11832
@@ -396,16 +544,16 @@
           10551,
           20513,
           24175
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
         ]
       },
       {
-        "Inquisitor's hauberk": [
-          24420
-        ]
-      },
-      {
-        "Obsidian platebody": [
-          21301
+        "Mixed hide top": [
+          29280
         ]
       },
       {
@@ -424,21 +572,24 @@
     ],
     "legs": [
       {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
         "Bandos tassets": [
           11834
-        ]
-      },
-      {
-        "Inquisitor's plateskirt": [
-          24421
-        ]
-      },
-      {
-        "Fremennik kilt": [
-          23246
         ],
-        "Obsidian platelegs": [
-          21304
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
+        "Mixed hide legs": [
+          29283
         ]
       },
       {
@@ -465,6 +616,11 @@
         ]
       },
       {
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
         "Ghrazi rapier": [
           22324
         ]
@@ -472,15 +628,6 @@
       {
         "Zamorakian hasta": [
           11889
-        ]
-      },
-      {
-        "Blade of saeldor": [
-          23997,
-          23995
-        ],
-        "Inquisitor's mace": [
-          24417
         ]
       },
       {
@@ -494,12 +641,22 @@
     ],
     "shield": [
       {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ],
         "Dragonfire shield": [
           11284,
           11283
         ]
       },
       {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ],
         "Anti-dragon shield": [
           1540
         ]
@@ -590,6 +747,11 @@
     ],
     "ring": [
       {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
         "Treasonous ring (i)": [
           12692,
           25256,
@@ -607,22 +769,12 @@
           25264,
           26770
         ]
-      },
-      {
-        "Treasonous ring": [
-          12605
-        ]
-      },
-      {
-        "Berserker ring": [
-          6737
-        ]
       }
     ],
     "special": []
   },
   {
-    "name": "Twisted bow",
+    "name": "Bow",
     "head": [
       {
         "Blessed coif": [
@@ -637,6 +789,12 @@
           11865,
           25177,
           26674
+        ]
+      },
+      {
+        "Crystal helm": [
+          23971,
+          23973
         ]
       },
       {
@@ -680,12 +838,10 @@
     ],
     "cape": [
       {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
+        "Blessed dizana's quiver": [
+          28955,
+          28957,
+          28828
         ]
       },
       {
@@ -708,25 +864,37 @@
     ],
     "body": [
       {
-        "Black d'hide body": [
-          2503
+        "Masori body (f)": [
+          27238
         ]
       },
       {
-        "Red d'hide body": [
-          2501
+        "Crystal body": [
+          23975,
+          23977
+        ]
+      },
+      {
+        "Black d'hide body": [
+          2503
         ]
       }
     ],
     "legs": [
       {
-        "Black d'hide chaps": [
-          2497
+        "Masori chaps (f)": [
+          27241
         ]
       },
       {
-        "Red d'hide chaps": [
-          2495
+        "Crystal legs": [
+          23979,
+          23981
+        ]
+      },
+      {
+        "Black d'hide chaps": [
+          2497
         ]
       }
     ],
@@ -734,6 +902,12 @@
       {
         "Twisted bow": [
           20997
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       }
     ],
@@ -754,9 +928,22 @@
           21334,
           21336
         ]
+      },
+      {
+        "Rada's blessing": [
+          22941,
+          22943,
+          22945,
+          22947
+        ]
       }
     ],
     "hands": [
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
       {
         "Blessed vambraces": [
           12490,
@@ -780,11 +967,6 @@
     ],
     "feet": [
       {
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
         "Blessed boots": [
           19921,
           19930,
@@ -795,11 +977,6 @@
         ]
       },
       {
-        "Boots of brimstone": [
-          22951
-        ]
-      },
-      {
         "Mixed hide boots": [
           29286
         ]
@@ -807,138 +984,11 @@
     ],
     "ring": [
       {
-        "Venator ring": [
-          28310
+        "Ring of shadows": [
+          28329,
+          28327
         ]
       },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
-      }
-    ],
-    "special": []
-  },
-  {
-    "name": "Bowfa (shield swap)",
-    "head": [
-      {
-        "Crystal helm": [
-          23971,
-          23973
-        ],
-        "Slayer helmet (i)": [
-          11865,
-          25177,
-          26674
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
-        ]
-      },
-      {
-        "Ava's accumulator": [
-          10499
-        ]
-      },
-      {
-        "Ava's attractor": [
-          10498
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Crystal body": [
-          23975,
-          23977
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Crystal legs": [
-          23979,
-          23981
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Bow of faerdhinen": [
-          25862,
-          25865
-        ]
-      }
-    ],
-    "shield": [],
-    "ammo": [
-      {
-        "Rada's blessing 4": [
-          22947
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Barrows gloves": [
-          7462
-        ]
-      },
-      {
-        "Black d'hide vambraces": [
-          2491
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Mixed hide boots": [
-          29286
-        ]
-      },
-      {
-        "Snakeskin boots": [
-          6328
-        ]
-      }
-    ],
-    "ring": [
       {
         "Explorer's ring 4": [
           13128
@@ -1034,6 +1084,11 @@
     ],
     "body": [
       {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
         "Black d'hide body": [
           2503
         ]
@@ -1045,6 +1100,11 @@
       }
     ],
     "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
       {
         "Black d'hide chaps": [
           2497
@@ -1070,6 +1130,11 @@
       {
         "Dragon crossbow": [
           21902
+        ]
+      },
+      {
+        "Hunters' sunlight crossbow": [
+          28869
         ]
       },
       {
@@ -1103,6 +1168,14 @@
         ]
       },
       {
+        "Moonlight antler bolts": [
+          28878
+        ],
+        "Sunlight antler bolts": [
+          28872
+        ]
+      },
+      {
         "Runite bolts": [
           9144,
           9291,
@@ -1112,6 +1185,11 @@
       }
     ],
     "hands": [
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
       {
         "Blessed vambraces": [
           12490,
@@ -1135,11 +1213,6 @@
     ],
     "feet": [
       {
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
         "Blessed boots": [
           19921,
           19930,
@@ -1147,11 +1220,6 @@
           19927,
           19933,
           19936
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
         ]
       },
       {
@@ -1166,6 +1234,12 @@
       }
     ],
     "ring": [
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
       {
         "Explorer's ring 4": [
           13128
@@ -1380,12 +1454,6 @@
         ]
       },
       {
-        "Ancient wyvern shield": [
-          21634,
-          21633
-        ]
-      },
-      {
         "Anti-dragon shield": [
           1540
         ]
@@ -1424,6 +1492,11 @@
       }
     ],
     "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
       {
         "Barrows gloves": [
           7462
@@ -1470,11 +1543,6 @@
         "Mixed hide boots": [
           29286
         ]
-      },
-      {
-        "Shayzien boots (5)": [
-          13378
-        ]
       }
     ],
     "ring": [
@@ -1496,8 +1564,9 @@
         ]
       },
       {
-        "Archers ring": [
-          6733
+        "Ring of shadows": [
+          28329,
+          28327
         ]
       },
       {
