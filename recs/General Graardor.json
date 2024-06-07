@@ -377,13 +377,8 @@
         ]
       },
       {
-        "Bandos godsword": [
-          11804
-        ]
-      },
-      {
-        "Dragon warhammer": [
-          13576
+        "Elder maul": [
+          21003
         ]
       }
     ]
@@ -1126,13 +1121,8 @@
         ]
       },
       {
-        "Bandos godsword": [
-          11804
-        ]
-      },
-      {
-        "Dragon warhammer": [
-          13576
+        "Elder maul": [
+          21003
         ]
       },
       {
@@ -1501,13 +1491,8 @@
     ],
     "special": [
       {
-        "Dragon warhammer": [
-          13576
-        ]
-      },
-      {
-        "Bandos godsword": [
-          11804
+        "Elder maul": [
+          21003
         ]
       }
     ]
@@ -1978,13 +1963,16 @@
         ]
       },
       {
-        "Bandos godsword": [
-          11804
+        "Elder maul": [
+          21003
         ]
       },
       {
-        "Dragon warhammer": [
-          13576
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
         ]
       }
     ]
@@ -2422,7 +2410,7 @@
         ]
       },
       {
-        "Diamond  bolts (e)": [
+        "Diamond bolts (e)": [
           9243
         ]
       }

@@ -559,6 +559,11 @@
         ]
       },
       {
+        "Hunters' sunlight crossbow": [
+          28869
+        ]
+      },
+      {
         "Magic shortbow (i)": [
           12788
         ]
@@ -574,7 +579,18 @@
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Book of law": [
+          12610
+        ]
+      },
+      {
+        "Unholy book": [
+          3842
+        ]
+      }
+    ],
     "ammo": [
       {
         "Amethyst arrow": [
@@ -582,6 +598,11 @@
           21332,
           21334,
           21336
+        ]
+      },
+      {
+        "Moonlight antler bolts": [
+          28878
         ]
       },
       {
@@ -692,6 +713,16 @@
         ]
       },
       {
+        "Elder chaos hood": [
+          20595
+        ]
+      },
+      {
+        "Farseer helm": [
+          3755
+        ]
+      },
+      {
         "Mystic hat": [
           4089
         ]
@@ -787,6 +818,11 @@
         ]
       },
       {
+        "Elder chaos top": [
+          20517
+        ]
+      },
+      {
         "Mystic robe top": [
           4091
         ]
@@ -801,6 +837,11 @@
       {
         "Bloodbark legs": [
           25416
+        ]
+      },
+      {
+        "Elder chaos robe": [
+          20520
         ]
       },
       {
@@ -841,6 +882,11 @@
       }
     ],
     "shield": [
+      {
+        "Malediction ward": [
+          11924
+        ]
+      },
       {
         "Book of darkness": [
           12612

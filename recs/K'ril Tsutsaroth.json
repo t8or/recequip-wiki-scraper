@@ -485,8 +485,8 @@
         ]
       },
       {
-        "Dragon warhammer": [
-          13576
+        "Elder maul": [
+          21003
         ],
         "Arclight": [
           19675
@@ -1776,8 +1776,8 @@
         ]
       },
       {
-        "Dragon warhammer": [
-          13576
+        "Elder maul": [
+          21003
         ]
       },
       {
@@ -2092,13 +2092,8 @@
         ]
       },
       {
-        "Farseer helm": [
-          3755
-        ],
-        "Healer hat": [
-          10547,
-          20511,
-          24172
+        "Bloodbark helm": [
+          25413
         ]
       },
       {
@@ -2282,6 +2277,11 @@
         "Infinity top": [
           6916
         ]
+      },
+      {
+        "Bloodbark body": [
+          25404
+        ]
       }
     ],
     "legs": [
@@ -2311,6 +2311,11 @@
         ],
         "Infinity bottoms": [
           6924
+        ]
+      },
+      {
+        "Bloodbark legs": [
+          25416
         ]
       }
     ],
