@@ -87,6 +87,11 @@
         ]
       },
       {
+        "Mixed hide top": [
+          29280
+        ]
+      },
+      {
         "Bandos chestplate": [
           11832
         ]
@@ -109,6 +114,9 @@
       {
         "Bandos tassets": [
           11834
+        ],
+        "Mixed hide legs": [
+          29283
         ]
       },
       {
@@ -196,17 +204,20 @@
       {
         "Primordial boots": [
           13239
+        ],
+        "Eternal boots": [
+          13235
         ]
       },
       {
         "Dragon boots": [
           11840
+        ],
+        "Echo boots": [
+          28945
         ]
       },
       {
-        "Echo boots": [
-          28945
-        ],
         "Guardian boots": [
           21733
         ]
@@ -221,11 +232,9 @@
       {
         "Lightbearer": [
           25975
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
+        ],
+        "Ultor ring": [
+          28307
         ]
       },
       {
@@ -233,6 +242,11 @@
           11773,
           25264,
           26770
+        ]
+      },
+      {
+        "Berserker ring": [
+          6737
         ]
       },
       {
@@ -258,14 +272,6 @@
       {
         "Dragon claws": [
           13652
-        ],
-        "Bandos godsword": [
-          11804
-        ]
-      },
-      {
-        "Bandos godsword": [
-          11804
         ]
       },
       {
@@ -274,6 +280,11 @@
           1231,
           5680,
           5698
+        ]
+      },
+      {
+        "Elder maul": [
+          21003
         ]
       }
     ]
@@ -292,18 +303,14 @@
         ]
       },
       {
-        "Neitiznot faceguard": [
-          24271
-        ],
         "Crystal helm": [
           23971,
           23973
         ]
       },
       {
-        "Serpentine helm": [
-          12929,
-          12931
+        "Neitiznot faceguard": [
+          24271
         ]
       }
     ],
@@ -375,8 +382,8 @@
         ]
       },
       {
-        "Armadyl chestplate": [
-          11828
+        "Mixed hide top": [
+          29280
         ],
         "Crystal body": [
           23975,
@@ -414,8 +421,8 @@
         ]
       },
       {
-        "Armadyl chainskirt": [
-          11830
+        "Mixed hide legs": [
+          29283
         ],
         "Crystal legs": [
           23979,
@@ -598,14 +605,8 @@
         ]
       },
       {
-        "Neitiznot faceguard": [
-          24271
-        ]
-      },
-      {
-        "Serpentine helm": [
-          12929,
-          12931
+        "Virtus mask": [
+          26241
         ]
       },
       {
@@ -616,6 +617,16 @@
           4858,
           4859,
           4860
+        ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
         ]
       }
     ],
@@ -691,6 +702,11 @@
           4870,
           4871,
           4872
+        ],
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
         ]
       },
       {
@@ -718,6 +734,11 @@
           4876,
           4877,
           4878
+        ],
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
         ]
       },
       {
@@ -770,8 +791,8 @@
         ]
       },
       {
-        "Unholy book": [
-          3842
+        "Malediction ward": [
+          11924
         ]
       }
     ],
@@ -793,7 +814,13 @@
         ]
       }
     ],
-    "feet": [],
+    "feet": [
+      {
+        "Eternal boots": [
+          13235
+        ]
+      }
+    ],
     "ring": [
       {
         "Magus ring": [

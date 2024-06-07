@@ -119,16 +119,13 @@
         ]
       },
       {
-        "Dragon hunter lance": [
-          22978
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
-        "Abyssal tentacle": [
-          12006
-        ],
-        "Ghrazi rapier": [
-          22324
+        "Dragon hunter lance": [
+          22978
         ]
       },
       {
@@ -204,13 +201,18 @@
     ],
     "special": [
       {
-        "Bandos godsword": [
-          11804
+        "Elder maul": [
+          21003
         ]
       },
       {
         "Dragon warhammer": [
           13576
+        ]
+      },
+      {
+        "Bandos godsword": [
+          11804
         ]
       },
       {

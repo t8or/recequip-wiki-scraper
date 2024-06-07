@@ -422,8 +422,10 @@
         ]
       },
       {
-        "Fremennik kilt": [
-          23246
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
@@ -607,11 +609,11 @@
         ]
       },
       {
+        "Elder maul": [
+          21003
+        ],
         "Bandos godsword": [
           11804
-        ],
-        "Dragon warhammer": [
-          13576
         ]
       }
     ]

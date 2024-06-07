@@ -18,6 +18,9 @@
         ]
       },
       {
+        "Infinity hat": [
+          6918
+        ],
         "Ahrim's hood": [
           4708,
           4856,
@@ -26,26 +29,23 @@
           4859,
           4860
         ],
-        "3rd age mage hat": [
-          10342
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
         ]
       },
       {
-        "Infinity hat": [
-          6918
+        "Bloodbark helm": [
+          25413
         ],
-        "Farseer helm": [
-          3755
+        "Dagon'hai hat": [
+          24288
         ]
       },
       {
-        "Mitre": [
-          10452,
-          10454,
-          10456,
-          12259,
-          12271,
-          12203
+        "Elder chaos hood": [
+          20595
         ]
       }
     ],

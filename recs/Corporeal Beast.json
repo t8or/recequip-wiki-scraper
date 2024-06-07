@@ -240,10 +240,10 @@
         ]
       },
       {
-        "Eclipse moon tassets": [
-          29007,
-          29033,
-          29052
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
@@ -428,14 +428,17 @@
     ],
     "special": [
       {
-        "Dragon warhammer": [
-          13576
+        "Elder maul": [
+          21003
         ],
         "Voidwaker": [
           27690
         ]
       },
       {
+        "Dragon warhammer": [
+          13576
+        ],
         "Osmumten's fang": [
           26219
         ]
@@ -1550,8 +1553,8 @@
     ],
     "special": [
       {
-        "Dragon warhammer": [
-          13576
+        "Elder maul": [
+          21003
         ]
       },
       {

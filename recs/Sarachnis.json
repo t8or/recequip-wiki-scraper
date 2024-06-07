@@ -130,6 +130,18 @@
         ]
       },
       {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ]
+      },
+      {
         "Karil's leathertop": [
           4736,
           4940,
@@ -137,13 +149,6 @@
           4942,
           4943,
           4944
-        ]
-      },
-      {
-        "Eclipse moon chestplate": [
-          29004,
-          29031,
-          29049
         ]
       },
       {
@@ -159,11 +164,6 @@
       {
         "Black d'hide body": [
           2503
-        ],
-        "Blood moon chestplate": [
-          29022,
-          29043,
-          29067
         ]
       }
     ],
@@ -174,6 +174,18 @@
         ]
       },
       {
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ],
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ]
+      },
+      {
         "Karil's leatherskirt": [
           4738,
           4946,
@@ -181,13 +193,6 @@
           4948,
           4949,
           4950
-        ]
-      },
-      {
-        "Eclipse moon tassets": [
-          29007,
-          29033,
-          29052
         ]
       },
       {
@@ -208,11 +213,6 @@
       {
         "Black d'hide chaps": [
           2497
-        ],
-        "Blood moon tassets": [
-          29025,
-          29045,
-          29070
         ]
       }
     ],
@@ -423,6 +423,11 @@
       {
         "Dragon claws": [
           13652
+        ]
+      },
+      {
+        "Elder maul": [
+          21003
         ]
       },
       {

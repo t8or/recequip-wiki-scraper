@@ -18,6 +18,9 @@
         ]
       },
       {
+        "Infinity hat": [
+          6918
+        ],
         "Ahrim's hood": [
           4708,
           4856,
@@ -28,13 +31,8 @@
         ]
       },
       {
-        "Farseer helm": [
-          3755
-        ],
-        "Healer hat": [
-          10547,
-          20511,
-          24172
+        "Bloodbark helm": [
+          25413
         ]
       },
       {
@@ -515,8 +513,8 @@
         ]
       },
       {
-        "Farseer helm": [
-          3755
+        "Bloodbark helm": [
+          25413
         ],
         "Karil's coif": [
           4732,
