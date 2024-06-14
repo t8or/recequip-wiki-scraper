@@ -402,6 +402,21 @@
           {
             "Elidinis' ward": [
               25985
+            ],
+            "Arcane spirit shield": [
+              12825
+            ]
+          },
+          {
+            "Ancient wyvern shield": [
+              21634,
+              21633
+            ],
+            "Malediction ward": [
+              11924
+            ],
+            "Mage's book": [
+              6889
             ]
           }
         ],
@@ -5934,13 +5949,13 @@
             ]
           },
           {
-            "Soulreaper axe": [
-              28338
+            "Dragon hunter lance": [
+              22978
             ]
           },
           {
-            "Dragon hunter lance": [
-              22978
+            "Soulreaper axe": [
+              28338
             ]
           },
           {
@@ -16937,13 +16952,13 @@
             ]
           },
           {
-            "Elidinis' ward": [
-              25985
+            "Arcane spirit shield": [
+              12825
             ]
           },
           {
-            "Arcane spirit shield": [
-              12825
+            "Elidinis' ward": [
+              25985
             ]
           },
           {
@@ -27154,14 +27169,27 @@
           {
             "Elidinis' ward": [
               25985
+            ],
+            "Arcane spirit shield": [
+              12825
+            ]
+          },
+          {
+            "Malediction ward": [
+              11924
+            ],
+            "Ancient wyvern shield": [
+              21634,
+              21633
+            ],
+            "Mage's book": [
+              6889
             ]
           },
           {
             "Elysian spirit shield": [
               12817
-            ]
-          },
-          {
+            ],
             "Spectral spirit shield": [
               12821
             ]
@@ -38706,6 +38734,9 @@
           {
             "Arcane spirit shield": [
               12825
+            ],
+            "Elidinis' ward": [
+              25985
             ]
           },
           {
@@ -38713,18 +38744,21 @@
               21634,
               21633
             ],
-            "Elidinis' ward": [
-              25985
-            ]
-          },
-          {
             "Malediction ward": [
               11924
+            ],
+            "Mage's book": [
+              6889
             ]
           },
           {
-            "Mage's book": [
-              6889
+            "Book of darkness": [
+              12612
+            ]
+          },
+          {
+            "Unholy book": [
+              3842
             ]
           }
         ],
@@ -40145,11 +40179,15 @@
             ]
           },
           {
-            "Malediction ward": [
-              11924
+            "Ancient wyvern shield": [
+              21634,
+              21633
             ]
           },
           {
+            "Malediction ward": [
+              11924
+            ],
             "Mage's book": [
               6889
             ]
@@ -40377,6 +40415,11 @@
           {
             "Inquisitor's hauberk": [
               24420
+            ],
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
             ]
           },
           {
@@ -40410,6 +40453,11 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
             ]
           },
           {
@@ -50595,11 +50643,6 @@
           {
             "Ruby bolts (e)": [
               9242
-            ]
-          },
-          {
-            "Diamond bolts (e)": [
-              9243
             ]
           }
         ],

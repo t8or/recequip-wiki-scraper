@@ -339,6 +339,9 @@
       {
         "Arcane spirit shield": [
           12825
+        ],
+        "Elidinis' ward": [
+          25985
         ]
       },
       {
@@ -346,18 +349,21 @@
           21634,
           21633
         ],
-        "Elidinis' ward": [
-          25985
-        ]
-      },
-      {
         "Malediction ward": [
           11924
+        ],
+        "Mage's book": [
+          6889
         ]
       },
       {
-        "Mage's book": [
-          6889
+        "Book of darkness": [
+          12612
+        ]
+      },
+      {
+        "Unholy book": [
+          3842
         ]
       }
     ],

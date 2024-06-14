@@ -205,11 +205,15 @@
         ]
       },
       {
-        "Malediction ward": [
-          11924
+        "Ancient wyvern shield": [
+          21634,
+          21633
         ]
       },
       {
+        "Malediction ward": [
+          11924
+        ],
         "Mage's book": [
           6889
         ]
@@ -437,6 +441,11 @@
       {
         "Inquisitor's hauberk": [
           24420
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
         ]
       },
       {
@@ -470,6 +479,11 @@
         "Torva platelegs": [
           26380,
           26386
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
