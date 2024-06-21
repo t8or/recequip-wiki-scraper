@@ -10747,6 +10747,9 @@
           {
             "Xerician hat": [
               13385
+            ],
+            "Fremennik hat": [
+              3797
             ]
           }
         ],
@@ -10785,7 +10788,7 @@
         ],
         "cape": [
           {
-            "God capes#Imbuing": [
+            "Imbued god cape": [
               2412,
               2414,
               2413,
@@ -13602,6 +13605,12 @@
             ]
           },
           {
+            "Blade of saeldor": [
+              23997,
+              23995
+            ]
+          },
+          {
             "Arclight": [
               19675
             ]
@@ -13609,12 +13618,6 @@
           {
             "Zombie axe": [
               28810
-            ]
-          },
-          {
-            "Blade of saeldor": [
-              23997,
-              23995
             ]
           }
         ],
@@ -14554,10 +14557,19 @@
               21287,
               24224
             ],
-            "Imbued saradomin cape": [
+            "Imbued god capes": [
+              2412,
+              2414,
+              2413,
               21791,
               24236,
-              24248
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
             ]
           },
           {
@@ -24568,6 +24580,11 @@
         ],
         "weapon": [
           {
+            "Zombie axe": [
+              28810
+            ]
+          },
+          {
             "Keris partisan": [
               25979
             ]
@@ -24586,11 +24603,6 @@
           {
             "Sarachnis cudgel": [
               23528
-            ]
-          },
-          {
-            "Leaf-bladed battleaxe": [
-              20727
             ]
           }
         ],
@@ -30358,6 +30370,11 @@
             ]
           },
           {
+            "Eclipse moon chestplate": [
+              29004,
+              29031,
+              29049
+            ],
             "Karil's leathertop": [
               4736,
               4940,
@@ -30383,6 +30400,11 @@
             ]
           },
           {
+            "Eclipse moon tassets": [
+              29007,
+              29033,
+              29052
+            ],
             "Karil's leatherskirt": [
               4738,
               4946,
@@ -30408,6 +30430,10 @@
           {
             "Armadyl crossbow": [
               11785
+            ],
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
@@ -30543,10 +30569,14 @@
             ]
           },
           {
-            "Slayer helmet (i)": [
-              11865,
-              25177,
-              26674
+            "Serpentine helm": [
+              12929,
+              12931
+            ],
+            "Eclipse moon helm": [
+              29010,
+              29035,
+              29055
             ]
           }
         ],
@@ -30597,13 +30627,10 @@
             ]
           },
           {
-            "Karil's leathertop": [
-              4736,
-              4940,
-              4941,
-              4942,
-              4943,
-              4944
+            "Eclipse moon chestplate": [
+              29004,
+              29031,
+              29049
             ]
           }
         ],
@@ -30620,13 +30647,10 @@
             ]
           },
           {
-            "Karil's leatherskirt": [
-              4738,
-              4946,
-              4947,
-              4948,
-              4949,
-              4950
+            "Eclipse moon tassets": [
+              29007,
+              29033,
+              29052
             ]
           }
         ],
@@ -30721,13 +30745,13 @@
         ],
         "special": [
           {
-            "Voidwaker": [
-              27690
+            "Zaryte crossbow": [
+              26374
             ]
           },
           {
-            "Zaryte crossbow": [
-              26374
+            "Voidwaker": [
+              27690
             ]
           },
           {
@@ -32270,6 +32294,13 @@
             "Trident of the swamp": [
               12900,
               12899
+            ]
+          },
+          {
+            "Trident of the seas": [
+              11908,
+              11907,
+              11905
             ]
           }
         ],
@@ -35374,6 +35405,11 @@
               11770,
               25258,
               26767
+            ],
+            "Ring of the gods (i)": [
+              13202,
+              25252,
+              26764
             ]
           },
           {
@@ -35388,7 +35424,19 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Zaryte crossbow": [
+              26374
+            ]
+          },
+          {
+            "Accursed sceptre": [
+              27662,
+              27665
+            ]
+          }
+        ]
       }
     ]
   },
@@ -44662,6 +44710,11 @@
           {
             "Bandos chestplate": [
               11832
+            ],
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
             ]
           },
           {
@@ -44727,6 +44780,11 @@
           {
             "Bandos tassets": [
               11834
+            ],
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
             ]
           },
           {
@@ -44852,8 +44910,10 @@
             ]
           },
           {
-            "Elysian spirit shield": [
-              12817
+            "Adamant defender": [
+              8849,
+              20459,
+              24141
             ]
           }
         ],
@@ -44919,6 +44979,9 @@
             ]
           },
           {
+            "Echo boots": [
+              28945
+            ],
             "Guardian boots": [
               21733
             ]
@@ -46870,6 +46933,13 @@
             ]
           },
           {
+            "Slayer helmet (i)": [
+              11865,
+              25177,
+              26674
+            ]
+          },
+          {
             "Helm of neitiznot": [
               10828
             ],
@@ -46877,13 +46947,6 @@
               29028,
               29047,
               29073
-            ]
-          },
-          {
-            "Slayer helmet (i)": [
-              11865,
-              25177,
-              26674
             ]
           }
         ],
@@ -47873,7 +47936,7 @@
         ],
         "cape": [
           {
-            "God capes#Imbuing": [
+            "Imbued god cape": [
               2412,
               2414,
               2413,
@@ -48366,7 +48429,7 @@
         ],
         "cape": [
           {
-            "God capes#Imbuing": [
+            "Imbued god cape": [
               2412,
               2414,
               2413,
@@ -50364,8 +50427,8 @@
             ]
           },
           {
-            "Berserker ring": [
-              6737
+            "Brimstone ring": [
+              22975
             ]
           },
           {

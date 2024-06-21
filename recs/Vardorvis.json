@@ -199,6 +199,11 @@
       {
         "Bandos chestplate": [
           11832
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
         ]
       },
       {
@@ -264,6 +269,11 @@
       {
         "Bandos tassets": [
           11834
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
@@ -389,8 +399,10 @@
         ]
       },
       {
-        "Elysian spirit shield": [
-          12817
+        "Adamant defender": [
+          8849,
+          20459,
+          24141
         ]
       }
     ],
@@ -456,6 +468,9 @@
         ]
       },
       {
+        "Echo boots": [
+          28945
+        ],
         "Guardian boots": [
           21733
         ]
