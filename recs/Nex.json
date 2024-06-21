@@ -80,6 +80,11 @@
         ]
       },
       {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
         "Karil's leathertop": [
           4736,
           4940,
@@ -105,6 +110,11 @@
         ]
       },
       {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
         "Karil's leatherskirt": [
           4738,
           4946,
@@ -130,6 +140,10 @@
       {
         "Armadyl crossbow": [
           11785
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       },
       {
@@ -265,10 +279,14 @@
         ]
       },
       {
-        "Slayer helmet (i)": [
-          11865,
-          25177,
-          26674
+        "Serpentine helm": [
+          12929,
+          12931
+        ],
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
         ]
       }
     ],
@@ -319,13 +337,10 @@
         ]
       },
       {
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
         ]
       }
     ],
@@ -342,13 +357,10 @@
         ]
       },
       {
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
         ]
       }
     ],
@@ -443,13 +455,13 @@
     ],
     "special": [
       {
-        "Voidwaker": [
-          27690
+        "Zaryte crossbow": [
+          26374
         ]
       },
       {
-        "Zaryte crossbow": [
-          26374
+        "Voidwaker": [
+          27690
         ]
       },
       {

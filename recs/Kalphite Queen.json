@@ -1337,6 +1337,11 @@
     ],
     "weapon": [
       {
+        "Zombie axe": [
+          28810
+        ]
+      },
+      {
         "Keris partisan": [
           25979
         ]
@@ -1355,11 +1360,6 @@
       {
         "Sarachnis cudgel": [
           23528
-        ]
-      },
-      {
-        "Leaf-bladed battleaxe": [
-          20727
         ]
       }
     ],
