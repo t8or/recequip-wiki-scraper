@@ -209,8 +209,9 @@
         "Ghrazi rapier": [
           22324
         ],
-        "Blade of saeldor (c)": [
-          24551
+        "Blade of saeldor": [
+          23997,
+          23995
         ]
       },
       {
@@ -950,8 +951,9 @@
         "Ghrazi rapier": [
           22324
         ],
-        "Blade of saeldor (c)": [
-          24551
+        "Blade of saeldor": [
+          23997,
+          23995
         ]
       },
       {
@@ -1067,6 +1069,9 @@
       {
         "Climbing boots": [
           3105
+        ],
+        "Mixed hide boots": [
+          29286
         ]
       }
     ],
@@ -1788,8 +1793,9 @@
         "Ghrazi rapier": [
           22324
         ],
-        "Blade of saeldor (c)": [
-          24551
+        "Blade of saeldor": [
+          23997,
+          23995
         ]
       },
       {

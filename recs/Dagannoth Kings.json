@@ -782,15 +782,17 @@
         "Ghrazi rapier": [
           22324
         ],
-        "Blade of saeldor (c)": [
-          24551
+        "Blade of saeldor": [
+          23997,
+          23995
         ],
         "Sanguinesti staff": [
           22481,
           22323
         ],
-        "Bow of faerdhinen (c)": [
-          25867
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       },
       {
@@ -1681,8 +1683,9 @@
         "Twisted bow": [
           20997
         ],
-        "Bow of faerdhinen (c)": [
-          25867
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       },
       {
