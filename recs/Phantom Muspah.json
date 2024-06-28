@@ -255,6 +255,11 @@
         "Virtus robe top": [
           26243
         ],
+        "Masori body": [
+          27229
+        ]
+      },
+      {
         "Ahrim's robetop": [
           4712,
           4868,
@@ -265,6 +270,11 @@
         ],
         "Armadyl chestplate": [
           11828
+        ]
+      },
+      {
+        "3rd age robe top": [
+          10338
         ],
         "Karil's leathertop": [
           4736,
@@ -287,14 +297,6 @@
           10386,
           10370
         ]
-      },
-      {
-        "Infinity top": [
-          6916
-        ],
-        "Black d'hide body": [
-          2503
-        ]
       }
     ],
     "legs": [
@@ -310,6 +312,11 @@
         "Virtus robe bottom": [
           26245
         ],
+        "Masori chaps": [
+          27232
+        ]
+      },
+      {
         "Ahrim's robeskirt": [
           4714,
           4874,
@@ -320,6 +327,11 @@
         ],
         "Armadyl chainskirt": [
           11830
+        ]
+      },
+      {
+        "3rd age robe": [
+          10340
         ],
         "Karil's leatherskirt": [
           4738,
@@ -341,14 +353,6 @@
           10380,
           10388,
           10372
-        ]
-      },
-      {
-        "Infinity bottoms": [
-          6924
-        ],
-        "Black d'hide chaps": [
-          2497
         ]
       }
     ],

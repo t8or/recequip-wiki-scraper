@@ -501,13 +501,51 @@
         ]
       },
       {
+        "Mystic mist staff": [
+          20733
+        ],
         "Sanguinesti staff": [
           22481,
           22323
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ],
+        "Tome of water": [
+          25576,
+          25574
+        ]
+      },
+      {
+        "Elidinis' ward": [
+          25985
+        ],
+        "Arcane spirit shield": [
+          12825
+        ]
+      },
+      {
+        "Malediction ward": [
+          11924
+        ],
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Mage's book": [
+          6889
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ]
+      }
+    ],
     "ammo": [
       {
         "Rada's blessing 4": [

@@ -20,6 +20,18 @@
         ]
       },
       {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ],
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
+        ]
+      },
+      {
         "Helm of neitiznot": [
           10828
         ]
@@ -74,7 +86,10 @@
         ]
       },
       {
-        "Ardougne cloak 4": [
+        "Ardougne cloak": [
+          13121,
+          13122,
+          13123,
           13124
         ]
       }
@@ -89,18 +104,28 @@
       {
         "Mixed hide top": [
           29280
-        ]
-      },
-      {
+        ],
         "Bandos chestplate": [
           11832
         ]
       },
       {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
         "Fighter torso": [
           10551,
           20513,
           24175
+        ]
+      },
+      {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
         ]
       }
     ],
@@ -112,21 +137,28 @@
         ]
       },
       {
-        "Bandos tassets": [
-          11834
-        ],
         "Mixed hide legs": [
           29283
+        ],
+        "Bandos tassets": [
+          11834
         ]
       },
       {
-        "Blessed chaps": [
-          12494,
-          12510,
-          12502,
-          10380,
-          10388,
-          10372
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ],
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
         ]
       }
     ],
@@ -142,6 +174,10 @@
         ]
       },
       {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
         "Zamorakian hasta": [
           11889
         ]
@@ -152,6 +188,14 @@
           13267,
           13269,
           13271
+        ]
+      },
+      {
+        "Dragon sword": [
+          21009
+        ],
+        "Leaf-bladed sword": [
+          11902
         ]
       }
     ],
@@ -171,14 +215,14 @@
         ]
       },
       {
-        "Unholy book": [
-          3842
-        ]
-      },
-      {
         "Dragonfire shield": [
           11284,
           11283
+        ]
+      },
+      {
+        "Unholy book": [
+          3842
         ]
       }
     ],
@@ -195,8 +239,14 @@
         ]
       },
       {
-        "Regen bracelet": [
-          11133
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
         ]
       }
     ],
@@ -204,9 +254,6 @@
       {
         "Primordial boots": [
           13239
-        ],
-        "Eternal boots": [
-          13235
         ]
       },
       {
@@ -258,6 +305,12 @@
           26761,
           26762
         ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
       }
     ],
     "special": [
@@ -272,6 +325,12 @@
       {
         "Dragon claws": [
           13652
+        ],
+        "Bone dagger": [
+          8872,
+          8874,
+          8876,
+          8878
         ]
       },
       {
@@ -307,38 +366,12 @@
           23971,
           23973
         ]
-      },
-      {
-        "Neitiznot faceguard": [
-          24271
-        ]
       }
     ],
     "neck": [
       {
         "Necklace of anguish": [
           19547
-        ]
-      },
-      {
-        "Amulet of blood fury": [
-          24780
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
         ]
       }
     ],
@@ -362,11 +395,6 @@
       {
         "Ava's accumulator": [
           10499
-        ],
-        "Fire cape": [
-          6570,
-          20445,
-          24223
         ]
       }
     ],
@@ -407,6 +435,11 @@
           4943,
           4944
         ]
+      },
+      {
+        "Black d'hide body": [
+          2503
+        ]
       }
     ],
     "legs": [
@@ -446,6 +479,11 @@
           4949,
           4950
         ]
+      },
+      {
+        "Black d'hide chaps": [
+          2497
+        ]
       }
     ],
     "weapon": [
@@ -479,6 +517,11 @@
         "Dragon crossbow": [
           21902
         ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ]
       }
     ],
     "shield": [
@@ -496,11 +539,6 @@
       {
         "Odium ward": [
           11926
-        ]
-      },
-      {
-        "Unholy book": [
-          3842
         ]
       }
     ],
@@ -532,16 +570,6 @@
         "Zaryte vambraces": [
           26235
         ]
-      },
-      {
-        "Barrows gloves": [
-          7462
-        ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ]
       }
     ],
     "feet": [],
@@ -553,34 +581,23 @@
         "Lightbearer": [
           25975
         ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
-        "Ring of suffering (ri)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
       }
     ],
     "special": [
       {
         "Zaryte crossbow": [
           26374
+        ]
+      },
+      {
+        "Bandos godsword": [
+          11804
+        ],
+        "Bone dagger": [
+          8872,
+          8874,
+          8876,
+          8878
         ]
       },
       {
@@ -620,8 +637,14 @@
         ]
       },
       {
-        "Neitiznot faceguard": [
-          24271
+        "Dagon'hai hat": [
+          24288
+        ],
+        "Infinity hat": [
+          6918
+        ],
+        "Bloodbark helm": [
+          25413
         ]
       }
     ],
@@ -629,27 +652,6 @@
       {
         "Occult necklace": [
           12002
-        ]
-      },
-      {
-        "Amulet of blood fury": [
-          24780
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
         ]
       }
     ],
@@ -668,13 +670,6 @@
           21793,
           24240,
           24249
-        ]
-      },
-      {
-        "Fire cape": [
-          6570,
-          20445,
-          24223
         ]
       }
     ],
@@ -705,8 +700,19 @@
         ]
       },
       {
+        "Dagon'hai robe top": [
+          24291
+        ],
+        "Infinity top": [
+          6916
+        ],
         "Bloodbark body": [
           25404
+        ]
+      },
+      {
+        "Mystic robe top": [
+          4091
         ]
       }
     ],
@@ -737,8 +743,19 @@
         ]
       },
       {
+        "Dagon'hai robe bottom": [
+          24294
+        ],
+        "Infinity bottoms": [
+          6924
+        ],
         "Bloodbark legs": [
           25416
+        ]
+      },
+      {
+        "Mystic robe bottom": [
+          4093
         ]
       }
     ],
@@ -767,6 +784,16 @@
           11907,
           11905
         ]
+      },
+      {
+        "Accursed sceptre": [
+          27662,
+          27665
+        ],
+        "Warped sceptre": [
+          28583,
+          28585
+        ]
       }
     ],
     "shield": [
@@ -776,18 +803,36 @@
         ]
       },
       {
+        "Arcane spirit shield": [
+          12825
+        ],
         "Elidinis' ward": [
           25985
         ]
       },
       {
-        "Arcane spirit shield": [
-          12825
+        "Malediction ward": [
+          11924
+        ],
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Mage's book": [
+          6889
         ]
       },
       {
-        "Malediction ward": [
-          11924
+        "God book": [
+          3840,
+          3842,
+          3844,
+          12608,
+          12610,
+          12612
+        ],
+        "Book of the dead": [
+          25818
         ]
       }
     ],
@@ -806,6 +851,17 @@
       {
         "Regen bracelet": [
           11133
+        ]
+      },
+      {
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
         ]
       }
     ],
@@ -848,7 +904,13 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Seercull": [
+          6724
+        ]
+      }
+    ]
   },
   {
     "name": "Zebak",
