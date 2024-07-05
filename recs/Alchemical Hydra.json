@@ -384,6 +384,13 @@
         ]
       },
       {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ]
+      },
+      {
         "Fighter torso": [
           10551,
           20513,
@@ -393,11 +400,6 @@
       {
         "Obsidian platebody": [
           21301
-        ]
-      },
-      {
-        "Proselyte hauberk": [
-          9674
         ]
       }
     ],
@@ -417,15 +419,15 @@
         ]
       },
       {
-        "Obsidian platelegs": [
-          21304
-        ]
-      },
-      {
         "Blood moon tassets": [
           29025,
           29045,
           29070
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
         ]
       },
       {

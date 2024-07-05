@@ -2179,6 +2179,13 @@
             ]
           },
           {
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
+            ]
+          },
+          {
             "Fighter torso": [
               10551,
               20513,
@@ -2188,11 +2195,6 @@
           {
             "Obsidian platebody": [
               21301
-            ]
-          },
-          {
-            "Proselyte hauberk": [
-              9674
             ]
           }
         ],
@@ -2212,15 +2214,15 @@
             ]
           },
           {
-            "Obsidian platelegs": [
-              21304
-            ]
-          },
-          {
             "Blood moon tassets": [
               29025,
               29045,
               29070
+            ]
+          },
+          {
+            "Obsidian platelegs": [
+              21304
             ]
           },
           {
@@ -4075,6 +4077,11 @@
             "Rune boots": [
               4131
             ]
+          },
+          {
+            "Climbing boots": [
+              3105
+            ]
           }
         ],
         "ring": [
@@ -4547,6 +4554,11 @@
               19927,
               19933,
               19936
+            ]
+          },
+          {
+            "Mixed hide boots": [
+              29286
             ]
           },
           {
@@ -14556,6 +14568,9 @@
             ]
           },
           {
+            "Osmumten's fang": [
+              26219
+            ],
             "Abyssal tentacle": [
               12006
             ],
@@ -35795,6 +35810,11 @@
             ]
           },
           {
+            "Dragon warhammer": [
+              13576
+            ]
+          },
+          {
             "Voidwaker": [
               27690
             ]
@@ -37167,6 +37187,12 @@
           {
             "Zaryte crossbow": [
               26374
+            ]
+          },
+          {
+            "Tonalztics of ralos": [
+              28919,
+              28922
             ]
           },
           {
@@ -45323,6 +45349,11 @@
             "Dragon mace": [
               1434
             ]
+          },
+          {
+            "Dragon 2h sword": [
+              7158
+            ]
           }
         ]
       },
@@ -47294,16 +47325,8 @@
         ],
         "neck": [
           {
-            "Rainbow scarf": [
-              21314,
-              28108,
-              28109,
-              28110,
-              28111,
-              28112,
-              28113,
-              28114,
-              28115
+            "Gnome scarf": [
+              9470
             ]
           },
           {
