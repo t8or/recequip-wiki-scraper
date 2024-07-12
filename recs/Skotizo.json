@@ -241,6 +241,11 @@
     ],
     "weapon": [
       {
+        "Emberlight": [
+          29589
+        ]
+      },
+      {
         "Arclight": [
           19675
         ]
@@ -266,11 +271,6 @@
         ],
         "Inquisitor's mace": [
           24417
-        ]
-      },
-      {
-        "Abyssal tentacle": [
-          12006
         ]
       }
     ],
