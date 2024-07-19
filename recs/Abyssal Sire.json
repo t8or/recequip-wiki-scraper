@@ -443,7 +443,7 @@
     "special": []
   },
   {
-    "name": "Phase 2 Osmumten's Fang",
+    "name": "Phase 2 Melee - DPS",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -674,6 +674,11 @@
     ],
     "weapon": [
       {
+        "Emberlight": [
+          29589
+        ]
+      },
+      {
         "Osmumten's fang": [
           26219
         ]
@@ -790,6 +795,11 @@
       {
         "Voidwaker": [
           27690
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
         ]
       },
       {
@@ -1041,11 +1051,6 @@
       }
     ],
     "weapon": [
-      {
-        "Emberlight": [
-          29589
-        ]
-      },
       {
         "Arclight": [
           19675

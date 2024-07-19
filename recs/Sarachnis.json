@@ -457,6 +457,13 @@
     "name": "Melee Tank",
     "head": [
       {
+        "slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
         "Justiciar faceguard": [
           22326
         ]

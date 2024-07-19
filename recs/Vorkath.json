@@ -1191,6 +1191,11 @@
     ],
     "special": [
       {
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
         "Voidwaker": [
           27690
         ]
@@ -1206,6 +1211,9 @@
         ]
       },
       {
+        "Emberlight": [
+          29589
+        ],
         "Arclight": [
           19675
         ]

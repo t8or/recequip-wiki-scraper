@@ -113,14 +113,14 @@
     ],
     "body": [
       {
-        "Inquisitor's hauberk": [
-          24420
-        ]
-      },
-      {
         "Torva platebody": [
           26378,
           26384
+        ]
+      },
+      {
+        "Inquisitor's hauberk": [
+          24420
         ]
       },
       {
@@ -250,6 +250,11 @@
         ]
       },
       {
+        "Emberlight": [
+          29589
+        ]
+      },
+      {
         "Soulreaper axe": [
           28338
         ],
@@ -268,11 +273,6 @@
         ],
         "Osmumten's fang": [
           26219
-        ]
-      },
-      {
-        "Abyssal bludgeon": [
-          13263
         ]
       }
     ],

@@ -448,7 +448,7 @@
         "special": []
       },
       {
-        "name": "Phase 2 Osmumten's Fang",
+        "name": "Phase 2 Melee - DPS",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -679,6 +679,11 @@
         ],
         "weapon": [
           {
+            "Emberlight": [
+              29589
+            ]
+          },
+          {
             "Osmumten's fang": [
               26219
             ]
@@ -795,6 +800,11 @@
           {
             "Voidwaker": [
               27690
+            ]
+          },
+          {
+            "Burning claws": [
+              29577
             ]
           },
           {
@@ -1046,11 +1056,6 @@
           }
         ],
         "weapon": [
-          {
-            "Emberlight": [
-              29589
-            ]
-          },
           {
             "Arclight": [
               19675
@@ -1998,7 +2003,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -5133,14 +5138,14 @@
         ],
         "body": [
           {
-            "Inquisitor's hauberk": [
-              24420
-            ]
-          },
-          {
             "Torva platebody": [
               26378,
               26384
+            ]
+          },
+          {
+            "Inquisitor's hauberk": [
+              24420
             ]
           },
           {
@@ -5270,6 +5275,11 @@
             ]
           },
           {
+            "Emberlight": [
+              29589
+            ]
+          },
+          {
             "Soulreaper axe": [
               28338
             ],
@@ -5288,11 +5298,6 @@
             ],
             "Osmumten's fang": [
               26219
-            ]
-          },
-          {
-            "Abyssal bludgeon": [
-              13263
             ]
           }
         ],
@@ -6248,7 +6253,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -7145,13 +7150,13 @@
             ]
           },
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
               11229
             ],
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -12003,13 +12008,13 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
               11229
             ],
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -13637,14 +13642,14 @@
             "Scythe of vitur": [
               22486,
               22325
-            ],
-            "Emberlight": [
-              29589
             ]
           },
           {
             "Soulreaper axe": [
               28338
+            ],
+            "Emberlight": [
+              29589
             ]
           },
           {
@@ -13833,6 +13838,12 @@
             ]
           },
           {
+            "Abyssal dagger (p++)": [
+              13265,
+              13267,
+              13269,
+              13271
+            ],
             "Dragon dagger(p++)": [
               1215,
               1231,
@@ -19470,7 +19481,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -19487,7 +19498,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -19509,7 +19520,7 @@
             ]
           },
           {
-            "Rune arrows": [
+            "Rune arrow": [
               892,
               893,
               5621,
@@ -20245,7 +20256,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -20586,7 +20597,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -24894,7 +24905,7 @@
             "Amethyst broad bolts": [
               21316
             ],
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -27730,7 +27741,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -27741,7 +27752,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -28076,7 +28087,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -28087,7 +28098,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -28376,7 +28387,7 @@
         "shield": [],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -28387,7 +28398,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -28401,7 +28412,7 @@
             ]
           },
           {
-            "Rune arrows": [
+            "Rune arrow": [
               892,
               893,
               5621,
@@ -31182,7 +31193,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -31196,7 +31207,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -31210,7 +31221,7 @@
             ]
           },
           {
-            "Rune arrows": [
+            "Rune arrow": [
               892,
               893,
               5621,
@@ -31684,7 +31695,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -31698,7 +31709,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -31712,7 +31723,7 @@
             ]
           },
           {
-            "Rune arrows": [
+            "Rune arrow": [
               892,
               893,
               5621,
@@ -32722,6 +32733,13 @@
       {
         "name": "Melee Tank",
         "head": [
+          {
+            "slayer helmet (i)": [
+              11865,
+              25177,
+              26674
+            ]
+          },
           {
             "Justiciar faceguard": [
               22326
@@ -37072,7 +37090,7 @@
             "Ruby dragon bolts (e)": [
               21944
             ],
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -37080,7 +37098,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -37091,7 +37109,7 @@
             ]
           },
           {
-            "Rune arrows": [
+            "Rune arrow": [
               892,
               893,
               5621,
@@ -38215,14 +38233,14 @@
         ],
         "weapon": [
           {
-            "Scythe of vitur": [
-              22486,
-              22325
+            "Inquisitor's mace": [
+              24417
             ]
           },
           {
-            "Inquisitor's mace": [
-              24417
+            "Scythe of vitur": [
+              22486,
+              22325
             ]
           },
           {
@@ -38989,7 +39007,7 @@
         ],
         "ammo": [
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -39371,7 +39389,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -39625,7 +39643,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -39879,7 +39897,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -41051,13 +41069,13 @@
               11233,
               11234
             ],
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
               21336
             ],
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -41488,7 +41506,7 @@
               20232,
               20235
             ],
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -41927,7 +41945,7 @@
               20232,
               20235
             ],
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -42406,7 +42424,7 @@
               20232,
               20235
             ],
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -43906,7 +43924,7 @@
               20232,
               20235
             ],
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -44999,6 +45017,9 @@
             ],
             "Voidwaker": [
               27690
+            ],
+            "Burning claws": [
+              29577
             ]
           },
           {
@@ -47322,6 +47343,11 @@
         ],
         "special": [
           {
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
             "Voidwaker": [
               27690
             ]
@@ -47337,6 +47363,9 @@
             ]
           },
           {
+            "Emberlight": [
+              29589
+            ],
             "Arclight": [
               19675
             ]
@@ -48724,7 +48753,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -48732,7 +48761,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -48740,7 +48769,7 @@
             ]
           },
           {
-            "Rune arrows": [
+            "Rune arrow": [
               892,
               893,
               5621,
@@ -49050,7 +49079,7 @@
         "shield": [],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
@@ -49058,7 +49087,7 @@
             ]
           },
           {
-            "Amethyst arrows": [
+            "Amethyst arrow": [
               21326,
               21332,
               21334,
@@ -49066,7 +49095,7 @@
             ]
           },
           {
-            "Rune arrows": [
+            "Rune arrow": [
               892,
               893,
               5621,
@@ -50470,8 +50499,8 @@
             ]
           },
           {
-            "Dragon claws": [
-              13652
+            "Burning claws": [
+              29577
             ],
             "Bone dagger": [
               8872,
@@ -50691,7 +50720,7 @@
         ],
         "ammo": [
           {
-            "Dragon arrows": [
+            "Dragon arrow": [
               11212,
               11227,
               11228,
