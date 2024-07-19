@@ -323,8 +323,8 @@
         ]
       },
       {
-        "Dragon claws": [
-          13652
+        "Burning claws": [
+          29577
         ],
         "Bone dagger": [
           8872,
@@ -544,7 +544,7 @@
     ],
     "ammo": [
       {
-        "Dragon arrows": [
+        "Dragon arrow": [
           11212,
           11227,
           11228,
