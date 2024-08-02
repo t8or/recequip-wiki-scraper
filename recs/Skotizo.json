@@ -686,6 +686,11 @@
         ]
       },
       {
+        "Scorching bow": [
+          29591
+        ]
+      },
+      {
         "Bow of faerdhinen": [
           25862,
           25865
@@ -700,9 +705,7 @@
       {
         "Armadyl crossbow": [
           11785
-        ]
-      },
-      {
+        ],
         "Dragon crossbow": [
           21902
         ]

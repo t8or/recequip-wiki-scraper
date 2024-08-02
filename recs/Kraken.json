@@ -235,11 +235,6 @@
         ]
       },
       {
-        "Harmonised nightmare staff": [
-          24423
-        ]
-      },
-      {
         "Sanguinesti staff": [
           22481,
           22323
@@ -249,7 +244,9 @@
         "Trident of the swamp": [
           12900,
           12899
-        ],
+        ]
+      },
+      {
         "Trident of the seas": [
           11908,
           11907,
@@ -257,11 +254,8 @@
         ]
       },
       {
-        "Kodai wand": [
-          21006
-        ],
-        "Nightmare staff": [
-          24422
+        "Harmonised nightmare staff": [
+          24423
         ]
       }
     ],

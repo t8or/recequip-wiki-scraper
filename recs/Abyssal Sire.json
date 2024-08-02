@@ -86,28 +86,18 @@
           21914,
           24222
         ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
-        ],
-        "Ranging cape": [
-          9756,
-          9757
-        ]
       }
     ],
     "body": [
       {
-        "Crystal body": [
-          23975,
-          23977
+        "Masori body (f)": [
+          27238
         ]
       },
       {
-        "Armadyl chestplate": [
-          11828
+        "Crystal body": [
+          23975,
+          23977
         ]
       },
       {
@@ -119,14 +109,6 @@
           10386,
           10370
         ],
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
-        ],
         "Black d'hide body": [
           2503
         ]
@@ -134,14 +116,14 @@
     ],
     "legs": [
       {
-        "Crystal legs": [
-          23979,
-          23981
+        "Masori chaps (f)": [
+          27241
         ]
       },
       {
-        "Armadyl chainskirt": [
-          11830
+        "Crystal legs": [
+          23979,
+          23981
         ]
       },
       {
@@ -153,20 +135,17 @@
           10388,
           10372
         ],
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
-        ],
         "Black d'hide chaps": [
           2497
         ]
       }
     ],
     "weapon": [
+      {
+        "Scorching bow": [
+          29591
+        ]
+      },
       {
         "Bow of faerdhinen": [
           25862,
@@ -189,13 +168,13 @@
         "Webweaver bow": [
           27652,
           27655
-        ]
-      },
-      {
+        ],
         "Craw's bow": [
           22547,
           22550
-        ],
+        ]
+      },
+      {
         "Crystal bow": [
           23983,
           23985,
@@ -204,7 +183,24 @@
       }
     ],
     "shield": [],
-    "ammo": [],
+    "ammo": [
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ]
+      }
+    ],
     "hands": [
       {
         "Zaryte vambraces": [
@@ -231,37 +227,7 @@
       }
     ],
     "feet": [],
-    "ring": [
-      {
-        "Venator ring": [
-          28310
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Ring of suffering (i)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
-      },
-      {
-        "Tyrannical ring (i)": [
-          12691,
-          25254,
-          26765
-        ]
-      }
-    ],
+    "ring": [],
     "special": []
   },
   {
@@ -1052,14 +1018,14 @@
     ],
     "weapon": [
       {
-        "Arclight": [
-          19675
-        ]
-      },
-      {
         "Scythe of vitur": [
           22486,
           22325
+        ]
+      },
+      {
+        "Arclight": [
+          19675
         ]
       },
       {
@@ -1170,6 +1136,11 @@
         ]
       },
       {
+        "Bellator ring": [
+          28316
+        ]
+      },
+      {
         "Lightbearer": [
           25975
         ]
@@ -1190,19 +1161,17 @@
           26761,
           26762
         ]
-      },
-      {
-        "Ring of the gods (i)": [
-          13202,
-          25252,
-          26764
-        ]
       }
     ],
     "special": [
       {
         "Elder maul": [
           21003
+        ]
+      },
+      {
+        "Dragon warhammer": [
+          13576
         ]
       },
       {
@@ -1581,16 +1550,6 @@
         ]
       },
       {
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
-        ]
-      },
-      {
         "Blessed body": [
           12492,
           12508,
@@ -1598,6 +1557,16 @@
           10378,
           10386,
           10370
+        ]
+      },
+      {
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
         ]
       },
       {
@@ -1618,16 +1587,6 @@
         ]
       },
       {
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
-        ]
-      },
-      {
         "Blessed chaps": [
           12494,
           12510,
@@ -1638,12 +1597,27 @@
         ]
       },
       {
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
+        ]
+      },
+      {
         "Black d'hide chaps": [
           2497
         ]
       }
     ],
     "weapon": [
+      {
+        "Scorching bow": [
+          29591
+        ]
+      },
       {
         "Twisted bow": [
           20997
@@ -1653,31 +1627,10 @@
         "Toxic blowpipe": [
           12924,
           12926
-        ],
-        "Adamant dart": [
-          810,
-          816,
-          5633,
-          5640
         ]
       }
     ],
-    "shield": [
-      {
-        "Avernic defender": [
-          22322,
-          22441,
-          24186
-        ]
-      },
-      {
-        "Dragon defender": [
-          12954,
-          20463,
-          24143
-        ]
-      }
-    ],
+    "shield": [],
     "ammo": [
       {
         "Dragon arrow": [
@@ -1706,18 +1659,24 @@
     ],
     "hands": [
       {
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
+      {
         "Barrows gloves": [
           7462
         ]
       },
       {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Rune gloves": [
-          7460
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
         ]
       }
     ],
