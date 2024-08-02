@@ -7,9 +7,7 @@
           11865,
           25177,
           26674
-        ]
-      },
-      {
+        ],
         "Black mask (i)": [
           11784,
           11783,
@@ -102,6 +100,15 @@
     ],
     "cape": [
       {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
         "Ava's assembler": [
           22109,
           21914,
@@ -177,20 +184,21 @@
         ]
       },
       {
-        "Magic shortbow (i)": [
-          12788
+        "Hunters' sunlight crossbow": [
+          28869
         ]
       },
       {
-        "Armadyl crossbow": [
-          11785
+        "Dragon crossbow": [
+          21902
+        ],
+        "Rune crossbow": [
+          9185
         ]
       },
       {
-        "Crystal bow": [
-          23983,
-          23985,
-          24123
+        "Magic shortbow": [
+          861
         ]
       }
     ],
@@ -213,11 +221,13 @@
     ],
     "ammo": [
       {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
+        "Moonlight antler bolts": [
+          28878
+        ]
+      },
+      {
+        "Diamond dragon bolts (e)": [
+          21946
         ]
       },
       {
@@ -226,13 +236,17 @@
         ]
       },
       {
-        "Ruby bolts (e)": [
-          9242
-        ]
-      },
-      {
-        "Broad bolts": [
-          11875
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ],
+        "Rune arrow": [
+          892,
+          893,
+          5621,
+          5627
         ]
       }
     ],
@@ -255,11 +269,6 @@
       {
         "Black d'hide vambraces": [
           2491
-        ]
-      },
-      {
-        "Red d'hide vambraces": [
-          2489
         ]
       }
     ],
@@ -286,6 +295,12 @@
       }
     ],
     "ring": [
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
       {
         "Explorer's ring 4": [
           13128
