@@ -247,19 +247,17 @@
         "Scythe of vitur": [
           22486,
           22325
-        ]
-      },
-      {
+        ],
         "Emberlight": [
           29589
         ]
       },
       {
-        "Soulreaper axe": [
-          28338
-        ],
         "Inquisitor's mace": [
           24417
+        ],
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
@@ -270,7 +268,9 @@
       {
         "Ghrazi rapier": [
           22324
-        ],
+        ]
+      },
+      {
         "Osmumten's fang": [
           26219
         ]
@@ -428,6 +428,9 @@
         ]
       },
       {
+        "Burning claws": [
+          29577
+        ],
         "Elder maul": [
           21003
         ]
