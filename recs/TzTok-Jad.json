@@ -3707,6 +3707,11 @@
     ],
     "feet": [
       {
+        "Holy sandals": [
+          12598
+        ]
+      },
+      {
         "Blessed boots": [
           19921,
           19930,
@@ -3727,11 +3732,6 @@
         ],
         "Snakeskin boots": [
           6328
-        ]
-      },
-      {
-        "Climbing boots": [
-          3105
         ]
       }
     ],
