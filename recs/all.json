@@ -30305,7 +30305,7 @@
     "category": "World",
     "styles": [
       {
-        "name": "Default",
+        "name": "Ranged",
         "head": [
           {
             "Masori mask (f)": [
@@ -30570,7 +30570,7 @@
         ]
       },
       {
-        "name": "Default",
+        "name": "Hybrid",
         "head": [
           {
             "Torva full helm": [
