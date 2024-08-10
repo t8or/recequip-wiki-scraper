@@ -242,8 +242,9 @@ def run():
         #     # 'Deranged_archaeologist/Strategies',
         #     # 'Dagannoth_Kings/Strategies',
         #     # 'Sarachnis/Strategies'
-        #     'Callisto/Strategies',
+        #     # 'Callisto/Strategies',
         #     # 'The Leviathan/Strategies',
+        #     'Nex/Strategies',
         # ]
         res = api.get_wiki_api({
             "action": "query",
@@ -270,7 +271,7 @@ def run():
                 del newData['title']
                 allActivityGearRecs.append(newData)
 
-                util.write_json(f'recs/{name}.json', f'recs/{name}.min.json', allGearRecs)
+                util.write_json(f'recs/{name}.json', None, allGearRecs)
         util.write_json(f'recs/all.json', f'recs/all.min.json', allActivityGearRecs)
     util.write_json(None, itemCacheFile, itemCache)
 
