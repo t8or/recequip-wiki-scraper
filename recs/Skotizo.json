@@ -459,8 +459,8 @@
         ]
       },
       {
-        "Dragon warhammer": [
-          13576
+        "Bandos godsword": [
+          11804
         ]
       },
       {
@@ -469,11 +469,14 @@
         ]
       },
       {
-        "Dragon claws": [
-          13652
+        "Dragon warhammer": [
+          13576
         ]
       },
       {
+        "Dragon claws": [
+          13652
+        ],
         "Arclight": [
           19675
         ]
@@ -920,23 +923,26 @@
         ]
       },
       {
-        "Arclight": [
-          19675
-        ]
-      },
-      {
         "Bandos godsword": [
           11804
         ]
       },
       {
-        "Heavy ballista": [
-          19481
+        "Voidwaker": [
+          27690
         ]
       },
       {
-        "Voidwaker": [
-          27690
+        "Dragon warhammer": [
+          13576
+        ]
+      },
+      {
+        "Dragon claws": [
+          13652
+        ],
+        "Arclight": [
+          19675
         ]
       }
     ]

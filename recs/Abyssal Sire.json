@@ -1018,6 +1018,11 @@
     ],
     "weapon": [
       {
+        "Emberlight": [
+          29589
+        ]
+      },
+      {
         "Scythe of vitur": [
           22486,
           22325
@@ -1172,6 +1177,11 @@
       {
         "Dragon warhammer": [
           13576
+        ]
+      },
+      {
+        "Emberlight": [
+          29589
         ]
       },
       {
@@ -1333,6 +1343,11 @@
         "Tumeken's shadow": [
           27277,
           27275
+        ]
+      },
+      {
+        "Purging staff": [
+          29594
         ]
       }
     ],
@@ -1550,6 +1565,12 @@
         ]
       },
       {
+        "Crystal body": [
+          23975,
+          23977
+        ]
+      },
+      {
         "Blessed body": [
           12492,
           12508,
@@ -1568,11 +1589,6 @@
           4943,
           4944
         ]
-      },
-      {
-        "Black d'hide body": [
-          2503
-        ]
       }
     ],
     "legs": [
@@ -1584,6 +1600,12 @@
       {
         "Armadyl chainskirt": [
           11830
+        ]
+      },
+      {
+        "Crystal legs": [
+          23979,
+          23981
         ]
       },
       {
@@ -1605,11 +1627,6 @@
           4949,
           4950
         ]
-      },
-      {
-        "Black d'hide chaps": [
-          2497
-        ]
       }
     ],
     "weapon": [
@@ -1621,6 +1638,18 @@
       {
         "Twisted bow": [
           20997
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       },
       {
@@ -1702,8 +1731,8 @@
         ]
       },
       {
-        "Guardian boots": [
-          21733
+        "Mixed hide boots": [
+          29286
         ]
       },
       {

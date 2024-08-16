@@ -18,9 +18,6 @@
         ]
       },
       {
-        "Infinity hat": [
-          6918
-        ],
         "Ahrim's hood": [
           4708,
           4856,
@@ -33,17 +30,22 @@
           29019,
           29041,
           29064
-        ]
-      },
-      {
+        ],
         "Bloodbark helm": [
           25413
-        ],
-        "Dagon'hai hat": [
-          24288
         ]
       },
       {
+        "Void mage helm": [
+          11663,
+          20477,
+          24183
+        ]
+      },
+      {
+        "Dagon'hai hat": [
+          24288
+        ],
         "Elder chaos hood": [
           20595
         ]
@@ -235,16 +237,24 @@
           29013,
           29037,
           29058
+        ],
+        "Bloodbark body": [
+          25404
+        ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
         ]
       },
       {
         "Dagon'hai robe top": [
           24291
-        ]
-      },
-      {
-        "Infinity top": [
-          6916
+        ],
+        "Elder chaos top": [
+          20517
         ]
       }
     ],
@@ -272,16 +282,24 @@
           29016,
           29039,
           29061
+        ],
+        "Bloodbark legs": [
+          25416
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
         ]
       },
       {
         "Dagon'hai robe bottom": [
           24294
-        ]
-      },
-      {
-        "Infinity bottoms": [
-          6924
+        ],
+        "Elder chaos robe": [
+          20520
         ]
       }
     ],
@@ -391,6 +409,13 @@
       {
         "Tormented bracelet": [
           19544
+        ]
+      },
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182
         ]
       },
       {

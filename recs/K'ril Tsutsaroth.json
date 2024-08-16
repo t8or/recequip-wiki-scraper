@@ -62,6 +62,11 @@
           4871,
           4872
         ]
+      },
+      {
+        "Bloodbark body": [
+          25404
+        ]
       }
     ],
     "legs": [
@@ -84,6 +89,11 @@
           4877,
           4878
         ]
+      },
+      {
+        "Bloodbark legs": [
+          25416
+        ]
       }
     ],
     "weapon": [
@@ -92,9 +102,40 @@
           27277,
           27275
         ]
+      },
+      {
+        "Purging staff": [
+          29594
+        ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ]
+      },
+      {
+        "Elidinis' ward": [
+          25985
+        ],
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Malediction ward": [
+          11924
+        ],
+        "Mage's book": [
+          6889
+        ]
+      }
+    ],
     "ammo": [
       {
         "Unholy blessing": [
