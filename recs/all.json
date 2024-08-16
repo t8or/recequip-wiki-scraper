@@ -1023,6 +1023,11 @@
         ],
         "weapon": [
           {
+            "Emberlight": [
+              29589
+            ]
+          },
+          {
             "Scythe of vitur": [
               22486,
               22325
@@ -1177,6 +1182,11 @@
           {
             "Dragon warhammer": [
               13576
+            ]
+          },
+          {
+            "Emberlight": [
+              29589
             ]
           },
           {
@@ -1338,6 +1348,11 @@
             "Tumeken's shadow": [
               27277,
               27275
+            ]
+          },
+          {
+            "Purging staff": [
+              29594
             ]
           }
         ],
@@ -1555,6 +1570,12 @@
             ]
           },
           {
+            "Crystal body": [
+              23975,
+              23977
+            ]
+          },
+          {
             "Blessed body": [
               12492,
               12508,
@@ -1573,11 +1594,6 @@
               4943,
               4944
             ]
-          },
-          {
-            "Black d'hide body": [
-              2503
-            ]
           }
         ],
         "legs": [
@@ -1589,6 +1605,12 @@
           {
             "Armadyl chainskirt": [
               11830
+            ]
+          },
+          {
+            "Crystal legs": [
+              23979,
+              23981
             ]
           },
           {
@@ -1610,11 +1632,6 @@
               4949,
               4950
             ]
-          },
-          {
-            "Black d'hide chaps": [
-              2497
-            ]
           }
         ],
         "weapon": [
@@ -1626,6 +1643,18 @@
           {
             "Twisted bow": [
               20997
+            ]
+          },
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          },
+          {
+            "Bow of faerdhinen": [
+              25862,
+              25865
             ]
           },
           {
@@ -1707,8 +1736,8 @@
             ]
           },
           {
-            "Guardian boots": [
-              21733
+            "Mixed hide boots": [
+              29286
             ]
           },
           {
@@ -13644,14 +13673,14 @@
             ]
           },
           {
-            "Blade of saeldor": [
-              23997,
-              23995
+            "Arclight": [
+              19675
             ]
           },
           {
-            "Arclight": [
-              19675
+            "Blade of saeldor": [
+              23997,
+              23995
             ]
           },
           {
@@ -15123,6 +15152,11 @@
             "Elder maul": [
               21003
             ]
+          },
+          {
+            "Bandos godsword": [
+              11804
+            ]
           }
         ]
       },
@@ -15870,6 +15904,11 @@
           {
             "Elder maul": [
               21003
+            ]
+          },
+          {
+            "Bandos godsword": [
+              11804
             ]
           },
           {
@@ -20809,6 +20848,11 @@
               4871,
               4872
             ]
+          },
+          {
+            "Bloodbark body": [
+              25404
+            ]
           }
         ],
         "legs": [
@@ -20831,6 +20875,11 @@
               4877,
               4878
             ]
+          },
+          {
+            "Bloodbark legs": [
+              25416
+            ]
           }
         ],
         "weapon": [
@@ -20839,9 +20888,40 @@
               27277,
               27275
             ]
+          },
+          {
+            "Purging staff": [
+              29594
+            ]
           }
         ],
-        "shield": [],
+        "shield": [
+          {
+            "Elidinis' ward (f)": [
+              27251
+            ]
+          },
+          {
+            "Arcane spirit shield": [
+              12825
+            ]
+          },
+          {
+            "Elidinis' ward": [
+              25985
+            ],
+            "Ancient wyvern shield": [
+              21634,
+              21633
+            ],
+            "Malediction ward": [
+              11924
+            ],
+            "Mage's book": [
+              6889
+            ]
+          }
+        ],
         "ammo": [
           {
             "Unholy blessing": [
@@ -35947,8 +36027,8 @@
             ]
           },
           {
-            "Dragon warhammer": [
-              13576
+            "Bandos godsword": [
+              11804
             ]
           },
           {
@@ -35957,11 +36037,14 @@
             ]
           },
           {
-            "Dragon claws": [
-              13652
+            "Dragon warhammer": [
+              13576
             ]
           },
           {
+            "Dragon claws": [
+              13652
+            ],
             "Arclight": [
               19675
             ]
@@ -36408,23 +36491,26 @@
             ]
           },
           {
-            "Arclight": [
-              19675
-            ]
-          },
-          {
             "Bandos godsword": [
               11804
             ]
           },
           {
-            "Heavy ballista": [
-              19481
+            "Voidwaker": [
+              27690
             ]
           },
           {
-            "Voidwaker": [
-              27690
+            "Dragon warhammer": [
+              13576
+            ]
+          },
+          {
+            "Dragon claws": [
+              13652
+            ],
+            "Arclight": [
+              19675
             ]
           }
         ]
@@ -36540,16 +36626,18 @@
             ]
           },
           {
-            "Imcando hammer": [
-              25644,
-              25633
-            ],
             "Barb-tail harpoon": [
               10129
             ]
           }
         ],
-        "shield": [],
+        "shield": [
+          {
+            "Imcando hammer (offhand)": [
+              29775
+            ]
+          }
+        ],
         "ammo": [
           {
             "Ghommal's lucky penny": [
@@ -38517,9 +38605,6 @@
             ]
           },
           {
-            "Infinity hat": [
-              6918
-            ],
             "Ahrim's hood": [
               4708,
               4856,
@@ -38532,17 +38617,22 @@
               29019,
               29041,
               29064
-            ]
-          },
-          {
+            ],
             "Bloodbark helm": [
               25413
-            ],
-            "Dagon'hai hat": [
-              24288
             ]
           },
           {
+            "Void mage helm": [
+              11663,
+              20477,
+              24183
+            ]
+          },
+          {
+            "Dagon'hai hat": [
+              24288
+            ],
             "Elder chaos hood": [
               20595
             ]
@@ -38734,16 +38824,24 @@
               29013,
               29037,
               29058
+            ],
+            "Bloodbark body": [
+              25404
+            ]
+          },
+          {
+            "Elite void top": [
+              13072,
+              20467,
+              24178
             ]
           },
           {
             "Dagon'hai robe top": [
               24291
-            ]
-          },
-          {
-            "Infinity top": [
-              6916
+            ],
+            "Elder chaos top": [
+              20517
             ]
           }
         ],
@@ -38771,16 +38869,24 @@
               29016,
               29039,
               29061
+            ],
+            "Bloodbark legs": [
+              25416
+            ]
+          },
+          {
+            "Elite void robe": [
+              13073,
+              20471,
+              24180
             ]
           },
           {
             "Dagon'hai robe bottom": [
               24294
-            ]
-          },
-          {
-            "Infinity bottoms": [
-              6924
+            ],
+            "Elder chaos robe": [
+              20520
             ]
           }
         ],
@@ -38890,6 +38996,13 @@
           {
             "Tormented bracelet": [
               19544
+            ]
+          },
+          {
+            "Void knight gloves": [
+              8842,
+              20475,
+              24182
             ]
           },
           {
@@ -39921,6 +40034,312 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Maiden",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Scythe of vitur": [
+              22486,
+              22325
+            ]
+          },
+          {
+            "Twisted bow": [
+              20997
+            ]
+          },
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          },
+          {
+            "Soulreaper axe": [
+              28338
+            ]
+          },
+          {
+            "Blade of saeldor": [
+              23997,
+              23995
+            ],
+            "Abyssal tentacle": [
+              12006
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Bloat",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Scythe of vitur": [
+              22486,
+              22325
+            ]
+          },
+          {
+            "Blade of saeldor": [
+              23997,
+              23995
+            ]
+          },
+          {
+            "Abyssal tentacle": [
+              12006
+            ]
+          },
+          {
+            "Soulreaper axe": [
+              28338
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Melee Nylocas Vasilias",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Scythe of vitur": [
+              22486,
+              22325
+            ]
+          },
+          {
+            "Blade of saeldor": [
+              23997,
+              23995
+            ]
+          },
+          {
+            "Abyssal tentacle": [
+              12006
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Range  Nylocas Vasilias",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Twisted bow": [
+              20997
+            ]
+          },
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Mage Nylocas Vasilias",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Sanguinesti staff": [
+              22481,
+              22323
+            ]
+          },
+          {
+            "Trident of the swamp": [
+              12900,
+              12899
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Soteseg",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Scythe of vitur": [
+              22486,
+              22325
+            ]
+          },
+          {
+            "Soulreaper axe": [
+              28338
+            ]
+          },
+          {
+            "Osmumten's fang": [
+              26219
+            ]
+          },
+          {
+            "Blade of saeldor": [
+              23997,
+              23995
+            ]
+          },
+          {
+            "Abyssal tentacle": [
+              12006
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Xarpus",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Scythe of vitur": [
+              22486,
+              22325
+            ]
+          },
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          },
+          {
+            "Twisted bow": [
+              20997
+            ]
+          },
+          {
+            "Soulreaper axe": [
+              28338
+            ]
+          },
+          {
+            "Blade of saeldor": [
+              23997,
+              23995
+            ],
+            "Abyssal tentacle": [
+              12006
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Verzik",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Scythe of vitur": [
+              22486,
+              22325
+            ]
+          },
+          {
+            "Soulreaper axe": [
+              28338
+            ]
+          },
+          {
+            "Blade of saeldor": [
+              23997,
+              23995
+            ]
+          },
+          {
+            "Abyssal tentacle": [
+              12006
+            ]
+          },
+          {
+            "Osmumten's fang": [
+              26219
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
       }
     ]
   },
@@ -47295,11 +47714,8 @@
             ]
           },
           {
-            "Emberlight": [
-              29589
-            ],
-            "Arclight": [
-              19675
+            "Bandos godsword": [
+              11804
             ]
           }
         ]
@@ -48628,7 +49044,7 @@
               12924,
               12926
             ],
-            "scorching bow": [
+            "Scorching bow": [
               29591
             ]
           },

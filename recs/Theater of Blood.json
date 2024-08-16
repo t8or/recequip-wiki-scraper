@@ -911,5 +911,311 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Maiden",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Bloat",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Melee Nylocas Vasilias",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Range  Nylocas Vasilias",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Mage Nylocas Vasilias",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ]
+      },
+      {
+        "Trident of the swamp": [
+          12900,
+          12899
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Soteseg",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Xarpus",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Verzik",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
   }
 ]

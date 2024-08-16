@@ -103,16 +103,18 @@
         ]
       },
       {
-        "Imcando hammer": [
-          25644,
-          25633
-        ],
         "Barb-tail harpoon": [
           10129
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Imcando hammer (offhand)": [
+          29775
+        ]
+      }
+    ],
     "ammo": [
       {
         "Ghommal's lucky penny": [
