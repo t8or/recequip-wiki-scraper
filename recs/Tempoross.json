@@ -249,6 +249,11 @@
           20716,
           20714
         ]
+      },
+      {
+        "Imcando hammer (offhand)": [
+          29775
+        ]
       }
     ],
     "ammo": [],
@@ -322,7 +327,13 @@
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Imcando hammer (offhand)": [
+          29775
+        ]
+      }
+    ],
     "ammo": [],
     "hands": [],
     "feet": [
@@ -443,6 +454,11 @@
         "Tome of water": [
           25576,
           25574
+        ]
+      },
+      {
+        "Imcando hammer (offhand)": [
+          29775
         ]
       }
     ],
