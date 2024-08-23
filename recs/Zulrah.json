@@ -487,6 +487,14 @@
         ]
       },
       {
+        "Virtus mask": [
+          26241
+        ],
+        "Armadyl helmet": [
+          11826
+        ]
+      },
+      {
         "Ahrim's hood": [
           4708,
           4856,
@@ -494,14 +502,6 @@
           4858,
           4859,
           4860
-        ],
-        "Armadyl helmet": [
-          11826
-        ]
-      },
-      {
-        "Infinity hat": [
-          6918
         ],
         "Blessed coif": [
           12496,
@@ -715,6 +715,14 @@
         ]
       },
       {
+        "Virtus robe top": [
+          26243
+        ],
+        "Armadyl chestplate": [
+          11828
+        ]
+      },
+      {
         "Ahrim's robetop": [
           4712,
           4868,
@@ -722,14 +730,6 @@
           4870,
           4871,
           4872
-        ],
-        "Armadyl chestplate": [
-          11828
-        ]
-      },
-      {
-        "Dagon'hai robe top": [
-          24291
         ],
         "Blessed body": [
           12492,
@@ -741,8 +741,8 @@
         ]
       },
       {
-        "Infinity top": [
-          6916
+        "Dagon'hai robe top": [
+          24291
         ],
         "Black d'hide body": [
           2503
@@ -766,6 +766,14 @@
         ]
       },
       {
+        "Virtus robe bottom": [
+          26245
+        ],
+        "Armadyl chainskirt": [
+          11830
+        ]
+      },
+      {
         "Ahrim's robeskirt": [
           4714,
           4874,
@@ -773,14 +781,6 @@
           4876,
           4877,
           4878
-        ],
-        "Armadyl chainskirt": [
-          11830
-        ]
-      },
-      {
-        "Dagon'hai robe bottom": [
-          24294
         ],
         "Blessed chaps": [
           12494,
@@ -792,8 +792,8 @@
         ]
       },
       {
-        "Infinity bottoms": [
-          6924
+        "Dagon'hai robe bottom": [
+          24294
         ],
         "Black d'hide chaps": [
           2497

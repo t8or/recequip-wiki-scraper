@@ -77,19 +77,27 @@
       {
         "Bruma torch": [
           20720
+        ],
+        "Dragon axe": [
+          6739
         ]
       },
       {
         "Dragon axe": [
           6739
-        ],
-        "Imcando hammer": [
-          25644,
-          25633
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Imcando hammer (off-hand)": [
+          29775
+        ],
+        "Bruma torch (off-hand)": [
+          29777
+        ]
+      }
+    ],
     "ammo": [
       {
         "Rada's blessing 4": [
