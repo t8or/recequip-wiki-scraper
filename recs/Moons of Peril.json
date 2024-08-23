@@ -282,6 +282,9 @@
           10551,
           20513,
           24175
+        ],
+        "Granite body": [
+          10564
         ]
       }
     ],
@@ -345,6 +348,9 @@
       {
         "Dragon platelegs": [
           4087
+        ],
+        "Granite legs": [
+          6809
         ]
       }
     ],
@@ -369,12 +375,12 @@
       {
         "Voidwaker": [
           27690
+        ],
+        "Zamorakian hasta": [
+          11889
         ]
       },
       {
-        "Zamorakian hasta": [
-          11889
-        ],
         "Abyssal dagger": [
           13265,
           13267,
@@ -383,6 +389,12 @@
         ],
         "Osmumten's fang": [
           26219
+        ],
+        "Dragon sword": [
+          21009
+        ],
+        "Dragon scimitar": [
+          4587
         ]
       }
     ],
@@ -423,6 +435,9 @@
         ],
         "Dragon sq shield": [
           1187
+        ],
+        "Granite shield": [
+          3122
         ]
       }
     ],
@@ -473,6 +488,9 @@
       {
         "Regen bracelet": [
           11133
+        ],
+        "Granite gloves": [
+          21736
         ]
       }
     ],
@@ -535,6 +553,16 @@
       {
         "Lightbearer": [
           25975
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Granite ring (i)": [
+          21752,
+          25193,
+          26685
         ]
       }
     ],
@@ -836,6 +864,9 @@
           10551,
           20513,
           24175
+        ],
+        "Granite body": [
+          10564
         ]
       }
     ],
@@ -899,6 +930,9 @@
       {
         "Dragon platelegs": [
           4087
+        ],
+        "Granite legs": [
+          6809
         ]
       }
     ],
@@ -937,6 +971,14 @@
         ],
         "Zombie axe": [
           28810
+        ],
+        "Torag's hammers": [
+          4747,
+          4958,
+          4959,
+          4960,
+          4961,
+          4962
         ]
       }
     ],
@@ -977,6 +1019,9 @@
         ],
         "Dragon sq shield": [
           1187
+        ],
+        "Granite shield": [
+          3122
         ]
       }
     ],
@@ -1027,6 +1072,9 @@
       {
         "Regen bracelet": [
           11133
+        ],
+        "Granite gloves": [
+          21736
         ]
       }
     ],
@@ -1089,6 +1137,16 @@
       {
         "Lightbearer": [
           25975
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Granite ring (i)": [
+          21752,
+          25193,
+          26685
         ]
       }
     ],
@@ -1404,6 +1462,9 @@
           10551,
           20513,
           24175
+        ],
+        "Granite body": [
+          10564
         ]
       }
     ],
@@ -1467,6 +1528,9 @@
       {
         "Dragon platelegs": [
           4087
+        ],
+        "Granite legs": [
+          6809
         ]
       }
     ],
@@ -1502,6 +1566,9 @@
       {
         "Zombie axe": [
           28810
+        ],
+        "Dragon scimitar": [
+          4587
         ]
       }
     ],
@@ -1542,6 +1609,9 @@
         ],
         "Dragon sq shield": [
           1187
+        ],
+        "Granite shield": [
+          3122
         ]
       }
     ],
@@ -1592,6 +1662,9 @@
       {
         "Regen bracelet": [
           11133
+        ],
+        "Granite gloves": [
+          21736
         ]
       }
     ],
@@ -1657,6 +1730,16 @@
         ],
         "Lightbearer": [
           25975
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Granite ring (i)": [
+          21752,
+          25193,
+          26685
         ]
       }
     ],

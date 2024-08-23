@@ -545,6 +545,9 @@
       {
         "Dragon boots": [
           11840
+        ],
+        "Echo boots": [
+          28945
         ]
       },
       {
@@ -565,6 +568,9 @@
     ],
     "ring": [
       {
+        "Lightbearer": [
+          25975
+        ],
         "Ultor ring": [
           28307
         ]
@@ -574,9 +580,6 @@
           11773,
           25264,
           26770
-        ],
-        "Lightbearer": [
-          25975
         ]
       },
       {
@@ -588,22 +591,15 @@
         "Berserker ring": [
           6737
         ]
-      },
-      {
-        "Ring of the gods (i)": [
-          13202,
-          25252,
-          26764
-        ]
       }
     ],
     "special": [
       {
-        "Dragon claws": [
-          13652
+        "Bandos godsword": [
+          11804
         ],
-        "Voidwaker": [
-          27690
+        "Burning claws": [
+          29577
         ]
       },
       {
@@ -612,11 +608,13 @@
         ]
       },
       {
-        "Elder maul": [
-          21003
-        ],
-        "Bandos godsword": [
-          11804
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
         ]
       }
     ]
