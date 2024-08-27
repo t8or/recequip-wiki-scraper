@@ -56,32 +56,6 @@
         "Occult necklace": [
           12002
         ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
-      },
-      {
-        "Amulet of magic": [
-          1727
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
-        ]
       }
     ],
     "cape": [
@@ -330,7 +304,9 @@
         "Trident of the swamp": [
           12900,
           12899
-        ],
+        ]
+      },
+      {
         "Trident of the seas": [
           11908,
           11907,

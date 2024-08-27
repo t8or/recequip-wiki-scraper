@@ -457,6 +457,138 @@
     ]
   },
   {
+    "name": "Magic",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Ancestral hat": [
+          21018
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "God capes#Imbuing": [
+          2412,
+          2414,
+          2413,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Rada's blessing 3": [
+          22945
+        ],
+        "Rada's blessing 2": [
+          22943
+        ],
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Eternal boots": [
+          13235
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Magus ring": [
+          28313
+        ]
+      },
+      {
+        "Seers ring (i)": [
+          11770,
+          25258,
+          26767
+        ]
+      }
+    ],
+    "special": []
+  },
+  {
     "name": "Melee Tank",
     "head": [
       {
