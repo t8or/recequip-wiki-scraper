@@ -1,6 +1,6 @@
 [
   {
-    "name": "Default",
+    "name": "Melee",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -407,6 +407,11 @@
       }
     ],
     "ammo": [
+      {
+        "Ghommal's lucky penny": [
+          27544
+        ]
+      },
       {
         "Rada's blessing 4": [
           22947

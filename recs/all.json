@@ -6617,7 +6617,7 @@
         "special": []
       },
       {
-        "name": "crystals",
+        "name": "Crystals",
         "head": [],
         "neck": [],
         "cape": [],
@@ -10864,6 +10864,11 @@
             ]
           },
           {
+            "Bloodbark helm": [
+              25413
+            ]
+          },
+          {
             "Mitre": [
               10452,
               10454,
@@ -10871,11 +10876,6 @@
               12259,
               12271,
               12203
-            ]
-          },
-          {
-            "Helm of neitiznot": [
-              10828
             ]
           },
           {
@@ -10976,8 +10976,8 @@
         ],
         "body": [
           {
-            "Monk's robe top": [
-              544
+            "Bloodbark body": [
+              25404
             ]
           },
           {
@@ -10994,12 +10994,17 @@
             "Zamorak monk top": [
               1035
             ]
+          },
+          {
+            "Monk's robe top": [
+              544
+            ]
           }
         ],
         "legs": [
           {
-            "Monk's robe": [
-              542
+            "Bloodbark legs": [
+              25416
             ]
           },
           {
@@ -11015,6 +11020,11 @@
           {
             "Zamorak monk bottom": [
               1033
+            ]
+          },
+          {
+            "Monk's robe": [
+              542
             ]
           }
         ],
@@ -11604,6 +11614,10 @@
               8841,
               20473,
               24181
+            ],
+            "Warped sceptre": [
+              28583,
+              28585
             ]
           },
           {
@@ -12516,6 +12530,10 @@
             ]
           },
           {
+            "Warped sceptre": [
+              28583,
+              28585
+            ],
             "Iban's staff (u)": [
               12658
             ]
@@ -12817,42 +12835,64 @@
         ],
         "body": [
           {
-            "Torag's platebody": [
-              4749,
-              4964,
-              4965,
-              4966,
-              4967,
-              4968
-            ],
-            "Dharok's platebody": [
+            "Barrows body": [
+              4712,
+              4868,
+              4869,
+              4870,
+              4871,
+              4872,
               4720,
               4892,
               4893,
               4894,
               4895,
-              4896
-            ],
-            "Guthan's platebody": [
+              4896,
               4728,
               4916,
               4917,
               4918,
               4919,
-              4920
-            ],
-            "Verac's brassard": [
+              4920,
+              4736,
+              4940,
+              4941,
+              4942,
+              4943,
+              4944,
+              4749,
+              4964,
+              4965,
+              4966,
+              4967,
+              4968,
               4757,
               4988,
               4989,
               4990,
               4991,
               4992
+            ],
+            "Karil's leathertop": [
+              4736,
+              4940,
+              4941,
+              4942,
+              4943,
+              4944
             ]
           },
           {
             "Granite body": [
               10564
+            ],
+            "Blessed d'hide body": [
+              12492,
+              12508,
+              12500,
+              10378,
+              10386,
+              10370
             ]
           },
           {
@@ -12944,13 +12984,13 @@
             ]
           },
           {
-            "Magic shortbow (i)": [
-              12788
+            "Rune crossbow": [
+              9185
             ]
           },
           {
-            "Rune crossbow": [
-              9185
+            "Magic shortbow (i)": [
+              12788
             ]
           }
         ],
@@ -13051,6 +13091,11 @@
         ],
         "feet": [
           {
+            "Pegasian boots": [
+              13237
+            ]
+          },
+          {
             "Blessed boots": [
               19921,
               19930,
@@ -13061,6 +13106,11 @@
             ]
           },
           {
+            "Boots of brimstone": [
+              22951
+            ]
+          },
+          {
             "Ranger boots": [
               2577
             ]
@@ -13068,11 +13118,6 @@
           {
             "Bandos boots": [
               11836
-            ]
-          },
-          {
-            "Infinity boots": [
-              6920
             ]
           }
         ],
@@ -13131,7 +13176,7 @@
     "category": "World",
     "styles": [
       {
-        "name": "Default",
+        "name": "Magic",
         "head": [
           {
             "Ancestral hat": [
@@ -23424,7 +23469,7 @@
     "category": "World",
     "styles": [
       {
-        "name": "high DPS (phase one)",
+        "name": "High DPS (Phase One)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -23764,7 +23809,7 @@
         ]
       },
       {
-        "name": "high DPS (phase two)",
+        "name": "High DPS (Phase Two)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -24639,7 +24684,7 @@
         "special": []
       },
       {
-        "name": "mid-game players (phase one)",
+        "name": "Mid-game Players (Phase One)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -24909,7 +24954,7 @@
         ]
       },
       {
-        "name": "mid-game players (phase two)",
+        "name": "Mid-game Players (Phase Two)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -25238,7 +25283,7 @@
         ]
       },
       {
-        "name": "pre-diary method",
+        "name": "Pre-diary Method",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -33055,6 +33100,138 @@
         ]
       },
       {
+        "name": "Magic",
+        "head": [
+          {
+            "Slayer helmet (i)": [
+              11865,
+              25177,
+              26674
+            ]
+          },
+          {
+            "Ancestral hat": [
+              21018
+            ]
+          },
+          {
+            "Virtus mask": [
+              26241
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Occult necklace": [
+              12002
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "God capes#Imbuing": [
+              2412,
+              2414,
+              2413,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Ancestral robe top": [
+              21021
+            ]
+          },
+          {
+            "Virtus robe top": [
+              26243
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Ancestral robe bottom": [
+              21024
+            ]
+          },
+          {
+            "Virtus robe bottom": [
+              26245
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Tumeken's shadow": [
+              27277,
+              27275
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [
+          {
+            "Rada's blessing 4": [
+              22947
+            ]
+          },
+          {
+            "Rada's blessing 3": [
+              22945
+            ],
+            "Rada's blessing 2": [
+              22943
+            ],
+            "God blessing": [
+              20220,
+              20223,
+              20226,
+              20229,
+              20232,
+              20235
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Tormented bracelet": [
+              19544
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Eternal boots": [
+              13235
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Magus ring": [
+              28313
+            ]
+          },
+          {
+            "Seers ring (i)": [
+              11770,
+              25258,
+              26767
+            ]
+          }
+        ],
+        "special": []
+      },
+      {
         "name": "Melee Tank",
         "head": [
           {
@@ -33412,6 +33589,11 @@
             ]
           },
           {
+            "Bloodbark helm": [
+              25413
+            ]
+          },
+          {
             "Mitre": [
               10452,
               10454,
@@ -33419,11 +33601,6 @@
               12259,
               12271,
               12203
-            ]
-          },
-          {
-            "Helm of neitiznot": [
-              10828
             ]
           },
           {
@@ -33488,6 +33665,14 @@
             ]
           },
           {
+            "Ardougne cloak": [
+              13121,
+              13122,
+              13123,
+              13124
+            ]
+          },
+          {
             "God capes": [
               2412,
               2414,
@@ -33504,11 +33689,6 @@
             ]
           },
           {
-            "Ardougne cloak 4": [
-              13124
-            ]
-          },
-          {
             "Vestment cloak": [
               10446,
               10448,
@@ -33520,6 +33700,11 @@
           }
         ],
         "body": [
+          {
+            "Bloodbark body": [
+              25404
+            ]
+          },
           {
             "Monk's robe top": [
               544
@@ -33543,6 +33728,11 @@
         ],
         "legs": [
           {
+            "Bloodbark legs": [
+              25416
+            ]
+          },
+          {
             "Monk's robe": [
               542
             ]
@@ -33565,15 +33755,10 @@
         ],
         "weapon": [
           {
-            "Harmonised nightmare staff": [
-              24423
-            ],
             "Accursed sceptre": [
               27662,
               27665
-            ]
-          },
-          {
+            ],
             "Thammaron's sceptre": [
               22552,
               22555
@@ -33597,13 +33782,30 @@
               11907,
               11905
             ]
+          },
+          {
+            "Iban's staff": [
+              1409,
+              1410
+            ]
           }
         ],
         "shield": [
           {
-            "Tome of fire": [
-              20716,
-              20714
+            "Elidinis' ward (f)": [
+              27251
+            ]
+          },
+          {
+            "Elidinis' ward": [
+              25985
+            ],
+            "Malediction ward": [
+              11924
+            ],
+            "Ancient wyvern shield": [
+              21634,
+              21633
             ]
           },
           {
@@ -33612,18 +33814,50 @@
             ]
           },
           {
-            "Unholy book": [
-              3842
+            "God book": [
+              3840,
+              3842,
+              3844,
+              12608,
+              12610,
+              12612
             ]
           },
           {
-            "Book of balance": [
-              3844
-            ]
-          },
-          {
-            "Holy book": [
-              3840
+            "Broodoo shield": [
+              6279,
+              6277,
+              6275,
+              6273,
+              6271,
+              6269,
+              6267,
+              6265,
+              6263,
+              6261,
+              6259,
+              6257,
+              6255,
+              6253,
+              6251,
+              6249,
+              6247,
+              6245,
+              6243,
+              6241,
+              6239,
+              6237,
+              6235,
+              6233,
+              6231,
+              6229,
+              6227,
+              6225,
+              6223,
+              6221,
+              6219,
+              6217,
+              6215
             ]
           }
         ],
@@ -36698,7 +36932,7 @@
     "category": "Skilling",
     "styles": [
       {
-        "name": "Default",
+        "name": "Standard",
         "head": [
           {
             "Spirit angler headband": [
@@ -36875,7 +37109,7 @@
         "special": []
       },
       {
-        "name": "Default",
+        "name": "Solo Cooking + Firefighting (Max Permits)",
         "head": [
           {
             "Spirit angler headband": [
@@ -36978,7 +37212,7 @@
         "special": []
       },
       {
-        "name": "Default",
+        "name": "Solo Cooking",
         "head": [
           {
             "Spirit angler headband": [
@@ -37050,7 +37284,7 @@
         "special": []
       },
       {
-        "name": "Default",
+        "name": "Solo Cooking (5 Rounds)",
         "head": [
           {
             "Spirit angler headband": [
@@ -37096,7 +37330,7 @@
         "special": []
       },
       {
-        "name": "Default",
+        "name": "Solo No Cooking",
         "head": [
           {
             "Spirit angler headband": [
@@ -38834,32 +39068,6 @@
             "Occult necklace": [
               12002
             ]
-          },
-          {
-            "Amulet of fury": [
-              6585
-            ]
-          },
-          {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
-            ]
-          },
-          {
-            "Amulet of magic": [
-              1727
-            ]
-          },
-          {
-            "Amulet of power": [
-              1731
-            ]
           }
         ],
         "cape": [
@@ -39108,7 +39316,9 @@
             "Trident of the swamp": [
               12900,
               12899
-            ],
+            ]
+          },
+          {
             "Trident of the seas": [
               11908,
               11907,
@@ -44870,19 +45080,10 @@
             ]
           },
           {
-            "Leather shield": [
-              22269,
-              22272,
-              22275,
-              22278,
-              22281,
-              22284,
-              23197,
-              23200,
-              23203,
-              23188,
-              23191,
-              23194
+            "Crystal shield": [
+              23991,
+              23993,
+              24127
             ]
           }
         ],
@@ -45029,7 +45230,7 @@
     "category": "Forgotten 4",
     "styles": [
       {
-        "name": "Default",
+        "name": "Melee",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -45436,6 +45637,11 @@
           }
         ],
         "ammo": [
+          {
+            "Ghommal's lucky penny": [
+              27544
+            ]
+          },
           {
             "Rada's blessing 4": [
               22947
@@ -46045,6 +46251,10 @@
               10378,
               10386,
               10370
+            ],
+            "Crystal body": [
+              23975,
+              23977
             ]
           },
           {
@@ -46062,6 +46272,10 @@
               10380,
               10388,
               10372
+            ],
+            "Crystal legs": [
+              23979,
+              23981
             ]
           },
           {
@@ -46086,6 +46300,13 @@
           {
             "Armadyl crossbow": [
               11785
+            ],
+            "Twisted bow": [
+              20997
+            ],
+            "Bow of faerdhinen": [
+              25862,
+              25865
             ]
           },
           {
@@ -46128,6 +46349,12 @@
             ],
             "Rada's blessing 3": [
               22945
+            ],
+            "Dragon arrow": [
+              11212,
+              11227,
+              11228,
+              11229
             ]
           },
           {
@@ -46228,7 +46455,7 @@
     "category": "Wilderness",
     "styles": [
       {
-        "name": "Default",
+        "name": "Melee",
         "head": [
           {
             "Torva full helm": [
@@ -48078,7 +48305,7 @@
     "category": "Skilling",
     "styles": [
       {
-        "name": "Default",
+        "name": "Mining",
         "head": [
           {
             "Graceful hood": [
@@ -50726,7 +50953,7 @@
     "category": "Skilling",
     "styles": [
       {
-        "name": "Default",
+        "name": "Runecrafting",
         "head": [
           {
             "Hat of the eye": [
