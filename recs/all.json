@@ -13815,6 +13815,9 @@
             "Blade of saeldor": [
               23997,
               23995
+            ],
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -17501,6 +17504,11 @@
             ]
           },
           {
+            "Scorching bow": [
+              29591
+            ]
+          },
+          {
             "Crystal bow": [
               23983,
               23985,
@@ -17513,6 +17521,22 @@
           {
             "War blessing": [
               20232
+            ]
+          },
+          {
+            "Dragon arrow": [
+              11212,
+              11227,
+              11228,
+              11229
+            ]
+          },
+          {
+            "Amethyst arrow": [
+              21326,
+              21332,
+              21334,
+              21336
             ]
           }
         ],
@@ -35150,6 +35174,9 @@
           {
             "Soulreaper axe": [
               28338
+            ],
+            "Inquisitor's mace": [
+              24417
             ]
           },
           {
@@ -35162,9 +35189,6 @@
             ],
             "Ghrazi rapier": [
               22324
-            ],
-            "Inquisitor's mace": [
-              24417
             ]
           },
           {
@@ -36006,9 +36030,18 @@
           {
             "Neitiznot faceguard": [
               24271
+            ],
+            "Serpentine helm": [
+              12929,
+              12931
             ]
           },
           {
+            "Blood moon helm": [
+              29028,
+              29047,
+              29073
+            ],
             "Helm of neitiznot": [
               10828
             ]
@@ -36076,6 +36109,11 @@
             ]
           },
           {
+            "Mythical cape": [
+              22114
+            ]
+          },
+          {
             "Ardougne cloak 4": [
               13124
             ]
@@ -36088,11 +36126,6 @@
             "Hitpoints cape": [
               9768,
               9769
-            ]
-          },
-          {
-            "Ardougne cloak 3": [
-              13123
             ]
           }
         ],
@@ -45578,6 +45611,9 @@
             ]
           },
           {
+            "Inquisitor's mace": [
+              24417
+            ],
             "Blade of saeldor": [
               23997,
               23995
@@ -45586,9 +45622,6 @@
           {
             "Abyssal tentacle": [
               12006
-            ],
-            "Inquisitor's mace": [
-              24417
             ]
           },
           {
@@ -49982,6 +50015,12 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Araxxor",
+    "url": "https://oldschool.runescape.wiki/w/Araxxor/Strategies",
+    "category": "Slayer",
+    "styles": []
   },
   {
     "name": "Galvek",
