@@ -29,9 +29,18 @@
       {
         "Neitiznot faceguard": [
           24271
+        ],
+        "Serpentine helm": [
+          12929,
+          12931
         ]
       },
       {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ],
         "Helm of neitiznot": [
           10828
         ]
@@ -99,6 +108,11 @@
         ]
       },
       {
+        "Mythical cape": [
+          22114
+        ]
+      },
+      {
         "Ardougne cloak 4": [
           13124
         ]
@@ -111,11 +125,6 @@
         "Hitpoints cape": [
           9768,
           9769
-        ]
-      },
-      {
-        "Ardougne cloak 3": [
-          13123
         ]
       }
     ],
