@@ -55,6 +55,10 @@
         ]
       },
       {
+        "Amulet of rancour": [
+          29801,
+          29804
+        ],
         "Amulet of torture": [
           19553
         ]
@@ -793,6 +797,12 @@
     ],
     "neck": [
       {
+        "Amulet of rancour": [
+          29801,
+          29804
+        ]
+      },
+      {
         "Amulet of torture": [
           19553
         ]
@@ -811,17 +821,6 @@
         "Amulet of the damned": [
           12851,
           12853
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
         ]
       }
     ],
@@ -1563,6 +1562,12 @@
       {
         "Amulet of blood fury": [
           24780
+        ]
+      },
+      {
+        "Amulet of rancour": [
+          29801,
+          29804
         ]
       },
       {

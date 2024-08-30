@@ -18,6 +18,12 @@
     ],
     "neck": [
       {
+        "Amulet of rancour": [
+          29801,
+          29804
+        ]
+      },
+      {
         "Amulet of torture": [
           19553
         ]
@@ -382,6 +388,12 @@
     ],
     "neck": [
       {
+        "Amulet of rancour": [
+          29801,
+          29804
+        ]
+      },
+      {
         "Amulet of torture": [
           19553
         ]
@@ -405,11 +417,6 @@
       {
         "Amulet of power": [
           1731
-        ]
-      },
-      {
-        "Amulet of strength": [
-          1725
         ]
       }
     ],

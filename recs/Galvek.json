@@ -45,11 +45,17 @@
     ],
     "neck": [
       {
-        "Amulet of torture": [
-          19553
+        "Amulet of rancour": [
+          29801,
+          29804
         ],
         "Necklace of anguish": [
           19547
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
         ]
       },
       {

@@ -37,6 +37,12 @@
     ],
     "neck": [
       {
+        "Amulet of rancour": [
+          29801,
+          29804
+        ]
+      },
+      {
         "Amulet of torture": [
           19553
         ]
@@ -44,11 +50,6 @@
       {
         "Amulet of blood fury": [
           24780
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
         ]
       },
       {
