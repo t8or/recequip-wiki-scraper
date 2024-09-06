@@ -25,6 +25,17 @@
         "Amulet of fury": [
           6585
         ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
       }
     ],
     "cape": [
@@ -137,14 +148,12 @@
         ]
       },
       {
-        "Dragon hunter crossbow": [
-          21012
-        ]
-      },
-      {
         "Toxic blowpipe": [
           12924,
           12926
+        ],
+        "Dragon hunter crossbow": [
+          21012
         ]
       },
       {
@@ -333,8 +342,7 @@
     "neck": [
       {
         "Amulet of rancour": [
-          29801,
-          29804
+          29801
         ]
       },
       {

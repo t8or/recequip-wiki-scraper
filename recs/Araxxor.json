@@ -8,13 +8,18 @@
           25177,
           26674
         ]
+      },
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
       }
     ],
     "neck": [
       {
         "Amulet of rancour": [
-          29801,
-          29804
+          29801
         ]
       },
       {
@@ -75,12 +80,14 @@
     ],
     "body": [
       {
+        "Inquisitor's hauberk": [
+          24420
+        ]
+      },
+      {
         "Torva platebody": [
           26378,
           26384
-        ],
-        "Inquisitor's hauberk": [
-          24420
         ]
       },
       {
@@ -145,7 +152,9 @@
       {
         "Inquisitor's plateskirt": [
           24421
-        ],
+        ]
+      },
+      {
         "Torva platelegs": [
           26380,
           26386
@@ -227,8 +236,9 @@
           27657,
           27660
         ],
-        "Saradomin sword": [
-          11838
+        "Saradomin's blessed sword": [
+          12809,
+          12808
         ]
       },
       {
@@ -240,6 +250,9 @@
         ]
       },
       {
+        "Saradomin sword": [
+          11838
+        ],
         "Dual macuahuitl": [
           28997
         ],
@@ -272,13 +285,6 @@
         "Toktz-ket-xil": [
           6524
         ]
-      },
-      {
-        "Adamant defender": [
-          8849,
-          20459,
-          24141
-        ]
       }
     ],
     "ammo": [
@@ -301,6 +307,24 @@
           20229,
           20232,
           20235
+        ]
+      },
+      {
+        "Dragon javelin": [
+          19484,
+          19486,
+          19488,
+          19490
+        ]
+      },
+      {
+        "Moonlight antler bolts": [
+          28878
+        ]
+      },
+      {
+        "Broad bolts": [
+          11875
         ]
       }
     ],
@@ -335,6 +359,9 @@
       {
         "Dragon boots": [
           11840
+        ],
+        "Aranea boots": [
+          29806
         ]
       },
       {
@@ -348,9 +375,7 @@
       {
         "Rune boots": [
           4131
-        ]
-      },
-      {
+        ],
         "Mixed hide boots": [
           29286
         ]
@@ -370,11 +395,6 @@
         ]
       },
       {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
         "Ring of suffering (ri)": [
           19710,
           20657,
@@ -383,9 +403,22 @@
           26761,
           26762
         ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
       }
     ],
     "special": [
+      {
+        "Elder maul": [
+          21003
+        ],
+        "Dragon warhammer": [
+          13576
+        ]
+      },
       {
         "Burning claws": [
           29577
@@ -395,16 +428,8 @@
         ]
       },
       {
-        "Elder maul": [
-          21003
-        ],
         "Voidwaker": [
           27690
-        ]
-      },
-      {
-        "Dragon warhammer": [
-          13576
         ]
       },
       {
@@ -418,6 +443,186 @@
         ],
         "Ancient godsword": [
           26233
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ranged",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ],
+        "Ranging cape(t)": [
+          9756,
+          9757
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Twisted bow": [
+          20997
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Blessed vambraces": [
+          12490,
+          12506,
+          12498,
+          10376,
+          10384,
+          10368
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Pegasian boots": [
+          13237
+        ]
+      },
+      {
+        "Ranger boots": [
+          2577
+        ],
+        "Devout boots": [
+          22954
+        ]
+      },
+      {
+        "Blessed boots": [
+          19921,
+          19930,
+          19924,
+          19927,
+          19933,
+          19936
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Venator ring": [
+          28310
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ],
+        "Archers ring (i)": [
+          11771,
+          25260,
+          26768
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Elder maul": [
+          21003
+        ]
+      },
+      {
+        "Dragon warhammer": [
+          13576
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
         ]
       }
     ]

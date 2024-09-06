@@ -44,8 +44,7 @@
           24780
         ],
         "Amulet of rancour": [
-          29801,
-          29804
+          29801
         ]
       },
       {
@@ -285,6 +284,11 @@
         ]
       },
       {
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
         "Zamorakian spear": [
           11824
         ]
@@ -485,8 +489,7 @@
     "neck": [
       {
         "Amulet of rancour": [
-          29801,
-          29804
+          29801
         ]
       },
       {
@@ -627,6 +630,11 @@
     ],
     "weapon": [
       {
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
         "Zamorakian spear": [
           11824
         ]
@@ -653,11 +661,6 @@
           4912,
           4913,
           4914
-        ]
-      },
-      {
-        "Leaf-bladed spear": [
-          4158
         ]
       }
     ],
@@ -794,8 +797,7 @@
     "neck": [
       {
         "Amulet of rancour": [
-          29801,
-          29804
+          29801
         ]
       },
       {
@@ -890,6 +892,11 @@
     ],
     "weapon": [
       {
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
         "Zamorakian spear": [
           11824
         ]
@@ -916,11 +923,6 @@
           4912,
           4913,
           4914
-        ]
-      },
-      {
-        "Leaf-bladed spear": [
-          4158
         ]
       }
     ],
@@ -1062,8 +1064,7 @@
       },
       {
         "Amulet of rancour": [
-          29801,
-          29804
+          29801
         ]
       },
       {
@@ -1155,6 +1156,11 @@
     ],
     "weapon": [
       {
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
         "Zamorakian spear": [
           11824
         ]
@@ -1181,11 +1187,6 @@
           5716,
           5730,
           3176
-        ]
-      },
-      {
-        "Leaf-bladed spear": [
-          4158
         ]
       }
     ],
@@ -1314,6 +1315,11 @@
     ],
     "neck": [
       {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
         "Amulet of torture": [
           19553
         ]
@@ -1326,17 +1332,6 @@
       {
         "Amulet of strength": [
           1725
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
         ]
       },
       {
@@ -1437,6 +1432,11 @@
         ]
       },
       {
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
         "Zamorakian spear": [
           11824
         ]
@@ -1458,11 +1458,6 @@
           4912,
           4913,
           4914
-        ]
-      },
-      {
-        "Leaf-bladed spear": [
-          4158
         ]
       }
     ],
@@ -1616,6 +1611,11 @@
     ],
     "neck": [
       {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
         "Amulet of torture": [
           19553
         ]
@@ -1639,11 +1639,6 @@
       {
         "Amulet of strength": [
           1725
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
         ]
       }
     ],

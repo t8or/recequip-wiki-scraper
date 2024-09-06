@@ -44,6 +44,11 @@
         ]
       },
       {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
         "Amulet of torture": [
           19553
         ]
@@ -62,11 +67,6 @@
           1712,
           11976,
           11978
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
         ]
       }
     ],
@@ -244,16 +244,16 @@
           23997,
           23995
         ],
-        "Sarachnis cudgel": [
-          23528
+        "Zombie axe": [
+          28810
         ]
       },
       {
         "Zamorakian hasta": [
           11889
         ],
-        "Zombie axe": [
-          28810
+        "Sarachnis cudgel": [
+          23528
         ]
       }
     ],
@@ -342,16 +342,16 @@
     ],
     "feet": [
       {
-        "Primordial boots": [
-          13239
+        "Aranea boots": [
+          29806
         ]
       },
       {
+        "Primordial boots": [
+          13239
+        ],
         "Dragon boots": [
           11840
-        ],
-        "Spiked manacles": [
-          23389
         ]
       },
       {
@@ -871,6 +871,9 @@
         ]
       },
       {
+        "Aranea boots": [
+          29806
+        ],
         "Primordial boots": [
           13239
         ]

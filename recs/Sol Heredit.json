@@ -29,6 +29,18 @@
           23971,
           23973
         ]
+      },
+      {
+        "Void ranger helm": [
+          11664,
+          20479,
+          24184
+        ],
+        "Void melee helm": [
+          11665,
+          20481,
+          24185
+        ]
       }
     ],
     "neck": [
@@ -103,6 +115,13 @@
           23975,
           23977
         ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
+        ]
       }
     ],
     "legs": [
@@ -133,6 +152,13 @@
         "Crystal legs": [
           23979,
           23981
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
         ]
       }
     ],
@@ -178,6 +204,9 @@
       {
         "Abyssal tentacle": [
           12006
+        ],
+        "Noxious halberd": [
+          29796
         ],
         "Trident of the swamp": [
           12900,
@@ -238,6 +267,13 @@
       {
         "Barrows gloves": [
           7462
+        ]
+      },
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182
         ]
       }
     ],
@@ -488,6 +524,9 @@
         "Abyssal tentacle": [
           12006
         ],
+        "Noxious halberd": [
+          29796
+        ],
         "Eclipse atlatl": [
           29000
         ]
@@ -732,9 +771,6 @@
         "Soulreaper axe": [
           28338
         ],
-        "Noxious halberd": [
-          29796
-        ],
         "Sanguinesti staff": [
           22481,
           22323
@@ -750,6 +786,9 @@
         ],
         "Abyssal tentacle": [
           12006
+        ],
+        "Noxious halberd": [
+          29796
         ],
         "Trident of the swamp": [
           12900,
