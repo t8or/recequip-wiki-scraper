@@ -474,24 +474,27 @@
         "Webweaver bow": [
           27652,
           27655
-        ]
-      },
-      {
+        ],
         "Craw's bow": [
           22547,
           22550
         ]
       },
       {
-        "Armadyl crossbow": [
-          11785
-        ],
-        "Twisted bow": [
-          20997
+        "Zaryte crossbow": [
+          26374
         ],
         "Bow of faerdhinen": [
           25862,
           25865
+        ],
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
         ]
       },
       {
@@ -534,6 +537,9 @@
         ],
         "Rada's blessing 3": [
           22945
+        ],
+        "Diamond dragon bolts (e)": [
+          21946
         ],
         "Dragon arrow": [
           11212,

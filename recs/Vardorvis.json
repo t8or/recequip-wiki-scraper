@@ -44,6 +44,11 @@
         ]
       },
       {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
         "Amulet of torture": [
           19553
         ]
@@ -62,14 +67,6 @@
           1712,
           11976,
           11978
-        ]
-      },
-      {
-        "Amulet of strength": [
-          1725
-        ],
-        "Amulet of power": [
-          1731
         ]
       }
     ],
@@ -354,6 +351,9 @@
         "Blade of saeldor": [
           23997,
           23995
+        ],
+        "Noxious halberd": [
+          29796
         ]
       },
       {
