@@ -274,6 +274,9 @@
         ],
         "Elder maul": [
           21003
+        ],
+        "Bandos godsword": [
+          11804
         ]
       },
       {
@@ -284,9 +287,6 @@
         ],
         "Dragon warhammer": [
           13576
-        ],
-        "Bandos godsword": [
-          11804
         ]
       },
       {
@@ -440,6 +440,9 @@
         ]
       },
       {
+        "Noxious halberd": [
+          29796
+        ],
         "Abyssal tentacle": [
           12006
         ]
@@ -555,6 +558,9 @@
         ],
         "Elder maul": [
           21003
+        ],
+        "Bandos godsword": [
+          11804
         ]
       },
       {
@@ -565,9 +571,6 @@
         ],
         "Dragon warhammer": [
           13576
-        ],
-        "Bandos godsword": [
-          11804
         ]
       }
     ]
@@ -751,6 +754,10 @@
         ],
         "Elder maul": [
           21003
+        ],
+        "Tonalztics of ralos": [
+          28919,
+          28922
         ]
       },
       {
@@ -848,6 +855,17 @@
         "Twisted buckler": [
           21000
         ]
+      },
+      {
+        "Dragonfire ward": [
+          22003,
+          22002
+        ]
+      },
+      {
+        "Odium ward": [
+          11926
+        ]
       }
     ],
     "ammo": [
@@ -905,6 +923,9 @@
         ],
         "Elder maul": [
           21003
+        ],
+        "Bandos godsword": [
+          11804
         ]
       },
       {
@@ -915,9 +936,6 @@
         ],
         "Dragon warhammer": [
           13576
-        ],
-        "Bandos godsword": [
-          11804
         ]
       }
     ]
@@ -990,13 +1008,11 @@
         ]
       },
       {
+        "Noxious halberd": [
+          29796
+        ],
         "Abyssal tentacle": [
           12006
-        ]
-      },
-      {
-        "Soulreaper axe": [
-          28338
         ]
       }
     ],
@@ -1019,6 +1035,19 @@
         "Scythe of vitur": [
           22486,
           22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Noxious halberd": [
+          29796
+        ],
+        "Osmumten's fang": [
+          26219
         ]
       },
       {
@@ -1213,6 +1242,9 @@
       {
         "Abyssal tentacle": [
           12006
+        ],
+        "Noxious halberd": [
+          29796
         ]
       },
       {
