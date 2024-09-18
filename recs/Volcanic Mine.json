@@ -1,0 +1,768 @@
+[
+  {
+    "name": "Group",
+    "head": [
+      {
+        "Prospector helmet": [
+          12013
+        ]
+      },
+      {
+        "Sunfire fanatic helm": [
+          28933
+        ]
+      },
+      {
+        "Mitre": [
+          10452,
+          10454,
+          10456,
+          12259,
+          12271,
+          12203
+        ]
+      },
+      {
+        "Proselyte sallet": [
+          9672
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Dragonbone necklace": [
+          22111
+        ],
+        "Bonecrusher necklace": [
+          22986
+        ]
+      },
+      {
+        "Stole": [
+          10470,
+          10472,
+          10474,
+          12257,
+          12269,
+          12201
+        ]
+      },
+      {
+        "Holy symbol": [
+          1718
+        ],
+        "Unholy symbol": [
+          1724
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      },
+      {
+        "Hitpoints cape(t)": [
+          9768,
+          9769
+        ]
+      },
+      {
+        "Soul cape": [
+          25344,
+          25346
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
+        ]
+      },
+      {
+        "Ardougne cloak 3": [
+          13123
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Prospector jacket": [
+          12014
+        ],
+        "Varrock armour 4": [
+          13107
+        ]
+      },
+      {
+        "Sunfire fanatic cuirass": [
+          28936
+        ]
+      },
+      {
+        "Proselyte hauberk": [
+          9674
+        ]
+      },
+      {
+        "Monk's robe top": [
+          544
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Prospector legs": [
+          12015
+        ]
+      },
+      {
+        "Sunfire fanatic chausses": [
+          28939
+        ]
+      },
+      {
+        "Proselyte cuisse": [
+          9676
+        ],
+        "Proselyte tasset": [
+          9678
+        ]
+      },
+      {
+        "Monk's robe": [
+          542
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Crozier": [
+          12199,
+          12263,
+          12275,
+          10442,
+          10440,
+          10444
+        ],
+        "Void knight mace": [
+          8841,
+          20473,
+          24181
+        ]
+      },
+      {
+        "Wolfbane": [
+          2952
+        ],
+        "Dragon mace": [
+          1434
+        ],
+        "Blisterwood flail": [
+          24699
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Falador shield 4": [
+          13120
+        ]
+      },
+      {
+        "Elysian spirit shield": [
+          12817
+        ]
+      },
+      {
+        "God book": [
+          3840,
+          3842,
+          3844,
+          12608,
+          12610,
+          12612
+        ],
+        "Broodoo shield": [
+          6279,
+          6277,
+          6275,
+          6273,
+          6271,
+          6269,
+          6267,
+          6265,
+          6263,
+          6261,
+          6259,
+          6257,
+          6255,
+          6253,
+          6251,
+          6249,
+          6247,
+          6245,
+          6243,
+          6241,
+          6239,
+          6237,
+          6235,
+          6233,
+          6231,
+          6229,
+          6227,
+          6225,
+          6223,
+          6221,
+          6219,
+          6217,
+          6215
+        ]
+      },
+      {
+        "Damaged book": [
+          12611,
+          12609,
+          12607,
+          3843,
+          3839,
+          3841
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Ghommal's lucky penny": [
+          27544
+        ]
+      },
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Regen bracelet": [
+          11133
+        ]
+      },
+      {
+        "Holy wraps": [
+          19997
+        ]
+      },
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      },
+      {
+        "Blessed vambraces": [
+          12490,
+          12506,
+          12498,
+          10376,
+          10384,
+          10368
+        ],
+        "White gloves": [
+          6629
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Prospector boots": [
+          12016
+        ]
+      },
+      {
+        "Devout boots": [
+          22954
+        ]
+      },
+      {
+        "Holy sandals": [
+          12598
+        ]
+      },
+      {
+        "Guardian boots": [
+          21733
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Celestial signet": [
+          25543,
+          25545
+        ],
+        "Elven signet": [
+          23943
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
+      },
+      {
+        "Ring of suffering (i)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
+      {
+        "Explorer's ring 4": [
+          13128
+        ]
+      }
+    ],
+    "special": []
+  },
+  {
+    "name": "Solo",
+    "head": [
+      {
+        "Graceful hood": [
+          11850,
+          11851
+        ]
+      },
+      {
+        "Sunfire fanatic helm": [
+          28933
+        ]
+      },
+      {
+        "Mitre": [
+          10452,
+          10454,
+          10456,
+          12259,
+          12271,
+          12203
+        ]
+      },
+      {
+        "Proselyte sallet": [
+          9672
+        ]
+      },
+      {
+        "Prospector helmet": [
+          12013
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Dragonbone necklace": [
+          22111
+        ],
+        "Bonecrusher necklace": [
+          22986
+        ]
+      },
+      {
+        "Stole": [
+          10470,
+          10472,
+          10474,
+          12257,
+          12269,
+          12201
+        ]
+      },
+      {
+        "Holy symbol": [
+          1718
+        ],
+        "Unholy symbol": [
+          1724
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Graceful cape": [
+          11852,
+          11853
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      },
+      {
+        "Hitpoints cape(t)": [
+          9768,
+          9769
+        ]
+      },
+      {
+        "Soul cape": [
+          25344,
+          25346
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
+        ],
+        "Ardougne cloak 3": [
+          13123
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Graceful top": [
+          11854,
+          11855
+        ]
+      },
+      {
+        "Prospector jacket": [
+          12014
+        ],
+        "Varrock armour 4": [
+          13107
+        ]
+      },
+      {
+        "Sunfire fanatic cuirass": [
+          28936
+        ]
+      },
+      {
+        "Proselyte hauberk": [
+          9674
+        ]
+      },
+      {
+        "Monk's robe top": [
+          544
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Graceful legs": [
+          11856,
+          11857
+        ]
+      },
+      {
+        "Prospector legs": [
+          12015
+        ]
+      },
+      {
+        "Sunfire fanatic chausses": [
+          28939
+        ]
+      },
+      {
+        "Proselyte cuisse": [
+          9676
+        ],
+        "Proselyte tasset": [
+          9678
+        ]
+      },
+      {
+        "Monk's robe": [
+          542
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Crozier": [
+          12199,
+          12263,
+          12275,
+          10442,
+          10440,
+          10444
+        ],
+        "Void knight mace": [
+          8841,
+          20473,
+          24181
+        ]
+      },
+      {
+        "Wolfbane": [
+          2952
+        ],
+        "Dragon mace": [
+          1434
+        ],
+        "Blisterwood flail": [
+          24699
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Falador shield 4": [
+          13120
+        ]
+      },
+      {
+        "Elysian spirit shield": [
+          12817
+        ]
+      },
+      {
+        "God book": [
+          3840,
+          3842,
+          3844,
+          12608,
+          12610,
+          12612
+        ],
+        "Broodoo shield": [
+          6279,
+          6277,
+          6275,
+          6273,
+          6271,
+          6269,
+          6267,
+          6265,
+          6263,
+          6261,
+          6259,
+          6257,
+          6255,
+          6253,
+          6251,
+          6249,
+          6247,
+          6245,
+          6243,
+          6241,
+          6239,
+          6237,
+          6235,
+          6233,
+          6231,
+          6229,
+          6227,
+          6225,
+          6223,
+          6221,
+          6219,
+          6217,
+          6215
+        ]
+      },
+      {
+        "Damaged book": [
+          12611,
+          12609,
+          12607,
+          3843,
+          3839,
+          3841
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Ghommal's lucky penny": [
+          27544
+        ]
+      },
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Graceful gloves": [
+          11858,
+          11859
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
+        ]
+      },
+      {
+        "Holy wraps": [
+          19997
+        ]
+      },
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      },
+      {
+        "Blessed vambraces": [
+          12490,
+          12506,
+          12498,
+          10376,
+          10384,
+          10368
+        ],
+        "White gloves": [
+          6629
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Graceful boots": [
+          11860,
+          11861
+        ]
+      },
+      {
+        "Prospector boots": [
+          12016
+        ]
+      },
+      {
+        "Devout boots": [
+          22954
+        ]
+      },
+      {
+        "Holy sandals": [
+          12598
+        ]
+      },
+      {
+        "Guardian boots": [
+          21733
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Celestial signet": [
+          25543,
+          25545
+        ],
+        "Elven signet": [
+          23943
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
+      },
+      {
+        "Ring of suffering (i)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
+      {
+        "Explorer's ring 4": [
+          13128
+        ]
+      }
+    ],
+    "special": []
+  }
+]

@@ -2138,6 +2138,12 @@
             ]
           },
           {
+            "Tonalztics of ralos": [
+              28919,
+              28922
+            ]
+          },
+          {
             "Toxic blowpipe": [
               12924,
               12926
@@ -3188,141 +3194,18 @@
     "category": "World",
     "styles": [
       {
-        "name": "High-end gear, fewer switches",
+        "name": "Magic",
         "head": [
           {
             "Ancestral hat": [
               21018
             ]
-          }
-        ],
-        "neck": [
-          {
-            "Occult necklace": [
-              12002
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "Imbued god cape": [
-              2412,
-              2414,
-              2413,
-              21791,
-              24236,
-              24248,
-              21795,
-              24244,
-              24250,
-              21793,
-              24240,
-              24249
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Ancestral robe top": [
-              21021
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Ancestral robe bottom": [
-              21024
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Trident of the swamp": [
-              12900,
-              12899
-            ]
           },
           {
-            "Trident of the seas": [
-              11908,
-              11907,
-              11905
-            ]
-          }
-        ],
-        "shield": [
-          {
-            "Elidinis' ward (f)": [
-              27251
+            "Virtus mask": [
+              26241
             ]
           },
-          {
-            "Elidinis' ward": [
-              25985
-            ]
-          }
-        ],
-        "ammo": [
-          {
-            "Rada's blessing 4": [
-              22947
-            ]
-          },
-          {
-            "God blessing": [
-              20220,
-              20223,
-              20226,
-              20229,
-              20232,
-              20235
-            ],
-            "Rada's blessing 3": [
-              22945
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Tormented bracelet": [
-              19544
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Pegasian boots": [
-              13237
-            ]
-          },
-          {
-            "Blessed boots": [
-              19921,
-              19930,
-              19924,
-              19927,
-              19933,
-              19936
-            ]
-          }
-        ],
-        "ring": [
-          {
-            "Magus ring": [
-              28313
-            ]
-          },
-          {
-            "Venator ring": [
-              28310
-            ]
-          }
-        ],
-        "special": []
-      },
-      {
-        "name": "Full Ahrims",
-        "head": [
           {
             "Ahrim's hood": [
               4708,
@@ -3331,14 +3214,54 @@
               4858,
               4859,
               4860
+            ],
+            "Infinity hat": [
+              6918
+            ],
+            "Dagon'hai hat": [
+              24288
+            ]
+          },
+          {
+            "Bloodbark helm": [
+              25413
+            ]
+          },
+          {
+            "Void mage helm": [
+              11663,
+              20477,
+              24183
             ]
           }
         ],
         "neck": [
           {
+            "Occult necklace": [
+              12002
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ],
+            "Dragonbone necklace": [
+              22111
+            ]
+          },
+          {
             "Amulet of the damned": [
               12851,
               12853
+            ],
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
             ]
           }
         ],
@@ -3378,6 +3301,16 @@
         ],
         "body": [
           {
+            "Ancestral robe top": [
+              21021
+            ]
+          },
+          {
+            "Virtus robe top": [
+              26243
+            ]
+          },
+          {
             "Ahrim's robetop": [
               4712,
               4868,
@@ -3385,10 +3318,43 @@
               4870,
               4871,
               4872
+            ],
+            "Infinity top": [
+              6916
+            ],
+            "Dagon'hai robe top": [
+              24291
+            ]
+          },
+          {
+            "Bloodbark body": [
+              25404
+            ]
+          },
+          {
+            "Elite void top": [
+              13072,
+              20467,
+              24178
+            ],
+            "Void knight top": [
+              8839,
+              20465,
+              24177
             ]
           }
         ],
         "legs": [
+          {
+            "Ancestral robe bottom": [
+              21024
+            ]
+          },
+          {
+            "Virtus robe bottom": [
+              26245
+            ]
+          },
           {
             "Ahrim's robeskirt": [
               4714,
@@ -3397,11 +3363,65 @@
               4876,
               4877,
               4878
+            ],
+            "Infinity bottoms": [
+              6924
+            ],
+            "Dagon'hai robe bottom": [
+              24294
+            ]
+          },
+          {
+            "Bloodbark legs": [
+              25416
+            ]
+          },
+          {
+            "Elite void robe": [
+              13073,
+              20471,
+              24180
+            ],
+            "Void knight robe": [
+              8840,
+              20469,
+              24179
             ]
           }
         ],
         "weapon": [
           {
+            "Tumeken's shadow": [
+              27277,
+              27275
+            ]
+          },
+          {
+            "Harmonised nightmare staff": [
+              24423
+            ]
+          },
+          {
+            "Sanguinesti staff": [
+              22481,
+              22323
+            ],
+            "Trident of the swamp": [
+              12900,
+              12899
+            ]
+          },
+          {
+            "Trident of the seas": [
+              11908,
+              11907,
+              11905
+            ]
+          },
+          {
+            "Smoke battlestaff": [
+              11998
+            ],
             "Ahrim's staff": [
               4710,
               4862,
@@ -3416,21 +3436,29 @@
           {
             "Elidinis' ward (f)": [
               27251
-            ]
-          },
-          {
-            "Elidinis' ward": [
-              25985
+            ],
+            "Ghommal's hilt 2": [
+              25928
             ]
           },
           {
             "Arcane spirit shield": [
               12825
+            ],
+            "Elidinis' ward": [
+              25985
             ]
           },
           {
             "Mage's book": [
               6889
+            ],
+            "Malediction ward": [
+              11924
+            ],
+            "Ancient wyvern shield": [
+              21634,
+              21633
             ]
           }
         ],
@@ -3463,6 +3491,13 @@
           {
             "Barrows gloves": [
               7462
+            ]
+          },
+          {
+            "Void knight gloves": [
+              8842,
+              20475,
+              24182
             ]
           }
         ],
@@ -3473,16 +3508,6 @@
             ]
           },
           {
-            "Blessed boots": [
-              19921,
-              19930,
-              19924,
-              19927,
-              19933,
-              19936
-            ]
-          },
-          {
             "Infinity boots": [
               6920
             ]
@@ -3490,30 +3515,21 @@
         ],
         "ring": [
           {
-            "Ultor ring": [
-              28307
+            "Magus ring": [
+              28313
             ]
           },
           {
-            "Berserker ring (i)": [
-              11773,
-              25264,
-              26770
+            "Seers ring (i)": [
+              11770,
+              25258,
+              26767
             ]
           },
           {
-            "Brimstone ring": [
-              22975
-            ]
-          },
-          {
-            "Ring of suffering (ri)": [
-              19710,
-              20657,
-              25246,
-              25248,
-              26761,
-              26762
+            "Ring of shadows": [
+              28329,
+              28327
             ]
           }
         ],
@@ -3521,247 +3537,6 @@
           {
             "Dragon claws": [
               13652
-            ]
-          },
-          {
-            "Voidwaker": [
-              27690
-            ]
-          },
-          {
-            "Dragon dagger(p++)": [
-              1215,
-              1231,
-              5680,
-              5698
-            ]
-          }
-        ]
-      },
-      {
-        "name": "High level",
-        "head": [
-          {
-            "Ancestral hat": [
-              21018
-            ]
-          },
-          {
-            "Neitiznot faceguard": [
-              24271
-            ]
-          },
-          {
-            "Serpentine helm": [
-              12929,
-              12931
-            ]
-          },
-          {
-            "Helm of neitiznot": [
-              10828
-            ]
-          }
-        ],
-        "neck": [
-          {
-            "Occult necklace": [
-              12002
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "Imbued god cape": [
-              2412,
-              2414,
-              2413,
-              21791,
-              24236,
-              24248,
-              21795,
-              24244,
-              24250,
-              21793,
-              24240,
-              24249
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Karil's leathertop": [
-              4736,
-              4940,
-              4941,
-              4942,
-              4943,
-              4944
-            ]
-          },
-          {
-            "Blessed body": [
-              12492,
-              12508,
-              12500,
-              10378,
-              10386,
-              10370
-            ]
-          },
-          {
-            "Black d'hide body": [
-              2503
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Karil's leatherskirt": [
-              4738,
-              4946,
-              4947,
-              4948,
-              4949,
-              4950
-            ]
-          },
-          {
-            "Blessed chaps": [
-              12494,
-              12510,
-              12502,
-              10380,
-              10388,
-              10372
-            ]
-          },
-          {
-            "Black d'hide chaps": [
-              2497
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Trident of the swamp": [
-              12900,
-              12899
-            ]
-          },
-          {
-            "Trident of the seas": [
-              11908,
-              11907,
-              11905
-            ]
-          },
-          {
-            "Warped sceptre": [
-              28583,
-              28585
-            ]
-          }
-        ],
-        "shield": [
-          {
-            "Elidinis' ward (f)": [
-              27251
-            ]
-          },
-          {
-            "Elidinis' ward": [
-              25985
-            ]
-          },
-          {
-            "Arcane spirit shield": [
-              12825
-            ]
-          },
-          {
-            "Mage's book": [
-              6889
-            ]
-          }
-        ],
-        "ammo": [
-          {
-            "Rada's blessing 4": [
-              22947
-            ]
-          },
-          {
-            "God blessing": [
-              20220,
-              20223,
-              20226,
-              20229,
-              20232,
-              20235
-            ],
-            "Rada's blessing 3": [
-              22945
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Tormented bracelet": [
-              19544
-            ]
-          },
-          {
-            "Barrows gloves": [
-              7462
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Pegasian boots": [
-              13237
-            ]
-          },
-          {
-            "Blessed boots": [
-              19921,
-              19930,
-              19924,
-              19927,
-              19933,
-              19936
-            ]
-          }
-        ],
-        "ring": [
-          {
-            "Ultor ring": [
-              28307
-            ]
-          },
-          {
-            "Berserker ring (i)": [
-              11773,
-              25264,
-              26770
-            ]
-          },
-          {
-            "Brimstone ring": [
-              22975
-            ]
-          }
-        ],
-        "special": [
-          {
-            "Dragon claws": [
-              13652
-            ]
-          },
-          {
-            "Voidwaker": [
-              27690
             ]
           }
         ]
@@ -3770,6 +3545,46 @@
         "name": "Medium level",
         "head": [
           {
+            "Barrows helm": [
+              4708,
+              4856,
+              4857,
+              4858,
+              4859,
+              4860,
+              4716,
+              4880,
+              4881,
+              4882,
+              4883,
+              4884,
+              4724,
+              4904,
+              4905,
+              4906,
+              4907,
+              4908,
+              4732,
+              4928,
+              4929,
+              4930,
+              4931,
+              4932,
+              4745,
+              4952,
+              4953,
+              4954,
+              4955,
+              4956,
+              4753,
+              4976,
+              4977,
+              4978,
+              4979,
+              4980
+            ]
+          },
+          {
             "Helm of neitiznot": [
               10828
             ]
@@ -3777,6 +3592,11 @@
           {
             "Berserker helm": [
               3751
+            ]
+          },
+          {
+            "Rune full helm": [
+              1163
             ]
           }
         ],
@@ -3786,219 +3606,6 @@
               12002
             ]
           },
-          {
-            "Amulet of fury": [
-              6585
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "Ava's assembler": [
-              22109,
-              21914,
-              24222
-            ]
-          },
-          {
-            "Ava's accumulator": [
-              10499
-            ]
-          },
-          {
-            "Ava's attractor": [
-              10498
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Dharok's platebody": [
-              4720,
-              4892,
-              4893,
-              4894,
-              4895,
-              4896
-            ],
-            "Torag's platebody": [
-              4749,
-              4964,
-              4965,
-              4966,
-              4967,
-              4968
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Verac's plateskirt": [
-              4759,
-              4994,
-              4995,
-              4996,
-              4997,
-              4998
-            ]
-          },
-          {
-            "Dharok's platelegs": [
-              4722,
-              4898,
-              4899,
-              4900,
-              4901,
-              4902
-            ],
-            "Torag's platelegs": [
-              4751,
-              4970,
-              4971,
-              4972,
-              4973,
-              4974
-            ]
-          },
-          {
-            "Dragon platelegs": [
-              4087
-            ],
-            "Dragon plateskirt": [
-              4585
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Mystic smoke staff": [
-              12000
-            ]
-          },
-          {
-            "Trident of the swamp": [
-              12900,
-              12899
-            ]
-          },
-          {
-            "Trident of the seas": [
-              11908,
-              11907,
-              11905
-            ]
-          },
-          {
-            "Warped sceptre": [
-              28583,
-              28585
-            ]
-          },
-          {
-            "Iban's staff (u)": [
-              12658
-            ]
-          }
-        ],
-        "shield": [
-          {
-            "Ghommal's hilt 2": [
-              25928
-            ]
-          },
-          {
-            "Mage's book": [
-              6889
-            ],
-            "Malediction ward": [
-              11924
-            ]
-          },
-          {
-            "Book of darkness": [
-              12612
-            ]
-          },
-          {
-            "Unholy book": [
-              3842
-            ]
-          }
-        ],
-        "ammo": [
-          {
-            "Rune arrow": [
-              892,
-              893,
-              5621,
-              5627
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Barrows gloves": [
-              7462
-            ]
-          },
-          {
-            "Dragon gloves": [
-              7461
-            ]
-          },
-          {
-            "Rune gloves": [
-              7460
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Dragon boots": [
-              11840
-            ]
-          }
-        ],
-        "ring": [
-          {
-            "Ring of dueling(8)": [
-              2566,
-              2564,
-              2562,
-              2560,
-              2558,
-              2556,
-              2554,
-              2552
-            ]
-          }
-        ],
-        "special": [
-          {
-            "Dragon dagger": [
-              1215,
-              1231,
-              5680,
-              5698
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Low level",
-        "head": [
-          {
-            "Helm of neitiznot": [
-              10828
-            ]
-          },
-          {
-            "Berserker helm": [
-              3751
-            ]
-          }
-        ],
-        "neck": [
           {
             "Amulet of fury": [
               6585
@@ -4019,21 +3626,93 @@
             "Amulet of power": [
               1731
             ]
+          },
+          {
+            "Holy symbol": [
+              1718
+            ]
           }
         ],
         "cape": [
           {
-            "Ava's accumulator": [
-              10499
+            "Imbued god cape": [
+              2412,
+              2414,
+              2413,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
             ]
           },
           {
-            "Ava's attractor": [
-              10498
+            "God cape": [
+              2412,
+              2414,
+              2413,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          },
+          {
+            "Fire cape": [
+              6570,
+              20445,
+              24223
+            ]
+          },
+          {
+            "God cloak": [
+              10446,
+              10448,
+              10450,
+              12261,
+              12273,
+              12197
             ]
           }
         ],
         "body": [
+          {
+            "Barrows chestplate": [
+              4708,
+              4856,
+              4857,
+              4858,
+              4859,
+              4860,
+              4712,
+              4868,
+              4869,
+              4870,
+              4871,
+              4872,
+              4714,
+              4874,
+              4875,
+              4876,
+              4877,
+              4878,
+              4710,
+              4862,
+              4863,
+              4864,
+              4865,
+              4866
+            ]
+          },
           {
             "Dragon chainbody": [
               3140
@@ -4043,24 +3722,100 @@
             "Rune platebody": [
               1127
             ]
+          },
+          {
+            "Black d'hide body": [
+              2503
+            ]
           }
         ],
         "legs": [
           {
+            "Barrows legs": [
+              4714,
+              4874,
+              4875,
+              4876,
+              4877,
+              4878,
+              4722,
+              4898,
+              4899,
+              4900,
+              4901,
+              4902,
+              4730,
+              4922,
+              4923,
+              4924,
+              4925,
+              4926,
+              4738,
+              4946,
+              4947,
+              4948,
+              4949,
+              4950,
+              4751,
+              4970,
+              4971,
+              4972,
+              4973,
+              4974,
+              4759,
+              4994,
+              4995,
+              4996,
+              4997,
+              4998
+            ]
+          },
+          {
             "Dragon platelegs": [
               4087
-            ],
-            "Dragon plateskirt": [
-              4585
             ]
           },
           {
             "Rune platelegs": [
               1079
             ]
+          },
+          {
+            "Black d'hide chaps": [
+              2497
+            ]
           }
         ],
         "weapon": [
+          {
+            "Trident of the seas": [
+              11908,
+              11907,
+              11905
+            ]
+          },
+          {
+            "Smoke battlestaff": [
+              11998
+            ]
+          },
+          {
+            "Ahrim's staff": [
+              4710,
+              4862,
+              4863,
+              4864,
+              4865,
+              4866
+            ],
+            "Ancient sceptre": [
+              27624,
+              27626
+            ],
+            "Staff of air": [
+              1381
+            ]
+          },
           {
             "Warped sceptre": [
               28583,
@@ -4071,16 +3826,6 @@
             "Iban's staff (u)": [
               12658
             ]
-          },
-          {
-            "Slayer's staff": [
-              4170
-            ]
-          },
-          {
-            "Staff of air": [
-              1381
-            ]
           }
         ],
         "shield": [
@@ -4090,66 +3835,28 @@
             ]
           },
           {
-            "God book": [
-              3840,
-              3842,
-              3844,
-              12608,
-              12610,
-              12612
+            "Dragon defender": [
+              12954,
+              20463,
+              24143
             ]
           },
           {
-            "Broodoo shield": [
-              6279,
-              6277,
-              6275,
-              6273,
-              6271,
-              6269,
-              6267,
-              6265,
-              6263,
-              6261,
-              6259,
-              6257,
-              6255,
-              6253,
-              6251,
-              6249,
-              6247,
-              6245,
-              6243,
-              6241,
-              6239,
-              6237,
-              6235,
-              6233,
-              6231,
-              6229,
-              6227,
-              6225,
-              6223,
-              6221,
-              6219,
-              6217,
-              6215
+            "Rune defender": [
+              8850,
+              20461,
+              24142
             ]
           },
           {
-            "Book of the dead": [
-              25818
+            "Rune kiteshield": [
+              1201
             ]
           }
         ],
         "ammo": [
           {
-            "Rune arrow": [
-              892,
-              893,
-              5621,
-              5627
-            ]
+            "Blessing": []
           }
         ],
         "hands": [
@@ -4159,23 +3866,19 @@
             ]
           },
           {
-            "Dragon gloves": [
-              7461
-            ]
-          },
-          {
             "Rune gloves": [
               7460
             ]
           },
           {
-            "Granite gloves": [
-              21736
-            ]
-          },
-          {
-            "Adamant gloves": [
-              7459
+            "Combat bracelet": [
+              11126,
+              11124,
+              11122,
+              11120,
+              11118,
+              11974,
+              11972
             ]
           }
         ],
@@ -4198,7 +3901,14 @@
         ],
         "ring": [
           {
-            "Ring of dueling(8)": [
+            "Berserker ring (i)": [
+              11773,
+              25264,
+              26770
+            ]
+          },
+          {
+            "Ring of dueling": [
               2566,
               2564,
               2562,
@@ -4210,27 +3920,40 @@
             ]
           }
         ],
-        "special": [
-          {
-            "Dragon dagger": [
-              1215,
-              1231,
-              5680,
-              5698
-            ]
-          }
-        ]
+        "special": []
       },
       {
-        "name": "Minimum low level",
+        "name": "Ranged",
         "head": [
           {
-            "Rune full helm": [
-              1163
+            "Void ranger helm": [
+              11664,
+              20479,
+              24184
+            ]
+          },
+          {
+            "Blessed coif": [
+              12496,
+              12512,
+              12504,
+              10382,
+              10390,
+              10374
             ]
           }
         ],
         "neck": [
+          {
+            "Necklace of anguish": [
+              19547
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
           {
             "Amulet of glory": [
               1704,
@@ -4246,102 +3969,183 @@
             "Amulet of power": [
               1731
             ]
+          },
+          {
+            "Holy symbol": [
+              1718
+            ]
           }
         ],
         "cape": [
           {
-            "Ardougne cloak 1": [
-              13121
+            "Dizana's quiver": [
+              28947,
+              28951,
+              28949,
+              28953,
+              28826
+            ]
+          },
+          {
+            "Ava's assembler": [
+              22109,
+              21914,
+              24222
             ]
           },
           {
             "Ava's accumulator": [
               10499
             ]
+          },
+          {
+            "Ava's attractor": [
+              10498
+            ]
           }
         ],
         "body": [
           {
-            "Rune platebody": [
-              1127
+            "Elite void top": [
+              13072,
+              20467,
+              24178
+            ]
+          },
+          {
+            "Void knight top": [
+              8839,
+              20465,
+              24177
+            ]
+          },
+          {
+            "Black d'hide body": [
+              2503
             ]
           }
         ],
         "legs": [
           {
-            "Rune platelegs": [
-              1079
+            "Elite void robe": [
+              13073,
+              20471,
+              24180
+            ]
+          },
+          {
+            "Void knight robe": [
+              8840,
+              20469,
+              24179
+            ]
+          },
+          {
+            "Black d'hide chaps": [
+              2497
             ]
           }
         ],
         "weapon": [
           {
-            "Iban's staff (u)": [
-              12658
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
-            "Slayer's staff": [
-              4170
+            "Hunters' sunlight crossbow": [
+              28869
             ]
           },
           {
-            "Staff of air": [
-              1381
+            "Magic shortbow (i)": [
+              12788
+            ]
+          },
+          {
+            "Karil's crossbow": [
+              4734,
+              4934,
+              4935,
+              4936,
+              4937,
+              4938
+            ]
+          },
+          {
+            "Yew shortbow": [
+              857
             ]
           }
         ],
-        "shield": [
+        "shield": [],
+        "ammo": [
           {
-            "God book": [
-              3840,
-              3842,
-              3844,
-              12608,
-              12610,
-              12612
+            "Rada's blessing": [
+              22941,
+              22943,
+              22945,
+              22947
             ]
           },
           {
-            "Broodoo shield": [
-              6279,
-              6277,
-              6275,
-              6273,
-              6271,
-              6269,
-              6267,
-              6265,
-              6263,
-              6261,
-              6259,
-              6257,
-              6255,
-              6253,
-              6251,
-              6249,
-              6247,
-              6245,
-              6243,
-              6241,
-              6239,
-              6237,
-              6235,
-              6233,
-              6231,
-              6229,
-              6227,
-              6225,
-              6223,
-              6221,
-              6219,
-              6217,
-              6215
+            "Moonlight antler bolts": [
+              28878
+            ],
+            "Sunlight antler bolts": [
+              28872
+            ]
+          },
+          {
+            "Amethyst arrow": [
+              21326,
+              21332,
+              21334,
+              21336
+            ],
+            "Rune arrow": [
+              892,
+              893,
+              5621,
+              5627
+            ]
+          },
+          {
+            "Bolt rack": [
+              4740
+            ]
+          },
+          {
+            "Adamant arrow": [
+              890,
+              891,
+              5620,
+              5626
+            ],
+            "Broad arrows": [
+              4160
             ]
           }
         ],
-        "ammo": [],
         "hands": [
+          {
+            "Void knight gloves": [
+              8842,
+              20475,
+              24182
+            ]
+          },
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          },
+          {
+            "Black d'hide vambraces": [
+              2491
+            ]
+          },
           {
             "Combat bracelet": [
               11126,
@@ -4352,23 +4156,23 @@
               11974,
               11972
             ]
-          },
-          {
-            "Chaos gauntlets": [
-              777
-            ]
           }
         ],
         "feet": [
           {
-            "Mystic boots": [
-              4097
+            "Blessed boots": [
+              19921,
+              19930,
+              19924,
+              19927,
+              19933,
+              19936
             ]
           }
         ],
         "ring": [
           {
-            "Ring of dueling(8)": [
+            "Ring of dueling": [
               2566,
               2564,
               2562,
@@ -4381,6 +4185,17 @@
           }
         ],
         "special": [
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          },
+          {
+            "Magic shortbow (i)": [
+              12788
+            ]
+          },
           {
             "Dragon dagger": [
               1215,
@@ -13629,27 +13444,27 @@
             "Soulreaper axe": [
               28338
             ],
-            "Emberlight": [
-              29589
+            "Noxious halberd": [
+              29796
             ]
           },
           {
+            "Emberlight": [
+              29589
+            ],
             "Arclight": [
               19675
+            ]
+          },
+          {
+            "Zombie axe": [
+              28810
             ]
           },
           {
             "Blade of saeldor": [
               23997,
               23995
-            ],
-            "Noxious halberd": [
-              29796
-            ]
-          },
-          {
-            "Zombie axe": [
-              28810
             ]
           }
         ],
@@ -20853,10 +20668,10 @@
         ],
         "cape": [
           {
-            "Imbued saradomin cape": [
-              21791,
-              24236,
-              24248
+            "Imbued zamorak cape": [
+              21795,
+              24244,
+              24250
             ]
           },
           {
@@ -20961,6 +20776,11 @@
           }
         ],
         "ammo": [
+          {
+            "Rada's blessing 4": [
+              22947
+            ]
+          },
           {
             "Unholy blessing": [
               20223
@@ -23239,9 +23059,7 @@
             "Toxic staff of the dead": [
               12902,
               12904
-            ]
-          },
-          {
+            ],
             "Staff of the dead": [
               11791
             ]
@@ -23252,8 +23070,27 @@
             ]
           },
           {
+            "Blue moon spear": [
+              28988
+            ],
+            "Ahrim's staff": [
+              4710,
+              4862,
+              4863,
+              4864,
+              4865,
+              4866
+            ]
+          },
+          {
             "Master wand": [
               6914
+            ],
+            "Slayer's staff (e)": [
+              21255
+            ],
+            "Skull sceptre": [
+              9013
             ]
           }
         ],
@@ -23269,6 +23106,10 @@
             ]
           },
           {
+            "Ancient wyvern shield": [
+              21634,
+              21633
+            ],
             "Mage's book": [
               6889
             ]
@@ -23316,6 +23157,11 @@
             ]
           },
           {
+            "Regen bracelet": [
+              11133
+            ]
+          },
+          {
             "Combat bracelet": [
               11126,
               11124,
@@ -23355,6 +23201,11 @@
           }
         ],
         "ring": [
+          {
+            "Magus ring": [
+              28313
+            ]
+          },
           {
             "Ring of suffering (i)": [
               19710,
@@ -32838,6 +32689,9 @@
             ]
           },
           {
+            "Dual macuahuitl": [
+              28997
+            ],
             "Abyssal bludgeon": [
               13263
             ],
@@ -32846,20 +32700,25 @@
             ]
           },
           {
-            "Blade of saeldor": [
-              23997,
-              23995
-            ],
-            "Zombie axe": [
-              28810
-            ]
-          },
-          {
             "Zamorakian hasta": [
               11889
             ],
             "Sarachnis cudgel": [
               23528
+            ],
+            "Abyssal tentacle": [
+              12006
+            ]
+          },
+          {
+            "Zombie axe": [
+              28810
+            ],
+            "Saradomin sword": [
+              11838
+            ],
+            "Abyssal whip": [
+              4151
             ]
           }
         ],
@@ -37349,6 +37208,11 @@
             "Crystal harpoon": [
               23762,
               23764
+            ]
+          },
+          {
+            "Dragon harpoon": [
+              21028
             ]
           }
         ],
@@ -46141,6 +46005,9 @@
         ],
         "feet": [
           {
+            "Aranea boots": [
+              29806
+            ],
             "Dragon boots": [
               11840
             ]
@@ -47120,6 +46987,11 @@
             ]
           },
           {
+            "Eclipse moon chestplate": [
+              29004,
+              29031,
+              29049
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -47127,9 +46999,6 @@
               10378,
               10386,
               10370
-            ],
-            "Black d'hide body": [
-              2503
             ]
           }
         ],
@@ -47524,6 +47393,11 @@
             ]
           },
           {
+            "Eclipse moon chestplate": [
+              29004,
+              29031,
+              29049
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -47531,9 +47405,6 @@
               10378,
               10386,
               10370
-            ],
-            "Black d'hide body": [
-              2503
             ]
           }
         ],
@@ -50289,13 +50160,13 @@
             "Ursine chainmace": [
               27657,
               27660
-            ],
-            "Saradomin's blessed sword": [
-              12809,
-              12808
             ]
           },
           {
+            "Saradomin's blessed sword": [
+              12809,
+              12808
+            ],
             "Zamorakian hasta": [
               11889
             ],
@@ -50497,6 +50368,9 @@
             ],
             "Ancient godsword": [
               26233
+            ],
+            "Ancient mace": [
+              11061
             ]
           }
         ]
@@ -50615,6 +50489,11 @@
           }
         ],
         "feet": [
+          {
+            "Aranea boots": [
+              29806
+            ]
+          },
           {
             "Pegasian boots": [
               13237
@@ -53053,6 +52932,779 @@
         "hands": [],
         "feet": [],
         "ring": [],
+        "special": []
+      }
+    ]
+  },
+  {
+    "name": "Volcanic Mine",
+    "url": "https://oldschool.runescape.wiki/w/Volcanic_Mine",
+    "category": "Skilling",
+    "styles": [
+      {
+        "name": "Group",
+        "head": [
+          {
+            "Prospector helmet": [
+              12013
+            ]
+          },
+          {
+            "Sunfire fanatic helm": [
+              28933
+            ]
+          },
+          {
+            "Mitre": [
+              10452,
+              10454,
+              10456,
+              12259,
+              12271,
+              12203
+            ]
+          },
+          {
+            "Proselyte sallet": [
+              9672
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Dragonbone necklace": [
+              22111
+            ],
+            "Bonecrusher necklace": [
+              22986
+            ]
+          },
+          {
+            "Stole": [
+              10470,
+              10472,
+              10474,
+              12257,
+              12269,
+              12201
+            ]
+          },
+          {
+            "Holy symbol": [
+              1718
+            ],
+            "Unholy symbol": [
+              1724
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Max cape": [
+              13280,
+              13342
+            ]
+          },
+          {
+            "Hitpoints cape(t)": [
+              9768,
+              9769
+            ]
+          },
+          {
+            "Soul cape": [
+              25344,
+              25346
+            ]
+          },
+          {
+            "Ardougne cloak 4": [
+              13124
+            ]
+          },
+          {
+            "Ardougne cloak 3": [
+              13123
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Prospector jacket": [
+              12014
+            ],
+            "Varrock armour 4": [
+              13107
+            ]
+          },
+          {
+            "Sunfire fanatic cuirass": [
+              28936
+            ]
+          },
+          {
+            "Proselyte hauberk": [
+              9674
+            ]
+          },
+          {
+            "Monk's robe top": [
+              544
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Prospector legs": [
+              12015
+            ]
+          },
+          {
+            "Sunfire fanatic chausses": [
+              28939
+            ]
+          },
+          {
+            "Proselyte cuisse": [
+              9676
+            ],
+            "Proselyte tasset": [
+              9678
+            ]
+          },
+          {
+            "Monk's robe": [
+              542
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Crozier": [
+              12199,
+              12263,
+              12275,
+              10442,
+              10440,
+              10444
+            ],
+            "Void knight mace": [
+              8841,
+              20473,
+              24181
+            ]
+          },
+          {
+            "Wolfbane": [
+              2952
+            ],
+            "Dragon mace": [
+              1434
+            ],
+            "Blisterwood flail": [
+              24699
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Falador shield 4": [
+              13120
+            ]
+          },
+          {
+            "Elysian spirit shield": [
+              12817
+            ]
+          },
+          {
+            "God book": [
+              3840,
+              3842,
+              3844,
+              12608,
+              12610,
+              12612
+            ],
+            "Broodoo shield": [
+              6279,
+              6277,
+              6275,
+              6273,
+              6271,
+              6269,
+              6267,
+              6265,
+              6263,
+              6261,
+              6259,
+              6257,
+              6255,
+              6253,
+              6251,
+              6249,
+              6247,
+              6245,
+              6243,
+              6241,
+              6239,
+              6237,
+              6235,
+              6233,
+              6231,
+              6229,
+              6227,
+              6225,
+              6223,
+              6221,
+              6219,
+              6217,
+              6215
+            ]
+          },
+          {
+            "Damaged book": [
+              12611,
+              12609,
+              12607,
+              3843,
+              3839,
+              3841
+            ]
+          }
+        ],
+        "ammo": [
+          {
+            "Ghommal's lucky penny": [
+              27544
+            ]
+          },
+          {
+            "Rada's blessing 4": [
+              22947
+            ]
+          },
+          {
+            "God blessing": [
+              20220,
+              20223,
+              20226,
+              20229,
+              20232,
+              20235
+            ],
+            "Rada's blessing 3": [
+              22945
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Regen bracelet": [
+              11133
+            ]
+          },
+          {
+            "Holy wraps": [
+              19997
+            ]
+          },
+          {
+            "Tormented bracelet": [
+              19544
+            ]
+          },
+          {
+            "Blessed vambraces": [
+              12490,
+              12506,
+              12498,
+              10376,
+              10384,
+              10368
+            ],
+            "White gloves": [
+              6629
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Prospector boots": [
+              12016
+            ]
+          },
+          {
+            "Devout boots": [
+              22954
+            ]
+          },
+          {
+            "Holy sandals": [
+              12598
+            ]
+          },
+          {
+            "Guardian boots": [
+              21733
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Celestial signet": [
+              25543,
+              25545
+            ],
+            "Elven signet": [
+              23943
+            ]
+          },
+          {
+            "Ring of the gods (i)": [
+              13202,
+              25252,
+              26764
+            ]
+          },
+          {
+            "Ring of suffering (i)": [
+              19710,
+              20657,
+              25246,
+              25248,
+              26761,
+              26762
+            ]
+          },
+          {
+            "Ring of shadows": [
+              28329,
+              28327
+            ]
+          },
+          {
+            "Explorer's ring 4": [
+              13128
+            ]
+          }
+        ],
+        "special": []
+      },
+      {
+        "name": "Solo",
+        "head": [
+          {
+            "Graceful hood": [
+              11850,
+              11851
+            ]
+          },
+          {
+            "Sunfire fanatic helm": [
+              28933
+            ]
+          },
+          {
+            "Mitre": [
+              10452,
+              10454,
+              10456,
+              12259,
+              12271,
+              12203
+            ]
+          },
+          {
+            "Proselyte sallet": [
+              9672
+            ]
+          },
+          {
+            "Prospector helmet": [
+              12013
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Dragonbone necklace": [
+              22111
+            ],
+            "Bonecrusher necklace": [
+              22986
+            ]
+          },
+          {
+            "Stole": [
+              10470,
+              10472,
+              10474,
+              12257,
+              12269,
+              12201
+            ]
+          },
+          {
+            "Holy symbol": [
+              1718
+            ],
+            "Unholy symbol": [
+              1724
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Graceful cape": [
+              11852,
+              11853
+            ]
+          },
+          {
+            "Max cape": [
+              13280,
+              13342
+            ]
+          },
+          {
+            "Hitpoints cape(t)": [
+              9768,
+              9769
+            ]
+          },
+          {
+            "Soul cape": [
+              25344,
+              25346
+            ]
+          },
+          {
+            "Ardougne cloak 4": [
+              13124
+            ],
+            "Ardougne cloak 3": [
+              13123
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Graceful top": [
+              11854,
+              11855
+            ]
+          },
+          {
+            "Prospector jacket": [
+              12014
+            ],
+            "Varrock armour 4": [
+              13107
+            ]
+          },
+          {
+            "Sunfire fanatic cuirass": [
+              28936
+            ]
+          },
+          {
+            "Proselyte hauberk": [
+              9674
+            ]
+          },
+          {
+            "Monk's robe top": [
+              544
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Graceful legs": [
+              11856,
+              11857
+            ]
+          },
+          {
+            "Prospector legs": [
+              12015
+            ]
+          },
+          {
+            "Sunfire fanatic chausses": [
+              28939
+            ]
+          },
+          {
+            "Proselyte cuisse": [
+              9676
+            ],
+            "Proselyte tasset": [
+              9678
+            ]
+          },
+          {
+            "Monk's robe": [
+              542
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Crozier": [
+              12199,
+              12263,
+              12275,
+              10442,
+              10440,
+              10444
+            ],
+            "Void knight mace": [
+              8841,
+              20473,
+              24181
+            ]
+          },
+          {
+            "Wolfbane": [
+              2952
+            ],
+            "Dragon mace": [
+              1434
+            ],
+            "Blisterwood flail": [
+              24699
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Falador shield 4": [
+              13120
+            ]
+          },
+          {
+            "Elysian spirit shield": [
+              12817
+            ]
+          },
+          {
+            "God book": [
+              3840,
+              3842,
+              3844,
+              12608,
+              12610,
+              12612
+            ],
+            "Broodoo shield": [
+              6279,
+              6277,
+              6275,
+              6273,
+              6271,
+              6269,
+              6267,
+              6265,
+              6263,
+              6261,
+              6259,
+              6257,
+              6255,
+              6253,
+              6251,
+              6249,
+              6247,
+              6245,
+              6243,
+              6241,
+              6239,
+              6237,
+              6235,
+              6233,
+              6231,
+              6229,
+              6227,
+              6225,
+              6223,
+              6221,
+              6219,
+              6217,
+              6215
+            ]
+          },
+          {
+            "Damaged book": [
+              12611,
+              12609,
+              12607,
+              3843,
+              3839,
+              3841
+            ]
+          }
+        ],
+        "ammo": [
+          {
+            "Ghommal's lucky penny": [
+              27544
+            ]
+          },
+          {
+            "Rada's blessing 4": [
+              22947
+            ]
+          },
+          {
+            "God blessing": [
+              20220,
+              20223,
+              20226,
+              20229,
+              20232,
+              20235
+            ],
+            "Rada's blessing 3": [
+              22945
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Graceful gloves": [
+              11858,
+              11859
+            ]
+          },
+          {
+            "Regen bracelet": [
+              11133
+            ]
+          },
+          {
+            "Holy wraps": [
+              19997
+            ]
+          },
+          {
+            "Tormented bracelet": [
+              19544
+            ]
+          },
+          {
+            "Blessed vambraces": [
+              12490,
+              12506,
+              12498,
+              10376,
+              10384,
+              10368
+            ],
+            "White gloves": [
+              6629
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Graceful boots": [
+              11860,
+              11861
+            ]
+          },
+          {
+            "Prospector boots": [
+              12016
+            ]
+          },
+          {
+            "Devout boots": [
+              22954
+            ]
+          },
+          {
+            "Holy sandals": [
+              12598
+            ]
+          },
+          {
+            "Guardian boots": [
+              21733
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Celestial signet": [
+              25543,
+              25545
+            ],
+            "Elven signet": [
+              23943
+            ]
+          },
+          {
+            "Ring of the gods (i)": [
+              13202,
+              25252,
+              26764
+            ]
+          },
+          {
+            "Ring of suffering (i)": [
+              19710,
+              20657,
+              25246,
+              25248,
+              26761,
+              26762
+            ]
+          },
+          {
+            "Ring of shadows": [
+              28329,
+              28327
+            ]
+          },
+          {
+            "Explorer's ring 4": [
+              13128
+            ]
+          }
+        ],
         "special": []
       }
     ]
