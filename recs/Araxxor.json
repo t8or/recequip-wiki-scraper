@@ -235,13 +235,13 @@
         "Ursine chainmace": [
           27657,
           27660
-        ],
-        "Saradomin's blessed sword": [
-          12809,
-          12808
         ]
       },
       {
+        "Saradomin's blessed sword": [
+          12809,
+          12808
+        ],
         "Zamorakian hasta": [
           11889
         ],
@@ -443,6 +443,9 @@
         ],
         "Ancient godsword": [
           26233
+        ],
+        "Ancient mace": [
+          11061
         ]
       }
     ]
@@ -561,6 +564,11 @@
       }
     ],
     "feet": [
+      {
+        "Aranea boots": [
+          29806
+        ]
+      },
       {
         "Pegasian boots": [
           13237

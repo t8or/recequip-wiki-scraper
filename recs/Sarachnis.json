@@ -232,6 +232,9 @@
         ]
       },
       {
+        "Dual macuahuitl": [
+          28997
+        ],
         "Abyssal bludgeon": [
           13263
         ],
@@ -240,20 +243,25 @@
         ]
       },
       {
-        "Blade of saeldor": [
-          23997,
-          23995
-        ],
-        "Zombie axe": [
-          28810
-        ]
-      },
-      {
         "Zamorakian hasta": [
           11889
         ],
         "Sarachnis cudgel": [
           23528
+        ],
+        "Abyssal tentacle": [
+          12006
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ],
+        "Saradomin sword": [
+          11838
+        ],
+        "Abyssal whip": [
+          4151
         ]
       }
     ],
