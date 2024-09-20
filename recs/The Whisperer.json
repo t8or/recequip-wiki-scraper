@@ -303,14 +303,6 @@
         ]
       },
       {
-        "Harmonised nightmare staff": [
-          24423
-        ],
-        "Volatile nightmare staff": [
-          24424
-        ]
-      },
-      {
         "Sanguinesti staff": [
           22481,
           22323
@@ -328,6 +320,11 @@
         ]
       },
       {
+        "Harmonised nightmare staff": [
+          24423
+        ]
+      },
+      {
         "Warped sceptre": [
           28583,
           28585
@@ -338,10 +335,6 @@
       {
         "Elidinis' ward (f)": [
           27251
-        ],
-        "Tome of fire": [
-          20716,
-          20714
         ]
       },
       {
@@ -350,6 +343,10 @@
         ],
         "Elidinis' ward": [
           25985
+        ],
+        "Tome of fire": [
+          20716,
+          20714
         ]
       },
       {
