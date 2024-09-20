@@ -28849,13 +28849,13 @@
             ]
           },
           {
-            "Bandos chestplate": [
-              11832
+            "Justiciar chestguard": [
+              22327
             ]
           },
           {
-            "Justiciar chestguard": [
-              22327
+            "Bandos chestplate": [
+              11832
             ]
           },
           {
@@ -28917,13 +28917,13 @@
             ]
           },
           {
-            "Bandos tassets": [
-              11834
+            "Justiciar legguards": [
+              22328
             ]
           },
           {
-            "Justiciar legguards": [
-              22328
+            "Bandos tassets": [
+              11834
             ]
           },
           {
@@ -29436,6 +29436,11 @@
             ]
           },
           {
+            "Bandos chestplate": [
+              11832
+            ]
+          },
+          {
             "Barrows equipment": [
               4712,
               4868,
@@ -29473,11 +29478,6 @@
               4990,
               4991,
               4992
-            ]
-          },
-          {
-            "Bandos chestplate": [
-              11832
             ]
           },
           {
@@ -29504,6 +29504,11 @@
             ]
           },
           {
+            "Bandos tassets": [
+              11834
+            ]
+          },
+          {
             "Barrows equipment": [
               4712,
               4868,
@@ -29541,11 +29546,6 @@
               4990,
               4991,
               4992
-            ]
-          },
-          {
-            "Bandos tassets": [
-              11834
             ]
           },
           {
@@ -30034,6 +30034,11 @@
             ]
           },
           {
+            "Bandos chestplate": [
+              11832
+            ]
+          },
+          {
             "Barrows equipment": [
               4712,
               4868,
@@ -30071,11 +30076,6 @@
               4990,
               4991,
               4992
-            ]
-          },
-          {
-            "Bandos chestplate": [
-              11832
             ]
           },
           {
@@ -30102,6 +30102,11 @@
             ]
           },
           {
+            "Bandos tassets": [
+              11834
+            ]
+          },
+          {
             "Barrows equipment": [
               4712,
               4868,
@@ -30139,11 +30144,6 @@
               4990,
               4991,
               4992
-            ]
-          },
-          {
-            "Bandos tassets": [
-              11834
             ]
           },
           {
@@ -39154,14 +39154,6 @@
             ]
           },
           {
-            "Harmonised nightmare staff": [
-              24423
-            ],
-            "Volatile nightmare staff": [
-              24424
-            ]
-          },
-          {
             "Sanguinesti staff": [
               22481,
               22323
@@ -39179,6 +39171,11 @@
             ]
           },
           {
+            "Harmonised nightmare staff": [
+              24423
+            ]
+          },
+          {
             "Warped sceptre": [
               28583,
               28585
@@ -39189,10 +39186,6 @@
           {
             "Elidinis' ward (f)": [
               27251
-            ],
-            "Tome of fire": [
-              20716,
-              20714
             ]
           },
           {
@@ -39201,6 +39194,10 @@
             ],
             "Elidinis' ward": [
               25985
+            ],
+            "Tome of fire": [
+              20716,
+              20714
             ]
           },
           {
@@ -39675,7 +39672,7 @@
         ]
       },
       {
-        "name": "Melee DPS",
+        "name": "Melee",
         "head": [
           {
             "Torva full helm": [
@@ -39693,6 +39690,11 @@
             ]
           },
           {
+            "Blood moon helm": [
+              29028,
+              29047,
+              29073
+            ],
             "Helm of neitiznot": [
               10828
             ]
@@ -39753,6 +39755,11 @@
           {
             "Bandos chestplate": [
               11832
+            ],
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
             ]
           },
           {
@@ -39780,6 +39787,11 @@
           {
             "Bandos tassets": [
               11834
+            ],
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
             ]
           },
           {
@@ -39953,7 +39965,7 @@
         ]
       },
       {
-        "name": "Freezer",
+        "name": "Magic",
         "head": [
           {
             "Void mage helm": [
@@ -40153,7 +40165,7 @@
         ]
       },
       {
-        "name": "Ranger",
+        "name": "Range",
         "head": [
           {
             "Void ranger helm": [
@@ -40387,7 +40399,9 @@
           {
             "Noxious halberd": [
               29796
-            ],
+            ]
+          },
+          {
             "Abyssal tentacle": [
               12006
             ]
