@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Ranged",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Shayzien helm (5)": [
+          13379
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Bonecrusher necklace": [
+          22986
+        ]
+      },
+      {
+        "Dragonbone necklace": [
+          22111
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      },
+      {
+        "Soul cape": [
+          25344,
+          25346
+        ],
+        "Ardougne cloak 4": [
+          13124
+        ]
+      },
+      {
+        "Ava's accumulator": [
+          10499
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Shayzien body (5)": [
+          13381
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Shayzien greaves (5)": [
+          13380
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Karil's crossbow": [
+          4734,
+          4934,
+          4935,
+          4936,
+          4937,
+          4938
+        ],
+        "Hunters' sunlight crossbow": [
+          28869
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ],
+        "Magic shortbow (i)": [
+          12788
+        ],
+        "Crystal bow": [
+          23983,
+          23985,
+          24123
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Book of law": [
+          12610
+        ]
+      },
+      {
+        "Unholy book": [
+          3842
+        ]
+      },
+      {
+        "Book of balance": [
+          3844
+        ]
+      },
+      {
+        "Black d'hide shield": [
+          22284
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      },
+      {
+        "Bolt rack": [
+          4740
+        ]
+      },
+      {
+        "Rune arrow": [
+          892,
+          893,
+          5621,
+          5627
+        ]
+      },
+      {
+        "Broad bolts": [
+          11875
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Shayzien gloves (5)": [
+          13377
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Shayzien boots (5)": [
+          13378
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Venator ring": [
+          28310
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
+      },
+      {
+        "Ring of suffering (i)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Archers ring (i)": [
+          11771,
+          25260,
+          26768
+        ],
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Explorer's ring 4": [
+          13128
+        ]
+      }
+    ],
+    "special": []
+  },
+  {
+    "name": "Melee",
+    "head": [
+      {
+        "Slayer helmet": [
+          11864
+        ],
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Shayzien helm (5)": [
+          13379
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ],
+        "Amulet of blood fury": [
+          24780
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      },
+      {
+        "Amulet of power": [
+          1731
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
+        ]
+      },
+      {
+        "Cape of Accomplishment": [
+          9771,
+          9772,
+          13340,
+          13341,
+          9747,
+          9748,
+          9768,
+          9769,
+          9789,
+          9790,
+          9801,
+          9802,
+          9753,
+          9754,
+          9810,
+          9811,
+          9804,
+          9805,
+          9798,
+          9799,
+          9783,
+          9784,
+          9762,
+          9763,
+          9774,
+          9775,
+          9780,
+          9781,
+          9948,
+          9949,
+          19476,
+          13069,
+          13329,
+          20447,
+          24134,
+          13337,
+          13335,
+          20760,
+          21285,
+          21289,
+          24133,
+          21776,
+          24238,
+          24232,
+          21784,
+          24242,
+          24234,
+          21780,
+          24246,
+          24233,
+          21898,
+          21916,
+          24135,
+          28902,
+          28906,
+          28830,
+          9792,
+          9793,
+          9759,
+          9760,
+          9786,
+          9787,
+          9795,
+          9796,
+          9777,
+          9778,
+          9813,
+          13068,
+          9750,
+          9751,
+          9756,
+          9757,
+          9765,
+          9766,
+          9807,
+          9808,
+          13221,
+          13222,
+          13280,
+          13342,
+          13333,
+          13331,
+          24855,
+          27363,
+          27361,
+          27365
+        ]
+      },
+      {
+        "Ardougne cloak 3": [
+          13123
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Shayzien body (5)": [
+          13381
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Shayzien greaves (5)": [
+          13380
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Ghrazi rapier": [
+          22324
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Zamorakian hasta": [
+          11889
+        ],
+        "Abyssal dagger (p++)": [
+          13265,
+          13267,
+          13269,
+          13271
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ],
+        "Dragonfire shield": [
+          11284,
+          11283
+        ]
+      },
+      {
+        "Rune defender": [
+          8850,
+          20461,
+          24142
+        ],
+        "Toktz-ket-xil": [
+          6524
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Shayzien gloves (5)": [
+          13377
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Shayzien boots (5)": [
+          13378
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Bellator ring": [
+          28316
+        ],
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Ring of suffering (i)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Saradomin godsword": [
+          11806
+        ]
+      },
+      {
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      }
+    ]
+  }
+]
