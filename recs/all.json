@@ -1359,11 +1359,6 @@
               27277,
               27275
             ]
-          },
-          {
-            "Purging staff": [
-              29594
-            ]
           }
         ],
         "shield": [
@@ -5949,6 +5944,11 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Dragon boots": [
               11840
             ]
@@ -8430,6 +8430,12 @@
             "Armadyl crossbow": [
               11785
             ],
+            "Tonalztics of ralos": [
+              28919,
+              28922
+            ]
+          },
+          {
             "Dragon crossbow": [
               21902
             ],
@@ -11532,6 +11538,9 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ],
             "Echo boots": [
               28945
             ],
@@ -13947,6 +13956,11 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Dragon boots": [
               11840
             ]
@@ -14262,16 +14276,13 @@
             ]
           },
           {
-            "Dragon boots": [
-              11840
+            "Aranea boots": [
+              29806
             ]
           },
           {
-            "Echo boots": [
-              28945
-            ],
-            "Guardian boots": [
-              21733
+            "Dragon boots": [
+              11840
             ]
           }
         ],
@@ -14520,13 +14531,13 @@
             ]
           },
           {
-            "Dragon boots": [
-              11840
+            "Aranea boots": [
+              29806
             ]
           },
           {
-            "Echo boots": [
-              28945
+            "Dragon boots": [
+              11840
             ]
           }
         ],
@@ -39617,6 +39628,11 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Dragon boots": [
               11840
             ]
@@ -39913,6 +39929,11 @@
           {
             "Primordial boots": [
               13239
+            ]
+          },
+          {
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -42662,6 +42683,11 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Dragon boots": [
               11840
             ]
@@ -43569,6 +43595,9 @@
           {
             "Osmumten's fang": [
               26219
+            ],
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -51850,6 +51879,175 @@
     ]
   },
   {
+    "name": "Hallowed Sepulchre",
+    "url": "https://oldschool.runescape.wiki/w/Hallowed_Sepulchre/Strategies",
+    "category": "Skilling",
+    "styles": [
+      {
+        "name": "Default",
+        "head": [
+          {
+            "Graceful hood": [
+              11850,
+              11851
+            ]
+          },
+          {
+            "Serpentine helm": [
+              12929,
+              12931
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Hallowed symbol": [
+              24725
+            ]
+          },
+          {
+            "Holy symbol": [
+              1718
+            ]
+          },
+          {
+            "Saradomin stole": [
+              10470
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Max cape": [
+              13280,
+              13342
+            ],
+            "Agility cape": [
+              9771,
+              9772,
+              13340,
+              13341
+            ],
+            "Graceful cape": [
+              11852,
+              11853
+            ]
+          },
+          {
+            "Hitpoints cape": [
+              9768,
+              9769
+            ],
+            "Spottier cape": [
+              10071,
+              10074
+            ]
+          },
+          {
+            "Spotted cape": [
+              10069,
+              10073
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Graceful top": [
+              11854,
+              11855
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Graceful legs": [
+              11856,
+              11857
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Dorgeshuun crossbow": [
+              8880
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Hallowed focus": [
+              24723
+            ]
+          },
+          {
+            "Holy book": [
+              3840
+            ]
+          },
+          {
+            "Tome of fire": [
+              20716,
+              20714
+            ]
+          }
+        ],
+        "ammo": [
+          {
+            "Hallowed grapple": [
+              24721
+            ]
+          },
+          {
+            "Mith grapple": [
+              9419
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Graceful gloves": [
+              11858,
+              11859
+            ]
+          },
+          {
+            "Penance gloves": [
+              10553,
+              10554
+            ]
+          },
+          {
+            "Regen bracelet": [
+              11133
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Graceful boots": [
+              11860,
+              11861
+            ]
+          },
+          {
+            "Boots of lightness": [
+              88,
+              89
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Hallowed ring": [
+              24731
+            ]
+          }
+        ],
+        "special": []
+      }
+    ]
+  },
+  {
     "name": "Lizardman Shaman",
     "url": "https://oldschool.runescape.wiki/w/Lizardman_shaman/Strategies",
     "category": "Slayer",
@@ -52751,6 +52949,9 @@
           {
             "Dragon boots": [
               11840
+            ],
+            "Aranea boots": [
+              29806
             ],
             "Echo boots": [
               28945
