@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Default",
+    "head": [
+      {
+        "Graceful hood": [
+          11850,
+          11851
+        ]
+      },
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Hallowed symbol": [
+          24725
+        ]
+      },
+      {
+        "Holy symbol": [
+          1718
+        ]
+      },
+      {
+        "Saradomin stole": [
+          10470
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Max cape": [
+          13280,
+          13342
+        ],
+        "Agility cape": [
+          9771,
+          9772,
+          13340,
+          13341
+        ],
+        "Graceful cape": [
+          11852,
+          11853
+        ]
+      },
+      {
+        "Hitpoints cape": [
+          9768,
+          9769
+        ],
+        "Spottier cape": [
+          10071,
+          10074
+        ]
+      },
+      {
+        "Spotted cape": [
+          10069,
+          10073
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Graceful top": [
+          11854,
+          11855
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Graceful legs": [
+          11856,
+          11857
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Dorgeshuun crossbow": [
+          8880
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Hallowed focus": [
+          24723
+        ]
+      },
+      {
+        "Holy book": [
+          3840
+        ]
+      },
+      {
+        "Tome of fire": [
+          20716,
+          20714
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Hallowed grapple": [
+          24721
+        ]
+      },
+      {
+        "Mith grapple": [
+          9419
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Graceful gloves": [
+          11858,
+          11859
+        ]
+      },
+      {
+        "Penance gloves": [
+          10553,
+          10554
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Graceful boots": [
+          11860,
+          11861
+        ]
+      },
+      {
+        "Boots of lightness": [
+          88,
+          89
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Hallowed ring": [
+          24731
+        ]
+      }
+    ],
+    "special": []
+  }
+]
