@@ -475,6 +475,11 @@
         ]
       },
       {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
         "Ranger boots": [
           2577
         ]
@@ -482,14 +487,6 @@
       {
         "Mixed hide boots": [
           29286
-        ]
-      },
-      {
-        "Shayzien boots (5)": [
-          13378
-        ],
-        "Snakeskin boots": [
-          6328
         ]
       }
     ],
@@ -829,21 +826,21 @@
         ]
       },
       {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Ranger boots": [
+          2577
+        ]
+      },
+      {
         "Echo boots": [
           28945
         ],
         "Guardian boots": [
           21733
-        ]
-      },
-      {
-        "Bandos boots": [
-          11836
-        ]
-      },
-      {
-        "Dragon boots": [
-          11840
         ]
       }
     ],
@@ -2811,6 +2808,9 @@
         ],
         "Infinity boots": [
           6920
+        ],
+        "Aranea boots": [
+          29806
         ]
       }
     ],
@@ -3294,6 +3294,11 @@
       {
         "Ranger boots": [
           2577
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
         ]
       },
       {

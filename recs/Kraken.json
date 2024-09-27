@@ -64,11 +64,6 @@
         ]
       },
       {
-        "Amulet of power": [
-          1731
-        ]
-      },
-      {
         "Amulet of glory": [
           1704,
           1706,
@@ -77,6 +72,11 @@
           1712,
           11976,
           11978
+        ]
+      },
+      {
+        "Amulet of power": [
+          1731
         ]
       }
     ],
@@ -373,6 +373,9 @@
       {
         "Infinity boots": [
           6920
+        ],
+        "Aranea boots": [
+          29806
         ]
       },
       {

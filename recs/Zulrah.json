@@ -424,6 +424,9 @@
       {
         "Infinity boots": [
           6920
+        ],
+        "Aranea boots": [
+          29806
         ]
       },
       {
@@ -989,6 +992,11 @@
         ]
       },
       {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
         "Infinity boots": [
           6920
         ],
@@ -1012,11 +1020,6 @@
       {
         "Wizard boots": [
           2579
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
         ]
       }
     ],
@@ -1313,13 +1316,13 @@
         ]
       },
       {
-        "Boots of brimstone": [
-          22951
+        "Aranea boots": [
+          29806
         ]
       },
       {
-        "Shayzien boots (5)": [
-          13378
+        "Boots of brimstone": [
+          22951
         ]
       }
     ],

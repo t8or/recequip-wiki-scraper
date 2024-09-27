@@ -460,11 +460,11 @@
         ]
       },
       {
-        "Noxious halberd": [
-          29796
-        ],
         "Abyssal tentacle": [
           12006
+        ],
+        "Noxious halberd": [
+          29796
         ]
       }
     ],
@@ -1152,7 +1152,7 @@
     "special": []
   },
   {
-    "name": "Soteseg",
+    "name": "Sotetseg (0 defence)",
     "head": [],
     "neck": [],
     "cape": [],
@@ -1176,12 +1176,15 @@
         ]
       },
       {
-        "Blade of saeldor": [
-          23997,
-          23995
+        "Noxious halberd": [
+          29796
         ]
       },
       {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
         "Abyssal tentacle": [
           12006
         ]
@@ -1195,7 +1198,7 @@
     "special": []
   },
   {
-    "name": "Xarpus",
+    "name": "Xarpus (0 defence)",
     "head": [],
     "neck": [],
     "cape": [],
