@@ -1741,13 +1741,13 @@
             ]
           },
           {
-            "Mixed hide boots": [
-              29286
+            "Aranea boots": [
+              29806
             ]
           },
           {
-            "Snakeskin boots": [
-              6328
+            "Mixed hide boots": [
+              29286
             ]
           }
         ],
@@ -2375,6 +2375,9 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ],
             "Dragon boots": [
               11840
             ],
@@ -3505,6 +3508,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           }
         ],
@@ -8020,6 +8026,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           }
         ],
@@ -8366,6 +8375,11 @@
             ],
             "Zamorak d'hide boots": [
               19936
+            ]
+          },
+          {
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -13219,16 +13233,13 @@
             ]
           },
           {
-            "Infinity boots": [
-              6920
+            "Aranea boots": [
+              29806
             ]
           },
           {
-            "Wizard boots": [
-              2579
-            ],
-            "Bloodbark boots": [
-              25410
+            "Infinity boots": [
+              6920
             ]
           }
         ],
@@ -16787,6 +16798,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -17590,13 +17604,13 @@
             ]
           },
           {
-            "Boots of brimstone": [
-              22951
+            "Aranea boots": [
+              29806
             ]
           },
           {
-            "Shayzien boots (5)": [
-              13378
+            "Mixed hide boots": [
+              29286
             ]
           }
         ],
@@ -17939,6 +17953,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -18138,8 +18155,8 @@
             ]
           },
           {
-            "Snakeskin boots": [
-              6328
+            "Aranea boots": [
+              29806
             ]
           }
         ],
@@ -20819,6 +20836,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -23193,6 +23213,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -24208,6 +24231,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           }
         ],
@@ -26994,11 +27020,6 @@
             ]
           },
           {
-            "Amulet of power": [
-              1731
-            ]
-          },
-          {
             "Amulet of glory": [
               1704,
               1706,
@@ -27007,6 +27028,11 @@
               1712,
               11976,
               11978
+            ]
+          },
+          {
+            "Amulet of power": [
+              1731
             ]
           }
         ],
@@ -27303,6 +27329,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -27532,6 +27561,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -31472,6 +31504,11 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Infinity boots": [
               6920
             ],
@@ -31495,11 +31532,6 @@
           {
             "Boots of brimstone": [
               22951
-            ]
-          },
-          {
-            "Wizard boots": [
-              2579
             ]
           }
         ],
@@ -35439,8 +35471,8 @@
             ]
           },
           {
-            "Mixed hide boots": [
-              29286
+            "Aranea boots": [
+              29806
             ]
           }
         ],
@@ -35748,6 +35780,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -36689,16 +36724,16 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Boots of brimstone": [
               22951
             ],
             "Mixed hide boots": [
               29286
-            ]
-          },
-          {
-            "Shayzien boots (5)": [
-              13378
             ]
           }
         ],
@@ -38033,6 +38068,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -38449,13 +38487,13 @@
             ]
           },
           {
-            "Shayzien boots (5)": [
-              13378
+            "Aranea boots": [
+              29806
             ]
           },
           {
-            "Snakeskin boots": [
-              6328
+            "Mixed hide boots": [
+              29286
             ]
           }
         ],
@@ -39298,6 +39336,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -39845,11 +39886,11 @@
             ]
           },
           {
-            "Noxious halberd": [
-              29796
-            ],
             "Abyssal tentacle": [
               12006
+            ],
+            "Noxious halberd": [
+              29796
             ]
           }
         ],
@@ -40537,7 +40578,7 @@
         "special": []
       },
       {
-        "name": "Soteseg",
+        "name": "Sotetseg (0 defence)",
         "head": [],
         "neck": [],
         "cape": [],
@@ -40561,12 +40602,15 @@
             ]
           },
           {
-            "Blade of saeldor": [
-              23997,
-              23995
+            "Noxious halberd": [
+              29796
             ]
           },
           {
+            "Blade of saeldor": [
+              23997,
+              23995
+            ],
             "Abyssal tentacle": [
               12006
             ]
@@ -40580,7 +40624,7 @@
         "special": []
       },
       {
-        "name": "Xarpus",
+        "name": "Xarpus (0 defence)",
         "head": [],
         "neck": [],
         "cape": [],
@@ -40966,6 +41010,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -41868,6 +41915,11 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Ranger boots": [
               2577
             ]
@@ -41875,14 +41927,6 @@
           {
             "Mixed hide boots": [
               29286
-            ]
-          },
-          {
-            "Shayzien boots (5)": [
-              13378
-            ],
-            "Snakeskin boots": [
-              6328
             ]
           }
         ],
@@ -42222,21 +42266,21 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
+            "Ranger boots": [
+              2577
+            ]
+          },
+          {
             "Echo boots": [
               28945
             ],
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Bandos boots": [
-              11836
-            ]
-          },
-          {
-            "Dragon boots": [
-              11840
             ]
           }
         ],
@@ -44204,6 +44248,9 @@
             ],
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           }
         ],
@@ -44687,6 +44734,11 @@
           {
             "Ranger boots": [
               2577
+            ]
+          },
+          {
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -49026,6 +49078,9 @@
           {
             "Infinity boots": [
               6920
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -49591,6 +49646,11 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Infinity boots": [
               6920
             ],
@@ -49614,11 +49674,6 @@
           {
             "Wizard boots": [
               2579
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
             ]
           }
         ],
@@ -49915,13 +49970,13 @@
             ]
           },
           {
-            "Boots of brimstone": [
-              22951
+            "Aranea boots": [
+              29806
             ]
           },
           {
-            "Shayzien boots (5)": [
-              13378
+            "Boots of brimstone": [
+              22951
             ]
           }
         ],
