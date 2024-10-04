@@ -363,11 +363,6 @@
     ],
     "ring": [
       {
-        "Explorer's ring 4": [
-          13128
-        ]
-      },
-      {
         "Ring of shadows": [
           28329,
           28327
@@ -375,6 +370,11 @@
         "Ring of shadows (uncharged)": [
           28329,
           28327
+        ]
+      },
+      {
+        "Explorer's ring 4": [
+          13128
         ]
       },
       {
