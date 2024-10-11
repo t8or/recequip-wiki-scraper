@@ -11,12 +11,6 @@
         ]
       },
       {
-        "Graceful hood": [
-          11850,
-          11851
-        ]
-      },
-      {
         "Prospector helmet": [
           12013
         ]
@@ -45,22 +39,6 @@
           9792,
           9793
         ]
-      },
-      {
-        "Graceful cape": [
-          11852,
-          11853
-        ]
-      },
-      {
-        "Spottier cape": [
-          10071,
-          10074
-        ],
-        "Spotted cape": [
-          10069,
-          10073
-        ]
       }
     ],
     "body": [
@@ -81,12 +59,6 @@
         ]
       },
       {
-        "Graceful top": [
-          11854,
-          11855
-        ]
-      },
-      {
         "Prospector jacket": [
           12014
         ]
@@ -99,12 +71,6 @@
           26862,
           26868,
           26874
-        ]
-      },
-      {
-        "Graceful legs": [
-          11856,
-          11857
         ]
       },
       {
@@ -237,20 +203,7 @@
         ]
       }
     ],
-    "hands": [
-      {
-        "Graceful gloves": [
-          11858,
-          11859
-        ]
-      },
-      {
-        "Penance gloves": [
-          10553,
-          10554
-        ]
-      }
-    ],
+    "hands": [],
     "feet": [
       {
         "Boots of the eye": [
@@ -258,20 +211,8 @@
         ]
       },
       {
-        "Graceful boots": [
-          11860,
-          11861
-        ]
-      },
-      {
         "Prospector boots": [
           12016
-        ]
-      },
-      {
-        "Boots of lightness": [
-          88,
-          89
         ]
       }
     ],
