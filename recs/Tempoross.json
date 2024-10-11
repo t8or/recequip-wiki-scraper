@@ -11,45 +11,10 @@
         "Angler hat": [
           13258
         ]
-      },
-      {
-        "Graceful hood": [
-          11850,
-          11851
-        ]
       }
     ],
     "neck": [],
-    "cape": [
-      {
-        "Max cape": [
-          13280,
-          13342
-        ],
-        "Agility cape": [
-          9771,
-          9772,
-          13340,
-          13341
-        ]
-      },
-      {
-        "Graceful cape": [
-          11852,
-          11853
-        ]
-      },
-      {
-        "Spottier cape": [
-          10071,
-          10074
-        ],
-        "Spotted cape": [
-          10069,
-          10073
-        ]
-      }
-    ],
+    "cape": [],
     "body": [
       {
         "Spirit angler top": [
@@ -59,12 +24,6 @@
       {
         "Angler top": [
           13259
-        ]
-      },
-      {
-        "Graceful top": [
-          11854,
-          11855
         ]
       }
     ],
@@ -77,12 +36,6 @@
       {
         "Angler waders": [
           13260
-        ]
-      },
-      {
-        "Graceful legs": [
-          11856,
-          11857
         ]
       }
     ],
@@ -122,20 +75,7 @@
         ]
       }
     ],
-    "hands": [
-      {
-        "Graceful gloves": [
-          11858,
-          11859
-        ]
-      },
-      {
-        "Penance gloves": [
-          10553,
-          10554
-        ]
-      }
-    ],
+    "hands": [],
     "feet": [
       {
         "Spirit angler boots": [
@@ -145,16 +85,6 @@
       {
         "Angler boots": [
           13261
-        ]
-      },
-      {
-        "Graceful boots": [
-          11860,
-          11861
-        ],
-        "Boots of lightness": [
-          88,
-          89
         ]
       }
     ],

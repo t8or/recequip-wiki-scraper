@@ -6276,13 +6276,10 @@
             ]
           },
           {
-            "Ahrim's robetop": [
-              4712,
-              4868,
-              4869,
-              4870,
-              4871,
-              4872
+            "Blue moon chestplate": [
+              29013,
+              29037,
+              29058
             ]
           }
         ],
@@ -6298,13 +6295,10 @@
             ]
           },
           {
-            "Ahrim's robeskirt": [
-              4714,
-              4874,
-              4875,
-              4876,
-              4877,
-              4878
+            "Blue moon tassets": [
+              29016,
+              29039,
+              29061
             ]
           }
         ],
@@ -30234,6 +30228,9 @@
               23997,
               23995
             ],
+            "Noxious halberd": [
+              29796
+            ],
             "Ghrazi rapier": [
               22324
             ]
@@ -36853,45 +36850,10 @@
             "Angler hat": [
               13258
             ]
-          },
-          {
-            "Graceful hood": [
-              11850,
-              11851
-            ]
           }
         ],
         "neck": [],
-        "cape": [
-          {
-            "Max cape": [
-              13280,
-              13342
-            ],
-            "Agility cape": [
-              9771,
-              9772,
-              13340,
-              13341
-            ]
-          },
-          {
-            "Graceful cape": [
-              11852,
-              11853
-            ]
-          },
-          {
-            "Spottier cape": [
-              10071,
-              10074
-            ],
-            "Spotted cape": [
-              10069,
-              10073
-            ]
-          }
-        ],
+        "cape": [],
         "body": [
           {
             "Spirit angler top": [
@@ -36901,12 +36863,6 @@
           {
             "Angler top": [
               13259
-            ]
-          },
-          {
-            "Graceful top": [
-              11854,
-              11855
             ]
           }
         ],
@@ -36919,12 +36875,6 @@
           {
             "Angler waders": [
               13260
-            ]
-          },
-          {
-            "Graceful legs": [
-              11856,
-              11857
             ]
           }
         ],
@@ -36964,20 +36914,7 @@
             ]
           }
         ],
-        "hands": [
-          {
-            "Graceful gloves": [
-              11858,
-              11859
-            ]
-          },
-          {
-            "Penance gloves": [
-              10553,
-              10554
-            ]
-          }
-        ],
+        "hands": [],
         "feet": [
           {
             "Spirit angler boots": [
@@ -36987,16 +36924,6 @@
           {
             "Angler boots": [
               13261
-            ]
-          },
-          {
-            "Graceful boots": [
-              11860,
-              11861
-            ],
-            "Boots of lightness": [
-              88,
-              89
             ]
           }
         ],
@@ -48127,6 +48054,9 @@
             ]
           },
           {
+            "Echo boots": [
+              28945
+            ],
             "Guardian boots": [
               21733
             ]
@@ -48287,14 +48217,6 @@
         ],
         "weapon": [
           {
-            "Bruma torch": [
-              20720
-            ],
-            "Dragon axe": [
-              6739
-            ]
-          },
-          {
             "Dragon axe": [
               6739
             ]
@@ -48302,11 +48224,11 @@
         ],
         "shield": [
           {
-            "Imcando hammer (off-hand)": [
-              29775
-            ],
             "Bruma torch (off-hand)": [
               29777
+            ],
+            "Imcando hammer (off-hand)": [
+              29775
             ]
           }
         ],
@@ -49185,8 +49107,9 @@
             "Virtus mask": [
               26241
             ],
-            "Armadyl helmet": [
-              11826
+            "Crystal helm": [
+              23971,
+              23973
             ]
           },
           {
@@ -49413,8 +49336,9 @@
             "Virtus robe top": [
               26243
             ],
-            "Armadyl chestplate": [
-              11828
+            "Crystal body": [
+              23975,
+              23977
             ]
           },
           {
@@ -49464,8 +49388,9 @@
             "Virtus robe bottom": [
               26245
             ],
-            "Armadyl chainskirt": [
-              11830
+            "Crystal legs": [
+              23979,
+              23981
             ]
           },
           {
@@ -51686,12 +51611,6 @@
             ]
           },
           {
-            "Graceful hood": [
-              11850,
-              11851
-            ]
-          },
-          {
             "Prospector helmet": [
               12013
             ]
@@ -51720,22 +51639,6 @@
               9792,
               9793
             ]
-          },
-          {
-            "Graceful cape": [
-              11852,
-              11853
-            ]
-          },
-          {
-            "Spottier cape": [
-              10071,
-              10074
-            ],
-            "Spotted cape": [
-              10069,
-              10073
-            ]
           }
         ],
         "body": [
@@ -51756,12 +51659,6 @@
             ]
           },
           {
-            "Graceful top": [
-              11854,
-              11855
-            ]
-          },
-          {
             "Prospector jacket": [
               12014
             ]
@@ -51774,12 +51671,6 @@
               26862,
               26868,
               26874
-            ]
-          },
-          {
-            "Graceful legs": [
-              11856,
-              11857
             ]
           },
           {
@@ -51912,20 +51803,7 @@
             ]
           }
         ],
-        "hands": [
-          {
-            "Graceful gloves": [
-              11858,
-              11859
-            ]
-          },
-          {
-            "Penance gloves": [
-              10553,
-              10554
-            ]
-          }
-        ],
+        "hands": [],
         "feet": [
           {
             "Boots of the eye": [
@@ -51933,20 +51811,8 @@
             ]
           },
           {
-            "Graceful boots": [
-              11860,
-              11861
-            ]
-          },
-          {
             "Prospector boots": [
               12016
-            ]
-          },
-          {
-            "Boots of lightness": [
-              88,
-              89
             ]
           }
         ],

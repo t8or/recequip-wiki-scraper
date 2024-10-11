@@ -75,14 +75,6 @@
     ],
     "weapon": [
       {
-        "Bruma torch": [
-          20720
-        ],
-        "Dragon axe": [
-          6739
-        ]
-      },
-      {
         "Dragon axe": [
           6739
         ]
@@ -90,11 +82,11 @@
     ],
     "shield": [
       {
-        "Imcando hammer (off-hand)": [
-          29775
-        ],
         "Bruma torch (off-hand)": [
           29777
+        ],
+        "Imcando hammer (off-hand)": [
+          29775
         ]
       }
     ],
