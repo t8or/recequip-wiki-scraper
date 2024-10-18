@@ -295,9 +295,13 @@
         ]
       },
       {
-        "Barrelchest anchor": [
-          10887,
-          10888
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
         ]
       }
     ]
@@ -597,6 +601,16 @@
         "Dragon warhammer": [
           13576
         ]
+      },
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ]
       }
     ]
   },
@@ -695,10 +709,9 @@
           12900,
           12899
         ],
-        "Ice ancient sceptre": [
-          28262,
-          28242,
-          28474
+        "Ancient sceptre": [
+          27624,
+          27626
         ]
       }
     ],
