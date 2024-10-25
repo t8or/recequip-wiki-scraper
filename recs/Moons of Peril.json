@@ -349,8 +349,8 @@
         "Dragon platelegs": [
           4087
         ],
-        "Granite legs": [
-          6809
+        "Rune platelegs": [
+          1079
         ]
       }
     ],
@@ -436,8 +436,8 @@
         "Dragon sq shield": [
           1187
         ],
-        "Granite shield": [
-          3122
+        "Rune kiteshield": [
+          1201
         ]
       }
     ],
@@ -568,6 +568,9 @@
     ],
     "special": [
       {
+        "Voidwaker": [
+          27690
+        ],
         "Crystal halberd": [
           23987,
           23989,
@@ -575,11 +578,93 @@
         ]
       },
       {
-        "Voidwaker": [
-          27690
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
+        ]
+      },
+      {
+        "abyssal dagger": [
+          13265,
+          13267,
+          13269,
+          13271
         ]
       }
     ]
+  },
+  {
+    "name": "Eclipse Clone phase",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Dharok's greataxe": [
+          4718,
+          4886,
+          4887,
+          4888,
+          4889,
+          4890
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Elder maul": [
+          21003
+        ],
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
+        "Colossal blade": [
+          27021
+        ],
+        "Godsword": [
+          26233,
+          11802,
+          11804,
+          11806,
+          11808
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ],
+        "Zombie axe": [
+          28810
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
   },
   {
     "name": "Blue Moon",
@@ -931,8 +1016,8 @@
         "Dragon platelegs": [
           4087
         ],
-        "Granite legs": [
-          6809
+        "Rune platelegs": [
+          1079
         ]
       }
     ],
@@ -957,7 +1042,7 @@
         ]
       },
       {
-        "Ursine chainmace": [
+        "Ursine chainmace (u)": [
           27657,
           27660
         ],
@@ -1023,8 +1108,8 @@
         "Dragon sq shield": [
           1187
         ],
-        "Granite shield": [
-          3122
+        "Rune kiteshield": [
+          1201
         ]
       }
     ],
@@ -1157,15 +1242,22 @@
       {
         "Dragon claws": [
           13652
+        ],
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
         ]
       },
       {
-        "Abyssal dagger": [
-          13265,
-          13267,
-          13269,
-          13271
+        "Burning claws": [
+          29577
         ],
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
         "Dragon dagger": [
           1215,
           1231,
@@ -1174,10 +1266,16 @@
         ]
       },
       {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
+        "abyssal dagger": [
+          13265,
+          13267,
+          13269,
+          13271
+        ]
+      },
+      {
+        "Dragon mace": [
+          1434
         ]
       }
     ]
@@ -1532,8 +1630,8 @@
         "Dragon platelegs": [
           4087
         ],
-        "Granite legs": [
-          6809
+        "Rune platelegs": [
+          1079
         ]
       }
     ],
@@ -1619,8 +1717,8 @@
         "Dragon sq shield": [
           1187
         ],
-        "Granite shield": [
-          3122
+        "Rune kiteshield": [
+          1201
         ]
       }
     ],
@@ -1757,17 +1855,21 @@
         "Dragon claws": [
           13652
         ],
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
+        ],
         "Burning claws": [
           29577
         ]
       },
       {
-        "Abyssal dagger": [
-          13265,
-          13267,
-          13269,
-          13271
-        ],
         "Dragon dagger": [
           1215,
           1231,
@@ -1776,10 +1878,16 @@
         ]
       },
       {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
+        "abyssal dagger": [
+          13265,
+          13267,
+          13269,
+          13271
+        ]
+      },
+      {
+        "Dragon mace": [
+          1434
         ]
       }
     ]
