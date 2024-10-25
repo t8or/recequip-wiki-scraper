@@ -1,6 +1,6 @@
 [
   {
-    "name": "5 man groups",
+    "name": "Melee",
     "head": [
       {
         "Inquisitor's great helm": [
@@ -42,13 +42,13 @@
         ]
       },
       {
-        "Amulet of torture": [
-          19553
+        "Amulet of blood fury": [
+          24780
         ]
       },
       {
-        "Amulet of blood fury": [
-          24780
+        "Amulet of torture": [
+          19553
         ]
       },
       {
@@ -77,15 +77,20 @@
         ]
       },
       {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
         "Mythical cape": [
           22114
         ]
       },
       {
-        "Fire cape": [
-          6570,
-          20445,
-          24223
+        "Obsidian cape": [
+          6568
         ]
       }
     ],
@@ -153,14 +158,12 @@
     ],
     "weapon": [
       {
-        "Inquisitor's mace": [
-          24417
-        ]
-      },
-      {
         "Scythe of vitur": [
           22486,
           22325
+        ],
+        "Inquisitor's mace": [
+          24417
         ]
       },
       {
@@ -176,6 +179,21 @@
       {
         "Dual macuahuitl": [
           28997
+        ],
+        "Ursine chainmace": [
+          27657,
+          27660
+        ],
+        "Sarachnis cudgel": [
+          23528
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ],
+        "Zamorakian hasta": [
+          11889
         ]
       }
     ],
@@ -195,16 +213,16 @@
         ]
       },
       {
-        "Dragonfire shield": [
-          11284,
-          11283
-        ]
-      },
-      {
         "Rune defender": [
           8850,
           20461,
           24142
+        ]
+      },
+      {
+        "Dragonfire shield": [
+          11284,
+          11283
         ]
       },
       {
@@ -245,6 +263,22 @@
         "Barrows gloves": [
           7462
         ]
+      },
+      {
+        "Granite gloves": [
+          21736
+        ]
+      },
+      {
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
+        ]
       }
     ],
     "feet": [
@@ -256,6 +290,11 @@
       {
         "Dragon boots": [
           11840
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
         ]
       },
       {
@@ -287,6 +326,10 @@
           12691,
           25254,
           26765
+        ],
+        "Ring of shadows": [
+          28329,
+          28327
         ]
       },
       {
@@ -330,5 +373,176 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Default",
+    "head": [
+      {
+        "Ancestral hat": [
+          21018
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Imbued god cape": [
+          2412,
+          2414,
+          2413,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ],
+        "Harmonised nightmare staff": [
+          24423
+        ]
+      },
+      {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ]
+      },
+      {
+        "Trident of the swamp": [
+          12900,
+          12899
+        ]
+      },
+      {
+        "Trident of the seas": [
+          11908,
+          11907,
+          11905
+        ]
+      },
+      {
+        "Accursed sceptre": [
+          27662,
+          27665
+        ],
+        "Thammaron's sceptre": [
+          22552,
+          22555
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Tome of fire": [
+          20716,
+          20714
+        ]
+      },
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ],
+        "Elidinis' ward": [
+          25985
+        ]
+      },
+      {
+        "Mage's book": [
+          6889
+        ],
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Malediction ward": [
+          11924
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Eternal boots": [
+          13235
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Magus ring": [
+          28313
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": []
   }
 ]
