@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Melee",
+    "head": [
+      {
+        "Slayer helmet": [
+          11864
+        ],
+        "Inquisitor's great helm": [
+          24419
+        ]
+      },
+      {
+        "Torva full helm": [
+          26376,
+          26382
+        ]
+      },
+      {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ]
+      },
+      {
+        "Helm of neitiznot": [
+          10828
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Mythical cape": [
+          22114
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Inquisitor's hauberk": [
+          24420
+        ]
+      },
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ]
+      },
+      {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
+        "Bandos chestplate": [
+          11832
+        ],
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Inquisitor's plateskirt": [
+          24421
+        ]
+      },
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ],
+        "Bandos tassets": [
+          11834
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Dual macuahuitl": [
+          28997
+        ]
+      },
+      {
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ],
+        "Abyssal bludgeon": [
+          13263
+        ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      },
+      {
+        "Glacial temotli": [
+          29889
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {
+        "Rune defender": [
+          8850,
+          20461,
+          24142
+        ]
+      },
+      {
+        "Dragonfire shield": [
+          11284,
+          11283
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Ghommal's lucky penny": [
+          27544
+        ],
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Rada's blessing 3": [
+          22945
+        ],
+        "Rada's blessing 2": [
+          22943
+        ],
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ]
+      },
+      {
+        "Rune gloves": [
+          7460
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
+        ],
+        "Dragon boots": [
+          11840
+        ],
+        "Spiked manacles": [
+          23389
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
+        ],
+        "Guardian boots": [
+          21733
+        ],
+        "Granite boots": [
+          21643
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Burning claws": [
+          29577
+        ],
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      }
+    ]
+  }
+]
