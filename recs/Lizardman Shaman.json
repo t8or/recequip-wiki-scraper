@@ -448,19 +448,22 @@
     ],
     "weapon": [
       {
-        "Scythe of vitur": [
-          22486,
-          22325
-        ]
-      },
-      {
         "Ghrazi rapier": [
           22324
+        ],
+        "Noxious halberd": [
+          29796
         ]
       },
       {
         "Osmumten's fang": [
           26219
+        ]
+      },
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
         ]
       },
       {
@@ -546,11 +549,11 @@
     ],
     "ring": [
       {
-        "Bellator ring": [
-          28316
-        ],
         "Ultor ring": [
           28307
+        ],
+        "Bellator ring": [
+          28316
         ]
       },
       {
@@ -590,16 +593,16 @@
       {
         "Saradomin godsword": [
           11806
+        ],
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
         ]
       },
       {
-        "Dragon claws": [
-          13652
-        ]
-      },
-      {
-        "Voidwaker": [
-          27690
+        "Burning claws": [
+          29577
         ]
       },
       {
@@ -611,10 +614,13 @@
         ]
       },
       {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
         ]
       }
     ]
