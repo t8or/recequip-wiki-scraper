@@ -979,7 +979,7 @@
     ]
   },
   {
-    "name": "Maiden",
+    "name": "Maiden (0 defence)",
     "head": [],
     "neck": [],
     "cape": [],
@@ -1165,7 +1165,7 @@
     "special": []
   },
   {
-    "name": "Sotetseg (0 defence)",
+    "name": "Sotetseg (100 defence)",
     "head": [],
     "neck": [],
     "cape": [],

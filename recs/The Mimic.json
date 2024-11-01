@@ -588,6 +588,11 @@
     ],
     "weapon": [
       {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
         "Toxic blowpipe": [
           12924,
           12926
@@ -608,11 +613,15 @@
       {
         "Zaryte crossbow": [
           26374
-        ]
-      },
-      {
+        ],
         "Armadyl crossbow": [
           11785
+        ],
+        "Dragon crossbow": [
+          21902
+        ],
+        "Rune crossbow": [
+          9185
         ]
       }
     ],
@@ -646,11 +655,33 @@
     ],
     "ammo": [
       {
-        "Rada's blessing 4": [
-          22947
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
         ]
       },
       {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ]
+      },
+      {
+        "Rune arrow": [
+          892,
+          893,
+          5621,
+          5627
+        ]
+      },
+      {
+        "Rada's blessing 4": [
+          22947
+        ],
         "Rada's blessing 3": [
           22945
         ],
@@ -666,9 +697,7 @@
       {
         "Diamond dragon bolts (e)": [
           21946
-        ]
-      },
-      {
+        ],
         "Diamond bolts (e)": [
           9243
         ]

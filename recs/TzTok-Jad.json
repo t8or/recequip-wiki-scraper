@@ -3613,6 +3613,11 @@
         ]
       },
       {
+        "Hunters' sunlight crossbow": [
+          28869
+        ]
+      },
+      {
         "Crystal bow": [
           23983,
           23985,
@@ -3622,11 +3627,6 @@
       {
         "Rune crossbow": [
           9185
-        ]
-      },
-      {
-        "Magic shortbow (i)": [
-          12788
         ]
       }
     ],
@@ -3672,19 +3672,16 @@
         ]
       },
       {
+        "Sunlight antler bolts": [
+          28872
+        ]
+      },
+      {
         "Broad bolts": [
           11875
         ],
         "Diamond bolts (e)": [
           9243
-        ]
-      },
-      {
-        "Rune arrow": [
-          892,
-          893,
-          5621,
-          5627
         ]
       },
       {
