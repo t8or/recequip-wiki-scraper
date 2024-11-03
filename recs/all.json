@@ -13694,7 +13694,7 @@
     ]
   },
   {
-    "name": "Sol Heredit",
+    "name": "Fortis Colosseum",
     "url": "https://oldschool.runescape.wiki/w/Fortis_Colosseum/Strategies#Sol_Heredit",
     "category": "Minigame",
     "styles": [
@@ -20009,7 +20009,7 @@
     ]
   },
   {
-    "name": "TzKal-Zuk",
+    "name": "The Inferno",
     "url": "https://oldschool.runescape.wiki/w/Inferno/Strategies#TzKal-Zuk",
     "category": "Minigame",
     "styles": [
@@ -24531,6 +24531,268 @@
           }
         ],
         "special": []
+      },
+      {
+        "name": "Flinching",
+        "head": [
+          {
+            "Slayer helmet (i)": [
+              11865,
+              25177,
+              26674
+            ]
+          },
+          {
+            "Blue moon helm": [
+              29019,
+              29041,
+              29064
+            ]
+          },
+          {
+            "Helm of neitiznot": [
+              10828
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "God capes#Imbuing": [
+              2412,
+              2414,
+              2413,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          },
+          {
+            "Fire cape": [
+              6570,
+              20445,
+              24223
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Blue moon chestplate": [
+              29013,
+              29037,
+              29058
+            ]
+          },
+          {
+            "Ahrim's robetop": [
+              4712,
+              4868,
+              4869,
+              4870,
+              4871,
+              4872
+            ]
+          },
+          {
+            "Mystic robe top": [
+              4091
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Blue moon tassets": [
+              29016,
+              29039,
+              29061
+            ]
+          },
+          {
+            "Ahrim's robeskirt": [
+              4714,
+              4874,
+              4875,
+              4876,
+              4877,
+              4878
+            ]
+          },
+          {
+            "Mystic robe bottom": [
+              4093
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Colossal blade": [
+              27021
+            ],
+            "Tecu salamander": [
+              28834
+            ]
+          },
+          {
+            "Keris partisan of breaching": [
+              25981
+            ],
+            "Black salamander": [
+              10148
+            ]
+          },
+          {
+            "Zombie axe": [
+              28810
+            ],
+            "Red salamander": [
+              10147
+            ]
+          },
+          {
+            "Barrelchest anchor": [
+              10887,
+              10888
+            ]
+          },
+          {
+            "Keris partisan": [
+              25979
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Dragon defender": [
+              12954,
+              20463,
+              24143
+            ]
+          }
+        ],
+        "ammo": [
+          {
+            "Irit tar": [
+              28837
+            ]
+          },
+          {
+            "Harralander tar": [
+              10145
+            ]
+          },
+          {
+            "Tarromin tar": [
+              10144
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          },
+          {
+            "Dragon gloves": [
+              7461
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Infinity boots": [
+              6920
+            ]
+          },
+          {
+            "Climbing boots": [
+              3105
+            ]
+          },
+          {
+            "Mystic boots": [
+              4097
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Berserker ring (i)": [
+              11773,
+              25264,
+              26770
+            ]
+          },
+          {
+            "Brimstone ring": [
+              22975
+            ]
+          },
+          {
+            "Ring of shadows": [
+              28329,
+              28327
+            ]
+          },
+          {
+            "Explorer's ring": [
+              13125,
+              13126,
+              13127,
+              13128
+            ]
+          }
+        ],
+        "special": [
+          {
+            "Bone dagger (p++)": [
+              8872,
+              8874,
+              8876,
+              8878
+            ]
+          },
+          {
+            "Arclight": [
+              30305,
+              19675
+            ]
+          },
+          {
+            "Darklight": [
+              6746
+            ]
+          },
+          {
+            "Barrelchest anchor": [
+              10887,
+              10888
+            ]
+          }
+        ]
       },
       {
         "name": "Mid-game Players (Phase One)",
@@ -42142,7 +42404,7 @@
     ]
   },
   {
-    "name": "TzTok-Jad",
+    "name": "TzHaar Fight Cave",
     "url": "https://oldschool.runescape.wiki/w/TzHaar_Fight_Cave/Strategies#TzTok-Jad",
     "category": "Minigame",
     "styles": [
@@ -52986,6 +53248,9 @@
             "Saradomin's blessed sword": [
               12809,
               12808
+            ],
+            "Noxious halberd": [
+              29796
             ],
             "Zamorakian hasta": [
               11889
