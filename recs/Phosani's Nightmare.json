@@ -1,6 +1,6 @@
 [
   {
-    "name": "Default",
+    "name": "Melee",
     "head": [
       {
         "Inquisitor's great helm": [
@@ -16,6 +16,9 @@
       {
         "Neitiznot faceguard": [
           24271
+        ],
+        "Zombie helmet": [
+          30321
         ]
       },
       {
@@ -81,9 +84,7 @@
           6570,
           20445,
           24223
-        ]
-      },
-      {
+        ],
         "Mythical cape": [
           22114
         ]
@@ -353,9 +354,7 @@
         "Granite maul (ornate handle)": [
           24225,
           24227
-        ]
-      },
-      {
+        ],
         "Burning claws": [
           29577
         ]
@@ -373,7 +372,7 @@
     ]
   },
   {
-    "name": "Default",
+    "name": "Mage",
     "head": [
       {
         "Ancestral hat": [
