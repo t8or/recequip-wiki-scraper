@@ -1896,6 +1896,11 @@
             ]
           },
           {
+            "Hueycoatl hide body": [
+              30076
+            ]
+          },
+          {
             "Crystal body": [
               23975,
               23977
@@ -1915,17 +1920,17 @@
               10386,
               10370
             ]
-          },
-          {
-            "Black d'hide body": [
-              2503
-            ]
           }
         ],
         "legs": [
           {
             "Masori chaps (f)": [
               27241
+            ]
+          },
+          {
+            "Hueycoatl hide chaps": [
+              30079
             ]
           },
           {
@@ -1947,11 +1952,6 @@
               10380,
               10388,
               10372
-            ]
-          },
-          {
-            "Black d'hide chaps": [
-              2497
             ]
           }
         ],
@@ -2047,6 +2047,9 @@
               10376,
               10384,
               10368
+            ],
+            "Hueycoatl hide vambraces": [
+              30082
             ]
           },
           {
@@ -8490,8 +8493,8 @@
             "Neitiznot faceguard": [
               24271
             ],
-            "Dwarven helmet": [
-              11200
+            "Zombie helmet": [
+              30321
             ]
           },
           {
@@ -24810,6 +24813,11 @@
             ]
           },
           {
+            "Zombie helmet": [
+              30321
+            ]
+          },
+          {
             "Dwarven helmet": [
               11200
             ]
@@ -29350,6 +29358,13 @@
             ],
             "Dragon sword": [
               21009
+            ],
+            "Dragon hasta": [
+              22731,
+              22734,
+              22737,
+              22740,
+              22743
             ],
             "Dragon scimitar": [
               4587

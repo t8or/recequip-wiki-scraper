@@ -82,6 +82,11 @@
         ]
       },
       {
+        "Hueycoatl hide body": [
+          30076
+        ]
+      },
+      {
         "Crystal body": [
           23975,
           23977
@@ -101,17 +106,17 @@
           10386,
           10370
         ]
-      },
-      {
-        "Black d'hide body": [
-          2503
-        ]
       }
     ],
     "legs": [
       {
         "Masori chaps (f)": [
           27241
+        ]
+      },
+      {
+        "Hueycoatl hide chaps": [
+          30079
         ]
       },
       {
@@ -133,11 +138,6 @@
           10380,
           10388,
           10372
-        ]
-      },
-      {
-        "Black d'hide chaps": [
-          2497
         ]
       }
     ],
@@ -233,6 +233,9 @@
           10376,
           10384,
           10368
+        ],
+        "Hueycoatl hide vambraces": [
+          30082
         ]
       },
       {
