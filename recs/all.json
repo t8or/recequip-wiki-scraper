@@ -759,6 +759,11 @@
         ],
         "special": [
           {
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
             "Dragon claws": [
               13652
             ],
@@ -771,11 +776,6 @@
           {
             "Voidwaker": [
               27690
-            ]
-          },
-          {
-            "Burning claws": [
-              29577
             ]
           },
           {
@@ -2082,6 +2082,9 @@
               19927,
               19933,
               19936
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -8469,6 +8472,170 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Solo Ranged Bowfa (No Stamina)",
+        "head": [
+          {
+            "Crystal helm": [
+              23971,
+              23973
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Necklace of anguish": [
+              19547
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Max cape": [
+              13280,
+              13342
+            ]
+          },
+          {
+            "Ranging cape": [
+              9756,
+              9757
+            ]
+          },
+          {
+            "Dizana's quiver": [
+              28947,
+              28951,
+              28949,
+              28953,
+              28826
+            ]
+          },
+          {
+            "Ava's assembler": [
+              22109,
+              21914,
+              24222
+            ]
+          },
+          {
+            "Ava's accumulator": [
+              10499
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Crystal body": [
+              23975,
+              23977
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Crystal legs": [
+              23979,
+              23981
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Bow of faerdhinen": [
+              25862,
+              25865
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [
+          {
+            "Dragon arrow": [
+              11212,
+              11227,
+              11228,
+              11229
+            ]
+          },
+          {
+            "Amethyst arrow": [
+              21326,
+              21332,
+              21334,
+              21336
+            ]
+          },
+          {
+            "Holy blessing": [
+              20220
+            ],
+            "Unholy blessing": [
+              20223
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Zaryte vambraces": [
+              26235
+            ]
+          },
+          {
+            "Zamorak bracers": [
+              10368
+            ],
+            "Saradomin bracers": [
+              10384
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Pegasian boots": [
+              13237
+            ]
+          },
+          {
+            "Ancient d'hide boots": [
+              19921
+            ]
+          },
+          {
+            "Saradomin d'hide boots": [
+              19933
+            ],
+            "Zamorak d'hide boots": [
+              19936
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Ring of suffering (i)": [
+              19710,
+              20657,
+              25246,
+              25248,
+              26761,
+              26762
+            ]
+          }
+        ],
+        "special": [
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          }
+        ]
       }
     ]
   },
@@ -11432,6 +11599,9 @@
               11907,
               11905
             ],
+            "Hunters' sunlight crossbow": [
+              28869
+            ],
             "Crystal bow": [
               23983,
               23985,
@@ -11505,6 +11675,9 @@
               21332,
               21334,
               21336
+            ],
+            "Moonlight antler bolts": [
+              28878
             ]
           },
           {
@@ -29035,6 +29208,11 @@
             ]
           },
           {
+            "Blood moon helm": [
+              29028,
+              29047,
+              29073
+            ],
             "Helm of neitiznot": [
               10828
             ],
@@ -29314,9 +29492,6 @@
           {
             "Dragon platelegs": [
               4087
-            ],
-            "Rune platelegs": [
-              1079
             ]
           }
         ],
@@ -29344,6 +29519,9 @@
             ],
             "Zamorakian hasta": [
               11889
+            ],
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -29703,6 +29881,11 @@
             ]
           },
           {
+            "Blood moon helm": [
+              29028,
+              29047,
+              29073
+            ],
             "Helm of neitiznot": [
               10828
             ],
@@ -29982,9 +30165,6 @@
           {
             "Dragon platelegs": [
               4087
-            ],
-            "Rune platelegs": [
-              1079
             ]
           }
         ],
@@ -30311,6 +30491,11 @@
             ]
           },
           {
+            "Blood moon helm": [
+              29028,
+              29047,
+              29073
+            ],
             "Helm of neitiznot": [
               10828
             ],
@@ -30590,9 +30775,6 @@
           {
             "Dragon platelegs": [
               4087
-            ],
-            "Rune platelegs": [
-              1079
             ]
           }
         ],
@@ -38106,8 +38288,8 @@
         ],
         "feet": [
           {
-            "Echo boots": [
-              28945
+            "Devout boots": [
+              22954
             ],
             "Pegasian boots": [
               13237
@@ -38368,8 +38550,8 @@
         ],
         "feet": [
           {
-            "Echo boots": [
-              28945
+            "Devout boots": [
+              22954
             ],
             "Pegasian boots": [
               13237
@@ -53500,11 +53682,11 @@
             ]
           },
           {
-            "Soulreaper axe": [
-              28338
-            ],
             "Inquisitor's mace": [
               24417
+            ],
+            "Soulreaper axe": [
+              28338
             ]
           },
           {
@@ -55089,6 +55271,10 @@
             "Tome of fire": [
               20716,
               20714
+            ],
+            "Tome of water": [
+              25576,
+              25574
             ]
           }
         ],
