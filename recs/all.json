@@ -764,6 +764,11 @@
             ]
           },
           {
+            "Voidwaker": [
+              27690
+            ]
+          },
+          {
             "Dragon claws": [
               13652
             ],
@@ -771,11 +776,6 @@
               23987,
               23989,
               24125
-            ]
-          },
-          {
-            "Voidwaker": [
-              27690
             ]
           },
           {
@@ -2151,6 +2151,11 @@
               12924,
               12926
             ]
+          },
+          {
+            "Dragon warhammer": [
+              13576
+            ]
           }
         ]
       },
@@ -2458,6 +2463,11 @@
           {
             "Voidwaker": [
               27690
+            ]
+          },
+          {
+            "Dragon warhammer": [
+              13576
             ]
           }
         ]
@@ -5369,6 +5379,9 @@
             ],
             "Voidwaker": [
               27690
+            ],
+            "Bandos godsword": [
+              11804
             ]
           },
           {
@@ -10393,6 +10406,11 @@
             ]
           },
           {
+            "Noxious halberd": [
+              29796
+            ]
+          },
+          {
             "Zamorakian spear": [
               11824
             ]
@@ -10414,11 +10432,6 @@
               4912,
               4913,
               4914
-            ]
-          },
-          {
-            "Leaf-bladed spear": [
-              4158
             ]
           }
         ],
@@ -24213,7 +24226,7 @@
         "special": []
       },
       {
-        "name": "Default",
+        "name": "Max Mage (0 switches)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -47024,6 +47037,11 @@
             "Helm of neitiznot": [
               10828
             ],
+            "Zombie helmet": [
+              30321
+            ]
+          },
+          {
             "Dwarven helmet": [
               11200
             ]
@@ -49327,6 +49345,9 @@
           {
             "Dragon boots": [
               11840
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -55685,6 +55706,9 @@
               893,
               5621,
               5627
+            ],
+            "Sunlight antler bolts": [
+              28872
             ]
           },
           {
@@ -62872,9 +62896,7 @@
           {
             "Scorching bow": [
               29591
-            ]
-          },
-          {
+            ],
             "Twisted bow": [
               20997
             ]
@@ -62887,6 +62909,11 @@
             "Bow of faerdhinen": [
               25862,
               25865
+            ]
+          },
+          {
+            "Eclipse atlatl": [
+              29000
             ]
           },
           {
@@ -62928,9 +62955,7 @@
               11227,
               11228,
               11229
-            ]
-          },
-          {
+            ],
             "Amethyst arrow": [
               21326,
               21332,
@@ -62941,6 +62966,11 @@
           {
             "Rada's blessing 4": [
               22947
+            ]
+          },
+          {
+            "Atlatl dart": [
+              28991
             ]
           },
           {
