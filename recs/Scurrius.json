@@ -375,7 +375,7 @@
     ],
     "special": [
       {
-        "Dragon dagger": [
+        "Dragon dagger(p++)": [
           1215,
           1231,
           5680,
@@ -883,6 +883,11 @@
         "Iban's staff": [
           1409,
           1410
+        ]
+      },
+      {
+        "Air battlestaff": [
+          1397
         ]
       }
     ],
