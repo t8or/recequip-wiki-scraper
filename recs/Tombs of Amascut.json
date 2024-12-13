@@ -937,6 +937,12 @@
     "legs": [],
     "weapon": [
       {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
         "Twisted bow": [
           20997
         ]
@@ -950,12 +956,6 @@
       {
         "Zaryte crossbow": [
           26374
-        ]
-      },
-      {
-        "Tumeken's shadow": [
-          27277,
-          27275
         ]
       }
     ],
