@@ -26690,6 +26690,11 @@
             ]
           },
           {
+            "Bonecrusher necklace": [
+              22986
+            ]
+          },
+          {
             "Amulet of glory": [
               1704,
               1706,
@@ -26905,6 +26910,11 @@
           {
             "Amulet of fury": [
               6585
+            ]
+          },
+          {
+            "Bonecrusher necklace": [
+              22986
             ]
           },
           {
@@ -27159,14 +27169,8 @@
             ]
           },
           {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
+            "Bonecrusher necklace": [
+              22986
             ]
           },
           {
@@ -62134,6 +62138,12 @@
         "legs": [],
         "weapon": [
           {
+            "Tumeken's shadow": [
+              27277,
+              27275
+            ]
+          },
+          {
             "Twisted bow": [
               20997
             ]
@@ -62147,12 +62157,6 @@
           {
             "Zaryte crossbow": [
               26374
-            ]
-          },
-          {
-            "Tumeken's shadow": [
-              27277,
-              27275
             ]
           }
         ],
