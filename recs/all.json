@@ -3210,7 +3210,7 @@
     "category": "World",
     "styles": [
       {
-        "name": "Magic",
+        "name": "Magic equipment",
         "head": [
           {
             "Ancestral hat": [
@@ -3561,7 +3561,7 @@
         ]
       },
       {
-        "name": "Medium level",
+        "name": "Tank & Lower level",
         "head": [
           {
             "Barrows helm": [
@@ -3942,7 +3942,7 @@
         "special": []
       },
       {
-        "name": "Ranged",
+        "name": "Ranged (Ahrim)",
         "head": [
           {
             "Void ranger helm": [
@@ -14221,13 +14221,13 @@
             "Saradomin godsword": [
               11806
             ],
-            "Dragon claws": [
-              13652
+            "Burning claws": [
+              29577
             ]
           },
           {
-            "Burning claws": [
-              29577
+            "Dragon claws": [
+              13652
             ],
             "Voidwaker": [
               27690
@@ -14536,13 +14536,13 @@
             "Saradomin godsword": [
               11806
             ],
-            "Dragon claws": [
-              13652
+            "Burning claws": [
+              29577
             ]
           },
           {
-            "Burning claws": [
-              29577
+            "Dragon claws": [
+              13652
             ],
             "Voidwaker": [
               27690
@@ -14788,13 +14788,13 @@
             "Saradomin godsword": [
               11806
             ],
-            "Dragon claws": [
-              13652
+            "Burning claws": [
+              29577
             ]
           },
           {
-            "Burning claws": [
-              29577
+            "Dragon claws": [
+              13652
             ],
             "Voidwaker": [
               27690
@@ -19767,6 +19767,11 @@
             ]
           },
           {
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
             "Dragon boots": [
               11840
             ]
@@ -20082,6 +20087,11 @@
           {
             "Ranger boots": [
               2577
+            ]
+          },
+          {
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -48248,6 +48258,11 @@
               22109,
               21914,
               24222
+            ],
+            "Masori assembler": [
+              27374,
+              27359,
+              27376
             ]
           },
           {

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Magic",
+    "name": "Magic equipment",
     "head": [
       {
         "Ancestral hat": [
@@ -351,7 +351,7 @@
     ]
   },
   {
-    "name": "Medium level",
+    "name": "Tank & Lower level",
     "head": [
       {
         "Barrows helm": [
@@ -732,7 +732,7 @@
     "special": []
   },
   {
-    "name": "Ranged",
+    "name": "Ranged (Ahrim)",
     "head": [
       {
         "Void ranger helm": [
