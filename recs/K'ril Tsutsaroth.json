@@ -1,6 +1,6 @@
 [
   {
-    "name": "Solo Shadow",
+    "name": "Solo Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -10,29 +10,67 @@
         ]
       },
       {
-        "Ancestral hat": [
-          21018
+        "Masori mask (f)": [
+          27235
         ]
       },
       {
-        "Virtus mask": [
-          26241
+        "Armadyl helmet": [
+          11826
+        ]
+      },
+      {
+        "Crystal helm": [
+          23971,
+          23973
+        ]
+      },
+      {
+        "Void ranger helm": [
+          11664,
+          20479,
+          24184
         ]
       }
     ],
     "neck": [
       {
-        "Occult necklace": [
-          12002
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
         ]
       }
     ],
     "cape": [
       {
-        "Imbued zamorak cape": [
-          21795,
-          24244,
-          24250
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
         ]
       },
       {
@@ -40,106 +78,115 @@
           13280,
           13342
         ]
+      },
+      {
+        "Ava's accumulator": [
+          10499
+        ]
+      },
+      {
+        "Ranging cape": [
+          9756,
+          9757
+        ]
       }
     ],
     "body": [
       {
-        "Ancestral robe top": [
-          21021
+        "Masori body (f)": [
+          27238
         ]
       },
       {
-        "Virtus robe top": [
-          26243
+        "Armadyl chestplate": [
+          11828
         ]
       },
       {
-        "Ahrim's robetop": [
-          4712,
-          4868,
-          4869,
-          4870,
-          4871,
-          4872
+        "Crystal body": [
+          23975,
+          23977
         ]
       },
       {
-        "Bloodbark body": [
-          25404
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
+        ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
         ]
       }
     ],
     "legs": [
       {
-        "Ancestral robe bottom": [
-          21024
+        "Masori chaps (f)": [
+          27241
         ]
       },
       {
-        "Virtus robe bottom": [
-          26245
+        "Armadyl chainskirt": [
+          11830
         ]
       },
       {
-        "Ahrim's robeskirt": [
-          4714,
-          4874,
-          4875,
-          4876,
-          4877,
-          4878
+        "Crystal legs": [
+          23979,
+          23981
         ]
       },
       {
-        "Bloodbark legs": [
-          25416
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
         ]
       }
     ],
     "weapon": [
       {
-        "Tumeken's shadow": [
-          27277,
-          27275
+        "Scorching bow": [
+          29591
         ]
       },
       {
-        "Purging staff": [
-          29594
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       }
     ],
-    "shield": [
-      {
-        "Elidinis' ward (f)": [
-          27251
-        ]
-      },
-      {
-        "Arcane spirit shield": [
-          12825
-        ]
-      },
-      {
-        "Elidinis' ward": [
-          25985
-        ],
-        "Ancient wyvern shield": [
-          21634,
-          21633
-        ],
-        "Malediction ward": [
-          11924
-        ],
-        "Mage's book": [
-          6889
-        ]
-      }
-    ],
+    "shield": [],
     "ammo": [
       {
-        "Rada's blessing 4": [
-          22947
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
         ]
       },
       {
@@ -150,40 +197,67 @@
     ],
     "hands": [
       {
-        "Tormented bracelet": [
-          19544
+        "Zaryte vambraces": [
+          26235
         ]
       },
       {
         "Barrows gloves": [
           7462
         ]
+      },
+      {
+        "Zamorak bracers": [
+          10368
+        ],
+        "Black spiky vambraces": [
+          10085
+        ]
       }
     ],
     "feet": [
       {
-        "Eternal boots": [
-          13235
+        "Pegasian boots": [
+          13237
         ]
       },
       {
-        "Infinity boots": [
-          6920
-        ],
-        "Aranea boots": [
-          29806
+        "Echo boots": [
+          28945
         ]
       },
       {
-        "Bloodbark boots": [
-          25410
+        "Ranger boots": [
+          2577
+        ]
+      },
+      {
+        "Blessed boots": [
+          19921,
+          19930,
+          19924,
+          19927,
+          19933,
+          19936
         ]
       }
     ],
     "ring": [
       {
-        "Magus ring": [
-          28313
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Venator ring": [
+          28310
+        ]
+      },
+      {
+        "Archers ring (i)": [
+          11771,
+          25260,
+          26768
         ]
       },
       {
@@ -194,18 +268,860 @@
           25248,
           26761,
           26762
-        ],
-        "Seers ring (i)": [
-          11770,
-          25258,
-          26767
         ]
       }
     ],
     "special": [
       {
-        "Eldritch nightmare staff": [
-          24425
+        "Scorching bow": [
+          29591
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Solo Ranged (No scorching bow)",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Masori mask (f)": [
+          27235
+        ]
+      },
+      {
+        "Crystal helm": [
+          23971,
+          23973
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      },
+      {
+        "Ava's accumulator": [
+          10499
+        ]
+      },
+      {
+        "Ranging cape": [
+          9756,
+          9757
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Armadyl chestplate": [
+          11828
+        ]
+      },
+      {
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
+        ]
+      },
+      {
+        "Crystal body": [
+          23975,
+          23977
+        ]
+      },
+      {
+        "Blessed body": [
+          12492,
+          12508,
+          12500,
+          10378,
+          10386,
+          10370
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Armadyl chainskirt": [
+          11830
+        ]
+      },
+      {
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
+        ]
+      },
+      {
+        "Crystal legs": [
+          23979,
+          23981
+        ]
+      },
+      {
+        "Blessed chaps": [
+          12494,
+          12510,
+          12502,
+          10380,
+          10388,
+          10372
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
+        "Venator bow": [
+          27612,
+          27610
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      },
+      {
+        "Unholy blessing": [
+          20223
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ],
+        "Zamorak bracers": [
+          10368
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Pegasian boots": [
+          13237
+        ]
+      },
+      {
+        "Ranger boots": [
+          2577
+        ]
+      },
+      {
+        "Blessed boots": [
+          19921,
+          19930,
+          19924,
+          19927,
+          19933,
+          19936
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Venator ring": [
+          28310
+        ]
+      },
+      {
+        "Archers ring (i)": [
+          11771,
+          25260,
+          26768
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ranged tank",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Verac's helm": [
+          4753,
+          4976,
+          4977,
+          4978,
+          4979,
+          4980
+        ]
+      },
+      {
+        "Armadyl helmet": [
+          11826
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      },
+      {
+        "Ava's accumulator": [
+          10499
+        ]
+      },
+      {
+        "Ranging cape": [
+          9756,
+          9757
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Armadyl chestplate": [
+          11828
+        ]
+      },
+      {
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
+        ]
+      },
+      {
+        "Blessed body": [
+          12492,
+          12508,
+          12500,
+          10378,
+          10386,
+          10370
+        ],
+        "Black d'hide body": [
+          2503
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Armadyl chainskirt": [
+          11830
+        ]
+      },
+      {
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
+        ]
+      },
+      {
+        "Blessed chaps": [
+          12494,
+          12510,
+          12502,
+          10380,
+          10388,
+          10372
+        ]
+      },
+      {
+        "Black d'hide chaps": [
+          2497
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ]
+      },
+      {
+        "Dragon crossbow": [
+          21902
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Elysian spirit shield": [
+          12817
+        ]
+      },
+      {
+        "Spectral spirit shield": [
+          12821
+        ]
+      },
+      {
+        "Twisted buckler": [
+          21000
+        ]
+      },
+      {
+        "Dragonfire ward": [
+          22003,
+          22002
+        ]
+      },
+      {
+        "Dragonfire shield": [
+          11284,
+          11283
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Diamond dragon bolts (e)": [
+          21946
+        ]
+      },
+      {
+        "Diamond bolts (e)": [
+          9243
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Zamorak bracers": [
+          10368
+        ],
+        "Black d'hide vambraces": [
+          2491
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Pegasian boots": [
+          13237
+        ]
+      },
+      {
+        "Blessed boots": [
+          19921,
+          19930,
+          19924,
+          19927,
+          19933,
+          19936
+        ]
+      },
+      {
+        "Ranger boots": [
+          2577
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Venator ring": [
+          28310
+        ]
+      },
+      {
+        "Archers ring (i)": [
+          11771,
+          25260,
+          26768
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ranged attacker",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Masori mask (f)": [
+          27235
+        ]
+      },
+      {
+        "Armadyl helmet": [
+          11826
+        ]
+      },
+      {
+        "Crystal helm": [
+          23971,
+          23973
+        ]
+      },
+      {
+        "Void ranger helm": [
+          11664,
+          20479,
+          24184
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      },
+      {
+        "Ava's accumulator": [
+          10499
+        ]
+      },
+      {
+        "Ranging cape": [
+          9756,
+          9757
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Armadyl chestplate": [
+          11828
+        ]
+      },
+      {
+        "Crystal body": [
+          23975,
+          23977
+        ]
+      },
+      {
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
+        ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Armadyl chainskirt": [
+          11830
+        ]
+      },
+      {
+        "Crystal legs": [
+          23979,
+          23981
+        ]
+      },
+      {
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scorching bow": [
+          29591
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      },
+      {
+        "Unholy blessing": [
+          20223
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Zamorak bracers": [
+          10368
+        ],
+        "Black spiky vambraces": [
+          10085
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Pegasian boots": [
+          13237
+        ]
+      },
+      {
+        "Ranger boots": [
+          2577
+        ]
+      },
+      {
+        "Blessed boots": [
+          19921,
+          19930,
+          19924,
+          19927,
+          19933,
+          19936
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Venator ring": [
+          28310
+        ]
+      },
+      {
+        "Archers ring (i)": [
+          11771,
+          25260,
+          26768
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
+      },
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       }
     ]
@@ -559,278 +1475,7 @@
     ]
   },
   {
-    "name": "Solo Ranged",
-    "head": [
-      {
-        "Slayer helmet (i)": [
-          11865,
-          25177,
-          26674
-        ]
-      },
-      {
-        "Masori mask (f)": [
-          27235
-        ]
-      },
-      {
-        "Crystal helm": [
-          23971,
-          23973
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Necklace of anguish": [
-          19547
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
-        ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
-        ]
-      },
-      {
-        "Ava's accumulator": [
-          10499
-        ]
-      },
-      {
-        "Ranging cape": [
-          9756,
-          9757
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Masori body (f)": [
-          27238
-        ]
-      },
-      {
-        "Armadyl chestplate": [
-          11828
-        ]
-      },
-      {
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
-        ]
-      },
-      {
-        "Crystal body": [
-          23975,
-          23977
-        ]
-      },
-      {
-        "Blessed body": [
-          12492,
-          12508,
-          12500,
-          10378,
-          10386,
-          10370
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Masori chaps (f)": [
-          27241
-        ]
-      },
-      {
-        "Armadyl chainskirt": [
-          11830
-        ]
-      },
-      {
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
-        ]
-      },
-      {
-        "Crystal legs": [
-          23979,
-          23981
-        ]
-      },
-      {
-        "Blessed chaps": [
-          12494,
-          12510,
-          12502,
-          10380,
-          10388,
-          10372
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Scorching bow": [
-          29591
-        ]
-      },
-      {
-        "Twisted bow": [
-          20997
-        ]
-      },
-      {
-        "Bow of faerdhinen": [
-          25862,
-          25865
-        ]
-      },
-      {
-        "Venator bow": [
-          27612,
-          27610
-        ]
-      }
-    ],
-    "shield": [],
-    "ammo": [
-      {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ]
-      },
-      {
-        "Unholy blessing": [
-          20223
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Zaryte vambraces": [
-          26235
-        ],
-        "Zamorak bracers": [
-          10368
-        ]
-      },
-      {
-        "Barrows gloves": [
-          7462
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
-        "Ranger boots": [
-          2577
-        ]
-      },
-      {
-        "Blessed boots": [
-          19921,
-          19930,
-          19924,
-          19927,
-          19933,
-          19936
-        ]
-      }
-    ],
-    "ring": [
-      {
-        "Lightbearer": [
-          25975
-        ]
-      },
-      {
-        "Ring of suffering (ri)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
-      },
-      {
-        "Venator ring": [
-          28310
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Melee tank",
+    "name": "Melee Tank",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1156,306 +1801,7 @@
     ]
   },
   {
-    "name": "Ranged tank",
-    "head": [
-      {
-        "Slayer helmet (i)": [
-          11865,
-          25177,
-          26674
-        ]
-      },
-      {
-        "Verac's helm": [
-          4753,
-          4976,
-          4977,
-          4978,
-          4979,
-          4980
-        ]
-      },
-      {
-        "Armadyl helmet": [
-          11826
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Necklace of anguish": [
-          19547
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
-        ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
-        ]
-      },
-      {
-        "Ava's accumulator": [
-          10499
-        ]
-      },
-      {
-        "Ranging cape": [
-          9756,
-          9757
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Masori body (f)": [
-          27238
-        ]
-      },
-      {
-        "Armadyl chestplate": [
-          11828
-        ]
-      },
-      {
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
-        ]
-      },
-      {
-        "Blessed body": [
-          12492,
-          12508,
-          12500,
-          10378,
-          10386,
-          10370
-        ],
-        "Black d'hide body": [
-          2503
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Masori chaps (f)": [
-          27241
-        ]
-      },
-      {
-        "Armadyl chainskirt": [
-          11830
-        ]
-      },
-      {
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
-        ]
-      },
-      {
-        "Blessed chaps": [
-          12494,
-          12510,
-          12502,
-          10380,
-          10388,
-          10372
-        ]
-      },
-      {
-        "Black d'hide chaps": [
-          2497
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Zaryte crossbow": [
-          26374
-        ]
-      },
-      {
-        "Armadyl crossbow": [
-          11785
-        ]
-      },
-      {
-        "Dragon crossbow": [
-          21902
-        ]
-      },
-      {
-        "Rune crossbow": [
-          9185
-        ]
-      }
-    ],
-    "shield": [
-      {
-        "Elysian spirit shield": [
-          12817
-        ]
-      },
-      {
-        "Spectral spirit shield": [
-          12821
-        ]
-      },
-      {
-        "Twisted buckler": [
-          21000
-        ]
-      },
-      {
-        "Dragonfire ward": [
-          22003,
-          22002
-        ]
-      },
-      {
-        "Dragonfire shield": [
-          11284,
-          11283
-        ]
-      }
-    ],
-    "ammo": [
-      {
-        "Diamond dragon bolts (e)": [
-          21946
-        ]
-      },
-      {
-        "Diamond bolts (e)": [
-          9243
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Zaryte vambraces": [
-          26235
-        ]
-      },
-      {
-        "Barrows gloves": [
-          7462
-        ]
-      },
-      {
-        "Zamorak bracers": [
-          10368
-        ],
-        "Black d'hide vambraces": [
-          2491
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
-        "Blessed boots": [
-          19921,
-          19930,
-          19924,
-          19927,
-          19933,
-          19936
-        ]
-      },
-      {
-        "Ranger boots": [
-          2577
-        ]
-      }
-    ],
-    "ring": [
-      {
-        "Ring of suffering (ri)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
-      },
-      {
-        "Venator ring": [
-          28310
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Melee attacker",
+    "name": "Melee Attacker",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1888,7 +2234,7 @@
     ]
   },
   {
-    "name": "Ranged attacker",
+    "name": "Solo Mage (Shadow)",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -1898,67 +2244,29 @@
         ]
       },
       {
-        "Masori mask (f)": [
-          27235
+        "Ancestral hat": [
+          21018
         ]
       },
       {
-        "Armadyl helmet": [
-          11826
-        ]
-      },
-      {
-        "Crystal helm": [
-          23971,
-          23973
-        ]
-      },
-      {
-        "Void ranger helm": [
-          11664,
-          20479,
-          24184
+        "Virtus mask": [
+          26241
         ]
       }
     ],
     "neck": [
       {
-        "Necklace of anguish": [
-          19547
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
+        "Occult necklace": [
+          12002
         ]
       }
     ],
     "cape": [
       {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
+        "Imbued zamorak cape": [
+          21795,
+          24244,
+          24250
         ]
       },
       {
@@ -1966,115 +2274,106 @@
           13280,
           13342
         ]
-      },
-      {
-        "Ava's accumulator": [
-          10499
-        ]
-      },
-      {
-        "Ranging cape": [
-          9756,
-          9757
-        ]
       }
     ],
     "body": [
       {
-        "Masori body (f)": [
-          27238
+        "Ancestral robe top": [
+          21021
         ]
       },
       {
-        "Armadyl chestplate": [
-          11828
+        "Virtus robe top": [
+          26243
         ]
       },
       {
-        "Crystal body": [
-          23975,
-          23977
+        "Ahrim's robetop": [
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872
         ]
       },
       {
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
-        ]
-      },
-      {
-        "Elite void top": [
-          13072,
-          20467,
-          24178
+        "Bloodbark body": [
+          25404
         ]
       }
     ],
     "legs": [
       {
-        "Masori chaps (f)": [
-          27241
+        "Ancestral robe bottom": [
+          21024
         ]
       },
       {
-        "Armadyl chainskirt": [
-          11830
+        "Virtus robe bottom": [
+          26245
         ]
       },
       {
-        "Crystal legs": [
-          23979,
-          23981
+        "Ahrim's robeskirt": [
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878
         ]
       },
       {
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
-        ]
-      },
-      {
-        "Elite void robe": [
-          13073,
-          20471,
-          24180
+        "Bloodbark legs": [
+          25416
         ]
       }
     ],
     "weapon": [
       {
-        "Scorching bow": [
-          29591
+        "Tumeken's shadow": [
+          27277,
+          27275
         ]
       },
       {
-        "Twisted bow": [
-          20997
-        ]
-      },
-      {
-        "Bow of faerdhinen": [
-          25862,
-          25865
+        "Purging staff": [
+          29594
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ]
+      },
+      {
+        "Elidinis' ward": [
+          25985
+        ],
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Malediction ward": [
+          11924
+        ],
+        "Mage's book": [
+          6889
+        ]
+      }
+    ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Rada's blessing 4": [
+          22947
         ]
       },
       {
@@ -2085,62 +2384,40 @@
     ],
     "hands": [
       {
-        "Zaryte vambraces": [
-          26235
+        "Tormented bracelet": [
+          19544
         ]
       },
       {
         "Barrows gloves": [
           7462
         ]
-      },
-      {
-        "Zamorak bracers": [
-          10368
-        ],
-        "Black spiky vambraces": [
-          10085
-        ]
       }
     ],
     "feet": [
       {
-        "Pegasian boots": [
-          13237
+        "Eternal boots": [
+          13235
         ]
       },
       {
-        "Ranger boots": [
-          2577
+        "Infinity boots": [
+          6920
+        ],
+        "Aranea boots": [
+          29806
         ]
       },
       {
-        "Blessed boots": [
-          19921,
-          19930,
-          19924,
-          19927,
-          19933,
-          19936
+        "Bloodbark boots": [
+          25410
         ]
       }
     ],
     "ring": [
       {
-        "Venator ring": [
-          28310
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
+        "Magus ring": [
+          28313
         ]
       },
       {
@@ -2151,14 +2428,18 @@
           25248,
           26761,
           26762
+        ],
+        "Seers ring (i)": [
+          11770,
+          25258,
+          26767
         ]
       }
     ],
     "special": [
       {
-        "Toxic blowpipe": [
-          12924,
-          12926
+        "Eldritch nightmare staff": [
+          24425
         ]
       }
     ]

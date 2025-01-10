@@ -24,16 +24,21 @@
           29028,
           29047,
           29073
-        ],
-        "Eclipse moon helm": [
-          29010,
-          29035,
-          29055
         ]
       },
       {
         "Helm of neitiznot": [
           10828
+        ],
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
+        ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
         ]
       }
     ],
@@ -107,14 +112,9 @@
         ]
       },
       {
-        "Mixed hide top": [
-          29280
-        ],
         "Bandos chestplate": [
           11832
-        ]
-      },
-      {
+        ],
         "Blood moon chestplate": [
           29022,
           29043,
@@ -132,6 +132,21 @@
           29031,
           29049
         ]
+      },
+      {
+        "Mixed hide top": [
+          29280
+        ],
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
+        ]
+      },
+      {
+        "Obsidian platebody": [
+          21301
+        ]
       }
     ],
     "legs": [
@@ -142,23 +157,30 @@
         ]
       },
       {
-        "Mixed hide legs": [
-          29283
-        ],
         "Bandos tassets": [
           11834
-        ]
-      },
-      {
+        ],
         "Blood moon tassets": [
           29025,
           29045,
           29070
-        ],
+        ]
+      },
+      {
         "Eclipse moon tassets": [
           29007,
           29033,
           29052
+        ]
+      },
+      {
+        "Mixed hide legs": [
+          29283
+        ],
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
         ]
       },
       {
@@ -375,9 +397,7 @@
       {
         "Masori mask": [
           27226
-        ]
-      },
-      {
+        ],
         "Crystal helm": [
           23971,
           23973
@@ -423,15 +443,20 @@
       {
         "Masori body": [
           27229
-        ]
-      },
-      {
-        "Mixed hide top": [
-          29280
         ],
         "Crystal body": [
           23975,
           23977
+        ]
+      },
+      {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
+        "Mixed hide top": [
+          29280
         ]
       },
       {
@@ -467,15 +492,20 @@
       {
         "Masori chaps": [
           27232
-        ]
-      },
-      {
-        "Mixed hide legs": [
-          29283
         ],
         "Crystal legs": [
           23979,
           23981
+        ]
+      },
+      {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
+        "Mixed hide legs": [
+          29283
         ]
       },
       {
@@ -506,6 +536,10 @@
       {
         "Twisted bow": [
           20997
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       },
       {
@@ -523,10 +557,6 @@
         ]
       },
       {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ],
         "Dragon hunter crossbow": [
           21012
         ],
@@ -565,12 +595,12 @@
           11227,
           11228,
           11229
+        ],
+        "Ruby dragon bolts (e)": [
+          21944
         ]
       },
       {
-        "Ruby dragon bolts (e)": [
-          21944
-        ],
         "Rada's blessing 4": [
           22947
         ]
@@ -614,6 +644,11 @@
           8874,
           8876,
           8878
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
         ]
       },
       {
@@ -948,14 +983,23 @@
         ]
       },
       {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
         "Bow of faerdhinen": [
           25862,
           25865
         ]
       },
       {
-        "Zaryte crossbow": [
-          26374
+        "Armadyl crossbow": [
+          11785
         ]
       }
     ],
@@ -1031,9 +1075,8 @@
         "Ghrazi rapier": [
           22324
         ],
-        "Bow of faerdhinen": [
-          25862,
-          25865
+        "Zaryte crossbow": [
+          26374
         ]
       },
       {
@@ -1044,11 +1087,48 @@
         "Zamorakian hasta": [
           11889
         ],
-        "Zaryte crossbow": [
-          26374
-        ],
-        "Armadyl crossbow": [
-          11785
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Akkha's shadow",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       }
     ],
@@ -1073,9 +1153,16 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
-          25862,
-          25865
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902
         ]
       },
       {
@@ -1086,6 +1173,201 @@
       {
         "Zamorakian hasta": [
           11889
+        ],
+        "Rune crossbow": [
+          9185
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Obelisk",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ],
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Wardens (Phase 2)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ],
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ],
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
+        "Trident of the swamp": [
+          12900,
+          12899
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Core (Phase 2)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
+        ],
+        "Dragon claws": [
+          13652
+        ],
+        "Bandos godsword": [
+          11804
+        ]
+      },
+      {
+        "Ghrazi rapier": [
+          22324
+        ],
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ],
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Dragon claws": [
+          13652
+        ],
+        "Keris partisan": [
+          25979
+        ],
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Wardens (Phase 3)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
         ]
       }
     ],
