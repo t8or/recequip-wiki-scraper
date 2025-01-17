@@ -8,20 +8,42 @@
           25177,
           26674
         ],
+        "Torva full helm": [
+          26376,
+          26382
+        ],
+        "Inquisitor's great helm": [
+          24419
+        ]
+      },
+      {
         "Helm of neitiznot": [
           10828
         ],
         "Zombie helmet": [
           30321
+        ],
+        "Dwarven helmet": [
+          11200
         ]
       },
       {
-        "Dwarven helmet": [
-          11200
+        "Proselyte sallet": [
+          9672
         ]
       }
     ],
     "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of strength": [
+          1725
+        ]
+      },
       {
         "Amulet of glory": [
           1704,
@@ -34,18 +56,8 @@
         ]
       },
       {
-        "Amulet of strength": [
-          1725
-        ]
-      },
-      {
         "Amulet of power": [
           1731
-        ]
-      },
-      {
-        "Unholy symbol": [
-          1724
         ]
       }
     ],
@@ -92,11 +104,6 @@
         ]
       },
       {
-        "Inquisitor's hauberk": [
-          24420
-        ]
-      },
-      {
         "Mixed hide top": [
           29280
         ],
@@ -117,14 +124,12 @@
     ],
     "legs": [
       {
-        "Inquisitor's plateskirt": [
-          24421
-        ]
-      },
-      {
         "Torva platelegs": [
           26380,
           26386
+        ],
+        "Inquisitor's plateskirt": [
+          24421
         ]
       },
       {
@@ -272,11 +277,11 @@
     ],
     "feet": [
       {
-        "Aranea boots": [
-          29806
-        ],
         "Dragon boots": [
           11840
+        ],
+        "Aranea boots": [
+          29806
         ]
       },
       {
