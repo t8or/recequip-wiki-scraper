@@ -5820,9 +5820,7 @@
           {
             "Neitiznot faceguard": [
               24271
-            ]
-          },
-          {
+            ],
             "Inquisitor's great helm": [
               24419
             ]
@@ -5831,6 +5829,28 @@
             "Serpentine helm": [
               12929,
               12931
+            ],
+            "Blood moon helm": [
+              29028,
+              29047,
+              29073
+            ]
+          },
+          {
+            "Eclipse moon helm": [
+              29010,
+              29035,
+              29055
+            ],
+            "Blue moon helm": [
+              29019,
+              29041,
+              29064
+            ]
+          },
+          {
+            "Helm of neitiznot": [
+              10828
             ]
           }
         ],
@@ -5882,18 +5902,33 @@
           {
             "Bandos chestplate": [
               11832
-            ]
-          },
-          {
+            ],
             "Inquisitor's hauberk": [
               24420
             ]
           },
           {
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
+            ],
             "Fighter torso": [
               10551,
               20513,
               24175
+            ]
+          },
+          {
+            "Eclipse moon chestplate": [
+              29004,
+              29031,
+              29049
+            ],
+            "Blue moon chestplate": [
+              29013,
+              29037,
+              29058
             ]
           }
         ],
@@ -5905,23 +5940,30 @@
             ]
           },
           {
+            "Bandos tassets": [
+              11834
+            ],
             "Inquisitor's plateskirt": [
               24421
             ]
           },
           {
-            "Bandos tassets": [
-              11834
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
             ]
           },
           {
-            "Blessed chaps": [
-              12494,
-              12510,
-              12502,
-              10380,
-              10388,
-              10372
+            "Eclipse moon tassets": [
+              29007,
+              29033,
+              29052
+            ],
+            "Blue moon tassets": [
+              29016,
+              29039,
+              29061
             ]
           }
         ],
@@ -5935,22 +5977,28 @@
           {
             "Dragon hunter lance": [
               22978
+            ],
+            "Soulreaper axe": [
+              28338
             ]
           },
           {
-            "Soulreaper axe": [
-              28338
+            "Dual macuahuitl": [
+              28997
             ]
           },
           {
             "Abyssal tentacle": [
               12006
             ],
-            "Ghrazi rapier": [
-              22324
+            "Zamorakian hasta": [
+              11889
             ]
           },
           {
+            "Abyssal whip": [
+              4151
+            ],
             "Osmumten's fang": [
               26219
             ]
@@ -6030,16 +6078,14 @@
           {
             "Elder maul": [
               21003
+            ],
+            "Bandos godsword": [
+              11804
             ]
           },
           {
             "Dragon warhammer": [
               13576
-            ]
-          },
-          {
-            "Bandos godsword": [
-              11804
             ]
           },
           {
@@ -6072,10 +6118,16 @@
             ]
           },
           {
-            "Void ranger helm": [
-              11664,
-              20479,
-              24184
+            "Crystal helm": [
+              23971,
+              23973
+            ]
+          },
+          {
+            "Eclipse moon helm": [
+              29010,
+              29035,
+              29055
             ]
           }
         ],
@@ -6126,6 +6178,10 @@
             ]
           },
           {
+            "Crystal body": [
+              23975,
+              23977
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -6136,10 +6192,15 @@
             ]
           },
           {
-            "Elite void top": [
-              13072,
-              20467,
-              24178
+            "Eclipse moon chestplate": [
+              29004,
+              29031,
+              29049
+            ]
+          },
+          {
+            "Black d'hide body": [
+              2503
             ]
           }
         ],
@@ -6155,6 +6216,10 @@
             ]
           },
           {
+            "Crystal legs": [
+              23979,
+              23981
+            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -6165,10 +6230,15 @@
             ]
           },
           {
-            "Elite void robe": [
-              13073,
-              20471,
-              24180
+            "Eclipse moon tassets": [
+              29007,
+              29033,
+              29052
+            ]
+          },
+          {
+            "Black d'hide chaps": [
+              2497
             ]
           }
         ],
@@ -6176,21 +6246,40 @@
           {
             "Twisted bow": [
               20997
+            ],
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
             "Dragon hunter crossbow": [
               21012
-            ]
-          },
-          {
+            ],
             "Zaryte crossbow": [
               26374
             ]
           },
           {
+            "Bow of faerdhinen": [
+              25862,
+              25865
+            ]
+          },
+          {
             "Armadyl crossbow": [
               11785
+            ],
+            "Dragon crossbow": [
+              21902
+            ]
+          },
+          {
+            "Rune crossbow": [
+              9185
+            ],
+            "Eclipse atlatl": [
+              29000
             ]
           }
         ],
@@ -6230,6 +6319,11 @@
             "Ruby bolts (e)": [
               9242
             ]
+          },
+          {
+            "Atlatl dart": [
+              28991
+            ]
           }
         ],
         "hands": [
@@ -6242,13 +6336,6 @@
             "Barrows gloves": [
               7462
             ]
-          },
-          {
-            "Void knight gloves": [
-              8842,
-              20475,
-              24182
-            ]
           }
         ],
         "feet": [
@@ -6259,14 +6346,7 @@
           }
         ],
         "ring": [],
-        "special": [
-          {
-            "Toxic blowpipe": [
-              12924,
-              12926
-            ]
-          }
-        ]
+        "special": []
       },
       {
         "name": "Magic",
@@ -6274,6 +6354,26 @@
           {
             "Ancestral hat": [
               21018
+            ]
+          },
+          {
+            "Virtus mask": [
+              26241
+            ]
+          },
+          {
+            "Ahrim's hood": [
+              4708,
+              4856,
+              4857,
+              4858,
+              4859,
+              4860
+            ],
+            "Blue moon helm": [
+              29019,
+              29041,
+              29064
             ]
           }
         ],
@@ -6319,10 +6419,23 @@
             ]
           },
           {
+            "Ahrim's robetop": [
+              4712,
+              4868,
+              4869,
+              4870,
+              4871,
+              4872
+            ],
             "Blue moon chestplate": [
               29013,
               29037,
               29058
+            ]
+          },
+          {
+            "Mystic robe top": [
+              4091
             ]
           }
         ],
@@ -6338,10 +6451,23 @@
             ]
           },
           {
+            "Ahrim's robeskirt": [
+              4714,
+              4874,
+              4875,
+              4876,
+              4877,
+              4878
+            ],
             "Blue moon tassets": [
               29016,
               29039,
               29061
+            ]
+          },
+          {
+            "Mystic robe bottom": [
+              4093
             ]
           }
         ],
@@ -6363,33 +6489,44 @@
               12900,
               12899
             ]
-          },
-          {
-            "Harmonised nightmare staff": [
-              24423
-            ]
           }
         ],
         "shield": [
           {
-            "Book of the dead": [
-              25818
-            ]
-          },
-          {
+            "Elidinis' ward (f)": [
+              27251
+            ],
             "Tome of fire": [
               20716,
               20714
             ]
           },
           {
-            "Elidinis' ward (f)": [
-              27251
+            "Arcane spirit shield": [
+              12825
+            ],
+            "Elidinis' ward": [
+              25985
             ]
           },
           {
-            "Arcane spirit shield": [
-              12825
+            "Ancient wyvern shield": [
+              21634,
+              21633
+            ],
+            "Mage's book": [
+              6889
+            ],
+            "Malediction ward": [
+              11924
+            ]
+          },
+          {
+            "Book of the dead": [
+              25818
+            ],
+            "Book of darkness": [
+              12612
             ]
           }
         ],
@@ -6406,8 +6543,20 @@
             ]
           }
         ],
-        "feet": [],
-        "ring": [],
+        "feet": [
+          {
+            "Eternal boots": [
+              13235
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Magus ring": [
+              28313
+            ]
+          }
+        ],
         "special": []
       },
       {
@@ -13995,13 +14144,13 @@
             "Saradomin godsword": [
               11806
             ],
-            "Burning claws": [
-              29577
+            "Dragon claws": [
+              13652
             ]
           },
           {
-            "Dragon claws": [
-              13652
+            "Burning claws": [
+              29577
             ],
             "Voidwaker": [
               27690
@@ -14310,13 +14459,13 @@
             "Saradomin godsword": [
               11806
             ],
-            "Burning claws": [
-              29577
+            "Dragon claws": [
+              13652
             ]
           },
           {
-            "Dragon claws": [
-              13652
+            "Burning claws": [
+              29577
             ],
             "Voidwaker": [
               27690
@@ -14562,13 +14711,13 @@
             "Saradomin godsword": [
               11806
             ],
-            "Burning claws": [
-              29577
+            "Dragon claws": [
+              13652
             ]
           },
           {
-            "Dragon claws": [
-              13652
+            "Burning claws": [
+              29577
             ],
             "Voidwaker": [
               27690
@@ -14581,6 +14730,222 @@
             ],
             "Eldritch nightmare staff": [
               24425
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "head": [
+          {
+            "Torva full helm": [
+              26376,
+              26382
+            ],
+            "Masori mask (f)": [
+              27235
+            ]
+          },
+          {
+            "Neitiznot faceguard": [
+              24271
+            ],
+            "Masori mask": [
+              27226
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Amulet of rancour": [
+              29801
+            ],
+            "Amulet of blood fury": [
+              24780
+            ],
+            "Necklace of anguish": [
+              19547
+            ]
+          },
+          {
+            "Amulet of blood fury": [
+              24780
+            ],
+            "Necklace of anguish": [
+              19547
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Infernal cape": [
+              21295,
+              21287,
+              24224
+            ],
+            "Dizana's quiver": [
+              28947,
+              28951,
+              28949,
+              28953,
+              28826
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Torva platebody": [
+              26378,
+              26384
+            ],
+            "Masori body (f)": [
+              27238
+            ]
+          },
+          {
+            "Bandos chestplate": [
+              11832
+            ],
+            "Masori body": [
+              27229
+            ]
+          },
+          {
+            "Fighter torso": [
+              10551,
+              20513,
+              24175
+            ],
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
+            ],
+            "Crystal body": [
+              23975,
+              23977
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Torva platelegs": [
+              26380,
+              26386
+            ],
+            "Masori chaps (f)": [
+              27241
+            ]
+          },
+          {
+            "Bandos tassets": [
+              11834
+            ],
+            "Masori chaps": [
+              27232
+            ]
+          },
+          {
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
+            ],
+            "Crystal legs": [
+              23979,
+              23981
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Scythe of vitur": [
+              22486,
+              22325
+            ],
+            "Tumeken's shadow": [
+              27277,
+              27275
+            ],
+            "Twisted bow": [
+              20997
+            ],
+            "Venator bow": [
+              27612,
+              27610
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [
+          {
+            "Dragon arrow": [
+              11212,
+              11227,
+              11228,
+              11229
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Ferocious gloves": [
+              22981
+            ],
+            "Zaryte vambraces": [
+              26235
+            ]
+          },
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Primordial boots": [
+              13239
+            ]
+          },
+          {
+            "Aranea boots": [
+              29806
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Ultor ring": [
+              28307
+            ]
+          },
+          {
+            "Bellator ring": [
+              28316
+            ]
+          },
+          {
+            "Berserker ring (i)": [
+              11773,
+              25264,
+              26770
+            ]
+          }
+        ],
+        "special": [
+          {
+            "Burning claws": [
+              29577
+            ],
+            "Dragon claws": [
+              13652
+            ],
+            "Elder maul": [
+              21003
+            ],
+            "Dragon warhammer": [
+              13576
             ]
           }
         ]
@@ -17210,9 +17575,7 @@
               23983,
               23985,
               24123
-            ]
-          },
-          {
+            ],
             "Scorching bow": [
               29591
             ]
@@ -29734,6 +30097,9 @@
             "Dragon sword": [
               21009
             ],
+            "Zombie axe": [
+              28810
+            ],
             "Dragon hasta": [
               22731,
               22734,
@@ -29990,9 +30356,6 @@
             ]
           },
           {
-            "Colossal blade": [
-              27021
-            ],
             "Godsword": [
               26233,
               11802,
@@ -33787,6 +34150,11 @@
             ]
           },
           {
+            "Elite void top": [
+              13072,
+              20467,
+              24178
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -38371,21 +38739,23 @@
     "category": "Forgotten 4",
     "styles": [
       {
-        "name": "Main",
+        "name": "Ranged",
         "head": [
           {
             "Slayer helmet (i)": [
               11865,
               25177,
               26674
-            ]
-          },
-          {
+            ],
             "Masori mask (f)": [
               27235
             ]
           },
           {
+            "Crystal helm": [
+              23971,
+              23973
+            ],
             "Armadyl helmet": [
               11826
             ]
@@ -38408,6 +38778,11 @@
               4930,
               4931,
               4932
+            ]
+          },
+          {
+            "Archer helm": [
+              3749
             ]
           }
         ],
@@ -38473,6 +38848,10 @@
             ]
           },
           {
+            "Crystal body": [
+              23975,
+              23977
+            ],
             "Armadyl chestplate": [
               11828
             ]
@@ -38510,6 +38889,10 @@
             ]
           },
           {
+            "Crystal legs": [
+              23979,
+              23981
+            ],
             "Armadyl chainskirt": [
               11830
             ]
@@ -38544,19 +38927,27 @@
           {
             "Zaryte crossbow": [
               26374
+            ],
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
             "Armadyl crossbow": [
               11785
+            ],
+            "Bow of faerdhinen": [
+              25862,
+              25865
             ]
           },
           {
-            "Dragon hunter crossbow": [
-              21012
-            ],
             "Dragon crossbow": [
               21902
+            ],
+            "Dragon hunter crossbow": [
+              21012
             ]
           },
           {
@@ -38565,9 +38956,10 @@
             ]
           },
           {
-            "Toxic blowpipe": [
-              12924,
-              12926
+            "Crystal bow": [
+              23983,
+              23985,
+              24123
             ]
           }
         ],
@@ -38603,34 +38995,16 @@
           {
             "Ruby dragon bolts (e)": [
               21944
-            ],
-            "Dragon arrow": [
-              11212,
-              11227,
-              11228,
-              11229
             ]
           },
           {
             "Ruby bolts (e)": [
               9242
-            ],
-            "Amethyst arrow": [
-              21326,
-              21332,
-              21334,
-              21336
             ]
           },
           {
             "Diamond dragon bolts (e)": [
               21946
-            ],
-            "Rune arrow": [
-              892,
-              893,
-              5621,
-              5627
             ]
           }
         ],
@@ -38703,23 +39077,23 @@
         ],
         "ring": [
           {
-            "Venator ring": [
-              28310
-            ],
             "Lightbearer": [
               25975
+            ],
+            "Venator ring": [
+              28310
             ]
           },
           {
+            "Ring of the gods (i)": [
+              13202,
+              25252,
+              26764
+            ],
             "Archers ring (i)": [
               11771,
               25260,
               26768
-            ]
-          },
-          {
-            "Lightbearer": [
-              25975
             ]
           },
           {
@@ -38746,12 +39120,6 @@
             ]
           },
           {
-            "Tonalztics of ralos": [
-              28919,
-              28922
-            ]
-          },
-          {
             "Webweaver bow": [
               27652,
               27655
@@ -38760,277 +39128,16 @@
           {
             "Armadyl crossbow": [
               11785
-            ]
-          },
-          {
-            "Dark bow": [
-              11235,
-              12765,
-              12766,
-              12767,
-              12768
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Bowfa",
-        "head": [
-          {
-            "Slayer helmet (i)": [
-              11865,
-              25177,
-              26674
-            ]
-          },
-          {
-            "Crystal helm": [
-              23971,
-              23973
-            ]
-          }
-        ],
-        "neck": [
-          {
-            "Necklace of anguish": [
-              19547
-            ]
-          },
-          {
-            "Amulet of fury": [
-              6585
-            ]
-          },
-          {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
-            ]
-          },
-          {
-            "Amulet of power": [
-              1731
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "Dizana's quiver": [
-              28947,
-              28951,
-              28949,
-              28953,
-              28826
-            ]
-          },
-          {
-            "Ava's assembler": [
-              22109,
-              21914,
-              24222
-            ]
-          },
-          {
-            "Max cape": [
-              13280,
-              13342
-            ]
-          },
-          {
-            "Ava's accumulator": [
-              10499
             ],
-            "Ranging cape(t)": [
-              9756,
-              9757
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Crystal body": [
-              23975,
-              23977
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Crystal legs": [
-              23979,
-              23981
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Bow of faerdhinen": [
-              25862,
-              25865
-            ]
-          }
-        ],
-        "shield": [],
-        "ammo": [
-          {
-            "Rada's blessing 4": [
-              22947
-            ]
-          },
-          {
-            "God blessing": [
-              20220,
-              20223,
-              20226,
-              20229,
-              20232,
-              20235
-            ],
-            "Rada's blessing 3": [
-              22945
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Zaryte vambraces": [
-              26235
-            ]
-          },
-          {
-            "Barrows gloves": [
-              7462
-            ]
-          },
-          {
-            "Blessed vambraces": [
-              12490,
-              12506,
-              12498,
-              10376,
-              10384,
-              10368
-            ]
-          },
-          {
-            "Black d'hide vambraces": [
-              2491
-            ]
-          },
-          {
-            "Regen bracelet": [
-              11133
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Devout boots": [
-              22954
-            ],
-            "Pegasian boots": [
-              13237
-            ]
-          },
-          {
-            "Ranger boots": [
-              2577
-            ]
-          },
-          {
-            "Blessed boots": [
-              19921,
-              19930,
-              19924,
-              19927,
-              19933,
-              19936
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
-            ]
-          },
-          {
-            "Shayzien boots (5)": [
-              13378
-            ]
-          }
-        ],
-        "ring": [
-          {
-            "Venator ring": [
-              28310
-            ],
-            "Lightbearer": [
-              25975
-            ]
-          },
-          {
-            "Archers ring (i)": [
-              11771,
-              25260,
-              26768
-            ]
-          },
-          {
-            "Lightbearer": [
-              25975
-            ]
-          },
-          {
-            "Ring of suffering (ri)": [
-              19710,
-              20657,
-              25246,
-              25248,
-              26761,
-              26762
-            ]
-          },
-          {
-            "Ring of shadows": [
-              28329,
-              28327
-            ]
-          }
-        ],
-        "special": [
-          {
-            "Webweaver bow": [
-              27652,
-              27655
-            ]
-          },
-          {
-            "Zaryte crossbow": [
-              26374
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
             "Tonalztics of ralos": [
               28919,
               28922
-            ]
-          },
-          {
-            "Armadyl crossbow": [
-              11785
-            ]
-          },
-          {
-            "Dark bow": [
-              11235,
-              12765,
-              12766,
-              12767,
-              12768
             ]
           }
         ]
@@ -47392,13 +47499,6 @@
               11865,
               25177,
               26674
-            ],
-            "Torva full helm": [
-              26376,
-              26382
-            ],
-            "Inquisitor's great helm": [
-              24419
             ]
           },
           {
@@ -47508,15 +47608,6 @@
           }
         ],
         "legs": [
-          {
-            "Torva platelegs": [
-              26380,
-              26386
-            ],
-            "Inquisitor's plateskirt": [
-              24421
-            ]
-          },
           {
             "Black d'hide chaps": [
               2497
@@ -47729,14 +47820,17 @@
             ]
           },
           {
-            "Ursine chainmace": [
-              27657,
-              27660
+            "Elder maul": [
+              21003
+            ],
+            "Dragon warhammer": [
+              13576
             ]
           },
           {
-            "Elder maul": [
-              21003
+            "Ursine chainmace": [
+              27657,
+              27660
             ]
           },
           {
@@ -47781,11 +47875,6 @@
           {
             "Necklace of anguish": [
               19547
-            ]
-          },
-          {
-            "Amulet of fury": [
-              6585
             ]
           },
           {
@@ -47879,18 +47968,20 @@
             ]
           },
           {
-            "Zaryte crossbow": [
-              26374
-            ],
-            "Bow of faerdhinen": [
-              25862,
-              25865
-            ],
             "Twisted bow": [
               20997
             ]
           },
           {
+            "Bow of faerdhinen": [
+              25862,
+              25865
+            ]
+          },
+          {
+            "Zaryte crossbow": [
+              26374
+            ],
             "Armadyl crossbow": [
               11785
             ]
@@ -47898,16 +47989,31 @@
           {
             "Dragon crossbow": [
               21902
+            ],
+            "Rune crossbow": [
+              9185
             ]
           }
         ],
         "shield": [
           {
-            "Book of law": [
-              12610
+            "Twisted buckler": [
+              21000
             ]
           },
           {
+            "Dragonfire ward": [
+              22003,
+              22002
+            ],
+            "Odium ward": [
+              11926
+            ]
+          },
+          {
+            "Book of law": [
+              12610
+            ],
             "Unholy book": [
               3842
             ]
@@ -47981,11 +48087,6 @@
         ],
         "feet": [
           {
-            "Pegasian boots": [
-              13237
-            ]
-          },
-          {
             "Blessed boots": [
               19921,
               19930,
@@ -48034,7 +48135,19 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Zaryte crossbow": [
+              26374
+            ]
+          },
+          {
+            "Webweaver bow": [
+              27652,
+              27655
+            ]
+          }
+        ]
       }
     ]
   },
@@ -49961,6 +50074,7 @@
               28113,
               28114,
               28115,
+              30489,
               10075,
               3799,
               20712,
@@ -50250,6 +50364,7 @@
               28113,
               28114,
               28115,
+              30489,
               10075,
               3799,
               20712,
@@ -50553,6 +50668,7 @@
               28113,
               28114,
               28115,
+              30489,
               10075,
               3799,
               20712,
@@ -50852,6 +50968,7 @@
               28113,
               28114,
               28115,
+              30489,
               10075,
               3799,
               20712,
@@ -51186,6 +51303,7 @@
               28113,
               28114,
               28115,
+              30489,
               10075,
               3799,
               20712,
@@ -51504,6 +51622,7 @@
               28113,
               28114,
               28115,
+              30489,
               10075,
               3799,
               20712,
@@ -51802,6 +51921,7 @@
               28113,
               28114,
               28115,
+              30489,
               10075,
               3799,
               20712,
@@ -60333,6 +60453,14 @@
           {
             "Voidwaker": [
               27690
+            ]
+          },
+          {
+            "Dragon dagger(p++)": [
+              1215,
+              1231,
+              5680,
+              5698
             ]
           },
           {
