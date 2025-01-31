@@ -1,20 +1,22 @@
 [
   {
-    "name": "Main",
+    "name": "Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
           11865,
           25177,
           26674
-        ]
-      },
-      {
+        ],
         "Masori mask (f)": [
           27235
         ]
       },
       {
+        "Crystal helm": [
+          23971,
+          23973
+        ],
         "Armadyl helmet": [
           11826
         ]
@@ -37,6 +39,11 @@
           4930,
           4931,
           4932
+        ]
+      },
+      {
+        "Archer helm": [
+          3749
         ]
       }
     ],
@@ -102,6 +109,10 @@
         ]
       },
       {
+        "Crystal body": [
+          23975,
+          23977
+        ],
         "Armadyl chestplate": [
           11828
         ]
@@ -139,6 +150,10 @@
         ]
       },
       {
+        "Crystal legs": [
+          23979,
+          23981
+        ],
         "Armadyl chainskirt": [
           11830
         ]
@@ -173,19 +188,27 @@
       {
         "Zaryte crossbow": [
           26374
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       },
       {
         "Armadyl crossbow": [
           11785
+        ],
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       },
       {
-        "Dragon hunter crossbow": [
-          21012
-        ],
         "Dragon crossbow": [
           21902
+        ],
+        "Dragon hunter crossbow": [
+          21012
         ]
       },
       {
@@ -194,9 +217,10 @@
         ]
       },
       {
-        "Toxic blowpipe": [
-          12924,
-          12926
+        "Crystal bow": [
+          23983,
+          23985,
+          24123
         ]
       }
     ],
@@ -232,34 +256,16 @@
       {
         "Ruby dragon bolts (e)": [
           21944
-        ],
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
         ]
       },
       {
         "Ruby bolts (e)": [
           9242
-        ],
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
         ]
       },
       {
         "Diamond dragon bolts (e)": [
           21946
-        ],
-        "Rune arrow": [
-          892,
-          893,
-          5621,
-          5627
         ]
       }
     ],
@@ -332,23 +338,23 @@
     ],
     "ring": [
       {
-        "Venator ring": [
-          28310
-        ],
         "Lightbearer": [
           25975
+        ],
+        "Venator ring": [
+          28310
         ]
       },
       {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ],
         "Archers ring (i)": [
           11771,
           25260,
           26768
-        ]
-      },
-      {
-        "Lightbearer": [
-          25975
         ]
       },
       {
@@ -375,12 +381,6 @@
         ]
       },
       {
-        "Tonalztics of ralos": [
-          28919,
-          28922
-        ]
-      },
-      {
         "Webweaver bow": [
           27652,
           27655
@@ -389,277 +389,16 @@
       {
         "Armadyl crossbow": [
           11785
-        ]
-      },
-      {
-        "Dark bow": [
-          11235,
-          12765,
-          12766,
-          12767,
-          12768
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Bowfa",
-    "head": [
-      {
-        "Slayer helmet (i)": [
-          11865,
-          25177,
-          26674
-        ]
-      },
-      {
-        "Crystal helm": [
-          23971,
-          23973
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Necklace of anguish": [
-          19547
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
-        ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
-        ]
-      },
-      {
-        "Ava's accumulator": [
-          10499
         ],
-        "Ranging cape(t)": [
-          9756,
-          9757
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Crystal body": [
-          23975,
-          23977
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Crystal legs": [
-          23979,
-          23981
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Bow of faerdhinen": [
-          25862,
-          25865
-        ]
-      }
-    ],
-    "shield": [],
-    "ammo": [
-      {
-        "Rada's blessing 4": [
-          22947
-        ]
-      },
-      {
-        "God blessing": [
-          20220,
-          20223,
-          20226,
-          20229,
-          20232,
-          20235
-        ],
-        "Rada's blessing 3": [
-          22945
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Zaryte vambraces": [
-          26235
-        ]
-      },
-      {
-        "Barrows gloves": [
-          7462
-        ]
-      },
-      {
-        "Blessed vambraces": [
-          12490,
-          12506,
-          12498,
-          10376,
-          10384,
-          10368
-        ]
-      },
-      {
-        "Black d'hide vambraces": [
-          2491
-        ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Devout boots": [
-          22954
-        ],
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
-        "Ranger boots": [
-          2577
-        ]
-      },
-      {
-        "Blessed boots": [
-          19921,
-          19930,
-          19924,
-          19927,
-          19933,
-          19936
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
-        ]
-      },
-      {
-        "Shayzien boots (5)": [
-          13378
-        ]
-      }
-    ],
-    "ring": [
-      {
-        "Venator ring": [
-          28310
-        ],
-        "Lightbearer": [
-          25975
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Lightbearer": [
-          25975
-        ]
-      },
-      {
-        "Ring of suffering (ri)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
-      },
-      {
-        "Ring of shadows": [
-          28329,
-          28327
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Webweaver bow": [
-          27652,
-          27655
-        ]
-      },
-      {
-        "Zaryte crossbow": [
-          26374
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       },
       {
         "Tonalztics of ralos": [
           28919,
           28922
-        ]
-      },
-      {
-        "Armadyl crossbow": [
-          11785
-        ]
-      },
-      {
-        "Dark bow": [
-          11235,
-          12765,
-          12766,
-          12767,
-          12768
         ]
       }
     ]

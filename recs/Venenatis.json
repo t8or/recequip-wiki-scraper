@@ -7,13 +7,6 @@
           11865,
           25177,
           26674
-        ],
-        "Torva full helm": [
-          26376,
-          26382
-        ],
-        "Inquisitor's great helm": [
-          24419
         ]
       },
       {
@@ -123,15 +116,6 @@
       }
     ],
     "legs": [
-      {
-        "Torva platelegs": [
-          26380,
-          26386
-        ],
-        "Inquisitor's plateskirt": [
-          24421
-        ]
-      },
       {
         "Black d'hide chaps": [
           2497
@@ -344,14 +328,17 @@
         ]
       },
       {
-        "Ursine chainmace": [
-          27657,
-          27660
+        "Elder maul": [
+          21003
+        ],
+        "Dragon warhammer": [
+          13576
         ]
       },
       {
-        "Elder maul": [
-          21003
+        "Ursine chainmace": [
+          27657,
+          27660
         ]
       },
       {
@@ -396,11 +383,6 @@
       {
         "Necklace of anguish": [
           19547
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
         ]
       },
       {
@@ -494,18 +476,20 @@
         ]
       },
       {
-        "Zaryte crossbow": [
-          26374
-        ],
-        "Bow of faerdhinen": [
-          25862,
-          25865
-        ],
         "Twisted bow": [
           20997
         ]
       },
       {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
         "Armadyl crossbow": [
           11785
         ]
@@ -513,16 +497,31 @@
       {
         "Dragon crossbow": [
           21902
+        ],
+        "Rune crossbow": [
+          9185
         ]
       }
     ],
     "shield": [
       {
-        "Book of law": [
-          12610
+        "Twisted buckler": [
+          21000
         ]
       },
       {
+        "Dragonfire ward": [
+          22003,
+          22002
+        ],
+        "Odium ward": [
+          11926
+        ]
+      },
+      {
+        "Book of law": [
+          12610
+        ],
         "Unholy book": [
           3842
         ]
@@ -596,11 +595,6 @@
     ],
     "feet": [
       {
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
         "Blessed boots": [
           19921,
           19930,
@@ -649,6 +643,18 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Webweaver bow": [
+          27652,
+          27655
+        ]
+      }
+    ]
   }
 ]

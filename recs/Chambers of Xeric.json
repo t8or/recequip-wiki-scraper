@@ -11,9 +11,7 @@
       {
         "Neitiznot faceguard": [
           24271
-        ]
-      },
-      {
+        ],
         "Inquisitor's great helm": [
           24419
         ]
@@ -22,6 +20,28 @@
         "Serpentine helm": [
           12929,
           12931
+        ],
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ]
+      },
+      {
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
+        ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
+        ]
+      },
+      {
+        "Helm of neitiznot": [
+          10828
         ]
       }
     ],
@@ -73,18 +93,33 @@
       {
         "Bandos chestplate": [
           11832
-        ]
-      },
-      {
+        ],
         "Inquisitor's hauberk": [
           24420
         ]
       },
       {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
         "Fighter torso": [
           10551,
           20513,
           24175
+        ]
+      },
+      {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
         ]
       }
     ],
@@ -96,23 +131,30 @@
         ]
       },
       {
+        "Bandos tassets": [
+          11834
+        ],
         "Inquisitor's plateskirt": [
           24421
         ]
       },
       {
-        "Bandos tassets": [
-          11834
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
-        "Blessed chaps": [
-          12494,
-          12510,
-          12502,
-          10380,
-          10388,
-          10372
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
         ]
       }
     ],
@@ -126,22 +168,28 @@
       {
         "Dragon hunter lance": [
           22978
+        ],
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
-        "Soulreaper axe": [
-          28338
+        "Dual macuahuitl": [
+          28997
         ]
       },
       {
         "Abyssal tentacle": [
           12006
         ],
-        "Ghrazi rapier": [
-          22324
+        "Zamorakian hasta": [
+          11889
         ]
       },
       {
+        "Abyssal whip": [
+          4151
+        ],
         "Osmumten's fang": [
           26219
         ]
@@ -221,16 +269,14 @@
       {
         "Elder maul": [
           21003
+        ],
+        "Bandos godsword": [
+          11804
         ]
       },
       {
         "Dragon warhammer": [
           13576
-        ]
-      },
-      {
-        "Bandos godsword": [
-          11804
         ]
       },
       {
@@ -263,10 +309,16 @@
         ]
       },
       {
-        "Void ranger helm": [
-          11664,
-          20479,
-          24184
+        "Crystal helm": [
+          23971,
+          23973
+        ]
+      },
+      {
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
         ]
       }
     ],
@@ -317,6 +369,10 @@
         ]
       },
       {
+        "Crystal body": [
+          23975,
+          23977
+        ],
         "Blessed body": [
           12492,
           12508,
@@ -327,10 +383,15 @@
         ]
       },
       {
-        "Elite void top": [
-          13072,
-          20467,
-          24178
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ]
+      },
+      {
+        "Black d'hide body": [
+          2503
         ]
       }
     ],
@@ -346,6 +407,10 @@
         ]
       },
       {
+        "Crystal legs": [
+          23979,
+          23981
+        ],
         "Blessed chaps": [
           12494,
           12510,
@@ -356,10 +421,15 @@
         ]
       },
       {
-        "Elite void robe": [
-          13073,
-          20471,
-          24180
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ]
+      },
+      {
+        "Black d'hide chaps": [
+          2497
         ]
       }
     ],
@@ -367,21 +437,40 @@
       {
         "Twisted bow": [
           20997
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       },
       {
         "Dragon hunter crossbow": [
           21012
-        ]
-      },
-      {
+        ],
         "Zaryte crossbow": [
           26374
         ]
       },
       {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
         "Armadyl crossbow": [
           11785
+        ],
+        "Dragon crossbow": [
+          21902
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ],
+        "Eclipse atlatl": [
+          29000
         ]
       }
     ],
@@ -421,6 +510,11 @@
         "Ruby bolts (e)": [
           9242
         ]
+      },
+      {
+        "Atlatl dart": [
+          28991
+        ]
       }
     ],
     "hands": [
@@ -433,13 +527,6 @@
         "Barrows gloves": [
           7462
         ]
-      },
-      {
-        "Void knight gloves": [
-          8842,
-          20475,
-          24182
-        ]
       }
     ],
     "feet": [
@@ -450,14 +537,7 @@
       }
     ],
     "ring": [],
-    "special": [
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      }
-    ]
+    "special": []
   },
   {
     "name": "Magic",
@@ -465,6 +545,26 @@
       {
         "Ancestral hat": [
           21018
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
+        ]
+      },
+      {
+        "Ahrim's hood": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860
+        ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
         ]
       }
     ],
@@ -510,10 +610,23 @@
         ]
       },
       {
+        "Ahrim's robetop": [
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872
+        ],
         "Blue moon chestplate": [
           29013,
           29037,
           29058
+        ]
+      },
+      {
+        "Mystic robe top": [
+          4091
         ]
       }
     ],
@@ -529,10 +642,23 @@
         ]
       },
       {
+        "Ahrim's robeskirt": [
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878
+        ],
         "Blue moon tassets": [
           29016,
           29039,
           29061
+        ]
+      },
+      {
+        "Mystic robe bottom": [
+          4093
         ]
       }
     ],
@@ -554,33 +680,44 @@
           12900,
           12899
         ]
-      },
-      {
-        "Harmonised nightmare staff": [
-          24423
-        ]
       }
     ],
     "shield": [
       {
-        "Book of the dead": [
-          25818
-        ]
-      },
-      {
+        "Elidinis' ward (f)": [
+          27251
+        ],
         "Tome of fire": [
           20716,
           20714
         ]
       },
       {
-        "Elidinis' ward (f)": [
-          27251
+        "Arcane spirit shield": [
+          12825
+        ],
+        "Elidinis' ward": [
+          25985
         ]
       },
       {
-        "Arcane spirit shield": [
-          12825
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Mage's book": [
+          6889
+        ],
+        "Malediction ward": [
+          11924
+        ]
+      },
+      {
+        "Book of the dead": [
+          25818
+        ],
+        "Book of darkness": [
+          12612
         ]
       }
     ],
@@ -597,8 +734,20 @@
         ]
       }
     ],
-    "feet": [],
-    "ring": [],
+    "feet": [
+      {
+        "Eternal boots": [
+          13235
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Magus ring": [
+          28313
+        ]
+      }
+    ],
     "special": []
   },
   {
