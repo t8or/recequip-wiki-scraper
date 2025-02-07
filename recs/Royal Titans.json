@@ -1,0 +1,811 @@
+[
+  {
+    "name": "",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ],
+        "Neitiznot faceguard": [
+          24271
+        ]
+      },
+      {
+        "Helm of neitiznot": [
+          10828
+        ],
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
+        ]
+      },
+      {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Bonecrusher necklace": [
+          22986
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ],
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Ava's accumulator": [
+          10499
+        ],
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Imbued zamorak cape": [
+          21795,
+          24244,
+          24250
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
+        ]
+      },
+      {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ]
+      },
+      {
+        "Ahrim's robetop": [
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
+        ]
+      },
+      {
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ],
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ]
+      },
+      {
+        "Ahrim's robeskirt": [
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Dual macuahuitl": [
+          28997
+        ]
+      },
+      {
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ],
+        "Abyssal whip": [
+          4151
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {
+        "Unholy book": [
+          3842
+        ]
+      }
+    ],
+    "ammo": [],
+    "hands": [
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ],
+        "Rune gloves": [
+          7460
+        ],
+        "Adamant gloves": [
+          7459
+        ]
+      },
+      {
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ],
+        "Eternal boots": [
+          13235
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ],
+        "Infinity boots": [
+          6920
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ],
+        "Brimstone ring": [
+          22975
+        ],
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ],
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ],
+        "Torva full helm": [
+          26376,
+          26382
+        ],
+        "Inquisitor's great helm": [
+          24419
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ],
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      },
+      {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ]
+      },
+      {
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
+        ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
+        ],
+        "Helm of neitiznot": [
+          10828
+        ]
+      },
+      {
+        "Berserker helm": [
+          3751
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Mythical cape": [
+          22114
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ],
+        "Inquisitor's hauberk": [
+          24420
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ]
+      },
+      {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ],
+        "Inquisitor's plateskirt": [
+          24421
+        ]
+      },
+      {
+        "Bandos tassets": [
+          11834
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Dual macuahuitl": [
+          28997
+        ]
+      },
+      {
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ],
+        "Abyssal whip": [
+          4151
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ]
+      },
+      {
+        "Mixed hide boots": [
+          29286
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ],
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      }
+    ]
+  },
+  {
+    "name": "",
+    "head": [
+      {
+        "Masori mask (f)": [
+          27235
+        ]
+      },
+      {
+        "Crystal helm": [
+          23971,
+          23973
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      },
+      {
+        "Ava's accumulator": [
+          10499
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Crystal body": [
+          23975,
+          23977
+        ]
+      },
+      {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ]
+      },
+      {
+        "Blessed body": [
+          12492,
+          12508,
+          12500,
+          10378,
+          10386,
+          10370
+        ]
+      },
+      {
+        "Black d'hide body": [
+          2503
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Crystal legs": [
+          23979,
+          23981
+        ]
+      },
+      {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ]
+      },
+      {
+        "Blessed chaps": [
+          12494,
+          12510,
+          12502,
+          10380,
+          10388,
+          10372
+        ]
+      },
+      {
+        "Black d'hide chaps": [
+          2497
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
+        "Eclipse atlatl": [
+          29000
+        ]
+      },
+      {
+        "Dragon crossbow": [
+          21902
+        ],
+        "Magic shortbow (i)": [
+          12788
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      },
+      {
+        "Atlatl dart": [
+          28991
+        ]
+      },
+      {
+        "Diamond dragon bolts (e)": [
+          21946
+        ],
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ],
+        "Rune arrow": [
+          892,
+          893,
+          5621,
+          5627
+        ]
+      },
+      {
+        "Diamond bolts (e)": [
+          9243
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ]
+      }
+    ],
+    "feet": [],
+    "ring": [],
+    "special": [
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ]
+  }
+]
