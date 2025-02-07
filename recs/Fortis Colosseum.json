@@ -263,16 +263,13 @@
         ]
       },
       {
-        "Dragon boots": [
-          11840
+        "Echo boots": [
+          28945
         ]
       },
       {
-        "Echo boots": [
-          28945
-        ],
-        "Guardian boots": [
-          21733
+        "Dragon boots": [
+          11840
         ]
       }
     ],
@@ -637,6 +634,191 @@
         ],
         "Eldritch nightmare staff": [
           24425
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mage",
+    "head": [
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ],
+        "Crystal helm": [
+          23971,
+          23973
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ],
+        "Crystal helm": [
+          23971,
+          23973
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of blood fury": [
+          24780
+        ],
+        "Necklace of anguish": [
+          19547
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
+        "Crystal body": [
+          23975,
+          23977
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Crystal legs": [
+          23979,
+          23981
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Osmumten's fang": [
+          26219
+        ],
+        "Noxious halberd": [
+          29796
+        ],
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ],
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ],
+        "Trident of the swamp": [
+          12900,
+          12899
+        ],
+        "Venator bow": [
+          27612,
+          27610
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
+        "Rada's blessing 4": [
+          22947
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Echo boots": [
+          28945
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Saradomin godsword": [
+          11806
+        ],
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ],
+        "Voidwaker": [
+          27690
+        ],
+        "Dragon warhammer": [
+          13576
         ]
       }
     ]

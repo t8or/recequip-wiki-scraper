@@ -443,11 +443,14 @@
     ],
     "weapon": [
       {
-        "Ghrazi rapier": [
-          22324
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
+        "Ghrazi rapier": [
+          22324
+        ],
         "Scythe of vitur": [
           22486,
           22325
@@ -500,16 +503,14 @@
     ],
     "shield": [
       {
-        "Dragonfire shield": [
-          11284,
-          11283
-        ]
-      },
-      {
         "Avernic defender": [
           22322,
           22441,
           24186
+        ],
+        "Dragonfire shield": [
+          11284,
+          11283
         ]
       },
       {
@@ -517,7 +518,9 @@
           12954,
           20463,
           24143
-        ],
+        ]
+      },
+      {
         "Toktz-ket-xil": [
           6524
         ]
@@ -1228,6 +1231,9 @@
       {
         "Inquisitor's mace": [
           24417
+        ],
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
@@ -1924,6 +1930,11 @@
         ]
       },
       {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
         "Blade of saeldor": [
           23997,
           23995
@@ -1941,9 +1952,7 @@
         ],
         "Abyssal whip": [
           4151
-        ]
-      },
-      {
+        ],
         "Zamorakian hasta": [
           11889
         ]

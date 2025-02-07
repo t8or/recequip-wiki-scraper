@@ -272,6 +272,9 @@
         ],
         "Bandos godsword": [
           11804
+        ],
+        "Voidwaker": [
+          27690
         ]
       },
       {
@@ -291,6 +294,11 @@
         "Arclight": [
           30305,
           19675
+        ]
+      },
+      {
+        "Zamorak godsword": [
+          11808
         ]
       }
     ]
@@ -536,8 +544,20 @@
         ]
       }
     ],
-    "ring": [],
-    "special": []
+    "ring": [
+      {
+        "Venator ring": [
+          28310
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      }
+    ]
   },
   {
     "name": "Magic",
@@ -863,16 +883,16 @@
         ]
       },
       {
-        "Dragon hunter lance": [
-          22978
+        "Voidwaker": [
+          27690
         ]
       },
       {
-        "Abyssal dagger": [
-          13265,
-          13267,
-          13269,
-          13271
+        "Dragon hunter lance": [
+          22978
+        ],
+        "Dragon sword": [
+          21009
         ]
       }
     ],
