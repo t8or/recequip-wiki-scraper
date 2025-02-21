@@ -218,10 +218,11 @@
         ]
       },
       {
-        "Trident of the seas": [
-          11908,
-          11907,
-          11905
+        "Staff of the dead": [
+          11791
+        ],
+        "Twinflame staff": [
+          30634
         ]
       },
       {
@@ -319,6 +320,11 @@
         ],
         "Aranea boots": [
           29806
+        ]
+      },
+      {
+        "Wizard boots": [
+          2579
         ]
       }
     ],
@@ -597,10 +603,12 @@
     ],
     "weapon": [
       {
-        "Trident of the seas": [
-          11908,
-          11907,
-          11905
+        "Trident of the swamp": [
+          12900,
+          12899
+        ],
+        "Twinflame staff": [
+          30634
         ]
       },
       {
@@ -620,15 +628,11 @@
         "Ancient sceptre": [
           27624,
           27626
-        ],
-        "Staff of air": [
-          1381
         ]
       },
       {
-        "Warped sceptre": [
-          28583,
-          28585
+        "Staff of air": [
+          1381
         ]
       },
       {
