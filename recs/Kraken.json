@@ -59,11 +59,6 @@
         ]
       },
       {
-        "3rd age amulet": [
-          10344
-        ]
-      },
-      {
         "Amulet of glory": [
           1704,
           1706,
@@ -286,6 +281,9 @@
         "Warped sceptre": [
           28583,
           28585
+        ],
+        "Twinflame staff": [
+          30634
         ]
       }
     ],

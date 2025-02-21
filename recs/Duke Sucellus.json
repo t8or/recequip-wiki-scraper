@@ -11,9 +11,7 @@
         "Serpentine helm": [
           12929,
           12931
-        ]
-      },
-      {
+        ],
         "Torva full helm": [
           26376,
           26382
@@ -25,15 +23,22 @@
         ]
       },
       {
-        "Helm of neitiznot": [
-          10828
-        ]
-      },
-      {
         "Void melee helm": [
           11665,
           20481,
           24185
+        ]
+      },
+      {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ]
+      },
+      {
+        "Helm of neitiznot": [
+          10828
         ]
       }
     ],
@@ -113,24 +118,20 @@
         ]
       },
       {
-        "Fighter torso": [
-          10551,
-          20513,
-          24175
-        ]
-      },
-      {
-        "Blood moon chestplate": [
-          29022,
-          29043,
-          29067
-        ]
-      },
-      {
         "Elite void top": [
           13072,
           20467,
           24178
+        ]
+      },
+      {
+        "Obsidian platebody": [
+          21301
+        ]
+      },
+      {
+        "Proselyte hauberk": [
+          9674
         ]
       }
     ],
@@ -147,10 +148,10 @@
         ]
       },
       {
-        "Blood moon tassets": [
-          29025,
-          29045,
-          29070
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
         ]
       },
       {
@@ -159,10 +160,8 @@
         ]
       },
       {
-        "Elite void robe": [
-          13073,
-          20471,
-          24180
+        "Proselyte cuisse": [
+          9676
         ]
       }
     ],
@@ -179,12 +178,12 @@
         ],
         "Soulreaper axe": [
           28338
-        ],
-        "Noxious halberd": [
-          29796
         ]
       },
       {
+        "Noxious halberd": [
+          29796
+        ],
         "Arclight": [
           30305,
           19675
@@ -256,6 +255,11 @@
       {
         "Barrows gloves": [
           7462
+        ],
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182
         ]
       },
       {
@@ -264,13 +268,6 @@
         ],
         "Regen bracelet": [
           11133
-        ]
-      },
-      {
-        "Void knight gloves": [
-          8842,
-          20475,
-          24182
         ]
       }
     ],

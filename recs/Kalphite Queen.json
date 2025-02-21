@@ -185,19 +185,25 @@
         ]
       },
       {
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
         "Scythe of vitur": [
           22486,
           22325
+        ],
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
         "Keris partisan": [
           25979
-        ]
-      },
-      {
-        "Inquisitor's mace": [
-          24417
+        ],
+        "Osmumten's fang": [
+          26219
         ]
       },
       {
@@ -789,6 +795,11 @@
         ]
       },
       {
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
+        ],
         "Ahrim's hood": [
           4708,
           4856,
@@ -881,6 +892,11 @@
         ]
       },
       {
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
+        ],
         "Ahrim's robetop": [
           4712,
           4868,
@@ -903,6 +919,11 @@
         ]
       },
       {
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
+        ],
         "Ahrim's robeskirt": [
           4714,
           4874,
@@ -919,9 +940,36 @@
           27277,
           27275
         ]
+      },
+      {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Elysian spirit shield": [
+          12817
+        ]
+      },
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ]
+      },
+      {
+        "Mage's book": [
+          6889
+        ]
+      }
+    ],
     "ammo": [
       {
         "Rada's blessing 4": [
@@ -2322,7 +2370,7 @@
     ],
     "ring": [
       {
-        "Ring of suffering (i)": [
+        "Ring of suffering (ri)": [
           19710,
           20657,
           25246,

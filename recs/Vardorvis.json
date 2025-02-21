@@ -25,13 +25,16 @@
         ]
       },
       {
+        "Justiciar faceguard": [
+          22326
+        ]
+      },
+      {
         "Blood moon helm": [
           29028,
           29047,
           29073
-        ]
-      },
-      {
+        ],
         "Helm of neitiznot": [
           10828
         ]
@@ -267,31 +270,16 @@
         "Bandos tassets": [
           11834
         ],
+        "Justiciar legguards": [
+          22328
+        ]
+      },
+      {
         "Blood moon tassets": [
           29025,
           29045,
           29070
-        ]
-      },
-      {
-        "Justiciar legguards": [
-          22328
         ],
-        "Obsidian platelegs": [
-          21304
-        ]
-      },
-      {
-        "Verac's plateskirt": [
-          4759,
-          4994,
-          4995,
-          4996,
-          4997,
-          4998
-        ]
-      },
-      {
         "Barrows equipment": [
           4712,
           4868,
@@ -329,6 +317,14 @@
           4990,
           4991,
           4992
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
+        ],
+        "Dragon platelegs": [
+          4087
         ]
       }
     ],
@@ -383,16 +379,16 @@
         ]
       },
       {
+        "Dragonfire shield": [
+          11284,
+          11283
+        ]
+      },
+      {
         "Rune defender": [
           8850,
           20461,
           24142
-        ]
-      },
-      {
-        "Dragonfire shield": [
-          11284,
-          11283
         ]
       },
       {
@@ -460,19 +456,19 @@
     ],
     "feet": [
       {
-        "Primordial boots": [
-          13239
-        ],
         "Echo boots": [
           28945
         ]
       },
       {
-        "Dragon boots": [
-          11840
+        "Primordial boots": [
+          13239
         ]
       },
       {
+        "Dragon boots": [
+          11840
+        ],
         "Guardian boots": [
           21733
         ]

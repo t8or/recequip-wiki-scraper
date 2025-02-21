@@ -791,12 +791,6 @@
         ]
       },
       {
-        "Dagon'hai hat": [
-          24288
-        ],
-        "Infinity hat": [
-          6918
-        ],
         "Bloodbark helm": [
           25413
         ]
@@ -899,12 +893,6 @@
         ]
       },
       {
-        "Dagon'hai robe top": [
-          24291
-        ],
-        "Infinity top": [
-          6916
-        ],
         "Bloodbark body": [
           25404
         ]
@@ -942,12 +930,6 @@
         ]
       },
       {
-        "Dagon'hai robe bottom": [
-          24294
-        ],
-        "Infinity bottoms": [
-          6924
-        ],
         "Bloodbark legs": [
           25416
         ]
@@ -970,6 +952,10 @@
         ],
         "Staff of the dead": [
           11791
+        ],
+        "Toxic staff of the dead": [
+          12902,
+          12904
         ]
       },
       {
