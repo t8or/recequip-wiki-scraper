@@ -24,12 +24,20 @@
       {
         "Armadyl helmet": [
           11826
-        ]
-      },
-      {
+        ],
         "Serpentine helm": [
           12929,
           12931
+        ]
+      },
+      {
+        "Blessed coif": [
+          12496,
+          12512,
+          12504,
+          10382,
+          10390,
+          10374
         ]
       }
     ],
@@ -200,11 +208,15 @@
         ]
       },
       {
-        "Zaryte crossbow": [
-          26374
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       },
       {
+        "Zaryte crossbow": [
+          26374
+        ],
         "Armadyl crossbow": [
           11785
         ]
@@ -402,364 +414,22 @@
         ]
       },
       {
-        "Armadyl crossbow": [
-          11785
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Ranged (blowpipe)",
-    "head": [
-      {
-        "Masori mask (f)": [
-          27235
-        ]
-      },
-      {
-        "Void ranger helm": [
-          11664,
-          20479,
-          24184
-        ]
-      },
-      {
-        "Slayer helmet (i)": [
-          11865,
-          25177,
-          26674
-        ]
-      },
-      {
-        "Armadyl helmet": [
-          11826
-        ]
-      },
-      {
-        "Serpentine helm": [
-          12929,
-          12931
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Salve amulet(ei)": [
-          12018,
-          25278,
-          26782
-        ]
-      },
-      {
-        "Necklace of anguish": [
-          19547
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
-        ]
-      },
-      {
-        "Ava's accumulator": [
-          10499
-        ]
-      },
-      {
-        "Ranging cape": [
-          9756,
-          9757
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Masori body (f)": [
-          27238
-        ]
-      },
-      {
-        "Elite void top": [
-          13072,
-          20467,
-          24178
+        "Bandos godsword": [
+          11804
         ],
-        "Void knight top": [
-          8839,
-          20465,
-          24177
-        ]
-      },
-      {
-        "Armadyl chestplate": [
-          11828
-        ]
-      },
-      {
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
-        ]
-      },
-      {
-        "Eclipse moon chestplate": [
-          29004,
-          29031,
-          29049
-        ],
-        "Blessed body": [
-          12492,
-          12508,
-          12500,
-          10378,
-          10386,
-          10370
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Masori chaps (f)": [
-          27241
-        ]
-      },
-      {
-        "Elite void robe": [
-          13073,
-          20471,
-          24180
-        ],
-        "Void knight robe": [
-          8840,
-          20469,
-          24179
-        ]
-      },
-      {
-        "Armadyl chainskirt": [
-          11830
-        ]
-      },
-      {
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
-        ]
-      },
-      {
-        "Blessed chaps": [
-          12494,
-          12510,
-          12502,
-          10380,
-          10388,
-          10372
-        ],
-        "Black d'hide chaps": [
-          2497
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      }
-    ],
-    "shield": [],
-    "ammo": [
-      {
-        "Rada's blessing 4": [
-          22947
-        ]
-      },
-      {
-        "God blessing": [
-          20220,
-          20223,
-          20226,
-          20229,
-          20232,
-          20235
-        ],
-        "Rada's blessing 3": [
-          22945
-        ],
-        "Rada's blessing 2": [
-          22943
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Zaryte vambraces": [
-          26235
-        ]
-      },
-      {
-        "Void knight gloves": [
-          8842,
-          20475,
-          24182
-        ]
-      },
-      {
-        "Barrows gloves": [
-          7462
-        ]
-      },
-      {
-        "Blessed vambraces": [
-          12490,
-          12506,
-          12498,
-          10376,
-          10384,
-          10368
-        ]
-      },
-      {
-        "Black d'hide vambraces": [
-          2491
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
-        "Ranger boots": [
-          2577
-        ]
-      },
-      {
-        "Blessed boots": [
-          19921,
-          19930,
-          19924,
-          19927,
-          19933,
-          19936
-        ]
-      },
-      {
-        "Aranea boots": [
-          29806
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
-        ],
-        "Mixed hide boots": [
-          29286
-        ]
-      }
-    ],
-    "ring": [
-      {
-        "Venator ring": [
-          28310
-        ],
-        "Lightbearer": [
-          25975
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Ring of suffering (ri)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
-      },
-      {
-        "Ring of shadows": [
-          28329,
-          28327
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Elder maul": [
-          21003
-        ]
-      },
-      {
         "Dragon warhammer": [
           13576
         ]
       },
       {
-        "Bandos godsword": [
-          11804
+        "Armadyl crossbow": [
+          11785
         ]
       },
       {
-        "Saradomin godsword": [
-          11806
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       }
     ]
@@ -771,20 +441,7 @@
         "Torva full helm": [
           26376,
           26382
-        ]
-      },
-      {
-        "Neitiznot faceguard": [
-          24271
-        ]
-      },
-      {
-        "Serpentine helm": [
-          12929,
-          12931
-        ]
-      },
-      {
+        ],
         "Slayer helmet (i)": [
           11865,
           25177,
@@ -792,13 +449,67 @@
         ]
       },
       {
-        "Helm of neitiznot": [
-          10828
+        "Neitiznot faceguard": [
+          24271
+        ],
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      },
+      {
+        "Justiciar faceguard": [
+          22326
         ],
         "Blood moon helm": [
           29028,
           29047,
           29073
+        ]
+      },
+      {
+        "Helm of neitiznot": [
+          10828
+        ]
+      },
+      {
+        "Barrows helm": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860,
+          4716,
+          4880,
+          4881,
+          4882,
+          4883,
+          4884,
+          4724,
+          4904,
+          4905,
+          4906,
+          4907,
+          4908,
+          4732,
+          4928,
+          4929,
+          4930,
+          4931,
+          4932,
+          4745,
+          4952,
+          4953,
+          4954,
+          4955,
+          4956,
+          4753,
+          4976,
+          4977,
+          4978,
+          4979,
+          4980
         ]
       }
     ],
@@ -972,6 +683,13 @@
         "Justiciar chestguard": [
           22327
         ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ]
+      },
+      {
         "Barrows platebody": [
           4708,
           4856,
@@ -997,13 +715,6 @@
           4864,
           4865,
           4866
-        ]
-      },
-      {
-        "Blood moon chestplate": [
-          29022,
-          29043,
-          29067
         ],
         "Fighter torso": [
           10551,
@@ -1033,6 +744,13 @@
         "Justiciar legguards": [
           22328
         ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
         "Barrows platelegs": [
           4708,
           4856,
@@ -1058,13 +776,6 @@
           4864,
           4865,
           4866
-        ]
-      },
-      {
-        "Blood moon tassets": [
-          29025,
-          29045,
-          29070
         ]
       },
       {
@@ -1276,6 +987,9 @@
       {
         "Bandos godsword": [
           11804
+        ],
+        "Dragon warhammer": [
+          13576
         ]
       },
       {

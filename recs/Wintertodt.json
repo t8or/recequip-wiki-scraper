@@ -1493,14 +1493,15 @@
     ],
     "weapon": [
       {
-        "Dragon axe": [
-          6739
-        ],
-        "Mithril axe": [
-          1355
+        "Infernal axe": [
+          13241,
+          13242
         ]
       },
       {
+        "Dragon axe": [
+          6739
+        ],
         "Bruma torch": [
           20720
         ],
@@ -2726,6 +2727,9 @@
           28748,
           28687,
           28688
+        ],
+        "Ring of life": [
+          2570
         ]
       }
     ],

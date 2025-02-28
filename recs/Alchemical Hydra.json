@@ -85,16 +85,16 @@
         "Crystal body": [
           23975,
           23977
+        ],
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
         ]
       },
       {
         "Hueycoatl hide body": [
           30076
-        ]
-      },
-      {
-        "Armadyl chestplate": [
-          11828
         ]
       },
       {
@@ -118,16 +118,16 @@
         "Crystal legs": [
           23979,
           23981
+        ],
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
         ]
       },
       {
         "Hueycoatl hide chaps": [
           30079
-        ]
-      },
-      {
-        "Armadyl chainskirt": [
-          11830
         ]
       },
       {
@@ -163,8 +163,8 @@
         ]
       },
       {
-        "Zaryte crossbow": [
-          26374
+        "Eclipse atlatl": [
+          29000
         ]
       }
     ],
@@ -198,11 +198,17 @@
           11227,
           11228,
           11229
+        ],
+        "Ruby dragon bolts (e)": [
+          21944
+        ],
+        "Atlatl dart": [
+          28991
         ]
       },
       {
-        "Ruby dragon bolts (e)": [
-          21944
+        "Ruby bolts (e)": [
+          9242
         ]
       },
       {
@@ -409,28 +415,16 @@
       {
         "Bandos chestplate": [
           11832
-        ],
+        ]
+      },
+      {
         "Inquisitor's hauberk": [
           24420
         ]
       },
       {
-        "Blood moon chestplate": [
-          29022,
-          29043,
-          29067
-        ]
-      },
-      {
-        "Fighter torso": [
-          10551,
-          20513,
-          24175
-        ]
-      },
-      {
-        "Obsidian platebody": [
-          21301
+        "Mixed hide top": [
+          29280
         ]
       }
     ],
@@ -444,16 +438,11 @@
       {
         "Bandos tassets": [
           11834
-        ],
-        "Inquisitor's plateskirt": [
-          24421
         ]
       },
       {
-        "Blood moon tassets": [
-          29025,
-          29045,
-          29070
+        "Inquisitor's plateskirt": [
+          24421
         ]
       },
       {
@@ -462,8 +451,8 @@
         ]
       },
       {
-        "Proselyte cuisse": [
-          9676
+        "Mixed hide legs": [
+          29283
         ]
       }
     ],
@@ -482,9 +471,7 @@
       {
         "Osmumten's fang": [
           26219
-        ]
-      },
-      {
+        ],
         "Ghrazi rapier": [
           22324
         ]
@@ -496,6 +483,11 @@
         ],
         "Inquisitor's mace": [
           24417
+        ]
+      },
+      {
+        "Zamorakian hasta": [
+          11889
         ]
       }
     ],
@@ -632,11 +624,6 @@
         ]
       },
       {
-        "Saradomin godsword": [
-          11806
-        ]
-      },
-      {
         "Dragon claws": [
           13652
         ]
@@ -647,8 +634,11 @@
         ]
       },
       {
-        "Dragon warhammer": [
-          13576
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
         ]
       }
     ]
