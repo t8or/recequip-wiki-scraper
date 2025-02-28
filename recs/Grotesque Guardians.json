@@ -592,6 +592,10 @@
         "Venator bow": [
           27612,
           27610
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       },
       {
@@ -700,107 +704,6 @@
         ]
       }
     ],
-    "ring": [],
-    "special": []
-  },
-  {
-    "name": "Ranged switches (Atlatl method)",
-    "head": [],
-    "neck": [],
-    "cape": [],
-    "body": [
-      {
-        "Masori body (f)": [
-          27238
-        ]
-      },
-      {
-        "Armadyl chestplate": [
-          11828
-        ]
-      },
-      {
-        "Crystal body": [
-          23975,
-          23977
-        ]
-      },
-      {
-        "Blessed body": [
-          12492,
-          12508,
-          12500,
-          10378,
-          10386,
-          10370
-        ],
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
-        ]
-      },
-      {
-        "Black d'hide body": [
-          2503
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Masori chaps (f)": [
-          27241
-        ]
-      },
-      {
-        "Armadyl chainskirt": [
-          11830
-        ]
-      },
-      {
-        "Crystal legs": [
-          23979,
-          23981
-        ]
-      },
-      {
-        "Blessed chaps": [
-          12494,
-          12510,
-          12502,
-          10380,
-          10388,
-          10372
-        ],
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
-        ]
-      },
-      {
-        "Black d'hide chaps": [
-          2497
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Eclipse atlatl": [
-          29000
-        ]
-      }
-    ],
-    "shield": [],
-    "ammo": [],
-    "hands": [],
-    "feet": [],
     "ring": [],
     "special": []
   }
