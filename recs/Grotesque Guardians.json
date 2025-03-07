@@ -218,9 +218,7 @@
       {
         "Soulreaper axe": [
           28338
-        ]
-      },
-      {
+        ],
         "Ghrazi rapier": [
           22324
         ],
@@ -241,14 +239,22 @@
         ]
       },
       {
-        "Abyssal whip": [
-          4151
-        ],
         "Osmumten's fang": [
           26219
         ],
+        "Abyssal whip": [
+          4151
+        ],
         "Abyssal bludgeon": [
           13263
+        ]
+      },
+      {
+        "Zamorakian hasta": [
+          11889
+        ],
+        "Dragon scimitar": [
+          4587
         ]
       }
     ],
@@ -274,55 +280,7 @@
         ]
       }
     ],
-    "ammo": [
-      {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ],
-        "Rada's blessing 4": [
-          22947
-        ],
-        "Diamond dragon bolts (e)": [
-          21946
-        ],
-        "Atlatl dart": [
-          28991
-        ]
-      },
-      {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
-        ],
-        "God blessing": [
-          20220,
-          20223,
-          20226,
-          20229,
-          20232,
-          20235
-        ],
-        "Rada's blessing 3": [
-          22945
-        ],
-        "Diamond bolts (e)": [
-          9243
-        ]
-      },
-      {
-        "Rune arrow": [
-          892,
-          893,
-          5621,
-          5627
-        ]
-      }
-    ],
+    "ammo": [],
     "hands": [
       {
         "Ferocious gloves": [
@@ -352,23 +310,32 @@
         ]
       },
       {
-        "Echo boots": [
-          28945
-        ]
-      },
-      {
-        "Guardian boots": [
-          21733
-        ]
-      },
-      {
+        "Dragon boots": [
+          11840
+        ],
         "Aranea boots": [
           29806
         ]
       },
       {
-        "Dragon boots": [
-          11840
+        "Echo boots": [
+          28945
+        ],
+        "Guardian boots": [
+          21733
+        ]
+      },
+      {
+        "Rune boots": [
+          4131
+        ],
+        "Mixed hide boots": [
+          29286
+        ]
+      },
+      {
+        "Climbing boots": [
+          3105
         ]
       }
     ],
@@ -512,8 +479,10 @@
         ]
       },
       {
-        "Armadyl chestplate": [
-          11828
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
         ]
       },
       {
@@ -553,8 +522,10 @@
         ]
       },
       {
-        "Armadyl chainskirt": [
-          11830
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
         ]
       },
       {
@@ -599,30 +570,24 @@
         ]
       },
       {
-        "Toxic blowpipe": [
-          12924,
-          12926
+        "Eclipse atlatl": [
+          29000
+        ]
+      },
+      {
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       },
       {
         "Hunters' sunlight crossbow": [
           28869
-        ],
-        "Zaryte crossbow": [
-          26374
         ]
       },
       {
         "Magic shortbow (i)": [
           12788
-        ],
-        "Armadyl crossbow": [
-          11785
-        ]
-      },
-      {
-        "Dragon crossbow": [
-          21902
         ]
       }
     ],
@@ -642,19 +607,50 @@
         "Odium ward": [
           11926
         ]
-      },
+      }
+    ],
+    "ammo": [
       {
-        "Book of law": [
-          12610
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
         ]
       },
       {
-        "Unholy book": [
-          3842
+        "Atlatl dart": [
+          28991
+        ]
+      },
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Moonlight antler bolts": [
+          28878
+        ],
+        "Sunlight antler bolts": [
+          28872
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ],
+        "Rune arrow": [
+          892,
+          893,
+          5621,
+          5627
         ]
       }
     ],
-    "ammo": [],
     "hands": [
       {
         "Zaryte vambraces": [
@@ -704,7 +700,13 @@
         ]
       }
     ],
-    "ring": [],
+    "ring": [
+      {
+        "Venator ring": [
+          28310
+        ]
+      }
+    ],
     "special": []
   }
 ]

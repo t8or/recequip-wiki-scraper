@@ -176,6 +176,11 @@
         "Crystal body": [
           23975,
           23977
+        ],
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
         ]
       },
       {
@@ -211,6 +216,11 @@
         "Crystal legs": [
           23979,
           23981
+        ],
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
         ]
       },
       {
@@ -294,13 +304,11 @@
           11907,
           11905
         ],
+        "Eclipse atlatl": [
+          29000
+        ],
         "Hunters' sunlight crossbow": [
           28869
-        ],
-        "Crystal bow": [
-          23983,
-          23985,
-          24123
         ]
       },
       {
@@ -314,6 +322,11 @@
         "Iban's staff": [
           1409,
           1410
+        ],
+        "Crystal bow": [
+          23983,
+          23985,
+          24123
         ],
         "Magic shortbow (i)": [
           12788
