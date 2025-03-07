@@ -29,11 +29,19 @@
           4858,
           4859,
           4860
+        ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
         ]
       },
       {
         "Infinity hat": [
           6918
+        ],
+        "Bloodbark helm": [
+          25413
         ]
       },
       {
@@ -233,6 +241,11 @@
           4870,
           4871,
           4872
+        ],
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
         ]
       },
       {
@@ -241,6 +254,9 @@
         ],
         "Infinity top": [
           6916
+        ],
+        "Bloodbark body": [
+          25404
         ]
       },
       {
@@ -273,6 +289,11 @@
           4876,
           4877,
           4878
+        ],
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
         ]
       },
       {
@@ -281,6 +302,9 @@
         ],
         "Infinity bottoms": [
           6924
+        ],
+        "Bloodbark legs": [
+          25416
         ]
       },
       {
@@ -859,9 +883,23 @@
     ],
     "special": [
       {
+        "Tonalztics of ralos": [
+          28919,
+          28922
+        ]
+      },
+      {
         "Toxic blowpipe": [
           12924,
           12926
+        ]
+      },
+      {
+        "Magic comp bow": [
+          10284
+        ],
+        "Magic longbow": [
+          859
         ]
       }
     ]
