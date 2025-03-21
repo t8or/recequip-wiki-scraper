@@ -261,6 +261,11 @@
         ]
       },
       {
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
         "Arclight": [
           30305,
           19675
@@ -269,11 +274,6 @@
       {
         "Ghrazi rapier": [
           22324
-        ]
-      },
-      {
-        "Osmumten's fang": [
-          26219
         ]
       }
     ],
@@ -419,11 +419,6 @@
     ],
     "special": [
       {
-        "Burning claws": [
-          29577
-        ]
-      },
-      {
         "Dragon claws": [
           13652
         ],
@@ -432,9 +427,11 @@
         ],
         "Voidwaker": [
           27690
-        ],
-        "Bandos godsword": [
-          11804
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
         ]
       },
       {
@@ -443,6 +440,9 @@
         ],
         "Dragon warhammer": [
           13576
+        ],
+        "Bandos godsword": [
+          11804
         ]
       },
       {

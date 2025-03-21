@@ -679,6 +679,9 @@
       {
         "Dragon claws": [
           13652
+        ],
+        "Burning claws": [
+          29577
         ]
       },
       {
@@ -687,23 +690,21 @@
         ]
       },
       {
-        "Saradomin godsword": [
-          11806
-        ]
-      },
-      {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
-        ]
-      },
-      {
         "Dragon dagger": [
           1215,
           1231,
           5680,
           5698
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Saradomin godsword": [
+          11806
         ]
       }
     ]

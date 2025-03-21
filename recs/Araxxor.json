@@ -1,5 +1,47 @@
 [
   {
+    "name": "Araxyte weapon",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
+        "Hunters' sunlight crossbow": [
+          28869
+        ],
+        "Karil's crossbow": [
+          4734,
+          4934,
+          4935,
+          4936,
+          4937,
+          4938
+        ],
+        "Heavy ballista": [
+          19481
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
     "name": "Melee",
     "head": [
       {

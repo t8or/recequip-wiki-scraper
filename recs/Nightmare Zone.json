@@ -1796,11 +1796,11 @@
       {
         "Ancestral hat": [
           21018
-        ],
-        "Void mage helm": [
-          11663,
-          20477,
-          24183
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
         ]
       },
       {
@@ -1811,16 +1811,27 @@
           4858,
           4859,
           4860
-        ]
-      },
-      {
-        "3rd age mage hat": [
-          10342
-        ]
-      },
-      {
+        ],
+        "Bloodbark helm": [
+          25413
+        ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
+        ],
+        "Dagon'hai hat": [
+          24288
+        ],
         "Infinity hat": [
           6918
+        ]
+      },
+      {
+        "Void mage helm": [
+          11663,
+          20477,
+          24183
         ]
       },
       {
@@ -2002,11 +2013,11 @@
       {
         "Ancestral robe top": [
           21021
-        ],
-        "Elite void top": [
-          13072,
-          20467,
-          24178
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
         ]
       },
       {
@@ -2017,16 +2028,32 @@
           4870,
           4871,
           4872
-        ]
-      },
-      {
+        ],
+        "Bloodbark body": [
+          25404
+        ],
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
+        ],
         "Dagon'hai robe top": [
           24291
+        ],
+        "Infinity top": [
+          6916
         ]
       },
       {
-        "3rd age robe top": [
-          10338
+        "Elite void top": [
+          13072,
+          20467,
+          24178
+        ],
+        "Void knight top": [
+          8839,
+          20465,
+          24177
         ]
       },
       {
@@ -2039,11 +2066,11 @@
       {
         "Ancestral robe bottom": [
           21024
-        ],
-        "Elite void robe": [
-          13073,
-          20471,
-          24180
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
         ]
       },
       {
@@ -2054,16 +2081,32 @@
           4876,
           4877,
           4878
-        ]
-      },
-      {
-        "3rd age robe": [
-          10340
-        ]
-      },
-      {
+        ],
+        "Bloodbark legs": [
+          25416
+        ],
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
+        ],
         "Dagon'hai robe bottom": [
           24294
+        ],
+        "Infinity bottoms": [
+          6924
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
+        ],
+        "Void knight robe": [
+          8840,
+          20469,
+          24179
         ]
       },
       {
@@ -2074,35 +2117,30 @@
     ],
     "weapon": [
       {
-        "Kodai wand": [
-          21006
-        ],
         "Harmonised nightmare staff": [
           24423
         ]
       },
       {
-        "Eldritch nightmare staff": [
-          24425
-        ],
-        "Volatile nightmare staff": [
-          24424
+        "Kodai wand": [
+          21006
         ],
         "Nightmare staff": [
           24422
         ],
-        "Staff of balance": [
-          24144
-        ],
-        "Staff of light": [
-          22296
-        ],
         "Staff of the dead": [
           11791
+        ]
+      },
+      {
+        "Dragon hunter wand": [
+          30070
         ],
-        "Zuriel's staff": [
-          27920,
-          27922
+        "Purging staff": [
+          29594
+        ],
+        "Smoke battlestaff": [
+          11998
         ]
       },
       {
@@ -2113,15 +2151,33 @@
           4864,
           4865,
           4866
+        ],
+        "Ancient sceptre": [
+          27624,
+          27626
         ]
       },
       {
-        "Mystic smoke staff": [
-          12000
+        "Staff of fire": [
+          1387
         ]
       }
     ],
     "shield": [
+      {
+        "Tome of fire": [
+          20716,
+          20714
+        ],
+        "Tome of earth": [
+          30066,
+          30064
+        ],
+        "Tome of water": [
+          25576,
+          25574
+        ]
+      },
       {
         "Elidinis' ward (f)": [
           27251
@@ -2130,9 +2186,7 @@
       {
         "Arcane spirit shield": [
           12825
-        ]
-      },
-      {
+        ],
         "Elidinis' ward": [
           25985
         ]
@@ -2144,12 +2198,12 @@
         ],
         "Mage's book": [
           6889
+        ],
+        "Malediction ward": [
+          11924
         ]
       },
       {
-        "Malediction ward": [
-          11924
-        ],
         "Book of darkness": [
           12612
         ]
@@ -2179,7 +2233,9 @@
       {
         "Tormented bracelet": [
           19544
-        ],
+        ]
+      },
+      {
         "Void knight gloves": [
           8842,
           20475,
@@ -2199,11 +2255,6 @@
       {
         "Infinity gloves": [
           6922
-        ]
-      },
-      {
-        "Adamant gloves": [
-          7459
         ]
       }
     ],
@@ -2249,13 +2300,13 @@
           25258,
           26767
         ],
-        "Brimstone ring": [
-          22975
+        "Seers ring": [
+          6731
         ]
       },
       {
-        "Seers ring": [
-          6731
+        "Brimstone ring": [
+          22975
         ]
       },
       {

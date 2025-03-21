@@ -308,13 +308,23 @@
     ],
     "weapon": [
       {
-        "Imcando hammer": [
-          25644,
-          25633
+        "Dragon harpoon": [
+          21028
+        ]
+      },
+      {
+        "Barb-tail harpoon": [
+          10129
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Imcando hammer (off-hand)": [
+          29775
+        ]
+      }
+    ],
     "ammo": [],
     "hands": [],
     "feet": [

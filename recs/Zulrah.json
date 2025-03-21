@@ -883,15 +883,32 @@
     ],
     "special": [
       {
-        "Tonalztics of ralos": [
-          28919,
-          28922
+        "Dragon knife": [
+          22804,
+          22806,
+          22808,
+          22810
         ]
       },
       {
         "Toxic blowpipe": [
           12924,
           12926
+        ]
+      },
+      {
+        "Dragon thrownaxe": [
+          20849
+        ]
+      },
+      {
+        "Tonalztics of ralos": [
+          28919,
+          28922
+        ],
+        "Accursed sceptre": [
+          27662,
+          27665
         ]
       },
       {
