@@ -34515,11 +34515,6 @@
             "Dragon claws": [
               13652
             ]
-          },
-          {
-            "Dragon mace": [
-              1434
-            ]
           }
         ]
       },
@@ -52770,19 +52765,19 @@
             ]
           },
           {
-            "Rune arrow": [
-              892,
-              893,
-              5621,
-              5627
-            ]
-          },
-          {
             "Moonlight antler bolts": [
               28878
             ],
             "Sunlight antler bolts": [
               28872
+            ]
+          },
+          {
+            "Rune arrow": [
+              892,
+              893,
+              5621,
+              5627
             ]
           },
           {
@@ -55213,6 +55208,14 @@
             "Adamant pickaxe": [
               1271
             ]
+          },
+          {
+            "Twinflame staff": [
+              30634
+            ],
+            "Steam battlestaff": [
+              11787
+            ]
           }
         ],
         "shield": [
@@ -55472,6 +55475,12 @@
             "Tome of fire": [
               20716,
               20714
+            ],
+            "Imcando hammer (off-hand)": [
+              29775
+            ],
+            "Amy's saw (off-hand)": [
+              29774
             ]
           }
         ],
@@ -62309,6 +62318,11 @@
           {
             "Rune gloves": [
               7460
+            ]
+          },
+          {
+            "Regen bracelet": [
+              11133
             ]
           },
           {
