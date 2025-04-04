@@ -445,6 +445,13 @@
     "hands": [],
     "feet": [],
     "ring": [],
-    "special": []
+    "special": [
+      {
+        "Ursine chainmace": [
+          27657,
+          27660
+        ]
+      }
+    ]
   }
 ]

@@ -1181,6 +1181,11 @@
       {
         "Bandos chestplate": [
           11832
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
         ]
       },
       {
@@ -1246,6 +1251,11 @@
       {
         "Bandos tassets": [
           11834
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
@@ -1301,25 +1311,25 @@
     ],
     "weapon": [
       {
-        "Emberlight": [
-          29589
-        ]
-      },
-      {
         "Scythe of vitur": [
           22486,
           22325
         ]
       },
       {
-        "Arclight": [
-          30305,
-          19675
+        "Ghrazi rapier": [
+          22324
         ]
       },
       {
-        "Ghrazi rapier": [
-          22324
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
         ]
       },
       {
@@ -1461,17 +1471,6 @@
       {
         "Dragon warhammer": [
           13576
-        ]
-      },
-      {
-        "Emberlight": [
-          29589
-        ]
-      },
-      {
-        "Arclight": [
-          30305,
-          19675
         ]
       },
       {
