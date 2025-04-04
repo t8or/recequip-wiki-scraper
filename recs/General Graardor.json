@@ -2028,11 +2028,6 @@
         ]
       },
       {
-        "3rd age mage hat": [
-          10342
-        ]
-      },
-      {
         "Ahrim's hood": [
           4708,
           4856,
@@ -2150,11 +2145,6 @@
         ]
       },
       {
-        "Elidinis' ward": [
-          25985
-        ]
-      },
-      {
         "Ancient wyvern shield": [
           21634,
           21633
@@ -2163,7 +2153,9 @@
       {
         "Mage's book": [
           6889
-        ],
+        ]
+      },
+      {
         "Malediction ward": [
           11924
         ],
@@ -2246,11 +2238,6 @@
       }
     ],
     "special": [
-      {
-        "Zamorakian hasta": [
-          11889
-        ]
-      },
       {
         "Accursed sceptre": [
           27662,
@@ -2536,6 +2523,13 @@
     "name": "Solo (Ranged 7:0)",
     "head": [
       {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
         "Crystal helm": [
           23971,
           23973
@@ -2556,18 +2550,6 @@
     ],
     "cape": [
       {
-        "Max cape": [
-          13280,
-          13342
-        ]
-      },
-      {
-        "Ranging cape(t)": [
-          9756,
-          9757
-        ]
-      },
-      {
         "Dizana's quiver": [
           28947,
           28951,
@@ -2581,6 +2563,18 @@
           22109,
           21914,
           24222
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      },
+      {
+        "Ranging cape(t)": [
+          9756,
+          9757
         ]
       },
       {
@@ -2611,16 +2605,6 @@
           25862,
           25865
         ]
-      },
-      {
-        "Crystal bow": [
-          23983,
-          23985,
-          24123
-        ],
-        "Scorching bow": [
-          29591
-        ]
       }
     ],
     "shield": [],
@@ -2628,22 +2612,12 @@
       {
         "War blessing": [
           20232
-        ]
-      },
-      {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ]
-      },
-      {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
+        ],
+        "Unholy blessing": [
+          20223
+        ],
+        "Rada's blessing 4": [
+          22947
         ]
       }
     ],
@@ -2654,8 +2628,16 @@
         ]
       },
       {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
         "Zamorak bracers": [
           10368
+        ],
+        "Bandos bracers": [
+          12498
         ]
       }
     ],
@@ -2666,8 +2648,16 @@
         ]
       },
       {
+        "Zamorak d'hide boots": [
+          19936
+        ],
         "Bandos d'hide boots": [
           19924
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
         ]
       }
     ],

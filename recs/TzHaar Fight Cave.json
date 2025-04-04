@@ -1040,6 +1040,11 @@
         ]
       },
       {
+        "Virtus mask": [
+          26241
+        ]
+      },
+      {
         "Void mage helm": [
           11663,
           20477,
@@ -2346,6 +2351,233 @@
       {
         "Ancient mace": [
           11061
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ranged (Atlatl)",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ],
+        "Black mask (i)": [
+          11784,
+          11783,
+          11782,
+          11781,
+          11780,
+          11779,
+          11778,
+          11777,
+          11776,
+          11775,
+          11774,
+          25276,
+          25275,
+          25274,
+          25273,
+          25272,
+          25271,
+          25270,
+          25269,
+          25268,
+          25267,
+          25266,
+          26781,
+          26780,
+          26779,
+          26778,
+          26777,
+          26776,
+          26775,
+          26774,
+          26773,
+          26772,
+          26771
+        ]
+      },
+      {
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ],
+        "Helm of neitiznot": [
+          10828
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of strength": [
+          1725
+        ]
+      },
+      {
+        "Dragonbone necklace": [
+          22111
+        ],
+        "Bonecrusher necklace": [
+          22986
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Eclipse atlatl": [
+          29000
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Atlatl dart": [
+          28991
+        ],
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Lightbearer": [
+          25975
+        ],
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Eclipse atlatl": [
+          29000
+        ]
+      },
+      {
+        "Saradomin godsword": [
+          11806
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       }
     ]
