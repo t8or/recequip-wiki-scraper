@@ -2725,6 +2725,9 @@
           {
             "Voidwaker": [
               27690
+            ],
+            "Saradomin godsword": [
+              11806
             ]
           },
           {
@@ -6792,6 +6795,11 @@
             ]
           },
           {
+            "Trident of the seas": [
+              11908,
+              11907,
+              11905
+            ],
             "Warped sceptre": [
               28583,
               28585
@@ -9941,7 +9949,7 @@
         ]
       },
       {
-        "name": "Fewer stat drains",
+        "name": "Dolo",
         "head": [
           {
             "Torva full helm": [
@@ -21888,6 +21896,13 @@
             "Black spiky vambraces": [
               10085
             ]
+          },
+          {
+            "Void knight gloves": [
+              8842,
+              20475,
+              24182
+            ]
           }
         ],
         "feet": [
@@ -29739,11 +29754,6 @@
             ]
           },
           {
-            "Burning claws": [
-              29577
-            ]
-          },
-          {
             "Dragon dagger": [
               1215,
               1231,
@@ -29752,11 +29762,8 @@
             ]
           },
           {
-            "Abyssal dagger": [
-              13265,
-              13267,
-              13269,
-              13271
+            "Burning claws": [
+              29577
             ]
           }
         ]
@@ -29902,27 +29909,19 @@
             ]
           },
           {
-            "Burning claws": [
-              29577
-            ],
             "Voidwaker": [
               27690
             ]
           },
           {
+            "Burning claws": [
+              29577
+            ],
             "Dragon dagger": [
               1215,
               1231,
               5680,
               5698
-            ]
-          },
-          {
-            "Abyssal dagger": [
-              13265,
-              13267,
-              13269,
-              13271
             ]
           },
           {
@@ -30005,9 +30004,6 @@
           {
             "Voidwaker": [
               27690
-            ],
-            "Burning claws": [
-              29577
             ]
           },
           {
@@ -30016,6 +30012,9 @@
               1231,
               5680,
               5698
+            ],
+            "Burning claws": [
+              29577
             ]
           },
           {
@@ -37666,7 +37665,7 @@
             ]
           },
           {
-            "Ring of suffering (ri)": [
+            "Ring of suffering (i)": [
               19710,
               20657,
               25246,
