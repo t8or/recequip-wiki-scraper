@@ -580,35 +580,7 @@
         ]
       }
     ],
-    "shield": [
-      {
-        "Avernic defender": [
-          22322,
-          22441,
-          24186
-        ]
-      },
-      {
-        "Dragon defender": [
-          12954,
-          20463,
-          24143
-        ]
-      },
-      {
-        "Rune defender": [
-          8850,
-          20461,
-          24142
-        ]
-      },
-      {
-        "Dragonfire shield": [
-          11284,
-          11283
-        ]
-      }
-    ],
+    "shield": [],
     "ammo": [
       {
         "Rada's blessing 4": [

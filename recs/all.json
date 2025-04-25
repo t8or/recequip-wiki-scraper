@@ -585,35 +585,7 @@
             ]
           }
         ],
-        "shield": [
-          {
-            "Avernic defender": [
-              22322,
-              22441,
-              24186
-            ]
-          },
-          {
-            "Dragon defender": [
-              12954,
-              20463,
-              24143
-            ]
-          },
-          {
-            "Rune defender": [
-              8850,
-              20461,
-              24142
-            ]
-          },
-          {
-            "Dragonfire shield": [
-              11284,
-              11283
-            ]
-          }
-        ],
+        "shield": [],
         "ammo": [
           {
             "Rada's blessing 4": [
@@ -4101,13 +4073,16 @@
             ]
           },
           {
-            "God cloak": [
-              10446,
-              10448,
-              10450,
-              12261,
-              12273,
-              12197
+            "Ardougne cloak 3": [
+              13123
+            ],
+            "Ardougne cloak 4": [
+              13124
+            ]
+          },
+          {
+            "Guthix cloak": [
+              10448
             ]
           }
         ],
@@ -6398,6 +6373,9 @@
           {
             "Dual macuahuitl": [
               28997
+            ],
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -7025,6 +7003,9 @@
           {
             "Osmumten's fang": [
               26219
+            ],
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -7103,11 +7084,17 @@
           {
             "Ghrazi rapier": [
               22324
+            ],
+            "Inquisitor's mace": [
+              24417
             ]
           },
           {
-            "Inquisitor's mace": [
-              24417
+            "Dual macuahuitl": [
+              28997
+            ],
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -29660,6 +29647,9 @@
             "Blade of saeldor": [
               23997,
               23995
+            ],
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -29672,8 +29662,11 @@
             "Zamorakian hasta": [
               11889
             ],
-            "Noxious halberd": [
-              29796
+            "Abyssal dagger": [
+              13265,
+              13267,
+              13269,
+              13271
             ]
           },
           {
@@ -29707,17 +29700,7 @@
           {
             "Dragon claws": [
               13652
-            ]
-          },
-          {
-            "Dragon dagger": [
-              1215,
-              1231,
-              5680,
-              5698
-            ]
-          },
-          {
+            ],
             "Burning claws": [
               29577
             ]
@@ -60648,6 +60631,9 @@
             ],
             "Echo boots": [
               28945
+            ],
+            "Spiked manacles": [
+              23389
             ]
           },
           {
