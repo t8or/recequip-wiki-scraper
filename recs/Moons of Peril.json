@@ -643,6 +643,9 @@
         "Blade of saeldor": [
           23997,
           23995
+        ],
+        "Noxious halberd": [
+          29796
         ]
       },
       {
@@ -655,8 +658,11 @@
         "Zamorakian hasta": [
           11889
         ],
-        "Noxious halberd": [
-          29796
+        "Abyssal dagger": [
+          13265,
+          13267,
+          13269,
+          13271
         ]
       },
       {
@@ -690,17 +696,7 @@
       {
         "Dragon claws": [
           13652
-        ]
-      },
-      {
-        "Dragon dagger": [
-          1215,
-          1231,
-          5680,
-          5698
-        ]
-      },
-      {
+        ],
         "Burning claws": [
           29577
         ]
