@@ -3,18 +3,6 @@
     "name": "Melee",
     "head": [
       {
-        "Torva full helm": [
-          26376,
-          26382
-        ]
-      },
-      {
-        "Serpentine helm": [
-          12929,
-          12931
-        ]
-      },
-      {
         "Helm of neitiznot": [
           10828
         ]
@@ -213,17 +201,6 @@
     ],
     "legs": [
       {
-        "Torva platelegs": [
-          26380,
-          26386
-        ]
-      },
-      {
-        "Inquisitor's plateskirt": [
-          24421
-        ]
-      },
-      {
         "Black d'hide chaps": [
           2497
         ]
@@ -267,9 +244,6 @@
         ],
         "Zombie axe": [
           28810
-        ],
-        "Soulreaper axe": [
-          28338
         ]
       },
       {
@@ -353,11 +327,6 @@
       }
     ],
     "hands": [
-      {
-        "Ferocious gloves": [
-          22981
-        ]
-      },
       {
         "Barrows gloves": [
           7462
@@ -449,14 +418,13 @@
         ]
       },
       {
-        "Dragon mace": [
-          1434
+        "Abyssal bludgeon": [
+          13263
         ]
       },
       {
-        "Barrelchest anchor": [
-          10887,
-          10888
+        "Dragon mace": [
+          1434
         ]
       }
     ]
