@@ -431,12 +431,14 @@
     ],
     "weapon": [
       {
+        "Harmonised nightmare staff": [
+          24423
+        ]
+      },
+      {
         "Tumeken's shadow": [
           27277,
           27275
-        ],
-        "Harmonised nightmare staff": [
-          24423
         ]
       },
       {
@@ -456,16 +458,6 @@
           11908,
           11907,
           11905
-        ]
-      },
-      {
-        "Accursed sceptre": [
-          27662,
-          27665
-        ],
-        "Thammaron's sceptre": [
-          22552,
-          22555
         ]
       }
     ],
