@@ -12,12 +12,15 @@
           12929,
           12931
         ],
-        "Torva full helm": [
-          26376,
-          26382
+        "Oathplate helm": [
+          30750
         ]
       },
       {
+        "Torva full helm": [
+          26376,
+          26382
+        ],
         "Neitiznot faceguard": [
           24271
         ]
@@ -107,6 +110,11 @@
     ],
     "body": [
       {
+        "Oathplate chest": [
+          30753
+        ]
+      },
+      {
         "Torva platebody": [
           26378,
           26384
@@ -133,14 +141,14 @@
         "Obsidian platebody": [
           21301
         ]
-      },
-      {
-        "Proselyte hauberk": [
-          9674
-        ]
       }
     ],
     "legs": [
+      {
+        "Oathplate legs": [
+          30756
+        ]
+      },
       {
         "Torva platelegs": [
           26380,
@@ -167,11 +175,6 @@
       {
         "Obsidian platelegs": [
           21304
-        ]
-      },
-      {
-        "Proselyte cuisse": [
-          9676
         ]
       }
     ],

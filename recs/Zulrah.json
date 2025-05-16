@@ -545,15 +545,15 @@
         "Crystal helm": [
           23971,
           23973
+        ],
+        "Masori mask": [
+          27226
         ]
       },
       {
         "Serpentine helm": [
           12929,
           12931
-        ],
-        "Armadyl helmet": [
-          11826
         ]
       },
       {
@@ -586,6 +586,14 @@
       {
         "Amulet of fury": [
           6585
+        ]
+      },
+      {
+        "Bonecrusher necklace": [
+          22986
+        ],
+        "Dragonbone necklace": [
+          22111
         ]
       },
       {
@@ -639,11 +647,9 @@
         "Crystal body": [
           23975,
           23977
-        ]
-      },
-      {
-        "Armadyl chestplate": [
-          11828
+        ],
+        "Masori body": [
+          27229
         ]
       },
       {
@@ -654,6 +660,11 @@
           4942,
           4943,
           4944
+        ]
+      },
+      {
+        "Hueycoatl hide body": [
+          30076
         ],
         "Blessed body": [
           12492,
@@ -685,11 +696,9 @@
         "Crystal legs": [
           23979,
           23981
-        ]
-      },
-      {
-        "Armadyl chainskirt": [
-          11830
+        ],
+        "Masori chaps": [
+          27232
         ]
       },
       {
@@ -700,6 +709,11 @@
           4948,
           4949,
           4950
+        ]
+      },
+      {
+        "Hueycoatl hide chaps": [
+          30079
         ],
         "Blessed chaps": [
           12494,
@@ -906,8 +920,12 @@
         ]
       },
       {
-        "Dragon thrownaxe": [
-          20849
+        "Dark bow": [
+          11235,
+          12765,
+          12766,
+          12767,
+          12768
         ]
       },
       {
@@ -942,6 +960,9 @@
         "Torva full helm": [
           26376,
           26382
+        ],
+        "Oathplate helm": [
+          30750
         ]
       },
       {
@@ -1038,6 +1059,9 @@
         "Torva platebody": [
           26378,
           26384
+        ],
+        "Oathplate chest": [
+          30753
         ]
       },
       {
@@ -1080,6 +1104,9 @@
         "Torva platelegs": [
           26380,
           26386
+        ],
+        "Oathplate legs": [
+          30756
         ]
       },
       {

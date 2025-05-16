@@ -651,6 +651,11 @@
           25177,
           26674
         ],
+        "Oathplate helm": [
+          30750
+        ]
+      },
+      {
         "Torva full helm": [
           26376,
           26382
@@ -665,9 +670,7 @@
         "Serpentine helm": [
           12929,
           12931
-        ]
-      },
-      {
+        ],
         "Inquisitor's great helm": [
           24419
         ]
@@ -708,6 +711,11 @@
     ],
     "body": [
       {
+        "Oathplate chest": [
+          30753
+        ]
+      },
+      {
         "Torva platebody": [
           26378,
           26384
@@ -723,6 +731,11 @@
       }
     ],
     "legs": [
+      {
+        "Oathplate legs": [
+          30756
+        ]
+      },
       {
         "Torva platelegs": [
           26380,

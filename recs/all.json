@@ -770,6 +770,9 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -835,6 +838,9 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -1153,6 +1159,9 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -1223,6 +1232,9 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -6207,6 +6219,9 @@
             "Torva full helm": [
               26376,
               26382
+            ],
+            "Oathplate helm": [
+              30750
             ]
           },
           {
@@ -6289,6 +6304,9 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -6329,6 +6347,9 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -13984,12 +14005,15 @@
               12929,
               12931
             ],
-            "Torva full helm": [
-              26376,
-              26382
+            "Oathplate helm": [
+              30750
             ]
           },
           {
+            "Torva full helm": [
+              26376,
+              26382
+            ],
             "Neitiznot faceguard": [
               24271
             ]
@@ -14079,6 +14103,11 @@
         ],
         "body": [
           {
+            "Oathplate chest": [
+              30753
+            ]
+          },
+          {
             "Torva platebody": [
               26378,
               26384
@@ -14105,14 +14134,14 @@
             "Obsidian platebody": [
               21301
             ]
-          },
-          {
-            "Proselyte hauberk": [
-              9674
-            ]
           }
         ],
         "legs": [
+          {
+            "Oathplate legs": [
+              30756
+            ]
+          },
           {
             "Torva platelegs": [
               26380,
@@ -14139,11 +14168,6 @@
           {
             "Obsidian platelegs": [
               21304
-            ]
-          },
-          {
-            "Proselyte cuisse": [
-              9676
             ]
           }
         ],
@@ -14383,6 +14407,9 @@
               26376,
               26382
             ],
+            "Oathplate helm": [
+              30750
+            ],
             "Masori mask (f)": [
               27235
             ]
@@ -14447,6 +14474,14 @@
         ],
         "body": [
           {
+            "Oathplate chest": [
+              30753
+            ],
+            "Masori body (f)": [
+              27238
+            ]
+          },
+          {
             "Torva platebody": [
               26378,
               26384
@@ -14483,9 +14518,8 @@
         ],
         "legs": [
           {
-            "Torva platelegs": [
-              26380,
-              26386
+            "Oathplate legs": [
+              30756
             ],
             "Masori chaps (f)": [
               27241
@@ -14707,6 +14741,9 @@
               26376,
               26382
             ],
+            "Oathplate helm": [
+              30750
+            ],
             "Ancestral hat": [
               21018
             ]
@@ -14785,6 +14822,9 @@
         ],
         "body": [
           {
+            "Oathplate chest": [
+              30753
+            ],
             "Torva platebody": [
               26378,
               26384
@@ -14819,6 +14859,9 @@
         ],
         "legs": [
           {
+            "Oathplate legs": [
+              30756
+            ],
             "Torva platelegs": [
               26380,
               26386
@@ -15195,258 +15238,6 @@
             ],
             "Dragon warhammer": [
               13576
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Melee",
-        "head": [
-          {
-            "Torva full helm": [
-              26376,
-              26382
-            ]
-          },
-          {
-            "Neitiznot faceguard": [
-              24271
-            ],
-            "Serpentine helm": [
-              12929,
-              12931
-            ]
-          }
-        ],
-        "neck": [
-          {
-            "Amulet of blood fury": [
-              24780
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "Infernal cape": [
-              21295,
-              21287,
-              24224
-            ]
-          },
-          {
-            "Fire cape": [
-              6570,
-              20445,
-              24223
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Torva platebody": [
-              26378,
-              26384
-            ]
-          },
-          {
-            "Bandos chestplate": [
-              11832
-            ]
-          },
-          {
-            "Fighter torso": [
-              10551,
-              20513,
-              24175
-            ],
-            "Blood moon chestplate": [
-              29022,
-              29043,
-              29067
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Torva platelegs": [
-              26380,
-              26386
-            ]
-          },
-          {
-            "Bandos tassets": [
-              11834
-            ]
-          },
-          {
-            "Blood moon tassets": [
-              29025,
-              29045,
-              29070
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Scythe of vitur": [
-              22486,
-              22325
-            ],
-            "Tumeken's shadow": [
-              27277,
-              27275
-            ],
-            "Venator bow": [
-              27612,
-              27610
-            ]
-          },
-          {
-            "Soulreaper axe": [
-              28338
-            ],
-            "Sanguinesti staff": [
-              22481,
-              22323
-            ],
-            "Toxic blowpipe": [
-              12924,
-              12926
-            ]
-          },
-          {
-            "Osmumten's fang": [
-              26219
-            ],
-            "Abyssal tentacle": [
-              12006
-            ],
-            "Noxious halberd": [
-              29796
-            ],
-            "Trident of the swamp": [
-              12900,
-              12899
-            ],
-            "Eclipse atlatl": [
-              29000
-            ]
-          }
-        ],
-        "shield": [
-          {
-            "Elysian spirit shield": [
-              12817
-            ],
-            "Avernic defender": [
-              22322,
-              22441,
-              24186
-            ]
-          },
-          {
-            "Crystal shield": [
-              23991,
-              23993,
-              24127
-            ],
-            "Dragon defender": [
-              12954,
-              20463,
-              24143
-            ]
-          }
-        ],
-        "ammo": [
-          {
-            "Dragon arrow": [
-              11212,
-              11227,
-              11228,
-              11229
-            ]
-          },
-          {
-            "Atlatl dart": [
-              28991
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Ferocious gloves": [
-              22981
-            ]
-          },
-          {
-            "Barrows gloves": [
-              7462
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Primordial boots": [
-              13239
-            ]
-          },
-          {
-            "Aranea boots": [
-              29806
-            ]
-          },
-          {
-            "Dragon boots": [
-              11840
-            ]
-          }
-        ],
-        "ring": [
-          {
-            "Ultor ring": [
-              28307
-            ],
-            "Lightbearer": [
-              25975
-            ]
-          },
-          {
-            "Bellator ring": [
-              28316
-            ]
-          },
-          {
-            "Berserker ring (i)": [
-              11773,
-              25264,
-              26770
-            ]
-          }
-        ],
-        "special": [
-          {
-            "Saradomin godsword": [
-              11806
-            ],
-            "Dragon claws": [
-              13652
-            ]
-          },
-          {
-            "Burning claws": [
-              29577
-            ],
-            "Voidwaker": [
-              27690
-            ],
-            "Elder maul": [
-              21003
-            ],
-            "Dragon warhammer": [
-              13576
-            ],
-            "Eldritch nightmare staff": [
-              24425
             ]
           }
         ]
@@ -27436,8 +27227,8 @@
             ]
           },
           {
-            "Armadyl chestplate": [
-              11828
+            "Hueycoatl hide body": [
+              30076
             ],
             "Karil's leathertop": [
               4736,
@@ -27494,8 +27285,8 @@
             ]
           },
           {
-            "Armadyl chainskirt": [
-              11830
+            "Hueycoatl hide chaps": [
+              30079
             ],
             "Karil's leatherskirt": [
               4738,
@@ -31113,6 +30904,11 @@
               25177,
               26674
             ],
+            "Oathplate helm": [
+              30750
+            ]
+          },
+          {
             "Torva full helm": [
               26376,
               26382
@@ -31127,9 +30923,7 @@
             "Serpentine helm": [
               12929,
               12931
-            ]
-          },
-          {
+            ],
             "Inquisitor's great helm": [
               24419
             ]
@@ -31170,6 +30964,11 @@
         ],
         "body": [
           {
+            "Oathplate chest": [
+              30753
+            ]
+          },
+          {
             "Torva platebody": [
               26378,
               26384
@@ -31185,6 +30984,11 @@
           }
         ],
         "legs": [
+          {
+            "Oathplate legs": [
+              30756
+            ]
+          },
           {
             "Torva platelegs": [
               26380,
@@ -39091,11 +38895,11 @@
         ],
         "ammo": [
           {
-            "Amethyst arrow": [
-              21326,
-              21332,
-              21334,
-              21336
+            "Rune arrow": [
+              892,
+              893,
+              5621,
+              5627
             ]
           }
         ],
@@ -39215,6 +39019,11 @@
           {
             "Abyssal tentacle": [
               12006
+            ]
+          },
+          {
+            "Abyssal whip": [
+              4151
             ]
           }
         ],
@@ -39340,6 +39149,9 @@
             "Torva full helm": [
               26376,
               26382
+            ],
+            "Oathplate helm": [
+              30750
             ]
           },
           {
@@ -39412,6 +39224,9 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -39444,6 +39259,9 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -39479,9 +39297,7 @@
           {
             "Soulreaper axe": [
               28338
-            ]
-          },
-          {
+            ],
             "Blade of saeldor": [
               23997,
               23995
@@ -39496,6 +39312,11 @@
             ],
             "Noxious halberd": [
               29796
+            ]
+          },
+          {
+            "Abyssal whip": [
+              4151
             ]
           }
         ],
@@ -39719,6 +39540,9 @@
             ],
             "Kodai wand": [
               21006
+            ],
+            "Nightmare staff": [
+              24422
             ]
           },
           {
@@ -39732,9 +39556,10 @@
             ]
           },
           {
-            "Trident of the swamp": [
-              12900,
-              12899
+            "Trident of the seas": [
+              11908,
+              11907,
+              11905
             ],
             "Ancient sceptre": [
               27624,
@@ -39919,17 +39744,6 @@
           {
             "Twisted buckler": [
               21000
-            ]
-          },
-          {
-            "Dragonfire ward": [
-              22003,
-              22002
-            ]
-          },
-          {
-            "Odium ward": [
-              11926
             ]
           }
         ],
@@ -40774,6 +40588,9 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -40818,15 +40635,18 @@
               26380,
               26386
             ],
-            "Blood moon tassets": [
-              29025,
-              29045,
-              29070
+            "Oathplate legs": [
+              30756
             ]
           },
           {
             "Inquisitor's plateskirt": [
               24421
+            ],
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
             ]
           },
           {
@@ -40862,12 +40682,15 @@
           {
             "Osmumten's fang": [
               26219
-            ]
-          },
-          {
+            ],
             "Blade of saeldor": [
               23997,
               23995
+            ]
+          },
+          {
+            "Noxious halberd": [
+              29796
             ],
             "Inquisitor's mace": [
               24417
@@ -43640,6 +43463,11 @@
               25177,
               26674
             ],
+            "Oathplate helm": [
+              30750
+            ]
+          },
+          {
             "Torva full helm": [
               26376,
               26382
@@ -43659,16 +43487,6 @@
           {
             "Justiciar faceguard": [
               22326
-            ]
-          },
-          {
-            "Blood moon helm": [
-              29028,
-              29047,
-              29073
-            ],
-            "Helm of neitiznot": [
-              10828
             ]
           }
         ],
@@ -43823,6 +43641,11 @@
         ],
         "body": [
           {
+            "Oathplate chest": [
+              30753
+            ]
+          },
+          {
             "Torva platebody": [
               26378,
               26384
@@ -43849,49 +43672,14 @@
             "Justiciar chestguard": [
               22327
             ]
-          },
-          {
-            "Barrows equipment": [
-              4712,
-              4868,
-              4869,
-              4870,
-              4871,
-              4872,
-              4720,
-              4892,
-              4893,
-              4894,
-              4895,
-              4896,
-              4728,
-              4916,
-              4917,
-              4918,
-              4919,
-              4920,
-              4736,
-              4940,
-              4941,
-              4942,
-              4943,
-              4944,
-              4749,
-              4964,
-              4965,
-              4966,
-              4967,
-              4968,
-              4757,
-              4988,
-              4989,
-              4990,
-              4991,
-              4992
-            ]
           }
         ],
         "legs": [
+          {
+            "Oathplate legs": [
+              30756
+            ]
+          },
           {
             "Torva platelegs": [
               26380,
@@ -43964,9 +43752,7 @@
           {
             "Soulreaper axe": [
               28338
-            ]
-          },
-          {
+            ],
             "Scythe of vitur": [
               22486,
               22325
@@ -43989,7 +43775,9 @@
           {
             "Abyssal whip": [
               4151
-            ],
+            ]
+          },
+          {
             "Zombie axe": [
               28810
             ]
@@ -49976,15 +49764,15 @@
             "Crystal helm": [
               23971,
               23973
+            ],
+            "Masori mask": [
+              27226
             ]
           },
           {
             "Serpentine helm": [
               12929,
               12931
-            ],
-            "Armadyl helmet": [
-              11826
             ]
           },
           {
@@ -50017,6 +49805,14 @@
           {
             "Amulet of fury": [
               6585
+            ]
+          },
+          {
+            "Bonecrusher necklace": [
+              22986
+            ],
+            "Dragonbone necklace": [
+              22111
             ]
           },
           {
@@ -50070,11 +49866,9 @@
             "Crystal body": [
               23975,
               23977
-            ]
-          },
-          {
-            "Armadyl chestplate": [
-              11828
+            ],
+            "Masori body": [
+              27229
             ]
           },
           {
@@ -50085,6 +49879,11 @@
               4942,
               4943,
               4944
+            ]
+          },
+          {
+            "Hueycoatl hide body": [
+              30076
             ],
             "Blessed body": [
               12492,
@@ -50116,11 +49915,9 @@
             "Crystal legs": [
               23979,
               23981
-            ]
-          },
-          {
-            "Armadyl chainskirt": [
-              11830
+            ],
+            "Masori chaps": [
+              27232
             ]
           },
           {
@@ -50131,6 +49928,11 @@
               4948,
               4949,
               4950
+            ]
+          },
+          {
+            "Hueycoatl hide chaps": [
+              30079
             ],
             "Blessed chaps": [
               12494,
@@ -50337,8 +50139,12 @@
             ]
           },
           {
-            "Dragon thrownaxe": [
-              20849
+            "Dark bow": [
+              11235,
+              12765,
+              12766,
+              12767,
+              12768
             ]
           },
           {
@@ -50373,6 +50179,9 @@
             "Torva full helm": [
               26376,
               26382
+            ],
+            "Oathplate helm": [
+              30750
             ]
           },
           {
@@ -50469,6 +50278,9 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -50511,6 +50323,9 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -51456,11 +51271,11 @@
             ]
           },
           {
-            "Inquisitor's mace": [
-              24417
-            ],
             "Soulreaper axe": [
               28338
+            ],
+            "Inquisitor's mace": [
+              24417
             ]
           },
           {
@@ -60399,6 +60214,9 @@
             ],
             "Elder maul": [
               21003
+            ],
+            "Soulflame horn": [
+              30759
             ]
           },
           {
