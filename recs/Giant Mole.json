@@ -13,8 +13,10 @@
         ]
       },
       {
-        "Armadyl helmet": [
-          11826
+        "Void ranger helm": [
+          11664,
+          20479,
+          24184
         ]
       },
       {
@@ -102,8 +104,10 @@
         ]
       },
       {
-        "Armadyl chestplate": [
-          11828
+        "Elite void top": [
+          13072,
+          20467,
+          24178
         ]
       },
       {
@@ -135,8 +139,10 @@
         ]
       },
       {
-        "Armadyl chainskirt": [
-          11830
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
         ]
       },
       {
@@ -677,210 +683,6 @@
       }
     ],
     "special": []
-  },
-  {
-    "name": "Ranged Void",
-    "head": [
-      {
-        "Void ranger helm": [
-          11664,
-          20479,
-          24184
-        ],
-        "Void melee helm": [
-          11665,
-          20481,
-          24185
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Necklace of anguish": [
-          19547
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
-        ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
-        ],
-        "Ranging cape(t)": [
-          9756,
-          9757
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Elite void top": [
-          13072,
-          20467,
-          24178
-        ]
-      },
-      {
-        "Void knight top": [
-          8839,
-          20465,
-          24177
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Elite void robe": [
-          13073,
-          20471,
-          24180
-        ]
-      },
-      {
-        "Void knight robe": [
-          8840,
-          20469,
-          24179
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Twisted bow": [
-          20997
-        ]
-      },
-      {
-        "Bow of faerdhinen": [
-          25862,
-          25865
-        ]
-      }
-    ],
-    "shield": [],
-    "ammo": [
-      {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ]
-      },
-      {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Void knight gloves": [
-          8842,
-          20475,
-          24182
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
-        "Ranger boots": [
-          2577
-        ]
-      },
-      {
-        "Blessed boots": [
-          19921,
-          19930,
-          19924,
-          19927,
-          19933,
-          19936
-        ]
-      },
-      {
-        "Aranea boots": [
-          29806
-        ]
-      }
-    ],
-    "ring": [
-      {
-        "Venator ring": [
-          28310
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Ring of shadows": [
-          28329,
-          28327
-        ],
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
-        "Ring of endurance": [
-          24844,
-          24736
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Elder maul": [
-          21003
-        ]
-      }
-    ]
   },
   {
     "name": "Melee",
