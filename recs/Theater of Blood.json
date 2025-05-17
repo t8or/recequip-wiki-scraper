@@ -77,11 +77,11 @@
     ],
     "ammo": [
       {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
+        "Rune arrow": [
+          892,
+          893,
+          5621,
+          5627
         ]
       }
     ],
@@ -201,6 +201,11 @@
       {
         "Abyssal tentacle": [
           12006
+        ]
+      },
+      {
+        "Abyssal whip": [
+          4151
         ]
       }
     ],
@@ -326,6 +331,9 @@
         "Torva full helm": [
           26376,
           26382
+        ],
+        "Oathplate helm": [
+          30750
         ]
       },
       {
@@ -398,6 +406,9 @@
         "Torva platebody": [
           26378,
           26384
+        ],
+        "Oathplate chest": [
+          30753
         ]
       },
       {
@@ -430,6 +441,9 @@
         "Torva platelegs": [
           26380,
           26386
+        ],
+        "Oathplate legs": [
+          30756
         ]
       },
       {
@@ -465,9 +479,7 @@
       {
         "Soulreaper axe": [
           28338
-        ]
-      },
-      {
+        ],
         "Blade of saeldor": [
           23997,
           23995
@@ -482,6 +494,11 @@
         ],
         "Noxious halberd": [
           29796
+        ]
+      },
+      {
+        "Abyssal whip": [
+          4151
         ]
       }
     ],
@@ -705,6 +722,9 @@
         ],
         "Kodai wand": [
           21006
+        ],
+        "Nightmare staff": [
+          24422
         ]
       },
       {
@@ -718,9 +738,10 @@
         ]
       },
       {
-        "Trident of the swamp": [
-          12900,
-          12899
+        "Trident of the seas": [
+          11908,
+          11907,
+          11905
         ],
         "Ancient sceptre": [
           27624,
@@ -905,17 +926,6 @@
       {
         "Twisted buckler": [
           21000
-        ]
-      },
-      {
-        "Dragonfire ward": [
-          22003,
-          22002
-        ]
-      },
-      {
-        "Odium ward": [
-          11926
         ]
       }
     ],

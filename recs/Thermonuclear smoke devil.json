@@ -436,6 +436,9 @@
         "Torva platebody": [
           26378,
           26384
+        ],
+        "Oathplate chest": [
+          30753
         ]
       },
       {
@@ -480,15 +483,18 @@
           26380,
           26386
         ],
-        "Blood moon tassets": [
-          29025,
-          29045,
-          29070
+        "Oathplate legs": [
+          30756
         ]
       },
       {
         "Inquisitor's plateskirt": [
           24421
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
@@ -524,12 +530,15 @@
       {
         "Osmumten's fang": [
           26219
-        ]
-      },
-      {
+        ],
         "Blade of saeldor": [
           23997,
           23995
+        ]
+      },
+      {
+        "Noxious halberd": [
+          29796
         ],
         "Inquisitor's mace": [
           24417

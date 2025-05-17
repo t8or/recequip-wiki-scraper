@@ -7,6 +7,9 @@
           26376,
           26382
         ],
+        "Oathplate helm": [
+          30750
+        ],
         "Masori mask (f)": [
           27235
         ]
@@ -71,6 +74,14 @@
     ],
     "body": [
       {
+        "Oathplate chest": [
+          30753
+        ],
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
         "Torva platebody": [
           26378,
           26384
@@ -107,9 +118,8 @@
     ],
     "legs": [
       {
-        "Torva platelegs": [
-          26380,
-          26386
+        "Oathplate legs": [
+          30756
         ],
         "Masori chaps (f)": [
           27241
@@ -331,6 +341,9 @@
           26376,
           26382
         ],
+        "Oathplate helm": [
+          30750
+        ],
         "Ancestral hat": [
           21018
         ]
@@ -409,6 +422,9 @@
     ],
     "body": [
       {
+        "Oathplate chest": [
+          30753
+        ],
         "Torva platebody": [
           26378,
           26384
@@ -443,6 +459,9 @@
     ],
     "legs": [
       {
+        "Oathplate legs": [
+          30756
+        ],
         "Torva platelegs": [
           26380,
           26386
@@ -819,258 +838,6 @@
         ],
         "Dragon warhammer": [
           13576
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Melee",
-    "head": [
-      {
-        "Torva full helm": [
-          26376,
-          26382
-        ]
-      },
-      {
-        "Neitiznot faceguard": [
-          24271
-        ],
-        "Serpentine helm": [
-          12929,
-          12931
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Amulet of blood fury": [
-          24780
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Infernal cape": [
-          21295,
-          21287,
-          24224
-        ]
-      },
-      {
-        "Fire cape": [
-          6570,
-          20445,
-          24223
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Torva platebody": [
-          26378,
-          26384
-        ]
-      },
-      {
-        "Bandos chestplate": [
-          11832
-        ]
-      },
-      {
-        "Fighter torso": [
-          10551,
-          20513,
-          24175
-        ],
-        "Blood moon chestplate": [
-          29022,
-          29043,
-          29067
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Torva platelegs": [
-          26380,
-          26386
-        ]
-      },
-      {
-        "Bandos tassets": [
-          11834
-        ]
-      },
-      {
-        "Blood moon tassets": [
-          29025,
-          29045,
-          29070
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Scythe of vitur": [
-          22486,
-          22325
-        ],
-        "Tumeken's shadow": [
-          27277,
-          27275
-        ],
-        "Venator bow": [
-          27612,
-          27610
-        ]
-      },
-      {
-        "Soulreaper axe": [
-          28338
-        ],
-        "Sanguinesti staff": [
-          22481,
-          22323
-        ],
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      },
-      {
-        "Osmumten's fang": [
-          26219
-        ],
-        "Abyssal tentacle": [
-          12006
-        ],
-        "Noxious halberd": [
-          29796
-        ],
-        "Trident of the swamp": [
-          12900,
-          12899
-        ],
-        "Eclipse atlatl": [
-          29000
-        ]
-      }
-    ],
-    "shield": [
-      {
-        "Elysian spirit shield": [
-          12817
-        ],
-        "Avernic defender": [
-          22322,
-          22441,
-          24186
-        ]
-      },
-      {
-        "Crystal shield": [
-          23991,
-          23993,
-          24127
-        ],
-        "Dragon defender": [
-          12954,
-          20463,
-          24143
-        ]
-      }
-    ],
-    "ammo": [
-      {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ]
-      },
-      {
-        "Atlatl dart": [
-          28991
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Ferocious gloves": [
-          22981
-        ]
-      },
-      {
-        "Barrows gloves": [
-          7462
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Primordial boots": [
-          13239
-        ]
-      },
-      {
-        "Aranea boots": [
-          29806
-        ]
-      },
-      {
-        "Dragon boots": [
-          11840
-        ]
-      }
-    ],
-    "ring": [
-      {
-        "Ultor ring": [
-          28307
-        ],
-        "Lightbearer": [
-          25975
-        ]
-      },
-      {
-        "Bellator ring": [
-          28316
-        ]
-      },
-      {
-        "Berserker ring (i)": [
-          11773,
-          25264,
-          26770
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Saradomin godsword": [
-          11806
-        ],
-        "Dragon claws": [
-          13652
-        ]
-      },
-      {
-        "Burning claws": [
-          29577
-        ],
-        "Voidwaker": [
-          27690
-        ],
-        "Elder maul": [
-          21003
-        ],
-        "Dragon warhammer": [
-          13576
-        ],
-        "Eldritch nightmare staff": [
-          24425
         ]
       }
     ]
