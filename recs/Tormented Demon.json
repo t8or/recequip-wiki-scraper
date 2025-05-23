@@ -369,6 +369,56 @@
     ]
   },
   {
+    "name": "Shield down (Crush)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Dharok's greataxe": [
+          4718,
+          4886,
+          4887,
+          4888,
+          4889,
+          4890
+        ],
+        "Tzhaar-ket-om": [
+          6528
+        ]
+      },
+      {
+        "Dragon 2h sword": [
+          7158
+        ]
+      },
+      {
+        "Granite maul": [
+          4153,
+          12848
+        ]
+      },
+      {
+        "Rune 2h sword": [
+          1319
+        ]
+      },
+      {
+        "Saradomin godsword": [
+          11806
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
     "name": "Ranged switch",
     "head": [
       {
@@ -758,6 +808,46 @@
     ]
   },
   {
+    "name": "Shield down (Heavy ranged + Accurate)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Heavy ballista": [
+          19481
+        ],
+        "Light ballista": [
+          19478
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
     "name": "Magic switch",
     "head": [
       {
@@ -828,8 +918,11 @@
       {
         "God capes#Imbuing": [
           2412,
+          2415,
           2414,
+          2417,
           2413,
+          2416,
           21791,
           24236,
           24248,
@@ -844,8 +937,11 @@
       {
         "God capes": [
           2412,
+          2415,
           2414,
+          2417,
           2413,
+          2416,
           21791,
           24236,
           24248,

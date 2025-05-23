@@ -12,27 +12,17 @@
         ]
       },
       {
+        "Oathplate helm": [
+          30750
+        ],
         "Inquisitor's great helm": [
           24419
-        ],
-        "Neitiznot faceguard": [
-          24271
-        ],
-        "Black mask": [
-          8921,
-          8919,
-          8917,
-          8915,
-          8913,
-          8911,
-          8909,
-          8907,
-          8905,
-          8903,
-          8901
         ]
       },
       {
+        "Neitiznot faceguard": [
+          24271
+        ],
         "Serpentine helm": [
           12929,
           12931
@@ -118,6 +108,9 @@
     ],
     "body": [
       {
+        "Oathplate chest": [
+          30753
+        ],
         "Inquisitor's hauberk": [
           24420
         ],
@@ -177,6 +170,9 @@
     ],
     "legs": [
       {
+        "Oathplate legs": [
+          30756
+        ],
         "Inquisitor's plateskirt": [
           24421
         ],
@@ -1175,8 +1171,11 @@
       {
         "God capes#Imbuing": [
           2412,
+          2415,
           2414,
+          2417,
           2413,
+          2416,
           21791,
           24236,
           24248,
@@ -1191,8 +1190,11 @@
       {
         "God capes": [
           2412,
+          2415,
           2414,
+          2417,
           2413,
+          2416,
           21791,
           24236,
           24248,
