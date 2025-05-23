@@ -345,14 +345,14 @@
     ],
     "special": [
       {
+        "Elder maul": [
+          21003
+        ],
         "Saradomin godsword": [
           11806
         ]
       },
       {
-        "Elder maul": [
-          21003
-        ],
         "Dragon warhammer": [
           13576
         ]
@@ -399,8 +399,11 @@
       {
         "Imbued god cape": [
           2412,
+          2415,
           2414,
+          2417,
           2413,
+          2416,
           21791,
           24236,
           24248,
