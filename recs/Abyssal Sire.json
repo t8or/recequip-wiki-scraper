@@ -768,14 +768,14 @@
         "Torva platebody": [
           26378,
           26384
-        ],
-        "Oathplate chest": [
-          30753
         ]
       },
       {
         "Bandos chestplate": [
           11832
+        ],
+        "Oathplate chest": [
+          30753
         ]
       },
       {
@@ -836,14 +836,14 @@
         "Torva platelegs": [
           26380,
           26386
-        ],
-        "Oathplate legs": [
-          30756
         ]
       },
       {
         "Bandos tassets": [
           11834
+        ],
+        "Oathplate legs": [
+          30756
         ]
       },
       {
@@ -1028,19 +1028,19 @@
         ]
       },
       {
-        "Dragon dagger": [
-          1215,
-          1231,
-          5680,
-          5698
-        ]
-      },
-      {
         "Abyssal dagger": [
           13265,
           13267,
           13269,
           13271
+        ]
+      },
+      {
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
         ]
       }
     ]
