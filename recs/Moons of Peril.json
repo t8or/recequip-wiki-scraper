@@ -6,18 +6,21 @@
         "Torva full helm": [
           26376,
           26382
-        ]
-      },
-      {
-        "Serpentine helm": [
-          12929,
-          12931
+        ],
+        "Oathplate helm": [
+          30750
         ]
       },
       {
         "Justiciar faceguard": [
           22326
         ],
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      },
+      {
         "Neitiznot faceguard": [
           24271
         ]
@@ -321,6 +324,9 @@
         "Torva platebody": [
           26378,
           26384
+        ],
+        "Oathplate chest": [
+          30753
         ]
       },
       {
@@ -383,6 +389,9 @@
         "Torva platelegs": [
           26380,
           26386
+        ],
+        "Oathplate legs": [
+          30756
         ]
       },
       {
