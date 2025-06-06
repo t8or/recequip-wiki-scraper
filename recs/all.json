@@ -5839,13 +5839,13 @@
             ]
           },
           {
-            "Burning claws": [
-              29577
+            "Voidwaker": [
+              27690
             ]
           },
           {
-            "Voidwaker": [
-              27690
+            "Burning claws": [
+              29577
             ]
           },
           {
@@ -28631,18 +28631,21 @@
             "Torva full helm": [
               26376,
               26382
-            ]
-          },
-          {
-            "Serpentine helm": [
-              12929,
-              12931
+            ],
+            "Oathplate helm": [
+              30750
             ]
           },
           {
             "Justiciar faceguard": [
               22326
             ],
+            "Serpentine helm": [
+              12929,
+              12931
+            ]
+          },
+          {
             "Neitiznot faceguard": [
               24271
             ]
@@ -28946,6 +28949,9 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -29008,6 +29014,9 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -29645,11 +29654,6 @@
         ],
         "cape": [
           {
-            "Blessed dizana's quiver": [
-              28955,
-              28957,
-              28828
-            ],
             "Dizana's quiver": [
               28947,
               28951,
@@ -31295,6 +31299,9 @@
           {
             "Ultor ring": [
               28307
+            ],
+            "Lightbearer": [
+              25975
             ]
           },
           {
@@ -31509,11 +31516,14 @@
           {
             "Magus ring": [
               28313
+            ],
+            "Lightbearer": [
+              25975
             ]
           },
           {
-            "Lightbearer": [
-              25975
+            "Seers ring": [
+              6731
             ]
           }
         ],
@@ -50625,6 +50635,9 @@
             ]
           },
           {
+            "Zombie helmet": [
+              30321
+            ],
             "Helm of neitiznot": [
               10828
             ]
@@ -53388,6 +53401,9 @@
             ],
             "Hunters' sunlight crossbow": [
               28869
+            ],
+            "Scorching bow": [
+              29591
             ]
           },
           {
@@ -64064,6 +64080,13 @@
           {
             "Kodai wand": [
               21006
+            ],
+            "Toxic staff of the dead": [
+              12902,
+              12904
+            ],
+            "Staff of the dead": [
+              11791
             ]
           },
           {
