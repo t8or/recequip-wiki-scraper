@@ -6,12 +6,12 @@
         "Torva full helm": [
           26376,
           26382
-        ],
-        "Oathplate helm": [
-          30750
         ]
       },
       {
+        "Oathplate helm": [
+          30750
+        ],
         "Neitiznot faceguard": [
           24271
         ],
@@ -279,7 +279,9 @@
         ],
         "Soulflame horn": [
           30759
-        ],
+        ]
+      },
+      {
         "Emberlight": [
           29589
         ]
@@ -295,12 +297,6 @@
       {
         "Saradomin godsword": [
           11806
-        ]
-      },
-      {
-        "Arclight": [
-          30305,
-          19675
         ],
         "Bandos godsword": [
           11804
