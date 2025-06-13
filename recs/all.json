@@ -4375,6 +4375,14 @@
         "name": "Ranged (Ahrim)",
         "head": [
           {
+            "Masori mask (f)": [
+              27235
+            ],
+            "Masori mask": [
+              27226
+            ]
+          },
+          {
             "Void ranger helm": [
               11664,
               20479,
@@ -4455,6 +4463,14 @@
         ],
         "body": [
           {
+            "Masori body (f)": [
+              27238
+            ],
+            "Masori body": [
+              27229
+            ]
+          },
+          {
             "Elite void top": [
               13072,
               20467,
@@ -4485,6 +4501,14 @@
           }
         ],
         "legs": [
+          {
+            "Masori chaps (f)": [
+              27241
+            ],
+            "Masori chaps": [
+              27232
+            ]
+          },
           {
             "Elite void robe": [
               13073,
@@ -14062,12 +14086,12 @@
               25177,
               26674
             ],
+            "Oathplate helm": [
+              30750
+            ],
             "Serpentine helm": [
               12929,
               12931
-            ],
-            "Oathplate helm": [
-              30750
             ]
           },
           {
@@ -21457,6 +21481,14 @@
               11227,
               11228,
               11229
+            ]
+          },
+          {
+            "Amethyst arrow": [
+              21326,
+              21332,
+              21334,
+              21336
             ]
           },
           {
@@ -30376,7 +30408,14 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Accursed sceptre": [
+              27662,
+              27665
+            ]
+          }
+        ]
       },
       {
         "name": "Ranged",
@@ -49673,9 +49712,6 @@
             ],
             "Staff of the dead": [
               11791
-            ],
-            "Twinflame staff": [
-              30634
             ]
           },
           {
@@ -49685,6 +49721,12 @@
             ],
             "Smoke battlestaff": [
               11998
+            ],
+            "Purging staff": [
+              29594
+            ],
+            "Twinflame staff": [
+              30634
             ]
           },
           {
@@ -60195,6 +60237,9 @@
           {
             "Neitiznot faceguard": [
               24271
+            ],
+            "Oathplate helm": [
+              30750
             ]
           },
           {
@@ -60308,6 +60353,9 @@
               10551,
               20513,
               24175
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -60348,6 +60396,9 @@
               29025,
               29045,
               29070
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -63619,12 +63670,12 @@
             "Torva full helm": [
               26376,
               26382
-            ],
-            "Oathplate helm": [
-              30750
             ]
           },
           {
+            "Oathplate helm": [
+              30750
+            ],
             "Neitiznot faceguard": [
               24271
             ],
@@ -63892,7 +63943,9 @@
             ],
             "Soulflame horn": [
               30759
-            ],
+            ]
+          },
+          {
             "Emberlight": [
               29589
             ]
@@ -63908,12 +63961,6 @@
           {
             "Saradomin godsword": [
               11806
-            ]
-          },
-          {
-            "Arclight": [
-              30305,
-              19675
             ],
             "Bandos godsword": [
               11804

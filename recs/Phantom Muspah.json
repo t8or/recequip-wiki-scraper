@@ -275,7 +275,14 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Accursed sceptre": [
+          27662,
+          27665
+        ]
+      }
+    ]
   },
   {
     "name": "Ranged",

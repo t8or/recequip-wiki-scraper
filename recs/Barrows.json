@@ -754,6 +754,14 @@
     "name": "Ranged (Ahrim)",
     "head": [
       {
+        "Masori mask (f)": [
+          27235
+        ],
+        "Masori mask": [
+          27226
+        ]
+      },
+      {
         "Void ranger helm": [
           11664,
           20479,
@@ -834,6 +842,14 @@
     ],
     "body": [
       {
+        "Masori body (f)": [
+          27238
+        ],
+        "Masori body": [
+          27229
+        ]
+      },
+      {
         "Elite void top": [
           13072,
           20467,
@@ -864,6 +880,14 @@
       }
     ],
     "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ],
+        "Masori chaps": [
+          27232
+        ]
+      },
       {
         "Elite void robe": [
           13073,
