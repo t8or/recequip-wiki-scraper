@@ -205,6 +205,12 @@
         ]
       },
       {
+        "Keris partisan of amascut": [
+          30891
+        ],
+        "Keris partisan of breaching": [
+          25981
+        ],
         "Ghrazi rapier": [
           22324
         ]
@@ -313,14 +319,14 @@
         "Aranea boots": [
           29806
         ],
-        "Echo boots": [
-          28945
-        ],
         "Spiked manacles": [
           23389
         ]
       },
       {
+        "Echo boots": [
+          28945
+        ],
         "Guardian boots": [
           21733
         ]
@@ -1025,6 +1031,12 @@
       {
         "Armadyl crossbow": [
           11785
+        ],
+        "Dragon crossbow": [
+          21902
+        ],
+        "Rune crossbow": [
+          9185
         ]
       }
     ],
@@ -1046,6 +1058,9 @@
       {
         "Osmumten's fang": [
           26219
+        ],
+        "Keris partisan of amascut": [
+          30891
         ],
         "Keris partisan of breaching": [
           25981
@@ -1189,6 +1204,9 @@
         ]
       },
       {
+        "Keris partisan of amascut": [
+          30891
+        ],
         "Zamorakian hasta": [
           11889
         ],
@@ -1219,6 +1237,10 @@
         ]
       },
       {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ],
         "Toxic blowpipe": [
           12924,
           12926
@@ -1228,9 +1250,11 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
-          25862,
-          25865
+        "Keris partisan of amascut": [
+          30891
+        ],
+        "Zamorakian hasta": [
+          11889
         ]
       }
     ],
@@ -1301,9 +1325,6 @@
           5680,
           5698
         ],
-        "Dragon claws": [
-          13652
-        ],
         "Bandos godsword": [
           11804
         ]
@@ -1329,9 +1350,14 @@
         ]
       },
       {
-        "Dragon claws": [
-          13652
+        "Keris partisan of amascut": [
+          30891
         ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      },
+      {
         "Keris partisan": [
           25979
         ],
@@ -1340,9 +1366,7 @@
           1231,
           5680,
           5698
-        ]
-      },
-      {
+        ],
         "Osmumten's fang": [
           26219
         ]
@@ -1386,6 +1410,14 @@
       {
         "Armadyl crossbow": [
           11785
+        ],
+        "Dragon crossbow": [
+          21902
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
         ]
       }
     ],

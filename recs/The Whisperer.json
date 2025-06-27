@@ -309,6 +309,11 @@
         ]
       },
       {
+        "Harmonised nightmare staff": [
+          24423
+        ]
+      },
+      {
         "Sanguinesti staff": [
           22481,
           22323
@@ -319,18 +324,22 @@
         ]
       },
       {
+        "Mystic smoke staff": [
+          12000
+        ],
+        "Twinflame staff": [
+          30634
+        ],
+        "Mystic earth staff": [
+          1407
+        ]
+      },
+      {
         "Trident of the seas": [
           11908,
           11907,
           11905
-        ]
-      },
-      {
-        "Harmonised nightmare staff": [
-          24423
-        ]
-      },
-      {
+        ],
         "Warped sceptre": [
           28583,
           28585
@@ -350,9 +359,9 @@
         "Elidinis' ward": [
           25985
         ],
-        "Tome of fire": [
-          20716,
-          20714
+        "Tome of earth": [
+          30066,
+          30064
         ]
       },
       {
