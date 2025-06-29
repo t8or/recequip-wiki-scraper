@@ -75,12 +75,6 @@
     "cape": [
       {
         "God capes#Imbuing": [
-          2412,
-          2415,
-          2414,
-          2417,
-          2413,
-          2416,
           21791,
           24236,
           24248,
@@ -309,6 +303,11 @@
         ]
       },
       {
+        "Harmonised nightmare staff": [
+          24423
+        ]
+      },
+      {
         "Sanguinesti staff": [
           22481,
           22323
@@ -319,18 +318,22 @@
         ]
       },
       {
+        "Mystic smoke staff": [
+          12000
+        ],
+        "Twinflame staff": [
+          30634
+        ],
+        "Mystic earth staff": [
+          1407
+        ]
+      },
+      {
         "Trident of the seas": [
           11908,
           11907,
           11905
-        ]
-      },
-      {
-        "Harmonised nightmare staff": [
-          24423
-        ]
-      },
-      {
+        ],
         "Warped sceptre": [
           28583,
           28585
@@ -339,6 +342,10 @@
     ],
     "shield": [
       {
+        "Tome of earth": [
+          30066,
+          30064
+        ],
         "Elidinis' ward (f)": [
           27251
         ]
@@ -349,10 +356,6 @@
         ],
         "Elidinis' ward": [
           25985
-        ],
-        "Tome of fire": [
-          20716,
-          20714
         ]
       },
       {
