@@ -54,12 +54,6 @@
     "cape": [
       {
         "God capes#Imbuing": [
-          2412,
-          2415,
-          2414,
-          2417,
-          2413,
-          2416,
           21791,
           24236,
           24248,
@@ -148,18 +142,27 @@
         ]
       },
       {
+        "Harmonised nightmare staff": [
+          24423
+        ],
         "Sanguinesti staff": [
           22481,
           22323
         ]
       },
       {
-        "Trident of the swamp": [
-          12900,
-          12899
+        "Mystic smoke staff": [
+          12000
+        ],
+        "Twinflame staff": [
+          30634
         ]
       },
       {
+        "Trident of the swamp": [
+          12900,
+          12899
+        ],
         "Trident of the seas": [
           11908,
           11907,
