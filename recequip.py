@@ -154,13 +154,13 @@ def get_gear_from_slot(template, slot):
             itemsWithIDs = defaultdict(list)
             for tmp in tmps:
                 name = tmp.params[0].value.strip()
-                if name in itemCache:
-                    itemsWithIDs[name] = itemCache[name]
-                    continue
-
                 specialCase = handle_special_cases(name, tmp)
                 if specialCase:
                     itemCache[name] = itemsWithIDs[name] = specialCase
+                    continue
+
+                if name in itemCache:
+                    itemsWithIDs[name] = itemCache[name]
                     continue
 
                 itemCache[name] = itemsWithIDs[name] = get_items_from_page(name)
