@@ -42,6 +42,8 @@ def get_ids_of_item(itemCode: Wikicode, itemName: str):
     return ids
 
 def handle_special_cases(itemName: str, template: Template):
+    if itemName in itemCache:
+        return itemCache[itemName], itemName
     if itemName.replace('_', ' ').startswith('Cape of Accomplishment'):
         capePages = api.query_category('Capes of Accomplishment')
         ids = []
@@ -49,7 +51,7 @@ def handle_special_cases(itemName: str, template: Template):
             if capeName.endswith('cape'):
                 capeCode = mw.parse(capePage, skip_style_tags=True)
                 ids.extend(get_ids_of_item(capeCode, capeName))
-        return ids
+        return ids, itemName
     elif itemName in [
         "Ardougne cloak",
         "Desert amulet",
@@ -66,27 +68,28 @@ def handle_special_cases(itemName: str, template: Template):
     ]:
         ids = []
         for i in range(1, 5):
-            itemCode = get_item_page_code(itemName + f" {i}")
-            ids.extend(get_ids_of_item(itemCode, itemName))
-        return ids
+            itemNameVersion = itemName + f" {i}"
+            itemCode = get_item_page_code(itemNameVersion)
+            ids.extend(get_ids_of_item(itemCode, itemNameVersion))
+        return ids, itemName
     elif itemName == 'Barrows helm':
         ids = []
         for i in ["Ahrim's hood", "Dharok's helm", "Guthan's helm", "Karil's coif", "Torag's helm", "Verac's helm"]:
             itemCode = get_item_page_code(i)
             ids.extend(get_ids_of_item(itemCode, itemName))
-        return ids
+        return ids, itemName
     elif itemName == 'Barrows body':
         ids = []
         for i in ["Ahrim's robetop", "Dharok's platebody", "Guthan's platebody", "Karil's leathertop", "Torag's platebody", "Verac's brassard"]:
             itemCode = get_item_page_code(i)
             ids.extend(get_ids_of_item(itemCode, itemName))
-        return ids
+        return ids, itemName
     elif itemName == 'Barrows legs':
         ids = []
         for i in ["Ahrim's robeskirt", "Dharok's platelegs", "Guthan's chainskirt", "Karil's leatherskirt", "Torag's platelegs", "Verac's plateskirt"]:
             itemCode = get_item_page_code(i)
             ids.extend(get_ids_of_item(itemCode, itemName))
-        return ids
+        return ids, itemName
     elif itemName == 'Barrows equipment':
         if template.has('txt'):
             itemName = template.get('txt').value.strip()
@@ -102,7 +105,8 @@ def handle_special_cases(itemName: str, template: Template):
         ids = []
         for link in itemCode.filter_wikilinks():
             ids.extend(get_items_from_page(link.title.strip()))
-        return ids
+        return ids, itemName
+    return None, None
 
 def get_items_from_page(itemName: str):
     sectionName = None
@@ -159,9 +163,10 @@ def get_gear_from_slot(template, slot):
             itemsWithIDs = defaultdict(list)
             for tmp in tmps:
                 name = tmp.params[0].value.strip()
-                specialCase = handle_special_cases(name, tmp)
+                specialCase, specialCaseName = handle_special_cases(name, tmp)
                 if specialCase:
-                    itemCache[name] = itemsWithIDs[name] = specialCase
+                    specialCaseName = specialCaseName if specialCaseName else name
+                    itemCache[specialCaseName] = itemsWithIDs[specialCaseName] = specialCase
                     continue
 
                 if name in itemCache:
@@ -251,8 +256,9 @@ def run():
         #     # 'The Leviathan/Strategies',
         #     # 'Nex/Strategies',
         #     # 'Amoxliatl/Strategies',
-        #     # 'Araxxor/Strategies',
-        #     'Wintertodt/Strategies',
+        #     'Araxxor/Strategies',
+        #     # 'Wintertodt/Strategies',
+        #     'The Hueycoatl/Strategies',
         # ]
         res = api.get_wiki_api({
             "action": "query",
@@ -280,6 +286,7 @@ def run():
                 allActivityGearRecs.append(newData)
 
                 util.write_json(f'recs/{name}.json', None, allGearRecs)
+                util.write_json(None, itemCacheFile, itemCache)
         util.write_json(f'recs/all.json', f'recs/all.min.json', allActivityGearRecs)
     util.write_json(None, itemCacheFile, itemCache)
 
