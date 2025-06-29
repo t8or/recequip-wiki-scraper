@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+The code is already working, do not delete working code without explicit confirmation from the user
+
+do not code in fallbacks or mock states
+
+Be an expert, don't use the first idea that comes to mind. check it compared to other parts of the project to see if it makes sense. 

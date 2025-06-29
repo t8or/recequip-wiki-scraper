@@ -1,0 +1,55 @@
+---
+description: looking up item IDs and confirm correct item IDs, especially duplicates
+globs: 
+alwaysApply: false
+---
+# Item ID Lookup Resource
+
+## OSRS Item Databases
+**ITEM ID DATABASE**: https://chisel.weirdgloop.org/moid/item_id.html  
+**ITEM NAME DATABASE**: https://chisel.weirdgloop.org/moid/item_name.html
+
+These are the authoritative sources for looking up OSRS item information when working on the RecEquip wiki scraper project.
+
+## When to Use Which Database
+
+### Item ID Database (item_id.html)
+- **Purpose**: Search by item ID number (e.g., "4587" for Dragon scimitar)
+- **Use when**: You have an item ID and want to confirm what item it represents
+- **URL format**: `https://chisel.weirdgloop.org/moid/item_id.html#4587`
+- **Search method**: Exact ID numbers or ranges
+
+### Item Name Database (item_name.html)  
+- **Purpose**: Search by item name using regex patterns
+- **Use when**: You have an item name and want to find its ID(s)
+- **URL format**: `https://chisel.weirdgloop.org/moid/item_name.html#Dragon scimitar`
+- **Search method**: **Uses regex patterns** - surround search terms in slashes
+
+## Regex Search Examples (Name Database)
+- **Exact match**: `blessing` (searches for items named exactly "blessing")
+- **Contains pattern**: `/blessing/` (finds all items containing "blessing" in their name)
+- **Case insensitive**: `/blessing/i` (finds "Blessing", "BLESSING", "blessing")
+- **Multiple variations**: `/rada|blessing/` (finds items containing either "rada" or "blessing")
+- **Word boundaries**: `/\bbless\b/` (finds items with "bless" as a complete word)
+
+## Usage Context
+- Use **NAME database with regex** when debugging item resolution issues in [recequip.py](mdc:recequip.py)
+- Use **NAME database with regex** when investigating items listed in [items_that_need_special_handling.txt](mdc:items_that_need_special_handling.txt)
+- Use **ID database** when confirming specific item IDs for mapping variations (ornamental, recolored, degraded states)
+- Use **ID database** when adding special cases to the `handle_special_cases` function with known IDs
+
+## Features (Both Databases)
+- Supports inclusive ranges (e.g., "1-10" for ID database)
+- Supports offset ranges (e.g., "10+10" for 10 items starting at ID 10)
+- Can filter noted items and placeholders
+- Shows comprehensive item data including:
+  - Item ID and name
+  - Exchangeable status
+  - Members requirement
+  - Examine text
+  - Associated model IDs
+
+## Related Files
+- [recequip.py](mdc:recequip.py) - Main scraper that resolves item names to IDs
+- [api.py](mdc:api.py) - Wiki API wrapper for item data
+- [util.py](mdc:util.py) - Utility functions for item processing
