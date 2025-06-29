@@ -92,7 +92,7 @@ def handle_special_cases(itemName: str, template: Template):
             itemName = template.get('txt').value.strip()
             return handle_special_cases(itemName, template)
         else:
-            raise Exception(f'No txt found for {itemName}')
+            raise Exception(f'No txt found for {itemName}: {template}')
     elif itemName == 'God staves':
         # TODO: would be nice to handle it below using the Infotable Bonuses template but
         # we need to check the redirect fragment and only get stuff inside
@@ -105,7 +105,12 @@ def handle_special_cases(itemName: str, template: Template):
         return ids
 
 def get_items_from_page(itemName: str):
+    sectionName = None
+    if '#' in itemName:
+        itemName, sectionName = itemName.split('#')
     itemCode = get_item_page_code(itemName)
+    if sectionName is not None:
+        itemCode = itemCode.get_sections(matches=sectionName)[0]
     ids = []
     for ft in itemCode.filter_templates():
         # Real item page, break out after getting ids
@@ -244,7 +249,10 @@ def run():
         #     # 'Sarachnis/Strategies'
         #     # 'Callisto/Strategies',
         #     # 'The Leviathan/Strategies',
-        #     'Nex/Strategies',
+        #     # 'Nex/Strategies',
+        #     # 'Amoxliatl/Strategies',
+        #     # 'Araxxor/Strategies',
+        #     'Wintertodt/Strategies',
         # ]
         res = api.get_wiki_api({
             "action": "query",
