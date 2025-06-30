@@ -1,120 +1,132 @@
+"""Utility functions for parsing and processing Old School RuneScape wiki data."""
+
 import json
-import collections
 import re
-import mwparserfromhell as mw
-from typing import *
+from typing import Dict, List, Optional, Tuple, Iterator, Any, Callable, cast
+from mwparserfromhell.nodes.template import Parameter
+from mwparserfromhell.wikicode import Wikicode
+from mwparserfromhell.nodes import Template
 
 VERSION_EXTRACTOR = re.compile(r"(.*?)([0-9]+)?$")
 
 
-def each_version(template_name: str, code, include_base: bool = False,
-	mergable_keys: List[str] = None) -> Iterator[Tuple[int, Dict[str, Any]]]:
-	"""
-	each_version is a generator that yields each version of an infobox
-	with variants, such as {{Infobox Item}} on [[Ring of charos]]
-	"""
-	if mergable_keys is None:
-		mergable_keys = ["version", "image", "caption"]
-	infoboxes = code.filter_templates(matches=lambda t: t.name.matches(template_name))
-	if len(infoboxes) < 1:
-		return
-	for infobox in infoboxes:
-		base: Dict[str, str] = {}
-		versions: Dict[int, Dict[str, str]] = {}
-		for param in infobox.params:
-			matcher = VERSION_EXTRACTOR.match(str(param.name).strip())
-			if matcher is None:
-				raise AssertionError()
-			primary = matcher.group(1)
-			dic = base
-			if matcher.group(2) != None:
-				version = int(matcher.group(2))
-				if not version in versions:
-					versions[version] = {}
-				dic = versions[version]
-			dic[primary] = param.value
-		if len(versions) == 0:
-			yield (-1, base)
-		else:
-			all_mergable = True
-			for versionID, versionDict in versions.items():
-				for key in versionDict:
-					if not key in mergable_keys:
-						all_mergable = False
-			if all_mergable:
-				yield (-1, base)
-			else:
-				if include_base:
-					yield (-1, base)
-				for versionID, versionDict in versions.items():
-					yield (versionID, {**base, **versionDict})
+
+def each_version(templateName: str, code: Wikicode, includeBase: bool = False,
+    mergableKeys: List[str] | None = None) -> Iterator[Tuple[int, Dict[str, Any]]]:
+    """
+    each_version is a generator that yields each version of an infobox
+    with variants, such as {{Infobox Item}} on [[Ring of charos]]
+    """
+    if mergableKeys is None:
+        mergableKeys = ["version", "image", "caption"]
+    infoboxes = filter_templates_by_name(templateName, code)
+    if len(infoboxes) < 1:
+        return
+    for infobox in infoboxes:
+        base: Dict[str, Wikicode] = {}
+        versions: Dict[int, Dict[str, Wikicode]] = {}
+        for param in cast(List[Parameter], infobox.params):
+            matcher = VERSION_EXTRACTOR.match(str(param.name).strip())
+            if matcher is None:
+                raise AssertionError()
+            primary = matcher.group(1)
+            dic = base
+            if matcher.group(2) is not None:
+                version = int(matcher.group(2))
+                if version not in versions:
+                    versions[version] = {}
+                dic = versions[version]
+            dic[primary] = param.value
+        if len(versions) == 0:
+            yield (-1, base)
+        else:
+            allMergable = True
+            for versionID, versionDict in versions.items():
+                for key in versionDict:
+                    if not key in mergableKeys:
+                        allMergable = False
+            if allMergable:
+                yield (-1, base)
+            else:
+                if includeBase:
+                    yield (-1, base)
+                for versionID, versionDict in versions.items():
+                    yield (versionID, {**base, **versionDict})
 
 
-def write_json(name: str, minName: str, data: dict):
-	if name is not None:
-		with open(name, "w+") as fi:
-			json.dump(data, fi, indent=2)
-	if minName is not None:
-		with open(minName, "w+") as fi:
-			json.dump(data, fi, separators=(",", ":"))
+def write_json(name: str | None, minName: str | None, data: dict[str, Any] | list[Any]):
+    """Write data to a JSON file"""
+    if name is not None:
+        with open(name, "w+", encoding="utf-8") as fi:
+            json.dump(data, fi, indent=2)
+    if minName is not None:
+        with open(minName, "w+", encoding="utf-8") as fi:
+            json.dump(data, fi, separators=(",", ":"))
 
-# mostly a copy of get_doc_for_id_string but just returning a list
-def get_ids_for_page(source: str, version: Dict[str, str]) -> Optional[Dict]:
-	if not "id" in version:
-		print("page {} is missing an id".format(source))
-		return None
+def get_ids_for_page(source: str, version: Dict[str, str]) -> list[int] | None:
+    """mostly a copy of get_doc_for_id_string but just returning a list"""
+    if not "id" in version:
+        print(f"page {source} is missing an id")
+        return None
 
-	ids = [int(id) for id in map(lambda id: id.strip(), str(version["id"]).split(",")) if id != "" and id.isdigit()]
+    ids = [int(id) for id in map(lambda id: id.strip(), str(version["id"]).split(",")) if id != "" and id.isdigit()]
 
-	if len(ids) == 0:
-		print("page {} is has an empty id".format(source))
-		return None
+    if len(ids) == 0:
+        print(f"page {source} is has an empty id")
+        return None
 
-	return ids
+    return ids
 
-def get_doc_for_id_string(source: str, version: Dict[str, str], docs: Dict[str, Dict],
-	allow_duplicates: bool = False) -> Optional[Dict]:
-	if not "id" in version:
-		print("page {} is missing an id".format(source))
-		return None
+def get_doc_for_id_string(source: str, version: Dict[str, str], docs: Dict[str, Dict[str, Any]],
+    allowDuplicates: bool = False) -> Optional[Dict[str, Any]]:
+    """Get a document for a given id string"""
+    if not "id" in version:
+        print(f"page {source} is missing an id")
+        return None
 
-	ids = [id for id in map(lambda id: id.strip(), str(version["id"]).split(",")) if id != "" and id.isdigit()]
+    ids = [id for id in map(lambda id: id.strip(), str(version["id"]).split(",")) if id != "" and id.isdigit()]
 
-	if len(ids) == 0:
-		print("page {} is has an empty id".format(source))
-		return None
+    if len(ids) == 0:
+        print(f"page {source} is has an empty id")
+        return None
 
-	doc = {}
-	doc["__source__"] = source
-	invalid = False
-	for id in ids:
-		if not allow_duplicates and id in docs:
-			print("page {} is has the same id as {}".format(source, docs[id]["__source__"]))
-			invalid = True
-		docs[id] = doc
+    doc: Dict[str, Any] = {}
+    doc["__source__"] = source
+    invalid = False
+    for id in ids:
+        if not allowDuplicates and id in docs:
+            print(f"page {source} is has the same id as {docs[id]['__source__']}")
+            invalid = True
+        docs[id] = doc
 
-	if invalid:
-		return None
-	return doc
-
-
-def copy(name: Union[str, Tuple[str, str]],
-	doc: Dict,
-	version: Dict[str, Any],
-	convert: Callable[[Any], Any] = lambda x: x) -> bool:
-	src_name = name if isinstance(name, str) else name[0]
-	dst_name = name if isinstance(name, str) else name[1]
-	if not src_name in version:
-		return False
-	strval = str(version[src_name]).strip()
-	if strval == "":
-		return False
-	newval = convert(strval)
-	if not newval:
-		return False
-	doc[dst_name] = newval
-	return True
+    if invalid:
+        return None
+    return doc
 
 
-def has_template(name: str, code) -> bool:
-	return len(code.filter_templates(matches=lambda t: t.name.matches(name))) != 0
+def copy(name: str | Tuple[str, str],
+    doc: Dict[str, Any],
+    version: Dict[str, Any],
+    convert: Callable[[Any], Any] = lambda x: x) -> bool:
+    """Copy a value from one version to another"""
+    srcName = name if isinstance(name, str) else name[0]
+    dstName = name if isinstance(name, str) else name[1]
+    if not srcName in version:
+        return False
+    strval = str(version[srcName]).strip()
+    if strval == "":
+        return False
+    newval = convert(strval)
+    if not newval:
+        return False
+    doc[dstName] = newval
+    return True
+
+
+def has_template(name: str, code: Wikicode) -> bool:
+    """Check if a template exists in the code"""
+    return len(filter_templates_by_name(name, code)) != 0
+
+def filter_templates_by_name(name: str, code: Wikicode) -> List[Template]:
+    """Filter templates by name"""
+    return code.filter_templates(matches=lambda t: t.name.matches(name)) # type: ignore
