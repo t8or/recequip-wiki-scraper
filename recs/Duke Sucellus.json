@@ -197,20 +197,21 @@
         "Noxious halberd": [
           29796
         ],
-        "Arclight": [
-          30305,
-          19675
-        ]
-      },
-      {
-        "Zombie axe": [
-          28810
-        ]
-      },
-      {
         "Blade of saeldor": [
           23997,
           23995
+        ]
+      },
+      {
+        "Arclight": [
+          30305,
+          19675
+        ],
+        "Zombie axe": [
+          28810
+        ],
+        "Abyssal whip": [
+          4151
         ]
       }
     ],
