@@ -406,12 +406,20 @@
         ]
       },
       {
-        "Explorer's ring 4": [
-          13128
+        "Ring of recoil": [
+          2550
         ]
       }
     ],
     "special": [
+      {
+        "Bone dagger": [
+          8872,
+          8874,
+          8876,
+          8878
+        ]
+      },
       {
         "Elder maul": [
           21003
