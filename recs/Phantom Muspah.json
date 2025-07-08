@@ -442,31 +442,27 @@
         ]
       },
       {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
         "Bow of faerdhinen": [
           25862,
           25865
         ]
       },
       {
-        "Zaryte crossbow": [
-          26374
-        ],
         "Armadyl crossbow": [
           11785
         ],
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      },
-      {
         "Dragon crossbow": [
           21902
         ]
       },
       {
-        "Hunters' sunlight crossbow": [
-          28869
+        "Rune crossbow": [
+          9185
         ]
       }
     ],
@@ -506,9 +502,6 @@
         ],
         "Ruby dragon bolts (e)": [
           21944
-        ],
-        "Moonlight antler bolts": [
-          28878
         ]
       },
       {
@@ -523,9 +516,6 @@
         ],
         "Sapphire bolts (e)": [
           9240
-        ],
-        "Sunlight antler bolts": [
-          28872
         ]
       },
       {

@@ -1281,6 +1281,48 @@
     "special": []
   },
   {
+    "name": "Verzik P1",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Dual macuahuitl": [
+          28997
+        ],
+        "Sulphur blades": [
+          29084
+        ]
+      },
+      {
+        "Blade of saeldor": [
+          23997,
+          23995
+        ],
+        "Abyssal tentacle": [
+          12006
+        ],
+        "Noxious halberd": [
+          29796
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
     "name": "Verzik",
     "head": [],
     "neck": [],
