@@ -406,7 +406,16 @@
       {
         "Dragon claws": [
           13652
-        ],
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      },
+      {
         "Burning claws": [
           29577
         ]
@@ -420,21 +429,8 @@
         ]
       },
       {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      },
-      {
         "Saradomin godsword": [
           11806
-        ]
-      },
-      {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
         ]
       }
     ]
@@ -713,6 +709,13 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ]
   }
 ]
