@@ -27180,6 +27180,9 @@
             ]
           },
           {
+            "Harmonised nightmare staff": [
+              24423
+            ],
             "Sanguinesti staff": [
               22481,
               22323
@@ -27199,9 +27202,6 @@
             ]
           },
           {
-            "Harmonised nightmare staff": [
-              24423
-            ],
             "Warped sceptre": [
               28583,
               28585
@@ -27216,9 +27216,9 @@
             "Elidinis' ward (f)": [
               27251
             ],
-            "Tome of fire": [
-              20716,
-              20714
+            "Tome of earth": [
+              30066,
+              30064
             ]
           },
           {
@@ -40495,15 +40495,14 @@
           {
             "Elidinis' ward (f)": [
               27251
-            ],
-            "Tome of fire": [
-              20716,
-              20714
             ]
           },
           {
             "Arcane spirit shield": [
               12825
+            ],
+            "Elidinis' ward": [
+              25985
             ]
           },
           {
@@ -44531,6 +44530,16 @@
             ]
           },
           {
+            "Karil's coif": [
+              4732,
+              4928,
+              4929,
+              4930,
+              4931,
+              4932
+            ]
+          },
+          {
             "Archer helm": [
               3749
             ]
@@ -44540,6 +44549,11 @@
           {
             "Necklace of anguish": [
               19547
+            ]
+          },
+          {
+            "Dragonbone necklace": [
+              22111
             ]
           },
           {
@@ -44563,14 +44577,13 @@
             ]
           },
           {
-            "Ava's accumulator": [
-              10499
+            "Mixed hide cape": [
+              29289
             ]
           },
           {
-            "Ranging cape": [
-              9756,
-              9757
+            "Ava's accumulator": [
+              10499
             ]
           },
           {
@@ -44581,6 +44594,11 @@
         ],
         "body": [
           {
+            "Masori body (f)": [
+              27238
+            ]
+          },
+          {
             "Blessed body": [
               12492,
               12508,
@@ -44588,10 +44606,6 @@
               10378,
               10386,
               10370
-            ],
-            "Crystal body": [
-              23975,
-              23977
             ]
           },
           {
@@ -44602,6 +44616,11 @@
         ],
         "legs": [
           {
+            "Masori chaps (f)": [
+              27241
+            ]
+          },
+          {
             "Blessed chaps": [
               12494,
               12510,
@@ -44609,10 +44628,6 @@
               10380,
               10388,
               10372
-            ],
-            "Crystal legs": [
-              23979,
-              23981
             ]
           },
           {
@@ -44638,9 +44653,9 @@
             ]
           },
           {
-            "Bow of faerdhinen": [
-              25862,
-              25865
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
@@ -44752,6 +44767,11 @@
         ],
         "feet": [
           {
+            "Mixed hide boots": [
+              29286
+            ]
+          },
+          {
             "Blessed boots": [
               19921,
               19930,
@@ -44774,16 +44794,6 @@
         ],
         "ring": [
           {
-            "Ring of suffering (i)": [
-              19710,
-              20657,
-              25246,
-              25248,
-              26761,
-              26762
-            ]
-          },
-          {
             "Ring of shadows": [
               28329,
               28327
@@ -44797,6 +44807,19 @@
               20788,
               20787,
               20786
+            ]
+          },
+          {
+            "Steel ring": [
+              30895
+            ],
+            "Ring of suffering (i)": [
+              19710,
+              20657,
+              25246,
+              25248,
+              26761,
+              26762
             ]
           }
         ],
