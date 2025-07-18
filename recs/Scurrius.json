@@ -215,6 +215,12 @@
       {
         "Bone mace": [
           28792
+        ],
+        "Abyssal tentacle": [
+          12006
+        ],
+        "Abyssal whip": [
+          4151
         ]
       },
       {
@@ -1182,15 +1188,17 @@
       {
         "Soulreaper axe": [
           28338
-        ],
-        "Inquisitor's mace": [
-          24417
         ]
       },
       {
+        "Inquisitor's mace": [
+          24417
+        ],
         "Bone mace": [
           28792
-        ],
+        ]
+      },
+      {
         "Blade of saeldor": [
           23997,
           23995
@@ -1270,6 +1278,9 @@
       {
         "Dragon gloves": [
           7461
+        ],
+        "Regen bracelet": [
+          11133
         ]
       },
       {

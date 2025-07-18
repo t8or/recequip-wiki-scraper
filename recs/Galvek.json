@@ -12,14 +12,6 @@
         ]
       },
       {
-        "Justiciar faceguard": [
-          22326
-        ],
-        "Armadyl helmet": [
-          11826
-        ]
-      },
-      {
         "Neitiznot faceguard": [
           24271
         ],
@@ -223,14 +215,6 @@
         "Bandos chestplate": [
           11832
         ],
-        "Armadyl chestplate": [
-          11828
-        ]
-      },
-      {
-        "Justiciar chestguard": [
-          22327
-        ],
         "Karil's leathertop": [
           4736,
           4940,
@@ -245,21 +229,6 @@
           13072,
           20467,
           24178
-        ]
-      },
-      {
-        "Fighter torso": [
-          10551,
-          20513,
-          24175
-        ],
-        "Blessed body": [
-          12492,
-          12508,
-          12500,
-          10378,
-          10386,
-          10370
         ]
       }
     ],
@@ -277,14 +246,6 @@
         "Bandos tassets": [
           11834
         ],
-        "Armadyl chainskirt": [
-          11830
-        ]
-      },
-      {
-        "Justiciar legguards": [
-          22328
-        ],
         "Karil's leatherskirt": [
           4738,
           4946,
@@ -295,31 +256,10 @@
         ]
       },
       {
-        "Obsidian platelegs": [
-          21304
-        ],
         "Elite void robe": [
           13073,
           20471,
           24180
-        ]
-      },
-      {
-        "Verac's plateskirt": [
-          4759,
-          4994,
-          4995,
-          4996,
-          4997,
-          4998
-        ],
-        "Blessed chaps": [
-          12494,
-          12510,
-          12502,
-          10380,
-          10388,
-          10372
         ]
       }
     ],
@@ -333,27 +273,24 @@
         ]
       },
       {
-        "Ghrazi rapier": [
-          22324
+        "Osmumten's fang": [
+          26219
         ],
         "Zaryte crossbow": [
           26374
         ]
       },
       {
-        "Zamorakian hasta": [
-          11889
+        "Ghrazi rapier": [
+          22324
         ],
         "Armadyl crossbow": [
           11785
         ]
       },
       {
-        "Abyssal dagger": [
-          13265,
-          13267,
-          13269,
-          13271
+        "Zamorakian hasta": [
+          11889
         ],
         "Dragon crossbow": [
           21902
@@ -362,10 +299,16 @@
     ],
     "shield": [
       {
+        "Dragonfire ward": [
+          22003,
+          22002
+        ],
         "Dragonfire shield": [
           11284,
           11283
-        ],
+        ]
+      },
+      {
         "Anti-dragon shield": [
           1540
         ]
@@ -395,16 +338,6 @@
       {
         "Barrows gloves": [
           7462
-        ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Rune gloves": [
-          7460
         ]
       },
       {
@@ -439,16 +372,6 @@
           19933,
           19936
         ]
-      },
-      {
-        "Guardian boots": [
-          21733
-        ]
-      },
-      {
-        "Bandos boots": [
-          11836
-        ]
       }
     ],
     "ring": [
@@ -473,11 +396,6 @@
         ]
       },
       {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
         "Ring of suffering (i)": [
           19710,
           20657,
@@ -486,27 +404,22 @@
           26761,
           26762
         ]
-      },
-      {
-        "Treasonous ring (i)": [
-          12692,
-          25256,
-          26766
-        ]
       }
     ],
     "special": [
       {
-        "Elder maul": [
-          21003
-        ],
-        "Bandos godsword": [
-          11804
+        "Zaryte crossbow": [
+          26374
         ]
       },
       {
-        "Dragon warhammer": [
-          13576
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
         ]
       }
     ]
