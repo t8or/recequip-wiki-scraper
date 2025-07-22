@@ -40,24 +40,6 @@
           9792,
           9793
         ]
-      },
-      {
-        "Graceful cape": [
-          11852,
-          11853
-        ]
-      },
-      {
-        "Spottier cape": [
-          10071,
-          10074
-        ]
-      },
-      {
-        "Spotted cape": [
-          10069,
-          10073
-        ]
       }
     ],
     "body": [
@@ -236,20 +218,7 @@
         ]
       }
     ],
-    "hands": [
-      {
-        "Graceful gloves": [
-          11858,
-          11859
-        ]
-      },
-      {
-        "Penance gloves": [
-          10553,
-          10554
-        ]
-      }
-    ],
+    "hands": [],
     "feet": [
       {
         "Boots of the eye": [
@@ -260,18 +229,6 @@
         "Prospector boots": [
           12016,
           29478
-        ]
-      },
-      {
-        "Graceful boots": [
-          11860,
-          11861
-        ]
-      },
-      {
-        "Boots of lightness": [
-          88,
-          89
         ]
       }
     ],

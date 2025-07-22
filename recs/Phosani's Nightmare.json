@@ -432,24 +432,30 @@
     ],
     "weapon": [
       {
+        "Harmonised nightmare staff": [
+          24423
+        ],
         "Tumeken's shadow": [
           27277,
           27275
-        ],
-        "Harmonised nightmare staff": [
-          24423
         ]
       },
       {
         "Sanguinesti staff": [
           22481,
           22323
+        ],
+        "Staff of the dead": [
+          11791
         ]
       },
       {
         "Trident of the swamp": [
           12900,
           12899
+        ],
+        "Twinflame staff": [
+          30634
         ]
       },
       {
@@ -457,6 +463,12 @@
           11908,
           11907,
           11905
+        ]
+      },
+      {
+        "Accursed sceptre": [
+          27662,
+          27665
         ]
       }
     ],
