@@ -573,6 +573,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -805,6 +810,11 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
@@ -817,7 +827,13 @@
         ]
       }
     ],
-    "feet": [],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      }
+    ],
     "ring": [],
     "special": [
       {
@@ -975,7 +991,13 @@
         ]
       }
     ],
-    "feet": [],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      }
+    ],
     "ring": [],
     "special": [
       {

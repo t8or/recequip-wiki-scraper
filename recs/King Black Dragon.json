@@ -721,6 +721,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -741,17 +746,6 @@
       {
         "Granite boots": [
           21643
-        ]
-      },
-      {
-        "Rune boots": [
-          4131
-        ],
-        "Climbing boots": [
-          3105
-        ],
-        "Mixed hide boots": [
-          29286
         ]
       }
     ],
@@ -1533,6 +1527,11 @@
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Pegasian boots": [
           13237

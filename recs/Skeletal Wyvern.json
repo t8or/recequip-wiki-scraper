@@ -330,6 +330,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -347,11 +352,6 @@
       {
         "Guardian boots": [
           21733
-        ]
-      },
-      {
-        "Granite boots": [
-          21643
         ]
       }
     ],
@@ -727,6 +727,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Pegasian boots": [
           13237
         ]
@@ -749,14 +754,6 @@
       {
         "Aranea boots": [
           29806
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
-        ],
-        "Mixed hide boots": [
-          29286
         ]
       }
     ],
@@ -1016,6 +1013,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Pegasian boots": [
           13237
         ]
@@ -1038,14 +1040,6 @@
       {
         "Aranea boots": [
           29806
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
-        ],
-        "Mixed hide boots": [
-          29286
         ]
       }
     ],
@@ -1325,6 +1319,10 @@
     ],
     "shield": [
       {
+        "Tome of fire": [
+          20716,
+          20714
+        ],
         "Elidinis' ward (f)": [
           27251
         ]
@@ -1373,6 +1371,11 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
@@ -1391,26 +1394,14 @@
         "Rune gloves": [
           7460
         ]
-      },
-      {
-        "Combat bracelet": [
-          11126,
-          11124,
-          11122,
-          11120,
-          11118,
-          11974,
-          11972
-        ],
-        "Regen bracelet": [
-          11133
-        ],
-        "Mystic gloves": [
-          4095
-        ]
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Eternal boots": [
           13235
@@ -1435,11 +1426,6 @@
         ],
         "Boots of darkness": [
           20140
-        ]
-      },
-      {
-        "Mystic boots": [
-          4097
         ]
       }
     ],

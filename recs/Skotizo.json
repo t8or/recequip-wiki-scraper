@@ -3,21 +3,10 @@
     "name": "Melee",
     "head": [
       {
-        "Slayer helmet": [
-          11864
-        ],
-        "Black mask": [
-          8921,
-          8919,
-          8917,
-          8915,
-          8913,
-          8911,
-          8909,
-          8907,
-          8905,
-          8903,
-          8901
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
         ]
       },
       {
@@ -391,6 +380,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -420,11 +414,6 @@
         ],
         "Climbing boots": [
           3105
-        ]
-      },
-      {
-        "Adamant boots": [
-          4129
         ]
       }
     ],
@@ -861,6 +850,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Pegasian boots": [
           13237
         ]
@@ -883,14 +877,6 @@
       {
         "Aranea boots": [
           29806
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
-        ],
-        "Mixed hide boots": [
-          29286
         ]
       }
     ],

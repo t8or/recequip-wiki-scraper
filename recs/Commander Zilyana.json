@@ -95,6 +95,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Eternal boots": [
           13235
         ]
@@ -443,11 +448,14 @@
     ],
     "feet": [
       {
-        "Pegasian boots": [
-          13237
+        "Avernic treads (max)": [
+          31097
         ]
       },
       {
+        "Pegasian boots": [
+          13237
+        ],
         "Saradomin d'hide boots": [
           19933
         ],

@@ -325,6 +325,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Devout boots": [
           22954
         ],
@@ -353,11 +358,6 @@
       {
         "Boots of brimstone": [
           22951
-        ]
-      },
-      {
-        "Shayzien boots (5)": [
-          13378
         ]
       }
     ],
@@ -568,12 +568,22 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Eternal boots": [
           13235
