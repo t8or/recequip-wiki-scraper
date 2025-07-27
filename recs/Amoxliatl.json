@@ -308,6 +308,9 @@
         "Glacial temotli": [
           29889
         ],
+        "Ghrazi rapier": [
+          22324
+        ],
         "Saradomin sword": [
           11838
         ]
@@ -421,6 +424,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -497,6 +505,14 @@
         ],
         "Dragon claws": [
           13652
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
+        ],
+        "Arkan blade": [
+          30955
         ]
       },
       {

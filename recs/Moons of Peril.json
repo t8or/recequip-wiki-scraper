@@ -554,6 +554,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ],
@@ -574,14 +579,6 @@
       {
         "Granite boots": [
           21643
-        ]
-      },
-      {
-        "Spiked manacles": [
-          23389
-        ],
-        "Rune boots": [
-          4131
         ]
       }
     ],
@@ -683,6 +680,9 @@
         ],
         "Zombie axe": [
           28810
+        ],
+        "Arkan blade": [
+          30955
         ],
         "Dragon scimitar": [
           4587

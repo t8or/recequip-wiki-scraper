@@ -281,6 +281,9 @@
           11908,
           11907,
           11905
+        ],
+        "Twinflame staff": [
+          30634
         ]
       },
       {
@@ -360,11 +363,16 @@
     ],
     "hands": [
       {
-        "Tormented bracelet": [
-          19544
+        "Confliction gauntlets": [
+          31106
         ],
         "Bracelet of slaughter": [
           21183
+        ]
+      },
+      {
+        "Tormented bracelet": [
+          19544
         ]
       },
       {
@@ -381,20 +389,14 @@
         "Infinity gloves": [
           6922
         ]
-      },
-      {
-        "Combat bracelet": [
-          11126,
-          11124,
-          11122,
-          11120,
-          11118,
-          11974,
-          11972
-        ]
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Eternal boots": [
           13235
@@ -419,14 +421,6 @@
         ],
         "Bloodbark boots": [
           25410
-        ]
-      },
-      {
-        "Mystic boots": [
-          4097
-        ],
-        "Wizard boots": [
-          2579
         ]
       }
     ],

@@ -1,0 +1,265 @@
+[
+  {
+    "name": "Ranged",
+    "head": [
+      {
+        "Masori mask (f)": [
+          27235
+        ]
+      },
+      {
+        "Void ranger helm": [
+          11664,
+          20479,
+          24184
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
+        ]
+      }
+    ],
+    "weapon": [],
+    "shield": [],
+    "ammo": [
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
+        "Ruby dragon bolts (e)": [
+          21944
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ],
+        "Ruby bolts (e)": [
+          9242
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Pegasian boots": [
+          13237
+        ],
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Blessed boots": [
+          19921,
+          19930,
+          19924,
+          19927,
+          19933,
+          19936
+        ],
+        "Mixed hide boots": [
+          29286
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Venator ring": [
+          28310
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Tonalztics of ralos": [
+          28919,
+          28922
+        ]
+      },
+      {
+        "Dragon knife": [
+          22804,
+          22806,
+          22808,
+          22810
+        ]
+      },
+      {
+        "Elder maul": [
+          21003
+        ],
+        "Dragon warhammer": [
+          13576
+        ]
+      }
+    ]
+  },
+  {
+    "name": "clearing Demonic larvae",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Emberlight": [
+          29589
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Dual macuahuitl": [
+          28997
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Scorching bow": [
+          29591
+        ]
+      },
+      {
+        "Tonalztics of ralos": [
+          28919,
+          28922
+        ]
+      }
+    ],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Melee punish",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": [
+      {
+        "Dragon claws": [
+          13652
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ]
+      }
+    ]
+  }
+]

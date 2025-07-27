@@ -294,6 +294,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Pegasian boots": [
           13237
         ]
@@ -319,11 +324,6 @@
       {
         "Boots of brimstone": [
           22951
-        ]
-      },
-      {
-        "Boots of stone": [
-          23037
         ]
       }
     ],
@@ -671,6 +671,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -694,11 +699,6 @@
       {
         "Devout boots": [
           22954
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
         ]
       }
     ],

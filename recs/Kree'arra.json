@@ -119,12 +119,22 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Eternal boots": [
           13235
@@ -468,6 +478,11 @@
         ]
       },
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Pegasian boots": [
           13237
         ]
@@ -480,11 +495,6 @@
       {
         "Bandos boots": [
           11836
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
         ]
       }
     ],
@@ -824,6 +834,11 @@
         ]
       },
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Pegasian boots": [
           13237
         ]
@@ -836,11 +851,6 @@
       {
         "Bandos boots": [
           11836
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
         ]
       }
     ],
@@ -1120,6 +1130,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Pegasian boots": [
           13237
         ]
@@ -1146,11 +1161,6 @@
         ],
         "Bandos boots": [
           11836
-        ]
-      },
-      {
-        "Devout boots": [
-          22954
         ]
       }
     ],

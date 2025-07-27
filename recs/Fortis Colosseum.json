@@ -176,6 +176,10 @@
           22481,
           22323
         ],
+        "Eye of ayak": [
+          31113,
+          31115
+        ],
         "Bow of faerdhinen": [
           25862,
           25865
@@ -263,6 +267,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -275,11 +284,6 @@
       {
         "Echo boots": [
           28945
-        ]
-      },
-      {
-        "Dragon boots": [
-          11840
         ]
       }
     ],
@@ -577,8 +581,8 @@
         "Ferocious gloves": [
           22981
         ],
-        "Tormented bracelet": [
-          19544
+        "Confliction gauntlets": [
+          31106
         ]
       },
       {
@@ -592,6 +596,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ],
@@ -602,11 +611,6 @@
       {
         "Aranea boots": [
           29806
-        ]
-      },
-      {
-        "Dragon boots": [
-          11840
         ]
       }
     ],
@@ -1048,6 +1052,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -1282,6 +1291,11 @@
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Primordial boots": [
           13239

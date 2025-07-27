@@ -275,6 +275,11 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
@@ -295,14 +300,14 @@
         "Dragon gloves": [
           7461
         ]
-      },
-      {
-        "Rune gloves": [
-          7460
-        ]
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Eternal boots": [
           13235
@@ -327,11 +332,6 @@
       {
         "Mystic boots": [
           4097
-        ]
-      },
-      {
-        "Splitbark boots": [
-          3393
         ]
       }
     ],
@@ -735,6 +735,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Pegasian boots": [
           13237
         ]
@@ -757,11 +762,6 @@
       {
         "Aranea boots": [
           29806
-        ]
-      },
-      {
-        "Mixed hide boots": [
-          29286
         ]
       }
     ],

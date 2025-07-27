@@ -350,6 +350,11 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
@@ -371,23 +376,6 @@
         "Rune gloves": [
           7460
         ]
-      },
-      {
-        "Adamant gloves": [
-          7459
-        ],
-        "Bloodbark gauntlets": [
-          25407
-        ],
-        "Combat bracelet": [
-          11126,
-          11124,
-          11122,
-          11120,
-          11118,
-          11974,
-          11972
-        ]
       }
     ],
     "feet": [
@@ -402,6 +390,11 @@
         ]
       },
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Eternal boots": [
           13235
         ]
@@ -409,11 +402,6 @@
       {
         "Aranea boots": [
           29806
-        ]
-      },
-      {
-        "Infinity boots": [
-          6920
         ]
       }
     ],
@@ -443,6 +431,10 @@
       {
         "Brimstone ring": [
           22975
+        ],
+        "Ring of shadows": [
+          28329,
+          28327
         ]
       },
       {
