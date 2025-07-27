@@ -418,6 +418,9 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ],
         "Pegasian boots": [
           13237
         ]
@@ -942,6 +945,9 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ],
         "Primordial boots": [
           13239
         ]
@@ -1287,12 +1293,10 @@
         "Tumeken's shadow": [
           27277,
           27275
-        ]
-      },
-      {
-        "Sanguinesti staff": [
-          22481,
-          22323
+        ],
+        "Eye of ayak": [
+          31113,
+          31115
         ]
       }
     ],
@@ -1348,6 +1352,11 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
@@ -1364,6 +1373,11 @@
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Eternal boots": [
           13235
@@ -2525,6 +2539,11 @@
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Aranea boots": [
           29806

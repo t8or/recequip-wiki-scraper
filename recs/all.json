@@ -413,6 +413,11 @@
         "ammo": [],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -624,6 +629,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -979,6 +989,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -996,11 +1011,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -1402,6 +1412,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -1419,11 +1434,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -1671,12 +1681,22 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -1998,6 +2018,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -2020,11 +2045,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -2383,6 +2403,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -2408,11 +2433,6 @@
           {
             "Boots of brimstone": [
               22951
-            ]
-          },
-          {
-            "Boots of stone": [
-              23037
             ]
           }
         ],
@@ -2760,6 +2780,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -2783,11 +2808,6 @@
           {
             "Devout boots": [
               22954
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
             ]
           }
         ],
@@ -3520,6 +3540,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -3614,6 +3639,407 @@
     "url": "https://oldschool.runescape.wiki/w/Barrows/Strategies",
     "category": "World",
     "styles": [
+      {
+        "name": "Magic (Low level)",
+        "head": [
+          {
+            "Barrows helm": [
+              4708,
+              4856,
+              4857,
+              4858,
+              4859,
+              4860,
+              4716,
+              4880,
+              4881,
+              4882,
+              4883,
+              4884,
+              4724,
+              4904,
+              4905,
+              4906,
+              4907,
+              4908,
+              4732,
+              4928,
+              4929,
+              4930,
+              4931,
+              4932,
+              4745,
+              4952,
+              4953,
+              4954,
+              4955,
+              4956,
+              4753,
+              4976,
+              4977,
+              4978,
+              4979,
+              4980
+            ]
+          },
+          {
+            "Helm of neitiznot": [
+              10828
+            ]
+          },
+          {
+            "Berserker helm": [
+              3751
+            ]
+          },
+          {
+            "Rune full helm": [
+              1163
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Occult necklace": [
+              12002
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          },
+          {
+            "Amulet of power": [
+              1731
+            ]
+          },
+          {
+            "Holy symbol": [
+              1718
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Imbued god cape": [
+              2412,
+              2415,
+              2414,
+              2417,
+              2413,
+              2416,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          },
+          {
+            "God cape": [
+              2412,
+              2415,
+              2414,
+              2417,
+              2413,
+              2416,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          },
+          {
+            "Fire cape": [
+              6570,
+              20445,
+              24223
+            ]
+          },
+          {
+            "Ardougne cloak 3": [
+              13123
+            ],
+            "Ardougne cloak 4": [
+              13124
+            ]
+          },
+          {
+            "Guthix cloak": [
+              10448
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Mystic robe top": [
+              4091
+            ]
+          },
+          {
+            "Dragon chainbody": [
+              3140
+            ]
+          },
+          {
+            "Barrows chestplate": [
+              4708,
+              4856,
+              4857,
+              4858,
+              4859,
+              4860,
+              4712,
+              4868,
+              4869,
+              4870,
+              4871,
+              4872,
+              4714,
+              4874,
+              4875,
+              4876,
+              4877,
+              4878,
+              4710,
+              4862,
+              4863,
+              4864,
+              4865,
+              4866
+            ],
+            "Rune platebody": [
+              1127
+            ],
+            "Black d'hide body": [
+              2503
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Mystic robe bottom": [
+              4093
+            ]
+          },
+          {
+            "Black d'hide chaps": [
+              2497
+            ]
+          },
+          {
+            "Dragon platelegs": [
+              4087
+            ],
+            "Rune platelegs": [
+              1079
+            ],
+            "Barrows legs": [
+              4714,
+              4874,
+              4875,
+              4876,
+              4877,
+              4878,
+              4722,
+              4898,
+              4899,
+              4900,
+              4901,
+              4902,
+              4730,
+              4922,
+              4923,
+              4924,
+              4925,
+              4926,
+              4738,
+              4946,
+              4947,
+              4948,
+              4949,
+              4950,
+              4751,
+              4970,
+              4971,
+              4972,
+              4973,
+              4974,
+              4759,
+              4994,
+              4995,
+              4996,
+              4997,
+              4998
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Trident of the swamp": [
+              12900,
+              12899
+            ],
+            "Twinflame staff": [
+              30634
+            ]
+          },
+          {
+            "Smoke battlestaff": [
+              11998
+            ]
+          },
+          {
+            "Ahrim's staff": [
+              4710,
+              4862,
+              4863,
+              4864,
+              4865,
+              4866
+            ],
+            "Ancient sceptre": [
+              27624,
+              27626
+            ]
+          },
+          {
+            "Staff of air": [
+              1381
+            ]
+          },
+          {
+            "Iban's staff (u)": [
+              12658
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Ghommal's hilt 2": [
+              25928
+            ]
+          },
+          {
+            "Dragon defender": [
+              12954,
+              20463,
+              24143
+            ]
+          },
+          {
+            "Rune defender": [
+              8850,
+              20461,
+              24142
+            ]
+          },
+          {
+            "Rune kiteshield": [
+              1201
+            ]
+          }
+        ],
+        "ammo": [
+          {
+            "Blessing": [
+              20220,
+              20223,
+              20226,
+              20229,
+              20232,
+              20235,
+              22941,
+              22943,
+              22945,
+              22947
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          },
+          {
+            "Rune gloves": [
+              7460
+            ]
+          },
+          {
+            "Combat bracelet": [
+              11126,
+              11124,
+              11122,
+              11120,
+              11118,
+              11974,
+              11972
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Dragon boots": [
+              11840
+            ]
+          },
+          {
+            "Rune boots": [
+              4131
+            ]
+          },
+          {
+            "Climbing boots": [
+              3105
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Berserker ring (i)": [
+              11773,
+              25264,
+              26770
+            ]
+          },
+          {
+            "Ring of dueling": [
+              2566,
+              2564,
+              2562,
+              2560,
+              2558,
+              2556,
+              2554,
+              2552
+            ]
+          }
+        ],
+        "special": []
+      },
       {
         "name": "Magic equipment",
         "head": [
@@ -3818,12 +4244,16 @@
         ],
         "weapon": [
           {
-            "Tumeken's shadow": [
-              27277,
-              27275
+            "Eye of ayak": [
+              31113,
+              31115
             ]
           },
           {
+            "Tumeken's shadow": [
+              27277,
+              27275
+            ],
             "Harmonised nightmare staff": [
               24423
             ]
@@ -3912,6 +4342,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -3935,6 +4370,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -3981,405 +4421,6 @@
             ]
           }
         ]
-      },
-      {
-        "name": "Tank & Lower level",
-        "head": [
-          {
-            "Barrows helm": [
-              4708,
-              4856,
-              4857,
-              4858,
-              4859,
-              4860,
-              4716,
-              4880,
-              4881,
-              4882,
-              4883,
-              4884,
-              4724,
-              4904,
-              4905,
-              4906,
-              4907,
-              4908,
-              4732,
-              4928,
-              4929,
-              4930,
-              4931,
-              4932,
-              4745,
-              4952,
-              4953,
-              4954,
-              4955,
-              4956,
-              4753,
-              4976,
-              4977,
-              4978,
-              4979,
-              4980
-            ]
-          },
-          {
-            "Helm of neitiznot": [
-              10828
-            ]
-          },
-          {
-            "Berserker helm": [
-              3751
-            ]
-          },
-          {
-            "Rune full helm": [
-              1163
-            ]
-          }
-        ],
-        "neck": [
-          {
-            "Occult necklace": [
-              12002
-            ]
-          },
-          {
-            "Amulet of fury": [
-              6585
-            ]
-          },
-          {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
-            ]
-          },
-          {
-            "Amulet of power": [
-              1731
-            ]
-          },
-          {
-            "Holy symbol": [
-              1718
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "Imbued god cape": [
-              2412,
-              2415,
-              2414,
-              2417,
-              2413,
-              2416,
-              21791,
-              24236,
-              24248,
-              21795,
-              24244,
-              24250,
-              21793,
-              24240,
-              24249
-            ]
-          },
-          {
-            "God cape": [
-              2412,
-              2415,
-              2414,
-              2417,
-              2413,
-              2416,
-              21791,
-              24236,
-              24248,
-              21795,
-              24244,
-              24250,
-              21793,
-              24240,
-              24249
-            ]
-          },
-          {
-            "Fire cape": [
-              6570,
-              20445,
-              24223
-            ]
-          },
-          {
-            "Ardougne cloak 3": [
-              13123
-            ],
-            "Ardougne cloak 4": [
-              13124
-            ]
-          },
-          {
-            "Guthix cloak": [
-              10448
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Barrows chestplate": [
-              4708,
-              4856,
-              4857,
-              4858,
-              4859,
-              4860,
-              4712,
-              4868,
-              4869,
-              4870,
-              4871,
-              4872,
-              4714,
-              4874,
-              4875,
-              4876,
-              4877,
-              4878,
-              4710,
-              4862,
-              4863,
-              4864,
-              4865,
-              4866
-            ]
-          },
-          {
-            "Dragon chainbody": [
-              3140
-            ]
-          },
-          {
-            "Rune platebody": [
-              1127
-            ]
-          },
-          {
-            "Black d'hide body": [
-              2503
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Barrows legs": [
-              4714,
-              4874,
-              4875,
-              4876,
-              4877,
-              4878,
-              4722,
-              4898,
-              4899,
-              4900,
-              4901,
-              4902,
-              4730,
-              4922,
-              4923,
-              4924,
-              4925,
-              4926,
-              4738,
-              4946,
-              4947,
-              4948,
-              4949,
-              4950,
-              4751,
-              4970,
-              4971,
-              4972,
-              4973,
-              4974,
-              4759,
-              4994,
-              4995,
-              4996,
-              4997,
-              4998
-            ]
-          },
-          {
-            "Dragon platelegs": [
-              4087
-            ]
-          },
-          {
-            "Rune platelegs": [
-              1079
-            ]
-          },
-          {
-            "Black d'hide chaps": [
-              2497
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Trident of the swamp": [
-              12900,
-              12899
-            ],
-            "Twinflame staff": [
-              30634
-            ]
-          },
-          {
-            "Smoke battlestaff": [
-              11998
-            ]
-          },
-          {
-            "Ahrim's staff": [
-              4710,
-              4862,
-              4863,
-              4864,
-              4865,
-              4866
-            ],
-            "Ancient sceptre": [
-              27624,
-              27626
-            ]
-          },
-          {
-            "Staff of air": [
-              1381
-            ]
-          },
-          {
-            "Iban's staff (u)": [
-              12658
-            ]
-          }
-        ],
-        "shield": [
-          {
-            "Ghommal's hilt 2": [
-              25928
-            ]
-          },
-          {
-            "Dragon defender": [
-              12954,
-              20463,
-              24143
-            ]
-          },
-          {
-            "Rune defender": [
-              8850,
-              20461,
-              24142
-            ]
-          },
-          {
-            "Rune kiteshield": [
-              1201
-            ]
-          }
-        ],
-        "ammo": [
-          {
-            "Blessing": [
-              20220,
-              20223,
-              20226,
-              20229,
-              20232,
-              20235,
-              22941,
-              22943,
-              22945,
-              22947
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Barrows gloves": [
-              7462
-            ]
-          },
-          {
-            "Rune gloves": [
-              7460
-            ]
-          },
-          {
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Dragon boots": [
-              11840
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
-            ]
-          },
-          {
-            "Climbing boots": [
-              3105
-            ]
-          }
-        ],
-        "ring": [
-          {
-            "Berserker ring (i)": [
-              11773,
-              25264,
-              26770
-            ]
-          },
-          {
-            "Ring of dueling": [
-              2566,
-              2564,
-              2562,
-              2560,
-              2558,
-              2556,
-              2554,
-              2552
-            ]
-          }
-        ],
-        "special": []
       },
       {
         "name": "Ranged (Ahrim)",
@@ -5336,6 +5377,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -5793,6 +5839,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -5810,11 +5861,6 @@
           {
             "Dragon boots": [
               11840
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -6192,6 +6238,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -6214,11 +6265,6 @@
           {
             "Shayzien boots (5)": [
               13378
-            ]
-          },
-          {
-            "Snakeskin boots": [
-              6328
             ]
           }
         ],
@@ -6526,6 +6572,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -6840,6 +6891,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -7062,6 +7118,11 @@
         "ammo": [],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -7073,6 +7134,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -8781,6 +8847,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Eternal boots": [
               13235
             ]
@@ -9129,11 +9200,14 @@
         ],
         "feet": [
           {
-            "Pegasian boots": [
-              13237
+            "Avernic treads (max)": [
+              31097
             ]
           },
           {
+            "Pegasian boots": [
+              13237
+            ],
             "Saradomin d'hide boots": [
               19933
             ],
@@ -9494,6 +9568,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -9511,11 +9590,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
             ]
           }
         ],
@@ -9935,6 +10009,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -9955,11 +10034,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
             ]
           }
         ],
@@ -10197,6 +10271,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -10429,6 +10508,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -10752,6 +10836,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -10769,11 +10858,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
             ]
           }
         ],
@@ -11072,6 +11156,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -11089,11 +11178,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
             ]
           }
         ],
@@ -11432,6 +11516,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -11454,11 +11543,6 @@
           {
             "Boots of brimstone": [
               22951
-            ]
-          },
-          {
-            "Snakeskin boots": [
-              6328
             ]
           }
         ],
@@ -11802,6 +11886,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -12132,19 +12221,15 @@
               22486,
               22325
             ],
-            "Tumeken's shadow": [
-              27277,
-              27275
+            "Eye of ayak": [
+              31113,
+              31115
             ],
             "Twisted bow": [
               20997
             ]
           },
           {
-            "Sanguinesti staff": [
-              22481,
-              22323
-            ],
             "Toxic blowpipe": [
               12924,
               12926
@@ -12283,14 +12368,17 @@
             "Ferocious gloves": [
               22981
             ],
-            "Tormented bracelet": [
-              19544
+            "Confliction gauntlets": [
+              31106
             ],
             "Zaryte vambraces": [
               26235
             ]
           },
           {
+            "Tormented bracelet": [
+              19544
+            ],
             "Barrows gloves": [
               7462
             ]
@@ -12314,11 +12402,13 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
-            ],
-            "Pegasian boots": [
-              13237
             ]
           },
           {
@@ -12338,11 +12428,6 @@
             ],
             "Granite boots": [
               21643
-            ]
-          },
-          {
-            "Devout boots": [
-              22954
             ]
           },
           {
@@ -12845,6 +12930,10 @@
         ],
         "weapon": [
           {
+            "Eye of ayak": [
+              31113,
+              31115
+            ],
             "Sanguinesti staff": [
               22481,
               22323
@@ -12951,6 +13040,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -12987,6 +13081,11 @@
             ]
           },
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Eternal boots": [
               13235
             ],
@@ -13002,11 +13101,6 @@
           {
             "Bloodbark boots": [
               25410
-            ]
-          },
-          {
-            "Mystic boots": [
-              4097
             ]
           }
         ],
@@ -13536,6 +13630,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -13974,6 +14073,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -13995,23 +14099,6 @@
             "Rune gloves": [
               7460
             ]
-          },
-          {
-            "Adamant gloves": [
-              7459
-            ],
-            "Bloodbark gauntlets": [
-              25407
-            ],
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
-            ]
           }
         ],
         "feet": [
@@ -14026,6 +14113,11 @@
             ]
           },
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Eternal boots": [
               13235
             ]
@@ -14033,11 +14125,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Infinity boots": [
-              6920
             ]
           }
         ],
@@ -14376,6 +14463,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -14393,11 +14485,6 @@
           {
             "Dragon boots": [
               11840
-            ]
-          },
-          {
-            "Climbing boots": [
-              3105
             ]
           }
         ],
@@ -14673,6 +14760,10 @@
               22481,
               22323
             ],
+            "Eye of ayak": [
+              31113,
+              31115
+            ],
             "Bow of faerdhinen": [
               25862,
               25865
@@ -14760,6 +14851,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -14772,11 +14868,6 @@
           {
             "Echo boots": [
               28945
-            ]
-          },
-          {
-            "Dragon boots": [
-              11840
             ]
           }
         ],
@@ -15074,8 +15165,8 @@
             "Ferocious gloves": [
               22981
             ],
-            "Tormented bracelet": [
-              19544
+            "Confliction gauntlets": [
+              31106
             ]
           },
           {
@@ -15089,6 +15180,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ],
@@ -15099,11 +15195,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Dragon boots": [
-              11840
             ]
           }
         ],
@@ -15545,6 +15636,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -15779,6 +15875,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -16143,6 +16244,11 @@
             ]
           },
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -16150,11 +16256,6 @@
           {
             "Bandos boots": [
               11836
-            ]
-          },
-          {
-            "Dragon boots": [
-              11840
             ]
           }
         ],
@@ -16506,8 +16607,18 @@
         ],
         "feet": [
           {
+            "Echo boots": [
+              28945
+            ]
+          },
+          {
             "Guardian boots": [
               21733
+            ]
+          },
+          {
+            "Avernic treads (max)": [
+              31097
             ]
           },
           {
@@ -16521,16 +16632,6 @@
             ],
             "Zamorak d'hide boots": [
               19936
-            ]
-          },
-          {
-            "Bandos boots": [
-              11836
-            ]
-          },
-          {
-            "Holy sandals": [
-              12598
             ]
           }
         ],
@@ -16886,6 +16987,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -16903,14 +17009,6 @@
           {
             "Boots of brimstone": [
               22951
-            ]
-          },
-          {
-            "Climbing boots": [
-              3105
-            ],
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -17285,6 +17383,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Pegasian boots": [
               13237
@@ -17746,8 +17849,18 @@
         ],
         "feet": [
           {
+            "Echo boots": [
+              28945
+            ]
+          },
+          {
             "Guardian boots": [
               21733
+            ]
+          },
+          {
+            "Avernic treads (max)": [
+              31097
             ]
           },
           {
@@ -17758,16 +17871,6 @@
           {
             "Dragon boots": [
               11840
-            ]
-          },
-          {
-            "Bandos boots": [
-              11836
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
             ]
           }
         ],
@@ -18007,6 +18110,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -18018,6 +18126,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -18286,6 +18399,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ],
@@ -18476,6 +18594,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Pegasian boots": [
               13237
@@ -18818,6 +18941,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -18843,11 +18971,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -19174,6 +19297,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -19185,6 +19313,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -19497,6 +19630,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -19855,6 +19993,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -20536,6 +20679,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -20562,11 +20710,6 @@
             ],
             "Mixed hide boots": [
               29286
-            ]
-          },
-          {
-            "Climbing boots": [
-              3105
             ]
           }
         ],
@@ -20901,6 +21044,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Pegasian boots": [
               13237
@@ -21260,6 +21408,11 @@
             "Echo boots": [
               28945
             ],
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -21553,6 +21706,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Pegasian boots": [
               13237
@@ -21885,6 +22043,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -22215,14 +22378,15 @@
           {
             "Echo boots": [
               28945
-            ]
-          },
-          {
+            ],
             "Guardian boots": [
               21733
             ]
           },
           {
+            "Avernic treads (max)": [
+              31097
+            ],
             "Primordial boots": [
               13239
             ]
@@ -22230,11 +22394,6 @@
           {
             "Dragon boots": [
               11840
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -22658,6 +22817,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -22885,6 +23049,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -22896,6 +23065,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -23224,6 +23398,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -23621,6 +23800,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -23933,6 +24117,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -23944,6 +24133,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -24165,6 +24359,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -25286,6 +25485,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -26063,6 +26267,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -26083,17 +26292,6 @@
           {
             "Granite boots": [
               21643
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
-            ],
-            "Climbing boots": [
-              3105
-            ],
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -26876,6 +27074,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -27304,11 +27507,16 @@
         ],
         "hands": [
           {
-            "Tormented bracelet": [
-              19544
+            "Confliction gauntlets": [
+              31106
             ],
             "Bracelet of slaughter": [
               21183
+            ]
+          },
+          {
+            "Tormented bracelet": [
+              19544
             ]
           },
           {
@@ -27325,20 +27533,14 @@
             "Infinity gloves": [
               6922
             ]
-          },
-          {
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
-            ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -27363,14 +27565,6 @@
             ],
             "Bloodbark boots": [
               25410
-            ]
-          },
-          {
-            "Mystic boots": [
-              4097
-            ],
-            "Wizard boots": [
-              2579
             ]
           }
         ],
@@ -27565,12 +27759,22 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -27914,6 +28118,11 @@
             ]
           },
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -27926,11 +28135,6 @@
           {
             "Bandos boots": [
               11836
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
             ]
           }
         ],
@@ -28270,6 +28474,11 @@
             ]
           },
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -28282,11 +28491,6 @@
           {
             "Bandos boots": [
               11836
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
             ]
           }
         ],
@@ -28566,6 +28770,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -28592,11 +28801,6 @@
             ],
             "Bandos boots": [
               11836
-            ]
-          },
-          {
-            "Devout boots": [
-              22954
             ]
           }
         ],
@@ -29224,6 +29428,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ],
@@ -29244,14 +29453,6 @@
           {
             "Granite boots": [
               21643
-            ]
-          },
-          {
-            "Spiked manacles": [
-              23389
-            ],
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -29356,6 +29557,9 @@
             ],
             "Arkan blade": [
               30955
+            ],
+            "Dragon scimitar": [
+              4587
             ]
           }
         ],
@@ -29873,6 +30077,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -30086,6 +30295,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -30093,11 +30307,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Dragon boots": [
-              11840
             ]
           }
         ],
@@ -30353,6 +30562,11 @@
         "ammo": [],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -30380,6 +30594,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -30716,6 +30935,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -30968,6 +31192,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -31323,6 +31552,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -31558,12 +31792,22 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -32188,6 +32432,11 @@
             ]
           },
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ],
@@ -32374,12 +32623,22 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -32728,6 +32987,11 @@
           }
         ],
         "hands": [
+          {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
           {
             "Tormented bracelet": [
               19544
@@ -34126,6 +34390,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -34465,6 +34734,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -34482,11 +34756,6 @@
               19927,
               19933,
               19936
-            ]
-          },
-          {
-            "Aranea boots": [
-              29806
             ]
           }
         ],
@@ -34768,6 +35037,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -34781,14 +35055,14 @@
             "Dragon gloves": [
               7461
             ]
-          },
-          {
-            "Infinity gloves": [
-              6922
-            ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -34805,11 +35079,6 @@
           {
             "Bloodbark boots": [
               25410
-            ]
-          },
-          {
-            "Mystic boots": [
-              4097
             ]
           }
         ],
@@ -34868,21 +35137,10 @@
         "name": "Melee",
         "head": [
           {
-            "Slayer helmet": [
-              11864
-            ],
-            "Black mask": [
-              8921,
-              8919,
-              8917,
-              8915,
-              8913,
-              8911,
-              8909,
-              8907,
-              8905,
-              8903,
-              8901
+            "Slayer helmet (i)": [
+              11865,
+              25177,
+              26674
             ]
           },
           {
@@ -35256,6 +35514,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -35285,11 +35548,6 @@
             ],
             "Climbing boots": [
               3105
-            ]
-          },
-          {
-            "Adamant boots": [
-              4129
             ]
           }
         ],
@@ -35726,6 +35984,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -35748,14 +36011,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
-            ],
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -36601,6 +36856,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Devout boots": [
               22954
             ],
@@ -36629,11 +36889,6 @@
           {
             "Boots of brimstone": [
               22951
-            ]
-          },
-          {
-            "Shayzien boots (5)": [
-              13378
             ]
           }
         ],
@@ -36844,12 +37099,22 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -37159,6 +37424,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -37179,14 +37449,14 @@
             "Dragon gloves": [
               7461
             ]
-          },
-          {
-            "Rune gloves": [
-              7460
-            ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -37211,11 +37481,6 @@
           {
             "Mystic boots": [
               4097
-            ]
-          },
-          {
-            "Splitbark boots": [
-              3393
             ]
           }
         ],
@@ -37619,6 +37884,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -37641,11 +37911,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -38001,6 +38266,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -38271,12 +38541,22 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -38708,6 +38988,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -38728,20 +39013,14 @@
             "Regen bracelet": [
               11133
             ]
-          },
-          {
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
-            ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -38763,11 +39042,6 @@
           {
             "Boots of brimstone": [
               22951
-            ]
-          },
-          {
-            "Wizard boots": [
-              2579
             ]
           }
         ],
@@ -39416,6 +39690,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -39648,6 +39927,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -39660,7 +39944,13 @@
             ]
           }
         ],
-        "feet": [],
+        "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          }
+        ],
         "ring": [],
         "special": [
           {
@@ -39818,7 +40108,13 @@
             ]
           }
         ],
-        "feet": [],
+        "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          }
+        ],
         "ring": [],
         "special": [
           {
@@ -40464,6 +40760,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -40482,20 +40783,14 @@
             "Rune gloves": [
               7460
             ]
-          },
-          {
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
-            ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -40520,11 +40815,6 @@
           {
             "Boots of brimstone": [
               22951
-            ]
-          },
-          {
-            "Mystic boots": [
-              4097
             ]
           }
         ],
@@ -40840,6 +41130,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -40860,11 +41155,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
             ]
           }
         ],
@@ -41362,6 +41652,9 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ],
             "Pegasian boots": [
               13237
             ]
@@ -41886,6 +42179,9 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ],
             "Primordial boots": [
               13239
             ]
@@ -42231,12 +42527,10 @@
             "Tumeken's shadow": [
               27277,
               27275
-            ]
-          },
-          {
-            "Sanguinesti staff": [
-              22481,
-              22323
+            ],
+            "Eye of ayak": [
+              31113,
+              31115
             ]
           }
         ],
@@ -42292,6 +42586,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -42308,6 +42607,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -43470,6 +43774,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Aranea boots": [
               29806
             ]
@@ -43958,6 +44267,11 @@
             ]
           },
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -43979,11 +44293,6 @@
             ],
             "Granite boots": [
               21643
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -45537,6 +45846,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -45559,14 +45873,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
-            ],
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -46115,6 +46421,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -46138,11 +46449,6 @@
           {
             "Granite boots": [
               21643
-            ]
-          },
-          {
-            "Bandos boots": [
-              11836
             ]
           }
         ],
@@ -47264,6 +47570,12 @@
               27277,
               27275
             ],
+            "Eye of ayak": [
+              31113,
+              31115
+            ]
+          },
+          {
             "Harmonised nightmare staff": [
               24423
             ]
@@ -47291,31 +47603,6 @@
             "Twinflame staff": [
               30634
             ]
-          },
-          {
-            "Ahrim's staff": [
-              4710,
-              4862,
-              4863,
-              4864,
-              4865,
-              4866
-            ],
-            "Trident of the seas": [
-              11908,
-              11907,
-              11905
-            ]
-          },
-          {
-            "Iban's staff": [
-              1409,
-              1410
-            ],
-            "Warped sceptre": [
-              28583,
-              28585
-            ]
           }
         ],
         "shield": [
@@ -47329,10 +47616,6 @@
             ]
           },
           {
-            "Tome of fire": [
-              20716,
-              20714
-            ],
             "Arcane spirit shield": [
               12825
             ]
@@ -47385,6 +47668,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -47392,20 +47680,6 @@
           {
             "Barrows gloves": [
               7462
-            ]
-          },
-          {
-            "Regen bracelet": [
-              11133
-            ],
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
             ]
           },
           {
@@ -47417,6 +47691,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -47437,16 +47716,6 @@
             "Boots of brimstone": [
               22951
             ]
-          },
-          {
-            "Bloodbark boots": [
-              25410
-            ]
-          },
-          {
-            "Wizard boots": [
-              2579
-            ]
           }
         ],
         "ring": [
@@ -47454,7 +47723,7 @@
             "Magus ring": [
               28313
             ],
-            "Ring of suffering (i)": [
+            "Ring of suffering (ri)": [
               19710,
               20657,
               25246,
@@ -47800,16 +48069,16 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Echo boots": [
               28945
             ],
             "Pegasian boots": [
               13237
-            ]
-          },
-          {
-            "Ranger boots": [
-              2577
             ]
           },
           {
@@ -48130,6 +48399,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ],
@@ -48204,6 +48478,422 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Magic (Diary kill)",
+        "head": [
+          {
+            "Serpentine helm": [
+              12929,
+              12931
+            ],
+            "Ahrim's hood": [
+              4708,
+              4856,
+              4857,
+              4858,
+              4859,
+              4860
+            ],
+            "Blue moon helm": [
+              29019,
+              29041,
+              29064
+            ]
+          },
+          {
+            "Infinity hat": [
+              6918
+            ],
+            "Bloodbark helm": [
+              25413
+            ]
+          },
+          {
+            "Mystic hat": [
+              4089
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Occult necklace": [
+              12002
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Bonecrusher necklace": [
+              22986
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          },
+          {
+            "Amulet of magic": [
+              1727
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Imbued god cape": [
+              2412,
+              2415,
+              2414,
+              2417,
+              2413,
+              2416,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          },
+          {
+            "God capes": [
+              2412,
+              2415,
+              2414,
+              2417,
+              2413,
+              2416,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          },
+          {
+            "Ardougne cloak 4": [
+              13124
+            ]
+          },
+          {
+            "Ardougne cloak 3": [
+              13123
+            ]
+          },
+          {
+            "Cape of Accomplishment": [
+              9771,
+              9772,
+              13340,
+              13341,
+              9747,
+              9748,
+              9768,
+              9769,
+              9789,
+              9790,
+              9801,
+              9802,
+              9753,
+              9754,
+              9810,
+              9811,
+              9804,
+              9805,
+              9798,
+              9799,
+              9783,
+              9784,
+              9762,
+              9763,
+              9774,
+              9775,
+              9780,
+              9781,
+              9948,
+              9949,
+              19476,
+              13069,
+              13329,
+              20447,
+              24134,
+              13337,
+              13335,
+              20760,
+              21285,
+              21289,
+              24133,
+              21776,
+              24238,
+              24232,
+              21784,
+              24242,
+              24234,
+              21780,
+              24246,
+              24233,
+              21898,
+              21916,
+              24135,
+              28902,
+              28906,
+              28830,
+              9792,
+              9793,
+              9759,
+              9760,
+              9786,
+              9787,
+              9795,
+              9796,
+              9777,
+              9778,
+              9813,
+              13068,
+              9750,
+              9751,
+              9756,
+              9757,
+              9765,
+              9766,
+              9807,
+              9808,
+              13221,
+              13222,
+              13280,
+              13342,
+              13333,
+              13331,
+              24855,
+              27363,
+              27361,
+              27365
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Ahrim's robetop": [
+              4712,
+              4868,
+              4869,
+              4870,
+              4871,
+              4872
+            ],
+            "Blue moon chestplate": [
+              29013,
+              29037,
+              29058
+            ]
+          },
+          {
+            "Dagon'hai robe top": [
+              24291
+            ],
+            "Infinity top": [
+              6916
+            ],
+            "Bloodbark body": [
+              25404
+            ]
+          },
+          {
+            "Mystic robe top": [
+              4091
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Ahrim's robeskirt": [
+              4714,
+              4874,
+              4875,
+              4876,
+              4877,
+              4878
+            ],
+            "Blue moon tassets": [
+              29016,
+              29039,
+              29061
+            ]
+          },
+          {
+            "Dagon'hai robe bottom": [
+              24294
+            ],
+            "Infinity bottoms": [
+              6924
+            ],
+            "Bloodbark legs": [
+              25416
+            ]
+          },
+          {
+            "Mystic robe bottom": [
+              4093
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Smoke battlestaff": [
+              11998
+            ],
+            "Twinflame staff": [
+              30634
+            ]
+          },
+          {
+            "Trident of the swamp": [
+              12900,
+              12899
+            ],
+            "Ahrim's staff": [
+              4710,
+              4862,
+              4863,
+              4864,
+              4865,
+              4866
+            ]
+          },
+          {
+            "Mystic fire staff": [
+              1401
+            ],
+            "Trident of the seas": [
+              11908,
+              11907,
+              11905
+            ]
+          },
+          {
+            "Iban's staff": [
+              1409,
+              1410
+            ],
+            "Warped sceptre": [
+              28583,
+              28585
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Tome of fire": [
+              20716,
+              20714
+            ]
+          },
+          {
+            "Mage's book": [
+              6889
+            ]
+          },
+          {
+            "Book of the dead": [
+              25818
+            ],
+            "Book of darkness": [
+              12612
+            ]
+          }
+        ],
+        "ammo": [],
+        "hands": [
+          {
+            "Tormented bracelet": [
+              19544
+            ]
+          },
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          },
+          {
+            "Regen bracelet": [
+              11133
+            ],
+            "Combat bracelet": [
+              11126,
+              11124,
+              11122,
+              11120,
+              11118,
+              11974,
+              11972
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Eternal boots": [
+              13235
+            ]
+          },
+          {
+            "Infinity boots": [
+              6920
+            ],
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
+            "Boots of brimstone": [
+              22951
+            ]
+          },
+          {
+            "Bloodbark boots": [
+              25410
+            ]
+          },
+          {
+            "Wizard boots": [
+              2579
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Ring of suffering (ri)": [
+              19710,
+              20657,
+              25246,
+              25248,
+              26761,
+              26762
+            ]
+          },
+          {
+            "Ring of recoil": [
+              2550
+            ]
+          }
+        ],
+        "special": []
       }
     ]
   },
@@ -48521,6 +49211,9 @@
             "Glacial temotli": [
               29889
             ],
+            "Ghrazi rapier": [
+              22324
+            ],
             "Saradomin sword": [
               11838
             ]
@@ -48634,6 +49327,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -48710,6 +49408,14 @@
             ],
             "Dragon claws": [
               13652
+            ]
+          },
+          {
+            "Voidwaker": [
+              27690
+            ],
+            "Arkan blade": [
+              30955
             ]
           },
           {
@@ -49145,6 +49851,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -49358,13 +50069,18 @@
         ],
         "feet": [
           {
-            "Aranea boots": [
-              29806
+            "Avernic treads (max)": [
+              31097
             ]
           },
           {
             "Pegasian boots": [
               13237
+            ]
+          },
+          {
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -49419,6 +50135,287 @@
           {
             "Zaryte crossbow": [
               26374
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Doom of Mokhaiotl",
+    "url": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl/Strategies",
+    "category": "Instance",
+    "styles": [
+      {
+        "name": "Ranged",
+        "head": [
+          {
+            "Masori mask (f)": [
+              27235
+            ]
+          },
+          {
+            "Void ranger helm": [
+              11664,
+              20479,
+              24184
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Necklace of anguish": [
+              19547
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Dizana's quiver": [
+              28947,
+              28951,
+              28949,
+              28953,
+              28826
+            ]
+          },
+          {
+            "Ava's assembler": [
+              22109,
+              21914,
+              24222
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Masori body (f)": [
+              27238
+            ]
+          },
+          {
+            "Elite void top": [
+              13072,
+              20467,
+              24178
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Masori chaps (f)": [
+              27241
+            ]
+          },
+          {
+            "Elite void robe": [
+              13073,
+              20471,
+              24180
+            ]
+          }
+        ],
+        "weapon": [],
+        "shield": [],
+        "ammo": [
+          {
+            "Dragon arrow": [
+              11212,
+              11227,
+              11228,
+              11229
+            ],
+            "Ruby dragon bolts (e)": [
+              21944
+            ]
+          },
+          {
+            "Amethyst arrow": [
+              21326,
+              21332,
+              21334,
+              21336
+            ],
+            "Ruby bolts (e)": [
+              9242
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Zaryte vambraces": [
+              26235
+            ]
+          },
+          {
+            "Void knight gloves": [
+              8842,
+              20475,
+              24182
+            ]
+          },
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
+            "Pegasian boots": [
+              13237
+            ],
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
+            "Blessed boots": [
+              19921,
+              19930,
+              19924,
+              19927,
+              19933,
+              19936
+            ],
+            "Mixed hide boots": [
+              29286
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Lightbearer": [
+              25975
+            ]
+          },
+          {
+            "Venator ring": [
+              28310
+            ]
+          }
+        ],
+        "special": [
+          {
+            "Zaryte crossbow": [
+              26374
+            ],
+            "Tonalztics of ralos": [
+              28919,
+              28922
+            ]
+          },
+          {
+            "Dragon knife": [
+              22804,
+              22806,
+              22808,
+              22810
+            ]
+          },
+          {
+            "Elder maul": [
+              21003
+            ],
+            "Dragon warhammer": [
+              13576
+            ]
+          }
+        ]
+      },
+      {
+        "name": "clearing Demonic larvae",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Emberlight": [
+              29589
+            ]
+          },
+          {
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
+            "Sulphur blades": [
+              29084
+            ],
+            "Glacial temotli": [
+              29889
+            ],
+            "Earthbound tecpatl": [
+              30957
+            ]
+          },
+          {
+            "Dual macuahuitl": [
+              28997
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Scorching bow": [
+              29591
+            ]
+          },
+          {
+            "Tonalztics of ralos": [
+              28919,
+              28922
+            ]
+          }
+        ],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Melee punish",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": [
+          {
+            "Dragon claws": [
+              13652
+            ]
+          },
+          {
+            "Crystal halberd": [
+              23987,
+              23989,
+              24125
+            ]
+          },
+          {
+            "Burning claws": [
+              29577
             ]
           }
         ]
@@ -49783,6 +50780,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -50224,6 +51226,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Primordial boots": [
               13239
@@ -51172,6 +52179,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -51397,6 +52409,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -51410,6 +52427,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -52465,6 +53487,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -52482,11 +53509,6 @@
           {
             "Devout boots": [
               22954
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -52807,6 +53829,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -52824,14 +53851,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
-            ],
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -53197,6 +54216,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -53414,6 +54438,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -53431,14 +54460,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
-            ],
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -53807,6 +54828,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -53829,11 +54855,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
             ]
           }
         ],
@@ -54318,6 +55339,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -54338,14 +55364,14 @@
             "Dragon gloves": [
               7461
             ]
-          },
-          {
-            "Infinity gloves": [
-              6922
-            ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -54364,14 +55390,6 @@
           {
             "Wizard boots": [
               2579
-            ]
-          },
-          {
-            "Mystic boots": [
-              4097
-            ],
-            "Boots of darkness": [
-              20140
             ]
           }
         ],
@@ -54754,6 +55772,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -54771,11 +55794,6 @@
           {
             "Granite boots": [
               21643
-            ]
-          },
-          {
-            "Rune boots": [
-              4131
             ]
           }
         ],
@@ -54851,6 +55869,11 @@
       {
         "name": "Ranged",
         "head": [
+          {
+            "Masori mask": [
+              27226
+            ]
+          },
           {
             "Armadyl helmet": [
               11826
@@ -55128,6 +56151,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -55150,11 +56178,6 @@
           {
             "Boots of brimstone": [
               22951
-            ]
-          },
-          {
-            "Shayzien boots (5)": [
-              13378
             ]
           }
         ],
@@ -56133,6 +57156,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -56359,7 +57387,13 @@
             ]
           }
         ],
-        "feet": [],
+        "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          }
+        ],
         "ring": [],
         "special": [
           {
@@ -56707,6 +57741,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -56724,11 +57763,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Granite boots": [
-              21643
             ]
           }
         ],
@@ -57104,6 +58138,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -57126,14 +58165,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
-            ],
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -57393,6 +58424,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -57415,14 +58451,6 @@
           {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
-            ],
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -57702,6 +58730,10 @@
         ],
         "shield": [
           {
+            "Tome of fire": [
+              20716,
+              20714
+            ],
             "Elidinis' ward (f)": [
               27251
             ]
@@ -57750,6 +58782,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -57768,26 +58805,14 @@
             "Rune gloves": [
               7460
             ]
-          },
-          {
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
-            ],
-            "Regen bracelet": [
-              11133
-            ],
-            "Mystic gloves": [
-              4095
-            ]
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -57812,11 +58837,6 @@
             ],
             "Boots of darkness": [
               20140
-            ]
-          },
-          {
-            "Mystic boots": [
-              4097
             ]
           }
         ],
@@ -58186,6 +59206,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -58203,11 +59228,6 @@
           {
             "Rune boots": [
               4131
-            ]
-          },
-          {
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -58638,6 +59658,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -58732,6 +59757,11 @@
             ],
             "Dragon warhammer": [
               13576
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
             ]
           },
           {
@@ -58976,7 +60006,13 @@
             ]
           }
         ],
-        "feet": [],
+        "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          }
+        ],
         "ring": [
           {
             "Venator ring": [
@@ -59245,6 +60281,11 @@
         "ammo": [],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -59272,6 +60313,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -60027,6 +61073,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -60047,14 +61098,6 @@
           {
             "Guardian boots": [
               21733
-            ]
-          },
-          {
-            "Mixed hide boots": [
-              29286
-            ],
-            "Climbing boots": [
-              3105
             ]
           }
         ],
@@ -60489,6 +61532,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Pegasian boots": [
               13237
             ]
@@ -60900,6 +61948,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -60922,6 +61975,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235
@@ -62017,6 +63075,11 @@
         ],
         "feet": [
           {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
             "Primordial boots": [
               13239
             ]
@@ -62338,6 +63401,11 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ]
+          },
+          {
             "Tormented bracelet": [
               19544
             ]
@@ -62361,6 +63429,11 @@
           }
         ],
         "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
           {
             "Eternal boots": [
               13235

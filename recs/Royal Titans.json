@@ -908,6 +908,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -1134,7 +1139,13 @@
         ]
       }
     ],
-    "feet": [],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      }
+    ],
     "ring": [],
     "special": [
       {

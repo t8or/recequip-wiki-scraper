@@ -400,6 +400,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -613,13 +618,18 @@
     ],
     "feet": [
       {
-        "Aranea boots": [
-          29806
+        "Avernic treads (max)": [
+          31097
         ]
       },
       {
         "Pegasian boots": [
           13237
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
         ]
       },
       {

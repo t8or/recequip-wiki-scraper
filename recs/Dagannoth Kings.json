@@ -243,19 +243,15 @@
           22486,
           22325
         ],
-        "Tumeken's shadow": [
-          27277,
-          27275
+        "Eye of ayak": [
+          31113,
+          31115
         ],
         "Twisted bow": [
           20997
         ]
       },
       {
-        "Sanguinesti staff": [
-          22481,
-          22323
-        ],
         "Toxic blowpipe": [
           12924,
           12926
@@ -394,14 +390,17 @@
         "Ferocious gloves": [
           22981
         ],
-        "Tormented bracelet": [
-          19544
+        "Confliction gauntlets": [
+          31106
         ],
         "Zaryte vambraces": [
           26235
         ]
       },
       {
+        "Tormented bracelet": [
+          19544
+        ],
         "Barrows gloves": [
           7462
         ]
@@ -425,11 +424,13 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
-        ],
-        "Pegasian boots": [
-          13237
         ]
       },
       {
@@ -449,11 +450,6 @@
         ],
         "Granite boots": [
           21643
-        ]
-      },
-      {
-        "Devout boots": [
-          22954
         ]
       },
       {
@@ -956,6 +952,10 @@
     ],
     "weapon": [
       {
+        "Eye of ayak": [
+          31113,
+          31115
+        ],
         "Sanguinesti staff": [
           22481,
           22323
@@ -1062,6 +1062,11 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
@@ -1098,6 +1103,11 @@
         ]
       },
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Eternal boots": [
           13235
         ],
@@ -1113,11 +1123,6 @@
       {
         "Bloodbark boots": [
           25410
-        ]
-      },
-      {
-        "Mystic boots": [
-          4097
         ]
       }
     ],
@@ -1646,6 +1651,11 @@
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Pegasian boots": [
           13237

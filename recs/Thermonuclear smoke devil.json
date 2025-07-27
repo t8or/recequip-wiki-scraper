@@ -245,6 +245,11 @@
     ],
     "hands": [
       {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
         "Tormented bracelet": [
           19544
         ]
@@ -263,20 +268,14 @@
         "Rune gloves": [
           7460
         ]
-      },
-      {
-        "Combat bracelet": [
-          11126,
-          11124,
-          11122,
-          11120,
-          11118,
-          11974,
-          11972
-        ]
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Eternal boots": [
           13235
@@ -301,11 +300,6 @@
       {
         "Boots of brimstone": [
           22951
-        ]
-      },
-      {
-        "Mystic boots": [
-          4097
         ]
       }
     ],
@@ -621,6 +615,11 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
         "Primordial boots": [
           13239
         ]
@@ -641,11 +640,6 @@
       {
         "Guardian boots": [
           21733
-        ]
-      },
-      {
-        "Granite boots": [
-          21643
         ]
       }
     ],
