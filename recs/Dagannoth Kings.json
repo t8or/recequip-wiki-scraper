@@ -84,11 +84,6 @@
         ]
       },
       {
-        "Amulet of torture": [
-          19553
-        ]
-      },
-      {
         "Amulet of blood fury": [
           24780
         ],
@@ -168,8 +163,8 @@
         "Bandos chestplate": [
           11832
         ],
-        "Armadyl chestplate": [
-          11828
+        "Masori body": [
+          27229
         ]
       },
       {
@@ -208,8 +203,8 @@
         "Bandos tassets": [
           11834
         ],
-        "Armadyl chainskirt": [
-          11830
+        "Masori chaps": [
+          27232
         ]
       },
       {
@@ -504,6 +499,11 @@
           25248,
           26761,
           26762
+        ],
+        "Granite ring (i)": [
+          21752,
+          25193,
+          26685
         ]
       },
       {
@@ -1116,9 +1116,6 @@
         ]
       },
       {
-        "Wizard boots": [
-          2579
-        ],
         "Mystic boots": [
           4097
         ]
@@ -1226,6 +1223,9 @@
         "Crystal helm": [
           23971,
           23973
+        ],
+        "Masori mask": [
+          27226
         ]
       },
       {
@@ -1278,6 +1278,14 @@
       {
         "Amulet of fury": [
           6585
+        ]
+      },
+      {
+        "Bonecrusher necklace": [
+          22986
+        ],
+        "Dragonbone necklace": [
+          22111
         ]
       },
       {
@@ -1373,16 +1381,8 @@
         ]
       },
       {
-        "Armadyl chestplate": [
-          11828
-        ],
-        "Karil's leathertop": [
-          4736,
-          4940,
-          4941,
-          4942,
-          4943,
-          4944
+        "Masori body": [
+          27229
         ]
       },
       {
@@ -1393,6 +1393,14 @@
           10378,
           10386,
           10370
+        ],
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
         ]
       },
       {
@@ -1455,16 +1463,8 @@
         ]
       },
       {
-        "Armadyl chainskirt": [
-          11830
-        ],
-        "Karil's leatherskirt": [
-          4738,
-          4946,
-          4947,
-          4948,
-          4949,
-          4950
+        "Masori chaps": [
+          27232
         ]
       },
       {
@@ -1475,6 +1475,14 @@
           10380,
           10388,
           10372
+        ],
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
         ]
       },
       {
@@ -1659,11 +1667,6 @@
         ]
       },
       {
-        "Ranger boots": [
-          2577
-        ]
-      },
-      {
         "Bandos boots": [
           11836
         ]
@@ -1676,10 +1679,15 @@
         ]
       },
       {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
         ],
         "Ring of shadows": [
           28329,
@@ -1687,15 +1695,18 @@
         ]
       },
       {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
-        "Ring of the gods (i)": [
-          13202,
-          25252,
-          26764
+        "Ring of suffering (i)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ],
+        "Granite ring (i)": [
+          21752,
+          25193,
+          26685
         ]
       },
       {
