@@ -4245,8 +4245,8 @@
         "weapon": [
           {
             "Eye of ayak": [
-              31113,
-              31115
+              31115,
+              31113
             ]
           },
           {
@@ -7044,6 +7044,12 @@
             ]
           },
           {
+            "Eye of ayak": [
+              31115,
+              31113
+            ]
+          },
+          {
             "Sanguinesti staff": [
               22481,
               22323
@@ -7063,9 +7069,7 @@
               11908,
               11907,
               11905
-            ]
-          },
-          {
+            ],
             "Warped sceptre": [
               28583,
               28585
@@ -12222,8 +12226,8 @@
               22325
             ],
             "Eye of ayak": [
-              31113,
-              31115
+              31115,
+              31113
             ],
             "Twisted bow": [
               20997
@@ -12931,8 +12935,8 @@
         "weapon": [
           {
             "Eye of ayak": [
-              31113,
-              31115
+              31115,
+              31113
             ],
             "Sanguinesti staff": [
               22481,
@@ -13985,6 +13989,10 @@
             "Tumeken's shadow": [
               27277,
               27275
+            ],
+            "Eye of ayak": [
+              31115,
+              31113
             ]
           },
           {
@@ -14761,8 +14769,8 @@
               22323
             ],
             "Eye of ayak": [
-              31113,
-              31115
+              31115,
+              31113
             ],
             "Bow of faerdhinen": [
               25862,
@@ -19707,16 +19715,13 @@
             ]
           },
           {
-            "Osmumten's fang": [
-              26219
+            "Arkan blade": [
+              30955
             ]
           },
           {
-            "Dragon dagger": [
-              1215,
-              1231,
-              5680,
-              5698
+            "Osmumten's fang": [
+              26219
             ]
           }
         ]
@@ -23259,6 +23264,9 @@
             ]
           },
           {
+            "Hueycoatl hide body": [
+              30076
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -23285,6 +23293,9 @@
             ]
           },
           {
+            "Hueycoatl hide chaps": [
+              30079
+            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -23596,6 +23607,9 @@
             ]
           },
           {
+            "Hueycoatl hide body": [
+              30076
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -23637,6 +23651,9 @@
             ]
           },
           {
+            "Hueycoatl hide chaps": [
+              30079
+            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -24067,9 +24084,9 @@
             ]
           },
           {
-            "Sanguinesti staff": [
-              22481,
-              22323
+            "Eye of ayak": [
+              31115,
+              31113
             ]
           }
         ],
@@ -24192,17 +24209,14 @@
         ],
         "special": [
           {
-            "Saradomin godsword": [
-              11806
-            ],
-            "Ancient godsword": [
-              26233
+            "Eye of ayak": [
+              31115,
+              31113
             ]
           },
           {
-            "Toxic blowpipe": [
-              12924,
-              12926
+            "Ancient godsword": [
+              26233
             ]
           },
           {
@@ -24773,6 +24787,9 @@
             ]
           },
           {
+            "Hueycoatl hide body": [
+              30076
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -24790,6 +24807,9 @@
         ],
         "legs": [
           {
+            "Hueycoatl hide chaps": [
+              30079
+            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -25023,6 +25043,9 @@
         ],
         "body": [
           {
+            "Hueycoatl hide body": [
+              30076
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -25050,6 +25073,9 @@
         ],
         "legs": [
           {
+            "Hueycoatl hide chaps": [
+              30079
+            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -25356,6 +25382,9 @@
             ]
           },
           {
+            "Hueycoatl hide body": [
+              30076
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -25388,6 +25417,9 @@
             ]
           },
           {
+            "Hueycoatl hide chaps": [
+              30079
+            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -25786,9 +25818,26 @@
         ],
         "shield": [
           {
+            "Avernic defender": [
+              22322,
+              22441,
+              24186
+            ]
+          },
+          {
+            "Dragon defender": [
+              12954,
+              20463,
+              24143
+            ]
+          },
+          {
             "Dragonfire shield": [
               11284,
               11283
+            ],
+            "Antler guard": [
+              31081
             ]
           },
           {
@@ -25880,15 +25929,14 @@
             ]
           },
           {
+            "Ring of shadows": [
+              28329,
+              28327
+            ],
             "Treasonous ring (i)": [
               12692,
               25256,
               26766
-            ]
-          },
-          {
-            "Brimstone ring": [
-              22975
             ]
           },
           {
@@ -25897,9 +25945,28 @@
               25264,
               26770
             ]
+          },
+          {
+            "Brimstone ring": [
+              22975
+            ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Voidwaker": [
+              27690
+            ],
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
+            ]
+          }
+        ]
       },
       {
         "name": "Melee BIS smuggle",
@@ -26302,6 +26369,16 @@
             ]
           },
           {
+            "Berserker ring (i)": [
+              11773,
+              25264,
+              26770
+            ]
+          },
+          {
+            "Brimstone ring": [
+              22975
+            ],
             "Treasonous ring (i)": [
               12692,
               25256,
@@ -26309,19 +26386,27 @@
             ]
           },
           {
-            "Brimstone ring": [
-              22975
-            ]
-          },
-          {
-            "Berserker ring (i)": [
-              11773,
-              25264,
-              26770
+            "Ring of shadows": [
+              28329,
+              28327
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Voidwaker": [
+              27690
+            ],
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
+            ]
+          }
+        ]
       },
       {
         "name": "Ranged",
@@ -27400,6 +27485,10 @@
         ],
         "weapon": [
           {
+            "Eye of ayak": [
+              31115,
+              31113
+            ],
             "Tumeken's shadow": [
               27277,
               27275
@@ -30503,6 +30592,10 @@
             "Harmonised nightmare staff": [
               24423
             ],
+            "Eye of ayak": [
+              31115,
+              31113
+            ],
             "Sanguinesti staff": [
               22481,
               22323
@@ -31713,6 +31806,10 @@
             "Harmonised nightmare staff": [
               24423
             ],
+            "Eye of ayak": [
+              31115,
+              31113
+            ],
             "Tumeken's shadow": [
               27277,
               27275
@@ -32044,11 +32141,16 @@
             ]
           },
           {
+            "Colossal blade": [
+              27021
+            ]
+          },
+          {
             "Dragon mace": [
               1434
             ],
-            "Colossal blade": [
-              27021
+            "Glacial temotli": [
+              29889
             ]
           }
         ],
@@ -32870,12 +32972,16 @@
             ]
           },
           {
-            "Sanguinesti staff": [
-              22481,
-              22323
+            "Eye of ayak": [
+              31115,
+              31113
             ]
           },
           {
+            "Sanguinesti staff": [
+              22481,
+              22323
+            ],
             "Trident of the swamp": [
               12900,
               12899
@@ -38464,6 +38570,10 @@
               27277,
               27275
             ],
+            "Eye of ayak": [
+              31115,
+              31113
+            ],
             "Harmonised nightmare staff": [
               24423
             ]
@@ -38888,6 +38998,10 @@
             ]
           },
           {
+            "Eye of ayak": [
+              31115,
+              31113
+            ],
             "Harmonised nightmare staff": [
               24423
             ]
@@ -39838,9 +39952,9 @@
         ],
         "weapon": [
           {
-            "Sanguinesti staff": [
-              22481,
-              22323
+            "Eye of ayak": [
+              31115,
+              31113
             ],
             "Kodai wand": [
               21006
@@ -39850,6 +39964,10 @@
             ]
           },
           {
+            "Sanguinesti staff": [
+              22481,
+              22323
+            ],
             "Trident of the swamp": [
               12900,
               12899
@@ -41202,8 +41320,13 @@
             ]
           },
           {
-            "Elder maul": [
-              21003
+            "Voidwaker": [
+              27690
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
             ]
           },
           {
@@ -41212,9 +41335,7 @@
               1231,
               5680,
               5698
-            ]
-          },
-          {
+            ],
             "Osmumten's fang": [
               26219
             ]
@@ -42529,8 +42650,8 @@
               27275
             ],
             "Eye of ayak": [
-              31113,
-              31115
+              31115,
+              31113
             ]
           }
         ],
@@ -44166,6 +44287,9 @@
           {
             "Zombie axe": [
               28810
+            ],
+            "Arkan blade": [
+              30955
             ]
           }
         ],
@@ -46496,6 +46620,9 @@
             ]
           },
           {
+            "Arkan blade": [
+              30955
+            ],
             "Dragon claws": [
               13652
             ]
@@ -47571,8 +47698,8 @@
               27275
             ],
             "Eye of ayak": [
-              31113,
-              31115
+              31115,
+              31113
             ]
           },
           {
@@ -50160,6 +50287,12 @@
               20479,
               24184
             ]
+          },
+          {
+            "Serpentine helm": [
+              12929,
+              12931
+            ]
           }
         ],
         "neck": [
@@ -50169,8 +50302,8 @@
             ]
           },
           {
-            "Amulet of fury": [
-              6585
+            "Amulet of blood fury": [
+              24780
             ]
           }
         ],
@@ -50303,6 +50436,16 @@
             "Venator ring": [
               28310
             ]
+          },
+          {
+            "Ring of suffering (i)": [
+              19710,
+              20657,
+              25246,
+              25248,
+              26761,
+              26762
+            ]
           }
         ],
         "special": [
@@ -50310,17 +50453,17 @@
             "Zaryte crossbow": [
               26374
             ],
-            "Tonalztics of ralos": [
-              28919,
-              28922
-            ]
-          },
-          {
             "Dragon knife": [
               22804,
               22806,
               22808,
               22810
+            ]
+          },
+          {
+            "Tonalztics of ralos": [
+              28919,
+              28922
             ]
           },
           {
@@ -50342,8 +50485,8 @@
         "legs": [],
         "weapon": [
           {
-            "Emberlight": [
-              29589
+            "Darklight": [
+              6746
             ]
           },
           {
@@ -50368,20 +50511,14 @@
             ]
           }
         ],
-        "shield": [
+        "shield": [],
+        "ammo": [
           {
             "Scorching bow": [
               29591
             ]
-          },
-          {
-            "Tonalztics of ralos": [
-              28919,
-              28922
-            ]
           }
         ],
-        "ammo": [],
         "hands": [],
         "feet": [],
         "ring": [],
@@ -50402,11 +50539,6 @@
         "ring": [],
         "special": [
           {
-            "Dragon claws": [
-              13652
-            ]
-          },
-          {
             "Crystal halberd": [
               23987,
               23989,
@@ -50414,8 +50546,8 @@
             ]
           },
           {
-            "Burning claws": [
-              29577
+            "Dragon claws": [
+              13652
             ]
           }
         ]
@@ -51656,6 +51788,24 @@
               11854,
               11855
             ]
+          },
+          {
+            "Polar camo top": [
+              10065,
+              28857
+            ],
+            "Wood camo top": [
+              10053,
+              28839
+            ],
+            "Desert camo top": [
+              10061,
+              28851
+            ],
+            "Jungle camo top": [
+              10057,
+              28845
+            ]
           }
         ],
         "legs": [
@@ -51663,6 +51813,24 @@
             "Graceful legs": [
               11856,
               11857
+            ]
+          },
+          {
+            "Polar camo legs": [
+              10067,
+              28860
+            ],
+            "Wood camo legs": [
+              10055,
+              28842
+            ],
+            "Desert camo legs": [
+              10063,
+              28854
+            ],
+            "Jungle camo legs": [
+              10059,
+              28848
             ]
           }
         ],
@@ -60209,12 +60377,16 @@
             ]
           },
           {
-            "Sanguinesti staff": [
-              22481,
-              22323
+            "Eye of ayak": [
+              31115,
+              31113
             ]
           },
           {
+            "Sanguinesti staff": [
+              22481,
+              22323
+            ],
             "Trident of the swamp": [
               12900,
               12899
