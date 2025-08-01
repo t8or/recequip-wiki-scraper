@@ -13,6 +13,12 @@
           20479,
           24184
         ]
+      },
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
       }
     ],
     "neck": [
@@ -22,8 +28,8 @@
         ]
       },
       {
-        "Amulet of fury": [
-          6585
+        "Amulet of blood fury": [
+          24780
         ]
       }
     ],
@@ -156,6 +162,16 @@
         "Venator ring": [
           28310
         ]
+      },
+      {
+        "Ring of suffering (i)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
       }
     ],
     "special": [
@@ -163,17 +179,17 @@
         "Zaryte crossbow": [
           26374
         ],
-        "Tonalztics of ralos": [
-          28919,
-          28922
-        ]
-      },
-      {
         "Dragon knife": [
           22804,
           22806,
           22808,
           22810
+        ]
+      },
+      {
+        "Tonalztics of ralos": [
+          28919,
+          28922
         ]
       },
       {
@@ -195,8 +211,8 @@
     "legs": [],
     "weapon": [
       {
-        "Emberlight": [
-          29589
+        "Darklight": [
+          6746
         ]
       },
       {
@@ -221,20 +237,14 @@
         ]
       }
     ],
-    "shield": [
+    "shield": [],
+    "ammo": [
       {
         "Scorching bow": [
           29591
         ]
-      },
-      {
-        "Tonalztics of ralos": [
-          28919,
-          28922
-        ]
       }
     ],
-    "ammo": [],
     "hands": [],
     "feet": [],
     "ring": [],
@@ -255,11 +265,6 @@
     "ring": [],
     "special": [
       {
-        "Dragon claws": [
-          13652
-        ]
-      },
-      {
         "Crystal halberd": [
           23987,
           23989,
@@ -267,8 +272,8 @@
         ]
       },
       {
-        "Burning claws": [
-          29577
+        "Dragon claws": [
+          13652
         ]
       }
     ]

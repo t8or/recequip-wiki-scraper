@@ -72,6 +72,24 @@
           11854,
           11855
         ]
+      },
+      {
+        "Polar camo top": [
+          10065,
+          28857
+        ],
+        "Wood camo top": [
+          10053,
+          28839
+        ],
+        "Desert camo top": [
+          10061,
+          28851
+        ],
+        "Jungle camo top": [
+          10057,
+          28845
+        ]
       }
     ],
     "legs": [
@@ -79,6 +97,24 @@
         "Graceful legs": [
           11856,
           11857
+        ]
+      },
+      {
+        "Polar camo legs": [
+          10067,
+          28860
+        ],
+        "Wood camo legs": [
+          10055,
+          28842
+        ],
+        "Desert camo legs": [
+          10063,
+          28854
+        ],
+        "Jungle camo legs": [
+          10059,
+          28848
         ]
       }
     ],

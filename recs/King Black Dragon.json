@@ -240,9 +240,26 @@
     ],
     "shield": [
       {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {
         "Dragonfire shield": [
           11284,
           11283
+        ],
+        "Antler guard": [
+          31081
         ]
       },
       {
@@ -334,15 +351,14 @@
         ]
       },
       {
+        "Ring of shadows": [
+          28329,
+          28327
+        ],
         "Treasonous ring (i)": [
           12692,
           25256,
           26766
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
         ]
       },
       {
@@ -351,9 +367,28 @@
           25264,
           26770
         ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Voidwaker": [
+          27690
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
+        ]
+      }
+    ]
   },
   {
     "name": "Melee BIS smuggle",
@@ -756,6 +791,16 @@
         ]
       },
       {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
         "Treasonous ring (i)": [
           12692,
           25256,
@@ -763,19 +808,27 @@
         ]
       },
       {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
-        "Berserker ring (i)": [
-          11773,
-          25264,
-          26770
+        "Ring of shadows": [
+          28329,
+          28327
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Voidwaker": [
+          27690
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
+        ]
+      }
+    ]
   },
   {
     "name": "Ranged",

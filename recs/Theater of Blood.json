@@ -721,9 +721,9 @@
     ],
     "weapon": [
       {
-        "Sanguinesti staff": [
-          22481,
-          22323
+        "Eye of ayak": [
+          31115,
+          31113
         ],
         "Kodai wand": [
           21006
@@ -733,6 +733,10 @@
         ]
       },
       {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ],
         "Trident of the swamp": [
           12900,
           12899
