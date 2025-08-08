@@ -2604,6 +2604,9 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -2632,6 +2635,9 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -8891,6 +8897,12 @@
             "Accursed sceptre": [
               27662,
               27665
+            ]
+          },
+          {
+            "Eye of ayak": [
+              31115,
+              31113
             ]
           }
         ]
@@ -19391,6 +19403,10 @@
           {
             "Neitiznot faceguard": [
               24271
+            ],
+            "Serpentine helm": [
+              12929,
+              12931
             ]
           },
           {
@@ -19398,12 +19414,6 @@
               11665,
               20481,
               24185
-            ]
-          },
-          {
-            "Serpentine helm": [
-              12929,
-              12931
             ]
           },
           {
@@ -19506,8 +19516,8 @@
             "Proselyte hauberk": [
               9674
             ],
-            "Obsidian platebody": [
-              21301
+            "Mixed hide top": [
+              29280
             ]
           }
         ],
@@ -19534,8 +19544,8 @@
             "Proselyte cuisse": [
               9676
             ],
-            "Obsidian platelegs": [
-              21304
+            "Mixed hide legs": [
+              29283
             ]
           }
         ],
@@ -21398,6 +21408,9 @@
         ],
         "hands": [
           {
+            "Confliction gauntlets": [
+              31106
+            ],
             "Zaryte vambraces": [
               26235
             ]
@@ -29647,8 +29660,8 @@
             "Arkan blade": [
               30955
             ],
-            "Dragon scimitar": [
-              4587
+            "Dragon sword": [
+              21009
             ]
           }
         ],
@@ -39205,6 +39218,10 @@
             "Accursed sceptre": [
               27662,
               27665
+            ],
+            "Eye of ayak": [
+              31115,
+              31113
             ]
           },
           {
@@ -46047,6 +46064,10 @@
           {
             "Elder maul": [
               21003
+            ],
+            "Tonalztics of ralos": [
+              28919,
+              28922
             ]
           },
           {
@@ -46620,9 +46641,6 @@
             ]
           },
           {
-            "Arkan blade": [
-              30955
-            ],
             "Dragon claws": [
               13652
             ]
@@ -46630,6 +46648,10 @@
           {
             "Elder maul": [
               21003
+            ],
+            "Tonalztics of ralos": [
+              28919,
+              28922
             ]
           },
           {
@@ -49847,11 +49869,11 @@
             ]
           },
           {
-            "Soulreaper axe": [
-              28338
-            ],
             "Inquisitor's mace": [
               24417
+            ],
+            "Soulreaper axe": [
+              28338
             ]
           },
           {
@@ -50279,13 +50301,16 @@
           {
             "Masori mask (f)": [
               27235
-            ]
-          },
-          {
+            ],
             "Void ranger helm": [
               11664,
               20479,
               24184
+            ]
+          },
+          {
+            "Masori mask": [
+              27226
             ]
           },
           {
@@ -50329,13 +50354,16 @@
           {
             "Masori body (f)": [
               27238
-            ]
-          },
-          {
+            ],
             "Elite void top": [
               13072,
               20467,
               24178
+            ]
+          },
+          {
+            "Masori body": [
+              27229
             ]
           }
         ],
@@ -50343,13 +50371,16 @@
           {
             "Masori chaps (f)": [
               27241
-            ]
-          },
-          {
+            ],
             "Elite void robe": [
               13073,
               20471,
               24180
+            ]
+          },
+          {
+            "Masori chaps": [
+              27232
             ]
           }
         ],
@@ -50383,9 +50414,7 @@
           {
             "Zaryte vambraces": [
               26235
-            ]
-          },
-          {
+            ],
             "Void knight gloves": [
               8842,
               20475,
@@ -50516,6 +50545,11 @@
           {
             "Scorching bow": [
               29591
+            ]
+          },
+          {
+            "Holy water": [
+              732
             ]
           }
         ],
@@ -58858,6 +58892,11 @@
         ],
         "weapon": [
           {
+            "Dragon hunter wand": [
+              30070
+            ]
+          },
+          {
             "Harmonised nightmare staff": [
               24423
             ]
@@ -58882,17 +58921,6 @@
             ],
             "Staff of light": [
               22296
-            ]
-          },
-          {
-            "Nightmare staff": [
-              24422
-            ],
-            "Eldritch nightmare staff": [
-              24425
-            ],
-            "Volatile nightmare staff": [
-              24424
             ]
           }
         ],
@@ -59928,11 +59956,6 @@
             ]
           },
           {
-            "Arkan blade": [
-              30955
-            ]
-          },
-          {
             "Dragon dagger": [
               1215,
               1231,
@@ -60643,9 +60666,9 @@
             ]
           },
           {
-            "Sanguinesti staff": [
-              22481,
-              22323
+            "Eye of ayak": [
+              31115,
+              31113
             ],
             "Ghrazi rapier": [
               22324
@@ -60655,9 +60678,9 @@
             ]
           },
           {
-            "Trident of the swamp": [
-              12900,
-              12899
+            "Sanguinesti staff": [
+              22481,
+              22323
             ],
             "Zamorakian hasta": [
               11889
