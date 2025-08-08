@@ -1279,6 +1279,11 @@
     ],
     "weapon": [
       {
+        "Dragon hunter wand": [
+          30070
+        ]
+      },
+      {
         "Harmonised nightmare staff": [
           24423
         ]
@@ -1303,17 +1308,6 @@
         ],
         "Staff of light": [
           22296
-        ]
-      },
-      {
-        "Nightmare staff": [
-          24422
-        ],
-        "Eldritch nightmare staff": [
-          24425
-        ],
-        "Volatile nightmare staff": [
-          24424
         ]
       }
     ],

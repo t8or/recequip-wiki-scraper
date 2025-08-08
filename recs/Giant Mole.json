@@ -718,6 +718,10 @@
       {
         "Neitiznot faceguard": [
           24271
+        ],
+        "Serpentine helm": [
+          12929,
+          12931
         ]
       },
       {
@@ -725,12 +729,6 @@
           11665,
           20481,
           24185
-        ]
-      },
-      {
-        "Serpentine helm": [
-          12929,
-          12931
         ]
       },
       {
@@ -833,8 +831,8 @@
         "Proselyte hauberk": [
           9674
         ],
-        "Obsidian platebody": [
-          21301
+        "Mixed hide top": [
+          29280
         ]
       }
     ],
@@ -861,8 +859,8 @@
         "Proselyte cuisse": [
           9676
         ],
-        "Obsidian platelegs": [
-          21304
+        "Mixed hide legs": [
+          29283
         ]
       }
     ],
