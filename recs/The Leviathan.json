@@ -29,6 +29,9 @@
         ]
       },
       {
+        "Hueycoatl hide coif": [
+          30073
+        ],
         "Karil's coif": [
           4732,
           4928,
@@ -145,6 +148,11 @@
           4942,
           4943,
           4944
+        ]
+      },
+      {
+        "Hueycoatl hide body": [
+          30076
         ],
         "Blessed body": [
           12492,
@@ -153,11 +161,6 @@
           10378,
           10386,
           10370
-        ]
-      },
-      {
-        "Black d'hide body": [
-          2503
         ]
       }
     ],
@@ -191,6 +194,11 @@
           4948,
           4949,
           4950
+        ]
+      },
+      {
+        "Hueycoatl hide chaps": [
+          30079
         ],
         "Blessed chaps": [
           12494,
@@ -199,11 +207,6 @@
           10380,
           10388,
           10372
-        ]
-      },
-      {
-        "Black d'hide chaps": [
-          2497
         ]
       }
     ],
@@ -264,11 +267,23 @@
         ]
       },
       {
-        "Book of law": [
-          12610
+        "Blessed shield": [
+          12831,
+          23197,
+          23200,
+          23203,
+          23188,
+          23191,
+          23194
+        ],
+        "Black d'hide shield": [
+          22284
         ]
       },
       {
+        "Book of law": [
+          12610
+        ],
         "Unholy book": [
           3842
         ]
@@ -305,8 +320,8 @@
         ]
       },
       {
-        "Black d'hide vambraces": [
-          2491
+        "Hueycoatl hide vambraces": [
+          30082
         ],
         "Blessed vambraces": [
           12490,

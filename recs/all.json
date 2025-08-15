@@ -106,6 +106,9 @@
             ]
           },
           {
+            "Hueycoatl hide body": [
+              30076
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -113,7 +116,9 @@
               10378,
               10386,
               10370
-            ],
+            ]
+          },
+          {
             "Black d'hide body": [
               2503
             ]
@@ -132,6 +137,9 @@
             ]
           },
           {
+            "Hueycoatl hide chaps": [
+              30079
+            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -139,7 +147,9 @@
               10380,
               10388,
               10372
-            ],
+            ]
+          },
+          {
             "Black d'hide chaps": [
               2497
             ]
@@ -2605,8 +2615,8 @@
               26378,
               26384
             ],
-            "Oathplate legs": [
-              30756
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -3479,6 +3489,12 @@
             ]
           },
           {
+            "Eye of ayak": [
+              31115,
+              31113
+            ]
+          },
+          {
             "Sanguinesti staff": [
               22481,
               22323
@@ -3493,9 +3509,7 @@
               11908,
               11907,
               11905
-            ]
-          },
-          {
+            ],
             "Warped sceptre": [
               28583,
               28585
@@ -9949,6 +9963,9 @@
               22322,
               22441,
               24186
+            ],
+            "Elysian spirit shield": [
+              12817
             ]
           },
           {
@@ -9962,11 +9979,6 @@
             "Dragonfire shield": [
               11284,
               11283
-            ]
-          },
-          {
-            "Elysian spirit shield": [
-              12817
             ]
           }
         ],
@@ -10025,6 +10037,11 @@
         ],
         "feet": [
           {
+            "Echo boots": [
+              28945
+            ]
+          },
+          {
             "Avernic treads (max)": [
               31097
             ]
@@ -10035,14 +10052,9 @@
             ]
           },
           {
-            "Echo boots": [
-              28945
-            ],
             "Dragon boots": [
               11840
-            ]
-          },
-          {
+            ],
             "Spiked manacles": [
               23389
             ]
@@ -18078,6 +18090,12 @@
             ]
           },
           {
+            "Eye of ayak": [
+              31115,
+              31113
+            ]
+          },
+          {
             "Sanguinesti staff": [
               22481,
               22323
@@ -19261,9 +19279,9 @@
         ],
         "shield": [
           {
-            "Tome of water": [
-              25576,
-              25574
+            "Tome of earth": [
+              30066,
+              30064
             ],
             "Elidinis' ward (f)": [
               27251
@@ -21885,6 +21903,11 @@
             ]
           },
           {
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
+            ],
             "Karil's leathertop": [
               4736,
               4940,
@@ -21918,6 +21941,9 @@
           {
             "Black d'hide body": [
               2503
+            ],
+            "Mixed hide top": [
+              29280
             ]
           }
         ],
@@ -21931,6 +21957,11 @@
             "Crystal legs": [
               23979,
               23981
+            ],
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
             ]
           },
           {
@@ -21961,6 +21992,9 @@
           {
             "Black d'hide chaps": [
               2497
+            ],
+            "Mixed hide legs": [
+              29283
             ]
           }
         ],
@@ -29530,8 +29564,8 @@
         ],
         "feet": [
           {
-            "Avernic treads (max)": [
-              31097
+            "Avernic treads (pr)": [
+              31091
             ]
           },
           {
@@ -36679,6 +36713,9 @@
             ]
           },
           {
+            "Hueycoatl hide coif": [
+              30073
+            ],
             "Karil's coif": [
               4732,
               4928,
@@ -36795,6 +36832,11 @@
               4942,
               4943,
               4944
+            ]
+          },
+          {
+            "Hueycoatl hide body": [
+              30076
             ],
             "Blessed body": [
               12492,
@@ -36803,11 +36845,6 @@
               10378,
               10386,
               10370
-            ]
-          },
-          {
-            "Black d'hide body": [
-              2503
             ]
           }
         ],
@@ -36841,6 +36878,11 @@
               4948,
               4949,
               4950
+            ]
+          },
+          {
+            "Hueycoatl hide chaps": [
+              30079
             ],
             "Blessed chaps": [
               12494,
@@ -36849,11 +36891,6 @@
               10380,
               10388,
               10372
-            ]
-          },
-          {
-            "Black d'hide chaps": [
-              2497
             ]
           }
         ],
@@ -36914,11 +36951,23 @@
             ]
           },
           {
-            "Book of law": [
-              12610
+            "Blessed shield": [
+              12831,
+              23197,
+              23200,
+              23203,
+              23188,
+              23191,
+              23194
+            ],
+            "Black d'hide shield": [
+              22284
             ]
           },
           {
+            "Book of law": [
+              12610
+            ],
             "Unholy book": [
               3842
             ]
@@ -36955,8 +37004,8 @@
             ]
           },
           {
-            "Black d'hide vambraces": [
-              2491
+            "Hueycoatl hide vambraces": [
+              30082
             ],
             "Blessed vambraces": [
               12490,
@@ -38134,6 +38183,9 @@
           {
             "Helm of neitiznot": [
               10828
+            ],
+            "Zombie helmet": [
+              30321
             ]
           }
         ],
@@ -44266,9 +44318,6 @@
           {
             "Obsidian platelegs": [
               21304
-            ],
-            "Dragon platelegs": [
-              4087
             ]
           }
         ],
@@ -47426,6 +47475,9 @@
             ]
           },
           {
+            "Dagon'hai hat": [
+              24288
+            ],
             "Infinity hat": [
               6918
             ],
@@ -48513,6 +48565,9 @@
           {
             "Noxious halberd": [
               29796
+            ],
+            "Eclipse atlatl": [
+              29000
             ]
           }
         ],
@@ -48651,6 +48706,9 @@
             ]
           },
           {
+            "Dagon'hai hat": [
+              24288
+            ],
             "Infinity hat": [
               6918
             ],
@@ -49545,8 +49603,9 @@
             ]
           },
           {
-            "Explorer's ring 1": [
-              13125
+            "Ring of shadows": [
+              28329,
+              28327
             ]
           }
         ],
@@ -50394,8 +50453,8 @@
               11228,
               11229
             ],
-            "Ruby dragon bolts (e)": [
-              21944
+            "Ruby bolts (e)": [
+              9242
             ]
           },
           {
@@ -60146,6 +60205,9 @@
           {
             "Rune crossbow": [
               9185
+            ],
+            "Eclipse atlatl": [
+              29000
             ]
           }
         ],
@@ -63664,6 +63726,9 @@
               11770,
               25258,
               26767
+            ],
+            "Brimstone ring": [
+              22975
             ]
           },
           {
