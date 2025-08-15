@@ -398,6 +398,11 @@
         ]
       },
       {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
         "Karil's leathertop": [
           4736,
           4940,
@@ -431,6 +436,9 @@
       {
         "Black d'hide body": [
           2503
+        ],
+        "Mixed hide top": [
+          29280
         ]
       }
     ],
@@ -444,6 +452,11 @@
         "Crystal legs": [
           23979,
           23981
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ]
       },
       {
@@ -474,6 +487,9 @@
       {
         "Black d'hide chaps": [
           2497
+        ],
+        "Mixed hide legs": [
+          29283
         ]
       }
     ],

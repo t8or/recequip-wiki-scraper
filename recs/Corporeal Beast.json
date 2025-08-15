@@ -628,6 +628,9 @@
           22322,
           22441,
           24186
+        ],
+        "Elysian spirit shield": [
+          12817
         ]
       },
       {
@@ -641,11 +644,6 @@
         "Dragonfire shield": [
           11284,
           11283
-        ]
-      },
-      {
-        "Elysian spirit shield": [
-          12817
         ]
       }
     ],
@@ -704,6 +702,11 @@
     ],
     "feet": [
       {
+        "Echo boots": [
+          28945
+        ]
+      },
+      {
         "Avernic treads (max)": [
           31097
         ]
@@ -714,14 +717,9 @@
         ]
       },
       {
-        "Echo boots": [
-          28945
-        ],
         "Dragon boots": [
           11840
-        ]
-      },
-      {
+        ],
         "Spiked manacles": [
           23389
         ]
