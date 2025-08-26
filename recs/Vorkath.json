@@ -5,9 +5,7 @@
       {
         "Masori mask (f)": [
           27235
-        ]
-      },
-      {
+        ],
         "Void ranger helm": [
           11664,
           20479,
@@ -110,14 +108,14 @@
       {
         "Masori body (f)": [
           27238
-        ]
-      },
-      {
+        ],
         "Elite void top": [
           13072,
           20467,
           24178
-        ],
+        ]
+      },
+      {
         "Void knight top": [
           8839,
           20465,
@@ -160,14 +158,14 @@
       {
         "Masori chaps (f)": [
           27241
-        ]
-      },
-      {
+        ],
         "Elite void robe": [
           13073,
           20471,
           24180
-        ],
+        ]
+      },
+      {
         "Void knight robe": [
           8840,
           20469,
@@ -303,9 +301,7 @@
       {
         "Zaryte vambraces": [
           26235
-        ]
-      },
-      {
+        ],
         "Void knight gloves": [
           8842,
           20475,
@@ -328,11 +324,6 @@
         ],
         "Black d'hide vambraces": [
           2491
-        ]
-      },
-      {
-        "Ranger gloves": [
-          19994
         ]
       }
     ],

@@ -1225,5 +1225,213 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Melee (soulflame horn)",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Torva full helm": [
+          26376,
+          26382
+        ]
+      },
+      {
+        "Oathplate helm": [
+          30750
+        ],
+        "Neitiznot faceguard": [
+          24271
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of blood fury": [
+          24780
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ]
+      },
+      {
+        "Oathplate chest": [
+          30753
+        ],
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
+        "Oathplate legs": [
+          30756
+        ],
+        "Bandos tassets": [
+          11834
+        ]
+      },
+      {
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Noxious halberd": [
+          29796
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Unholy blessing": [
+          20223
+        ],
+        "Honourable blessing": [
+          20229
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Armadyl bracers": [
+          12506
+        ],
+        "Zamorak bracers": [
+          10368
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
+        ],
+        "Dragon boots": [
+          11840
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Ultor ring": [
+          28307
+        ],
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Soulflame horn": [
+          30759
+        ]
+      }
+    ]
   }
 ]

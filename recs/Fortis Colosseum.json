@@ -7,16 +7,13 @@
           26376,
           26382
         ],
-        "Oathplate helm": [
-          30750
-        ],
         "Masori mask (f)": [
           27235
         ]
       },
       {
-        "Neitiznot faceguard": [
-          24271
+        "Oathplate helm": [
+          30750
         ],
         "Crystal helm": [
           23971,
@@ -24,6 +21,9 @@
         ]
       },
       {
+        "Neitiznot faceguard": [
+          24271
+        ],
         "Serpentine helm": [
           12929,
           12931
@@ -39,8 +39,16 @@
         "Amulet of blood fury": [
           24780
         ],
+        "Amulet of rancour": [
+          29801
+        ],
         "Necklace of anguish": [
           19547
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
         ]
       }
     ],
@@ -74,17 +82,17 @@
     ],
     "body": [
       {
-        "Oathplate chest": [
-          30753
+        "Torva platebody": [
+          26378,
+          26384
         ],
         "Masori body (f)": [
           27238
         ]
       },
       {
-        "Torva platebody": [
-          26378,
-          26384
+        "Oathplate chest": [
+          30753
         ],
         "Masori body (f)": [
           27238
@@ -118,16 +126,17 @@
     ],
     "legs": [
       {
-        "Oathplate legs": [
-          30756
+        "Torva platelegs": [
+          26380,
+          26386
         ],
         "Masori chaps (f)": [
           27241
         ]
       },
       {
-        "Bandos tassets": [
-          11834
+        "Oathplate legs": [
+          30756
         ],
         "Crystal legs": [
           23979,
@@ -135,6 +144,9 @@
         ]
       },
       {
+        "Bandos tassets": [
+          11834
+        ],
         "Blood moon tassets": [
           29025,
           29045,
@@ -172,10 +184,6 @@
           23997,
           23995
         ],
-        "Sanguinesti staff": [
-          22481,
-          22323
-        ],
         "Eye of ayak": [
           31115,
           31113
@@ -195,6 +203,10 @@
         ],
         "Noxious halberd": [
           29796
+        ],
+        "Sanguinesti staff": [
+          22481,
+          22323
         ],
         "Trident of the swamp": [
           12900,
@@ -345,22 +357,22 @@
           26376,
           26382
         ],
-        "Oathplate helm": [
-          30750
-        ],
         "Ancestral hat": [
           21018
         ]
       },
       {
-        "Neitiznot faceguard": [
-          24271
+        "Oathplate helm": [
+          30750
         ],
         "Virtus mask": [
           26241
         ]
       },
       {
+        "Neitiznot faceguard": [
+          24271
+        ],
         "Serpentine helm": [
           12929,
           12931
@@ -374,6 +386,17 @@
       {
         "Amulet of blood fury": [
           24780
+        ],
+        "Amulet of rancour": [
+          29801
+        ],
+        "Occult necklace": [
+          12002
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
         ],
         "Occult necklace": [
           12002
@@ -432,9 +455,6 @@
     ],
     "body": [
       {
-        "Oathplate chest": [
-          30753
-        ],
         "Torva platebody": [
           26378,
           26384
@@ -444,8 +464,21 @@
         ]
       },
       {
+        "Oathplate chest": [
+          30753
+        ],
+        "Virtus robe top": [
+          26243
+        ]
+      },
+      {
         "Bandos chestplate": [
           11832
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
         ],
         "Virtus robe top": [
           26243
@@ -457,11 +490,6 @@
           20513,
           24175
         ],
-        "Blood moon chestplate": [
-          29022,
-          29043,
-          29067
-        ],
         "Virtus robe top": [
           26243
         ]
@@ -469,9 +497,6 @@
     ],
     "legs": [
       {
-        "Oathplate legs": [
-          30756
-        ],
         "Torva platelegs": [
           26380,
           26386
@@ -481,8 +506,21 @@
         ]
       },
       {
+        "Oathplate legs": [
+          30756
+        ],
+        "Virtus robe bottom": [
+          26245
+        ]
+      },
+      {
         "Bandos tassets": [
           11834
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
         ],
         "Virtus robe bottom": [
           26245
@@ -601,11 +639,11 @@
         ]
       },
       {
-        "Primordial boots": [
-          13239
-        ],
         "Eternal boots": [
           13235
+        ],
+        "Primordial boots": [
+          13239
         ]
       },
       {
@@ -652,17 +690,11 @@
         "Burning claws": [
           29577
         ],
-        "Voidwaker": [
-          27690
-        ],
         "Elder maul": [
           21003
         ],
         "Dragon warhammer": [
           13576
-        ],
-        "Eldritch nightmare staff": [
-          24425
         ]
       }
     ]
@@ -878,6 +910,9 @@
       {
         "Amulet of blood fury": [
           24780
+        ],
+        "Amulet of rancour": [
+          29801
         ]
       }
     ],
@@ -899,14 +934,14 @@
     ],
     "body": [
       {
-        "Oathplate chest": [
-          30753
-        ]
-      },
-      {
         "Torva platebody": [
           26378,
           26384
+        ]
+      },
+      {
+        "Oathplate chest": [
+          30753
         ]
       },
       {
@@ -929,14 +964,14 @@
     ],
     "legs": [
       {
-        "Oathplate legs": [
-          30756
-        ]
-      },
-      {
         "Torva platelegs": [
           26380,
           26386
+        ]
+      },
+      {
+        "Oathplate legs": [
+          30756
         ]
       },
       {
@@ -1182,6 +1217,9 @@
     ],
     "body": [
       {
+        "Oathplate chest": [
+          30753
+        ],
         "Torva platebody": [
           26378,
           26384
@@ -1217,6 +1255,9 @@
     ],
     "legs": [
       {
+        "Oathplate legs": [
+          30756
+        ],
         "Torva platelegs": [
           26380,
           26386

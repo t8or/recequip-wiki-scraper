@@ -70,12 +70,20 @@
           29035,
           29055
         ]
+      },
+      {
+        "Obsidian helmet": [
+          21298
+        ]
       }
     ],
     "neck": [
       {
         "Amulet of fury": [
           6585
+        ],
+        "Amulet of strength": [
+          1725
         ]
       },
       {
@@ -87,6 +95,11 @@
           1712,
           11976,
           11978
+        ]
+      },
+      {
+        "Berserker necklace": [
+          11128
         ]
       }
     ],
@@ -101,6 +114,11 @@
       {
         "Mythical cape": [
           22114
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
         ]
       }
     ],
@@ -129,6 +147,11 @@
           29013,
           29037,
           29058
+        ]
+      },
+      {
+        "Obsidian platebody": [
+          21301
         ]
       }
     ],
@@ -173,6 +196,11 @@
         ]
       },
       {
+        "Toktz-xil-ak": [
+          6523
+        ]
+      },
+      {
         "Zombie axe": [
           28810
         ],
@@ -200,6 +228,11 @@
           20461,
           24142
         ]
+      },
+      {
+        "Toktz-ket-xil": [
+          6524
+        ]
       }
     ],
     "ammo": [],
@@ -207,6 +240,19 @@
       {
         "Barrows gloves": [
           7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ],
+        "Rune gloves": [
+          7460
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
         ]
       },
       {
@@ -250,6 +296,9 @@
         ]
       },
       {
+        "Brimstone ring": [
+          22975
+        ],
         "Warrior ring (i)": [
           11772,
           25262,

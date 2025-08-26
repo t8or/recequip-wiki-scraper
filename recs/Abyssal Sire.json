@@ -1,5 +1,484 @@
 [
   {
+    "name": "Phase 1 Melee",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Black mask (i)": [
+          11784,
+          11783,
+          11782,
+          11781,
+          11780,
+          11779,
+          11778,
+          11777,
+          11776,
+          11775,
+          11774,
+          25276,
+          25275,
+          25274,
+          25273,
+          25272,
+          25271,
+          25270,
+          25269,
+          25268,
+          25267,
+          25266,
+          26781,
+          26780,
+          26779,
+          26778,
+          26777,
+          26776,
+          26775,
+          26774,
+          26773,
+          26772,
+          26771
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ],
+        "Hitpoints cape": [
+          9768,
+          9769
+        ]
+      },
+      {
+        "Mixed hide cape": [
+          29289
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ]
+      },
+      {
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ]
+      },
+      {
+        "Bandos tassets": [
+          11834
+        ]
+      },
+      {
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
+        "Obsidian platelegs": [
+          21304
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scorching bow": [
+          29591
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ]
+      },
+      {
+        "Arrows": [
+          10498,
+          10499,
+          22109,
+          21914,
+          24222,
+          9706,
+          882,
+          883,
+          5616,
+          5622,
+          884,
+          885,
+          5617,
+          5623,
+          886,
+          887,
+          5618,
+          5624,
+          888,
+          889,
+          5619,
+          5625,
+          890,
+          891,
+          5620,
+          5626,
+          2866,
+          78,
+          892,
+          893,
+          5621,
+          5627,
+          4160,
+          21326,
+          21332,
+          21334,
+          21336,
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ]
+      },
+      {
+        "Rune boots": [
+          4131
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": []
+  },
+  {
+    "name": "Phase 1 Magic",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Black mask (i)": [
+          11784,
+          11783,
+          11782,
+          11781,
+          11780,
+          11779,
+          11778,
+          11777,
+          11776,
+          11775,
+          11774,
+          25276,
+          25275,
+          25274,
+          25273,
+          25272,
+          25271,
+          25270,
+          25269,
+          25268,
+          25267,
+          25266,
+          26781,
+          26780,
+          26779,
+          26778,
+          26777,
+          26776,
+          26775,
+          26774,
+          26773,
+          26772,
+          26771
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Imbued god cape": [
+          2412,
+          2415,
+          2414,
+          2417,
+          2413,
+          2416,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      },
+      {
+        "Bloodbark body": [
+          25404
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      },
+      {
+        "Bloodbark legs": [
+          25416
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ]
+      },
+      {
+        "Trident of the swamp": [
+          12900,
+          12899
+        ]
+      },
+      {
+        "Trident of the seas": [
+          11908,
+          11907,
+          11905
+        ]
+      },
+      {
+        "Blood ancient sceptre": [
+          28260,
+          28238,
+          28473
+        ],
+        "Ancient sceptre": [
+          27624,
+          27626
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Elidinis' ward": [
+          25985
+        ],
+        "Arcane spirit shield": [
+          12825
+        ]
+      },
+      {
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Malediction ward": [
+          11924
+        ],
+        "Mage's book": [
+          6889
+        ]
+      }
+    ],
+    "ammo": [],
+    "hands": [
+      {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      },
+      {
+        "Bloodbark gauntlets": [
+          25407
+        ]
+      }
+    ],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
     "name": "Phase 1 Ranged",
     "head": [
       {
@@ -241,203 +720,6 @@
     "special": []
   },
   {
-    "name": "Phase 1 Magic",
-    "head": [
-      {
-        "Slayer helmet (i)": [
-          11865,
-          25177,
-          26674
-        ]
-      },
-      {
-        "Black mask (i)": [
-          11784,
-          11783,
-          11782,
-          11781,
-          11780,
-          11779,
-          11778,
-          11777,
-          11776,
-          11775,
-          11774,
-          25276,
-          25275,
-          25274,
-          25273,
-          25272,
-          25271,
-          25270,
-          25269,
-          25268,
-          25267,
-          25266,
-          26781,
-          26780,
-          26779,
-          26778,
-          26777,
-          26776,
-          26775,
-          26774,
-          26773,
-          26772,
-          26771
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Occult necklace": [
-          12002
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Imbued god cape": [
-          2412,
-          2415,
-          2414,
-          2417,
-          2413,
-          2416,
-          21791,
-          24236,
-          24248,
-          21795,
-          24244,
-          24250,
-          21793,
-          24240,
-          24249
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Ancestral robe top": [
-          21021
-        ]
-      },
-      {
-        "Virtus robe top": [
-          26243
-        ]
-      },
-      {
-        "Bloodbark body": [
-          25404
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Ancestral robe bottom": [
-          21024
-        ]
-      },
-      {
-        "Virtus robe bottom": [
-          26245
-        ]
-      },
-      {
-        "Bloodbark legs": [
-          25416
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Tumeken's shadow": [
-          27277,
-          27275
-        ]
-      },
-      {
-        "Sanguinesti staff": [
-          22481,
-          22323
-        ]
-      },
-      {
-        "Trident of the swamp": [
-          12900,
-          12899
-        ]
-      },
-      {
-        "Trident of the seas": [
-          11908,
-          11907,
-          11905
-        ]
-      },
-      {
-        "Blood ancient sceptre": [
-          28260,
-          28238,
-          28473
-        ],
-        "Ancient sceptre": [
-          27624,
-          27626
-        ]
-      }
-    ],
-    "shield": [
-      {
-        "Elidinis' ward (f)": [
-          27251
-        ]
-      },
-      {
-        "Elidinis' ward": [
-          25985
-        ],
-        "Arcane spirit shield": [
-          12825
-        ]
-      },
-      {
-        "Ancient wyvern shield": [
-          21634,
-          21633
-        ],
-        "Malediction ward": [
-          11924
-        ],
-        "Mage's book": [
-          6889
-        ]
-      }
-    ],
-    "ammo": [],
-    "hands": [
-      {
-        "Confliction gauntlets": [
-          31106
-        ]
-      },
-      {
-        "Tormented bracelet": [
-          19544
-        ]
-      },
-      {
-        "Bloodbark gauntlets": [
-          25407
-        ]
-      }
-    ],
-    "feet": [],
-    "ring": [],
-    "special": []
-  },
-  {
     "name": "Phase 1 Melee",
     "head": [
       {
@@ -536,6 +818,11 @@
         "Hitpoints cape": [
           9768,
           9769
+        ]
+      },
+      {
+        "Mixed hide cape": [
+          29289
         ]
       }
     ],

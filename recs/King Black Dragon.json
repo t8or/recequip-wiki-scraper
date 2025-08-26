@@ -3,8 +3,10 @@
     "name": "4-item melee",
     "head": [
       {
-        "Slayer helmet": [
-          11864
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
         ],
         "Helm of neitiznot": [
           10828
@@ -394,8 +396,10 @@
     "name": "Melee BIS smuggle",
     "head": [
       {
-        "Slayer helmet": [
-          11864
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
         ],
         "Torva full helm": [
           26376,

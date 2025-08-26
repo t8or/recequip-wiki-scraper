@@ -10,15 +10,15 @@
         ],
         "Masori mask (f)": [
           27235
+        ],
+        "Masori mask": [
+          27226
         ]
       },
       {
         "Crystal helm": [
           23971,
           23973
-        ],
-        "Masori mask": [
-          27226
         ]
       },
       {
@@ -122,15 +122,15 @@
       {
         "Masori body (f)": [
           27238
+        ],
+        "Masori body": [
+          27229
         ]
       },
       {
         "Crystal body": [
           23975,
           23977
-        ],
-        "Masori body": [
-          27229
         ]
       },
       {
@@ -148,9 +148,7 @@
           4942,
           4943,
           4944
-        ]
-      },
-      {
+        ],
         "Hueycoatl hide body": [
           30076
         ],
@@ -162,21 +160,26 @@
           10386,
           10370
         ]
+      },
+      {
+        "Black d'hide body": [
+          2503
+        ]
       }
     ],
     "legs": [
       {
         "Masori chaps (f)": [
           27241
+        ],
+        "Masori chaps": [
+          27232
         ]
       },
       {
         "Crystal legs": [
           23979,
           23981
-        ],
-        "Masori chaps": [
-          27232
         ]
       },
       {
@@ -194,9 +197,7 @@
           4948,
           4949,
           4950
-        ]
-      },
-      {
+        ],
         "Hueycoatl hide chaps": [
           30079
         ],
@@ -207,6 +208,11 @@
           10380,
           10388,
           10372
+        ]
+      },
+      {
+        "Black d'hide chaps": [
+          2497
         ]
       }
     ],
@@ -223,18 +229,12 @@
       {
         "Armadyl crossbow": [
           11785
-        ],
-        "Bow of faerdhinen": [
-          25862,
-          25865
         ]
       },
       {
-        "Dragon crossbow": [
-          21902
-        ],
-        "Dragon hunter crossbow": [
-          21012
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ]
       },
       {
@@ -267,25 +267,16 @@
         ]
       },
       {
-        "Blessed shield": [
-          12831,
-          23197,
-          23200,
-          23203,
-          23188,
-          23191,
-          23194
-        ],
-        "Black d'hide shield": [
-          22284
+        "Antler guard": [
+          31081
         ]
       },
       {
         "Book of law": [
           12610
         ],
-        "Unholy book": [
-          3842
+        "Black d'hide shield": [
+          22284
         ]
       }
     ],

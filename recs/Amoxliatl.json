@@ -3,8 +3,10 @@
     "name": "Melee",
     "head": [
       {
-        "Slayer helmet": [
-          11864
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
         ],
         "Inquisitor's great helm": [
           24419

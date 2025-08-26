@@ -148,6 +148,20 @@ def handle_special_cases(itemName: str, template: Template) -> tuple[list[int] |
         return ids, itemName
     return None, None
 
+def get_alt_items(itemName: str) -> list[str]:
+    """
+    Get alternative item names for a given item name.
+    
+    Args:
+        itemName (str): Name of the item to get alternative names for
+        
+    Returns:
+        list: List of alternative item names, or itemName if no alternatives found
+    """
+    if itemName == "Skull sceptre":
+        return ["Skull sceptre", "Skull sceptre (i)"]
+    return [itemName]
+
 def get_items_from_page(itemName: str):
     """
     Extract item IDs from a wiki page, handling various page structures and templates.
@@ -163,7 +177,7 @@ def get_items_from_page(itemName: str):
         itemName, sectionName = itemName.split('#')
     itemCode = get_item_page_code(itemName)
     if sectionName is not None:
-        itemCode = itemCode.get_sections(matches=sectionName)[0]
+        itemCode = itemCode.get_sections(matches=sectionName.replace('_', ' '))[0]
     ids: list[int] = []
     for ft in itemCode.filter_templates():
         # Real item page, break out after getting ids
@@ -175,14 +189,16 @@ def get_items_from_page(itemName: str):
         if ft.name.matches('Infotable Bonuses'):
             positionalParams = [p.value.strip() for p in ft.params if not p.showkey]
             for p in positionalParams:
-                itemCode = get_item_page_code(p)
-                ids.extend(get_ids_of_item(itemCode, p))
+                for i in get_alt_items(p):
+                    itemCode = get_item_page_code(i)
+                    ids.extend(get_ids_of_item(itemCode, i))
             break
 
         if ft.name.matches('plink') or ft.name.matches('plinkp') or ft.name.matches('plinkt') or ft.name.matches('CostLine'):
             subName = ft.params[0].value.strip()
-            itemCode = get_item_page_code(subName)
-            ids.extend(get_ids_of_item(itemCode, subName))
+            for i in get_alt_items(subName):
+                itemCode = get_item_page_code(i)
+                ids.extend(get_ids_of_item(itemCode, i))
             continue
 
     # remove duplicates from ids without changing order
@@ -338,7 +354,8 @@ def run():
         #     # 'Amoxliatl/Strategies',
         #     # 'Araxxor/Strategies',
         #     # 'Wintertodt/Strategies',
-        #     'The Hueycoatl/Strategies',
+        #     # 'The Hueycoatl/Strategies',
+        #     'Doom_of_Mokhaiotl/Strategies'
         # ]
         res = api.get_wiki_api({
             "action": "query",
