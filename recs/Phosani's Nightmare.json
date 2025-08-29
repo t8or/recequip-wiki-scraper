@@ -437,9 +437,6 @@
     ],
     "weapon": [
       {
-        "Harmonised nightmare staff": [
-          24423
-        ],
         "Eye of ayak": [
           31115,
           31113
@@ -447,6 +444,11 @@
         "Tumeken's shadow": [
           27277,
           27275
+        ]
+      },
+      {
+        "Harmonised nightmare staff": [
+          24423
         ]
       },
       {
@@ -472,12 +474,6 @@
           11908,
           11907,
           11905
-        ]
-      },
-      {
-        "Accursed sceptre": [
-          27662,
-          27665
         ]
       }
     ],

@@ -10,12 +10,12 @@
         ]
       },
       {
+        "Inquisitor's great helm": [
+          24419
+        ],
         "Torva full helm": [
           26376,
           26382
-        ],
-        "Inquisitor's great helm": [
-          24419
         ]
       },
       {
@@ -111,12 +111,12 @@
     ],
     "body": [
       {
+        "Inquisitor's hauberk": [
+          24420
+        ],
         "Torva platebody": [
           26378,
           26384
-        ],
-        "Inquisitor's hauberk": [
-          24420
         ]
       },
       {
@@ -147,12 +147,12 @@
     ],
     "legs": [
       {
+        "Inquisitor's plateskirt": [
+          24421
+        ],
         "Torva platelegs": [
           26380,
           26386
-        ],
-        "Inquisitor's plateskirt": [
-          24421
         ]
       },
       {
@@ -347,11 +347,17 @@
       {
         "Elder maul": [
           21003
+        ],
+        "Voidwaker": [
+          27690
         ]
       },
       {
         "Dragon warhammer": [
           13576
+        ],
+        "Dragon claws": [
+          13652
         ]
       },
       {
@@ -365,6 +371,170 @@
         ]
       }
     ]
+  },
+  {
+    "name": "High DPS (Phase Two)",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Ancestral hat": [
+          21018
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "God capes#Imbuing": [
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
+        "Eye of ayak": [
+          31115,
+          31113
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ],
+        "Ghommal's lucky penny": [
+          27544
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Eternal boots": [
+          13235
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Magus ring": [
+          28313
+        ]
+      },
+      {
+        "Seers ring": [
+          6731
+        ]
+      }
+    ],
+    "special": []
   },
   {
     "name": "High DPS (Phase Two)",

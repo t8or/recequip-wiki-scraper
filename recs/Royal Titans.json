@@ -193,6 +193,10 @@
         ],
         "Abyssal whip": [
           4151
+        ],
+        "Saradomin's blessed sword": [
+          12809,
+          12808
         ]
       },
       {
@@ -220,6 +224,9 @@
           12954,
           20463,
           24143
+        ],
+        "Antler guard": [
+          31081
         ]
       },
       {
@@ -486,7 +493,13 @@
         ]
       }
     ],
-    "shield": [],
+    "shield": [
+      {
+        "Antler guard": [
+          31081
+        ]
+      }
+    ],
     "ammo": [
       {
         "Atlatl dart": [
