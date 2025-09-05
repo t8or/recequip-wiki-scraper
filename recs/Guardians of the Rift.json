@@ -218,7 +218,14 @@
         ]
       }
     ],
-    "hands": [],
+    "hands": [
+      {
+        "Graceful gloves": [
+          11858,
+          11859
+        ]
+      }
+    ],
     "feet": [
       {
         "Boots of the eye": [

@@ -24,6 +24,9 @@
         ]
       },
       {
+        "Hueycoatl hide coif": [
+          30073
+        ],
         "Blessed coif": [
           12496,
           12512,
@@ -138,6 +141,9 @@
         ]
       },
       {
+        "Hueycoatl hide body": [
+          30076
+        ],
         "Blessed body": [
           12492,
           12508,
@@ -176,6 +182,9 @@
         ]
       },
       {
+        "Hueycoatl hide chaps": [
+          30079
+        ],
         "Blessed chaps": [
           12494,
           12510,
@@ -1265,6 +1274,16 @@
         "Eye of ayak": [
           31115,
           31113
+        ]
+      },
+      {
+        "Twinflame staff": [
+          30634
+        ]
+      },
+      {
+        "Mystic smoke staff": [
+          12000
         ]
       }
     ],

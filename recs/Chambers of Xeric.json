@@ -6,12 +6,12 @@
         "Torva full helm": [
           26376,
           26382
-        ],
-        "Oathplate helm": [
-          30750
         ]
       },
       {
+        "Oathplate helm": [
+          30750
+        ],
         "Neitiznot faceguard": [
           24271
         ],
@@ -23,7 +23,9 @@
         "Serpentine helm": [
           12929,
           12931
-        ],
+        ]
+      },
+      {
         "Blood moon helm": [
           29028,
           29047,
@@ -31,6 +33,9 @@
         ]
       },
       {
+        "Helm of neitiznot": [
+          10828
+        ],
         "Eclipse moon helm": [
           29010,
           29035,
@@ -40,11 +45,6 @@
           29019,
           29041,
           29064
-        ]
-      },
-      {
-        "Helm of neitiznot": [
-          10828
         ]
       }
     ],
@@ -62,9 +62,7 @@
       {
         "Amulet of blood fury": [
           24780
-        ]
-      },
-      {
+        ],
         "Amulet of fury": [
           6585
         ]
@@ -91,20 +89,18 @@
         "Torva platebody": [
           26378,
           26384
-        ],
-        "Oathplate chest": [
-          30753
         ]
       },
       {
-        "Bandos chestplate": [
-          11832
+        "Oathplate chest": [
+          30753
         ],
         "Inquisitor's hauberk": [
           24420
-        ]
-      },
-      {
+        ],
+        "Bandos chestplate": [
+          11832
+        ],
         "Blood moon chestplate": [
           29022,
           29043,
@@ -121,7 +117,9 @@
           29004,
           29031,
           29049
-        ],
+        ]
+      },
+      {
         "Blue moon chestplate": [
           29013,
           29037,
@@ -134,20 +132,20 @@
         "Torva platelegs": [
           26380,
           26386
-        ],
-        "Oathplate legs": [
-          30756
         ]
       },
       {
-        "Bandos tassets": [
-          11834
+        "Oathplate legs": [
+          30756
         ],
         "Inquisitor's plateskirt": [
           24421
         ]
       },
       {
+        "Bandos tassets": [
+          11834
+        ],
         "Blood moon tassets": [
           29025,
           29045,
@@ -185,25 +183,22 @@
       {
         "Dual macuahuitl": [
           28997
-        ],
-        "Noxious halberd": [
-          29796
         ]
       },
       {
+        "Noxious halberd": [
+          29796
+        ],
         "Abyssal tentacle": [
           12006
-        ],
-        "Zamorakian hasta": [
-          11889
         ]
       },
       {
         "Abyssal whip": [
           4151
         ],
-        "Osmumten's fang": [
-          26219
+        "Zamorakian hasta": [
+          11889
         ]
       }
     ],
@@ -284,22 +279,23 @@
     ],
     "special": [
       {
-        "Elder maul": [
-          21003
-        ],
         "Bandos godsword": [
           11804
         ],
-        "Voidwaker": [
-          27690
-        ]
-      },
-      {
+        "Elder maul": [
+          21003
+        ],
         "Dragon warhammer": [
           13576
         ]
       },
       {
+        "Zamorak godsword": [
+          11808
+        ],
+        "Voidwaker": [
+          27690
+        ],
         "Dragon claws": [
           13652
         ]
@@ -326,6 +322,9 @@
       {
         "Masori mask (f)": [
           27235
+        ],
+        "Masori mask": [
+          27226
         ]
       },
       {
@@ -386,6 +385,9 @@
       {
         "Masori body (f)": [
           27238
+        ],
+        "Masori body": [
+          27229
         ]
       },
       {
@@ -424,6 +426,9 @@
       {
         "Masori chaps (f)": [
           27241
+        ],
+        "Masori chaps": [
+          27232
         ]
       },
       {
@@ -607,6 +612,17 @@
           29019,
           29041,
           29064
+        ],
+        "Bloodbark helm": [
+          25413
+        ],
+        "Dagon'hai hat": [
+          24288
+        ]
+      },
+      {
+        "Mystic hat": [
+          4089
         ]
       }
     ],
@@ -661,6 +677,12 @@
           29013,
           29037,
           29058
+        ],
+        "Bloodbark body": [
+          25404
+        ],
+        "Dagon'hai robe top": [
+          24291
         ]
       },
       {
@@ -693,6 +715,12 @@
           29016,
           29039,
           29061
+        ],
+        "Bloodbark legs": [
+          25416
+        ],
+        "Dagon'hai robe bottom": [
+          24294
         ]
       },
       {
@@ -715,15 +743,15 @@
         ]
       },
       {
-        "Sanguinesti staff": [
-          22481,
-          22323
-        ],
         "Dragon hunter wand": [
           30070
         ]
       },
       {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ],
         "Trident of the swamp": [
           12900,
           12899
@@ -746,6 +774,10 @@
         "Elidinis' ward (f)": [
           27251
         ],
+        "Tome of earth": [
+          30066,
+          30064
+        ],
         "Tome of fire": [
           20716,
           20714
@@ -757,10 +789,6 @@
         ],
         "Elidinis' ward": [
           25985
-        ],
-        "Tome of earth": [
-          30066,
-          30064
         ]
       },
       {
@@ -778,9 +806,6 @@
       {
         "Book of the dead": [
           25818
-        ],
-        "Book of darkness": [
-          12612
         ]
       }
     ],

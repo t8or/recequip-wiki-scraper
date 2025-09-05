@@ -165,21 +165,17 @@
         ]
       },
       {
+        "Granite hammer": [
+          21742
+        ],
         "Soulreaper axe": [
           28338
-        ],
-        "Ghrazi rapier": [
-          22324
-        ],
-        "Blade of saeldor": [
-          23997,
-          23995
-        ],
-        "Inquisitor's mace": [
-          24417
         ]
       },
       {
+        "Ghrazi rapier": [
+          22324
+        ],
         "Noxious halberd": [
           29796
         ],
@@ -380,7 +376,15 @@
   },
   {
     "name": "Ranged switches",
-    "head": [],
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      }
+    ],
     "neck": [
       {
         "Necklace of anguish": [

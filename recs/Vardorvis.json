@@ -357,10 +357,10 @@
         ]
       },
       {
-        "Adamant defender": [
-          8849,
-          20459,
-          24141
+        "Crystal shield": [
+          23991,
+          23993,
+          24127
         ]
       }
     ],
@@ -402,21 +402,6 @@
         "Barrows gloves": [
           7462
         ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Rune gloves": [
-          7460
-        ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ]
       }
     ],
     "feet": [
@@ -449,9 +434,6 @@
         ],
         "Spiked manacles": [
           23389
-        ],
-        "Granite boots": [
-          21643
         ]
       }
     ],
