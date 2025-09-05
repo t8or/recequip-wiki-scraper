@@ -48,11 +48,6 @@
           10390,
           10374
         ]
-      },
-      {
-        "Archer helm": [
-          3749
-        ]
       }
     ],
     "neck": [
@@ -72,9 +67,7 @@
       {
         "Amulet of fury": [
           6585
-        ]
-      },
-      {
+        ],
         "Amulet of glory": [
           1704,
           1706,
@@ -83,11 +76,6 @@
           1712,
           11976,
           11978
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
         ]
       }
     ],
@@ -229,6 +217,9 @@
       {
         "Armadyl crossbow": [
           11785
+        ],
+        "Dragon crossbow": [
+          21902
         ]
       },
       {
@@ -269,14 +260,6 @@
       {
         "Antler guard": [
           31081
-        ]
-      },
-      {
-        "Book of law": [
-          12610
-        ],
-        "Black d'hide shield": [
-          22284
         ]
       }
     ],
@@ -322,11 +305,6 @@
           10384,
           10368
         ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ]
       }
     ],
     "feet": [
@@ -359,11 +337,6 @@
         ],
         "Aranea boots": [
           29806
-        ]
-      },
-      {
-        "Boots of brimstone": [
-          22951
         ]
       }
     ],

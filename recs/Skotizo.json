@@ -296,21 +296,9 @@
         ]
       },
       {
-        "Adamant defender": [
-          8849,
-          20459,
-          24141
-        ],
-        "Dragonfire shield": [
+        "dragonfire shield": [
           11284,
           11283
-        ]
-      },
-      {
-        "Mithril defender": [
-          8848,
-          20457,
-          24140
         ]
       }
     ],
@@ -356,16 +344,13 @@
         ]
       },
       {
-        "Dragon gloves": [
-          7461
-        ],
-        "Regen bracelet": [
-          11133
+        "Rune gloves": [
+          7460
         ]
       },
       {
-        "Rune gloves": [
-          7460
+        "regen bracelet": [
+          11133
         ],
         "Combat bracelet": [
           11126,
@@ -400,9 +385,6 @@
       {
         "Guardian boots": [
           21733
-        ],
-        "Granite boots": [
-          21643
         ]
       },
       {

@@ -726,11 +726,6 @@
           20513,
           24175
         ]
-      },
-      {
-        "Obsidian platebody": [
-          21301
-        ]
       }
     ],
     "legs": [
@@ -785,11 +780,6 @@
           4865,
           4866
         ]
-      },
-      {
-        "Obsidian platelegs": [
-          21304
-        ]
       }
     ],
     "weapon": [
@@ -806,11 +796,6 @@
       {
         "Ghrazi rapier": [
           22324
-        ]
-      },
-      {
-        "Noxious halberd": [
-          29796
         ]
       },
       {
@@ -836,23 +821,6 @@
           12954,
           20463,
           24143
-        ]
-      },
-      {
-        "Toktz-ket-xil": [
-          6524
-        ]
-      },
-      {
-        "Rune defender": [
-          8850,
-          20461,
-          24142
-        ]
-      },
-      {
-        "Rune kiteshield": [
-          1201
         ]
       }
     ],
@@ -888,21 +856,6 @@
       {
         "Barrows gloves": [
           7462
-        ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Rune gloves": [
-          7460
-        ]
-      },
-      {
-        "Granite gloves": [
-          21736
         ]
       }
     ],
@@ -956,21 +909,6 @@
         "Lightbearer": [
           25975
         ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
-        "Ring of suffering (i)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
       }
     ],
     "special": [
@@ -990,10 +928,6 @@
       {
         "Elder maul": [
           21003
-        ],
-        "Tonalztics of ralos": [
-          28919,
-          28922
         ]
       },
       {

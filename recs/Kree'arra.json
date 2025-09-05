@@ -18,16 +18,6 @@
         "Virtus mask": [
           26241
         ]
-      },
-      {
-        "Ahrim's hood": [
-          4708,
-          4856,
-          4857,
-          4858,
-          4859,
-          4860
-        ]
       }
     ],
     "neck": [
@@ -44,16 +34,6 @@
           24244,
           24250
         ]
-      },
-      {
-        "Zamorak cape": [
-          2414
-        ]
-      },
-      {
-        "Ardougne cloak 4": [
-          13124
-        ]
       }
     ],
     "body": [
@@ -66,16 +46,6 @@
         "Virtus robe top": [
           26243
         ]
-      },
-      {
-        "Ahrim's robetop": [
-          4712,
-          4868,
-          4869,
-          4870,
-          4871,
-          4872
-        ]
       }
     ],
     "legs": [
@@ -87,16 +57,6 @@
       {
         "Virtus robe bottom": [
           26245
-        ]
-      },
-      {
-        "Ahrim's robeskirt": [
-          4714,
-          4874,
-          4875,
-          4876,
-          4877,
-          4878
         ]
       }
     ],
@@ -138,22 +98,6 @@
       {
         "Eternal boots": [
           13235
-        ]
-      },
-      {
-        "Infinity boots": [
-          6920
-        ],
-        "Aranea boots": [
-          29806
-        ]
-      },
-      {
-        "Bloodbark boots": [
-          25410
-        ],
-        "Wizard boots": [
-          2579
         ]
       }
     ],
@@ -221,16 +165,6 @@
         "Armadyl helmet": [
           11826
         ]
-      },
-      {
-        "Karil's coif": [
-          4732,
-          4928,
-          4929,
-          4930,
-          4931,
-          4932
-        ]
       }
     ],
     "neck": [
@@ -250,17 +184,6 @@
         ],
         "Bonecrusher necklace": [
           22986
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
         ]
       }
     ],
@@ -292,11 +215,6 @@
           21914,
           24222
         ]
-      },
-      {
-        "Ava's accumulator": [
-          10499
-        ]
       }
     ],
     "body": [
@@ -327,11 +245,6 @@
         "Zamorak d'hide body": [
           10370
         ]
-      },
-      {
-        "Black d'hide body": [
-          2503
-        ]
       }
     ],
     "legs": [
@@ -361,11 +274,6 @@
         ],
         "Zamorak chaps": [
           10372
-        ]
-      },
-      {
-        "Black d'hide chaps": [
-          2497
         ]
       }
     ],
@@ -459,16 +367,6 @@
         "Zamorak bracers": [
           10368
         ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ]
-      },
-      {
-        "Black d'hide vambraces": [
-          2491
-        ]
       }
     ],
     "feet": [
@@ -488,13 +386,8 @@
         ]
       },
       {
-        "Guardian boots": [
-          21733
-        ]
-      },
-      {
-        "Bandos boots": [
-          11836
+        "Echo boots": [
+          28945
         ]
       }
     ],
@@ -507,28 +400,14 @@
           25248,
           26761,
           26762
+        ],
+        "Lightbearer": [
+          25975
         ]
       },
       {
         "Venator ring": [
           28310
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
-        "Ring of life": [
-          2570
         ]
       }
     ],
@@ -659,11 +538,6 @@
         "Zamorak d'hide body": [
           10370
         ]
-      },
-      {
-        "Black d'hide body": [
-          2503
-        ]
       }
     ],
     "legs": [
@@ -718,11 +592,6 @@
         ]
       },
       {
-        "Twisted bow": [
-          20997
-        ]
-      },
-      {
         "Dragon hunter crossbow": [
           21012
         ]
@@ -730,6 +599,11 @@
       {
         "Dragon crossbow": [
           21902
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
         ]
       }
     ],
@@ -787,11 +661,6 @@
         ]
       },
       {
-        "Broad bolts": [
-          11875
-        ]
-      },
-      {
         "Ruby bolts (e)": [
           9242
         ]
@@ -815,16 +684,6 @@
         "Zamorak bracers": [
           10368
         ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ]
-      },
-      {
-        "Black d'hide vambraces": [
-          2491
-        ]
       }
     ],
     "feet": [
@@ -844,13 +703,8 @@
         ]
       },
       {
-        "Guardian boots": [
-          21733
-        ]
-      },
-      {
-        "Bandos boots": [
-          11836
+        "Echo boots": [
+          28945
         ]
       }
     ],
@@ -868,25 +722,6 @@
       {
         "Venator ring": [
           28310
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Warrior ring (i)": [
-          11772,
-          25262,
-          26769
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
         ]
       }
     ],
@@ -934,9 +769,7 @@
       {
         "Amulet of fury": [
           6585
-        ]
-      },
-      {
+        ],
         "Amulet of glory": [
           1704,
           1706,
@@ -1010,11 +843,6 @@
         "Zamorak d'hide body": [
           10370
         ]
-      },
-      {
-        "Black d'hide body": [
-          2503
-        ]
       }
     ],
     "legs": [
@@ -1073,6 +901,9 @@
         ],
         "Rada's blessing 4": [
           22947
+        ],
+        "Mith grapple": [
+          9419
         ]
       },
       {
@@ -1116,16 +947,6 @@
         "Zamorak bracers": [
           10368
         ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ]
-      },
-      {
-        "Black d'hide vambraces": [
-          2491
-        ]
       }
     ],
     "feet": [
@@ -1148,19 +969,8 @@
         ]
       },
       {
-        "Guardian boots": [
-          21733
-        ],
-        "Boots of brimstone": [
-          22951
-        ]
-      },
-      {
-        "Shayzien boots (5)": [
-          13378
-        ],
-        "Bandos boots": [
-          11836
+        "Echo boots": [
+          28945
         ]
       }
     ],
@@ -1184,26 +994,10 @@
         ]
       },
       {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ],
         "Ring of the gods (i)": [
           13202,
           25252,
           26764
-        ]
-      },
-      {
-        "Ring of shadows": [
-          28329,
-          28327
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
         ]
       }
     ],
@@ -1281,12 +1075,6 @@
           6570,
           20445,
           24223
-        ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
         ]
       }
     ],
@@ -1368,14 +1156,6 @@
       {
         "Barrows gloves": [
           7462
-        ]
-      },
-      {
-        "Armadyl bracers": [
-          12506
-        ],
-        "Zamorak bracers": [
-          10368
         ]
       }
     ],

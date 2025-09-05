@@ -28,11 +28,6 @@
         "Rune full helm": [
           1163
         ]
-      },
-      {
-        "Adamant full helm": [
-          1161
-        ]
       }
     ],
     "neck": [
@@ -56,16 +51,6 @@
         "Amulet of strength": [
           1725
         ]
-      },
-      {
-        "Amulet of power": [
-          1731
-        ]
-      },
-      {
-        "Amulet of accuracy": [
-          1478
-        ]
       }
     ],
     "cape": [
@@ -74,16 +59,6 @@
           6570,
           20445,
           24223
-        ]
-      },
-      {
-        "Obsidian cape": [
-          6568
-        ]
-      },
-      {
-        "Cape of legends": [
-          1052
         ]
       },
       {
@@ -172,11 +147,6 @@
         ]
       },
       {
-        "Granite body": [
-          10564
-        ]
-      },
-      {
         "Rune platebody": [
           1127
         ]
@@ -198,11 +168,6 @@
       {
         "Proselyte cuisse": [
           9676
-        ]
-      },
-      {
-        "Granite legs": [
-          6809
         ]
       },
       {
@@ -262,16 +227,6 @@
       {
         "Toktz-ket-xil": [
           6524
-        ]
-      },
-      {
-        "Granite shield": [
-          3122
-        ]
-      },
-      {
-        "Rune kiteshield": [
-          1201
         ]
       }
     ],
@@ -335,11 +290,6 @@
         ]
       },
       {
-        "Granite boots": [
-          21643
-        ]
-      },
-      {
         "Rune boots": [
           4131
         ]
@@ -352,6 +302,9 @@
       {
         "Mixed hide boots": [
           29286
+        ],
+        "climbing boots": [
+          3105
         ]
       }
     ],
@@ -371,16 +324,6 @@
       {
         "Steel ring": [
           30895
-        ]
-      },
-      {
-        "Ring of recoil": [
-          2550
-        ]
-      },
-      {
-        "Ring of life": [
-          2570
         ]
       }
     ],
@@ -431,11 +374,6 @@
         "Snakeskin bandana": [
           6326
         ]
-      },
-      {
-        "Coif": [
-          1169
-        ]
       }
     ],
     "neck": [
@@ -459,11 +397,6 @@
         "Amulet of power": [
           1731
         ]
-      },
-      {
-        "Amulet of accuracy": [
-          1478
-        ]
       }
     ],
     "cape": [
@@ -475,23 +408,6 @@
       {
         "Ava's attractor": [
           10498
-        ]
-      },
-      {
-        "Fire cape": [
-          6570,
-          20445,
-          24223
-        ]
-      },
-      {
-        "Obsidian cape": [
-          6568
-        ]
-      },
-      {
-        "Cape of legends": [
-          1052
         ]
       }
     ],
@@ -660,11 +576,6 @@
         "Red d'hide vambraces": [
           2489
         ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
       }
     ],
     "feet": [
@@ -703,16 +614,6 @@
         ],
         "Steel ring": [
           30895
-        ]
-      },
-      {
-        "Ring of recoil": [
-          2550
-        ]
-      },
-      {
-        "Ring of life": [
-          2570
         ]
       }
     ],
@@ -773,11 +674,6 @@
         "Amulet of power": [
           1731
         ]
-      },
-      {
-        "Amulet of accuracy": [
-          1478
-        ]
       }
     ],
     "cape": [
@@ -801,23 +697,6 @@
         ]
       },
       {
-        "Fire cape": [
-          6570,
-          20445,
-          24223
-        ]
-      },
-      {
-        "Obsidian cape": [
-          6568
-        ]
-      },
-      {
-        "Cape of legends": [
-          1052
-        ]
-      },
-      {
         "Vestment cloak": [
           10446,
           10448,
@@ -825,6 +704,13 @@
           12261,
           12273,
           12197
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
         ]
       }
     ],
@@ -1014,16 +900,6 @@
         ],
         "Steel ring": [
           30895
-        ]
-      },
-      {
-        "Ring of recoil": [
-          2550
-        ]
-      },
-      {
-        "Ring of life": [
-          2570
         ]
       }
     ],

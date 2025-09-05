@@ -618,23 +618,16 @@
         ]
       },
       {
+        "Dragonfire shield": [
+          11284,
+          11283
+        ]
+      },
+      {
         "Rune defender": [
           8850,
           20461,
           24142
-        ]
-      },
-      {
-        "Adamant defender": [
-          8849,
-          20459,
-          24141
-        ]
-      },
-      {
-        "Dragonfire shield": [
-          11284,
-          11283
         ]
       }
     ],
@@ -662,11 +655,6 @@
       {
         "Barrows gloves": [
           7462
-        ]
-      },
-      {
-        "Dragon gloves": [
-          7461
         ]
       },
       {
