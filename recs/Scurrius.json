@@ -1081,6 +1081,9 @@
         ],
         "Ghrazi rapier": [
           22324
+        ],
+        "Dual macuahuitl": [
+          28997
         ]
       },
       {
@@ -1759,8 +1762,18 @@
         ]
       },
       {
-        "Kodai wand": [
-          21006
+        "Eye of ayak": [
+          31115,
+          31113
+        ]
+      },
+      {
+        "Trident of the swamp": [
+          12900,
+          12899
+        ],
+        "Harmonised nightmare staff": [
+          24423
         ]
       },
       {
@@ -1768,6 +1781,9 @@
           11908,
           11907,
           11905
+        ],
+        "Kodai wand": [
+          21006
         ]
       }
     ],
@@ -1791,6 +1807,14 @@
         "Ancient wyvern shield": [
           21634,
           21633
+        ]
+      },
+      {
+        "Malediction ward": [
+          11924
+        ],
+        "Mage's book": [
+          6889
         ]
       }
     ],
@@ -1833,6 +1857,11 @@
       {
         "Dragon gloves": [
           7461
+        ]
+      },
+      {
+        "Rune gloves": [
+          7460
         ]
       }
     ],
@@ -1883,9 +1912,7 @@
         "Ring of shadows": [
           28329,
           28327
-        ]
-      },
-      {
+        ],
         "Brimstone ring": [
           22975
         ]

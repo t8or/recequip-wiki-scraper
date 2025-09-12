@@ -334,13 +334,21 @@
         ]
       },
       {
-        "Ancestral hat": [
-          21018
+        "Bloodbark helm": [
+          25413
+        ],
+        "Ahrim's hood": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860
         ]
       },
       {
-        "Farseer helm": [
-          3755
+        "Mystic hat": [
+          4089
         ]
       },
       {
@@ -374,11 +382,6 @@
       {
         "Amulet of power": [
           1731
-        ]
-      },
-      {
-        "Amulet of magic": [
-          1727
         ]
       }
     ],
@@ -416,7 +419,10 @@
         ]
       },
       {
-        "Ardougne cloak 4": [
+        "Ardougne cloak": [
+          13121,
+          13122,
+          13123,
           13124
         ]
       },
@@ -433,16 +439,9 @@
     ],
     "body": [
       {
-        "Ancestral robe top": [
-          21021
-        ]
-      },
-      {
-        "Virtus robe top": [
-          26243
-        ]
-      },
-      {
+        "Bloodbark body": [
+          25404
+        ],
         "Ahrim's robetop": [
           4712,
           4868,
@@ -455,27 +454,19 @@
       {
         "Mystic robe top": [
           4091
-        ],
-        "Masori body (f)": [
-          27238
-        ],
-        "Armadyl chestplate": [
-          11828
+        ]
+      },
+      {
+        "Monk's robe top": [
+          544
         ]
       }
     ],
     "legs": [
       {
-        "Ancestral robe bottom": [
-          21024
-        ]
-      },
-      {
-        "Virtus robe bottom": [
-          26245
-        ]
-      },
-      {
+        "Bloodbark legs": [
+          25416
+        ],
         "Ahrim's robeskirt": [
           4714,
           4874,
@@ -488,12 +479,11 @@
       {
         "Mystic robe bottom": [
           4093
-        ],
-        "Masori chaps (f)": [
-          27241
-        ],
-        "Armadyl chainskirt": [
-          11830
+        ]
+      },
+      {
+        "Monk's robe": [
+          542
         ]
       }
     ],
@@ -502,16 +492,16 @@
         "Accursed sceptre": [
           27662,
           27665
-        ]
-      },
-      {
+        ],
         "Thammaron's sceptre": [
           22552,
           22555
-        ],
-        "Tumeken's shadow": [
-          27277,
-          27275
+        ]
+      },
+      {
+        "Eye of ayak": [
+          31115,
+          31113
         ]
       },
       {
@@ -679,10 +669,6 @@
     ],
     "ring": [
       {
-        "Ring of shadows": [
-          28329,
-          28327
-        ],
         "Ring of shadows (uncharged)": [
           28329,
           28327
@@ -709,6 +695,19 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Accursed sceptre": [
+          27662,
+          27665
+        ]
+      },
+      {
+        "Eye of ayak": [
+          31115,
+          31113
+        ]
+      }
+    ]
   }
 ]
