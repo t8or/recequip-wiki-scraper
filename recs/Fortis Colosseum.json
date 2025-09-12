@@ -1151,6 +1151,227 @@
     ]
   },
   {
+    "name": "GM time",
+    "head": [
+      {
+        "Torva full helm": [
+          26376,
+          26382
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ],
+        "Amulet of blood fury": [
+          24780
+        ],
+        "Necklace of anguish": [
+          19547
+        ]
+      },
+      {
+        "Amulet of blood fury": [
+          24780
+        ],
+        "Necklace of anguish": [
+          19547
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ],
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Oathplate chest": [
+          30753
+        ],
+        "Torva platebody": [
+          26378,
+          26384
+        ],
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ],
+        "Masori body": [
+          27229
+        ]
+      },
+      {
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
+        "Crystal body": [
+          23975,
+          23977
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Oathplate legs": [
+          30756
+        ],
+        "Torva platelegs": [
+          26380,
+          26386
+        ],
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Bandos tassets": [
+          11834
+        ],
+        "Masori chaps": [
+          27232
+        ]
+      },
+      {
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ],
+        "Crystal legs": [
+          23979,
+          23981
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ],
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ],
+        "Twisted bow": [
+          20997
+        ],
+        "Venator bow": [
+          27612,
+          27610
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ],
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Bellator ring": [
+          28316
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Burning claws": [
+          29577
+        ],
+        "Dragon claws": [
+          13652
+        ],
+        "Dragon warhammer": [
+          13576
+        ],
+        "Elder maul": [
+          21003
+        ]
+      }
+    ]
+  },
+  {
     "name": "High efficiency",
     "head": [
       {

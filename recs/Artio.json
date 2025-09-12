@@ -102,8 +102,8 @@
         ]
       },
       {
-        "Ava's attractor": [
-          10498
+        "Ardougne cloak 4": [
+          13124
         ]
       },
       {
@@ -229,7 +229,9 @@
       {
         "Book of law": [
           12610
-        ],
+        ]
+      },
+      {
         "Unholy book": [
           3842
         ]
@@ -513,12 +515,6 @@
       {
         "Mystic robe top": [
           4091
-        ],
-        "Masori body (f)": [
-          27238
-        ],
-        "Armadyl chestplate": [
-          11828
         ]
       }
     ],
@@ -541,12 +537,6 @@
       {
         "Mystic robe bottom": [
           4093
-        ],
-        "Masori chaps (f)": [
-          27241
-        ],
-        "Armadyl chainskirt": [
-          11830
         ]
       }
     ],
@@ -555,22 +545,22 @@
         "Accursed sceptre": [
           27662,
           27665
-        ]
-      },
-      {
+        ],
         "Thammaron's sceptre": [
           22552,
           22555
-        ],
-        "Tumeken's shadow": [
-          27277,
-          27275
         ]
       },
       {
         "Eye of ayak": [
           31115,
           31113
+        ]
+      },
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
         ]
       },
       {

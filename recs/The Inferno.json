@@ -3,13 +3,13 @@
     "name": "Learners",
     "head": [
       {
-        "Justiciar faceguard": [
-          22326
-        ],
         "Slayer helmet (i)": [
           11865,
           25177,
           26674
+        ],
+        "Justiciar faceguard": [
+          22326
         ]
       },
       {
@@ -34,11 +34,11 @@
     ],
     "neck": [
       {
-        "Occult necklace": [
-          12002
-        ],
         "Necklace of anguish": [
           19547
+        ],
+        "Occult necklace": [
+          12002
         ]
       },
       {
@@ -52,10 +52,6 @@
     ],
     "cape": [
       {
-        "Max cape": [
-          13280,
-          13342
-        ],
         "Dizana's quiver": [
           28947,
           28951,
@@ -65,14 +61,22 @@
         ]
       },
       {
-        "Ranging cape(t)": [
-          9756,
-          9757
-        ],
         "Ava's assembler": [
           22109,
           21914,
           24222
+        ]
+      },
+      {
+        "Max cape": [
+          13280,
+          13342
+        ]
+      },
+      {
+        "Ranging cape(t)": [
+          9756,
+          9757
         ]
       }
     ],
@@ -297,26 +301,40 @@
     ],
     "hands": [
       {
+        "Zaryte vambraces": [
+          26235
+        ],
         "Confliction gauntlets": [
           31106
         ],
-        "Zaryte vambraces": [
-          26235
+        "Tormented bracelet": [
+          19544
         ]
       },
       {
         "Barrows gloves": [
           7462
+        ],
+        "Confliction gauntlets": [
+          31106
+        ],
+        "Tormented bracelet": [
+          19544
         ]
       }
     ],
     "feet": [
       {
-        "Echo boots": [
-          28945
-        ],
         "Avernic treads (max)": [
           31097
+        ],
+        "Avernic treads": [
+          31088
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
         ]
       },
       {
@@ -328,14 +346,14 @@
         "Devout boots": [
           22954
         ]
-      },
-      {
-        "Guardian boots": [
-          21733
-        ]
       }
     ],
     "ring": [
+      {
+        "Lightbearer": [
+          25975
+        ]
+      },
       {
         "Ring of suffering (ri)": [
           19710,
@@ -344,11 +362,6 @@
           25248,
           26761,
           26762
-        ]
-      },
-      {
-        "Lightbearer": [
-          25975
         ]
       },
       {

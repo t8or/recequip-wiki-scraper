@@ -603,18 +603,6 @@
           31115,
           31113
         ]
-      },
-      {
-        "Sanguinesti staff": [
-          22481,
-          22323
-        ]
-      },
-      {
-        "Trident of the swamp": [
-          12900,
-          12899
-        ]
       }
     ],
     "shield": [
@@ -635,13 +623,17 @@
         ]
       },
       {
-        "Mage's book": [
-          6889
+        "Malediction ward": [
+          11924
+        ],
+        "Tome of earth": [
+          30066,
+          30064
         ]
       },
       {
-        "Malediction ward": [
-          11924
+        "Mage's book": [
+          6889
         ],
         "Book of darkness": [
           12612
@@ -711,16 +703,6 @@
         ]
       },
       {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
-        "Ring of the gods (i)": [
-          13202,
-          25252,
-          26764
-        ],
         "Ring of suffering (ri)": [
           19710,
           20657,
@@ -729,6 +711,13 @@
           26761,
           26762
         ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
       }
     ],
     "special": [
@@ -736,6 +725,12 @@
         "Accursed sceptre": [
           27662,
           27665
+        ]
+      },
+      {
+        "Eye of ayak": [
+          31115,
+          31113
         ]
       }
     ]
