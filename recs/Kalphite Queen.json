@@ -55,6 +55,11 @@
           20445,
           24223
         ]
+      },
+      {
+        "Mixed hide cape": [
+          29289
+        ]
       }
     ],
     "body": [
@@ -84,6 +89,11 @@
         "Obsidian platebody": [
           21301
         ]
+      },
+      {
+        "Rune platebody": [
+          1127
+        ]
       }
     ],
     "legs": [
@@ -107,6 +117,11 @@
       {
         "Obsidian platelegs": [
           21304
+        ]
+      },
+      {
+        "Rune platelegs": [
+          1079
         ]
       }
     ],
@@ -206,6 +221,200 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Flinching",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
+        ],
+        "Ahrim's hood": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860
+        ]
+      },
+      {
+        "Mystic hat": [
+          4089
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "God capes#Imbuing": [
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      },
+      {
+        "God cape": [
+          2412,
+          2415,
+          2414,
+          2417,
+          2413,
+          2416,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
+        ],
+        "Ahrim's robetop": [
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872
+        ]
+      },
+      {
+        "Mystic robe top": [
+          4091
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
+        ],
+        "Ahrim's robeskirt": [
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878
+        ]
+      },
+      {
+        "Mystic robe bottom": [
+          4093
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tecu salamander": [
+          28834
+        ]
+      },
+      {
+        "Black salamander": [
+          10148
+        ]
+      },
+      {
+        "Red salamander": [
+          10147
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Irit tar": [
+          28837
+        ]
+      },
+      {
+        "Harralander tar": [
+          10145
+        ]
+      },
+      {
+        "Tarromin tar": [
+          10144
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Infinity boots": [
+          6920
+        ]
+      },
+      {
+        "Mystic boots": [
+          4097
+        ]
+      }
+    ],
+    "ring": [],
+    "special": []
   },
   {
     "name": "High level melee",
@@ -323,7 +532,9 @@
       {
         "Bandos tassets": [
           11834
-        ],
+        ]
+      },
+      {
         "Blood moon tassets": [
           29025,
           29045,
@@ -436,6 +647,9 @@
           25248,
           26761,
           26762
+        ],
+        "Lightbearer": [
+          25975
         ]
       },
       {
@@ -464,6 +678,11 @@
         ],
         "Dragon claws": [
           13652
+        ]
+      },
+      {
+        "Bandos godsword": [
+          11804
         ]
       }
     ]
@@ -619,6 +838,14 @@
           25862,
           25865
         ]
+      },
+      {
+        "Dragon crossbow": [
+          21902
+        ],
+        "Rune crossbow": [
+          9185
+        ]
       }
     ],
     "shield": [],
@@ -653,11 +880,11 @@
         ]
       },
       {
-        "Rune arrow": [
-          892,
-          893,
-          5621,
-          5627
+        "Diamond dragon bolts (e)": [
+          21946
+        ],
+        "Diamond bolts (e)": [
+          9243
         ]
       }
     ],
@@ -697,6 +924,9 @@
           25248,
           26761,
           26762
+        ],
+        "Lightbearer": [
+          25975
         ]
       }
     ],

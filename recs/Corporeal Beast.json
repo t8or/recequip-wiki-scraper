@@ -1,6 +1,6 @@
 [
   {
-    "name": "Solo melee",
+    "name": "Stat draining",
     "head": [
       {
         "Torva full helm": [
@@ -278,13 +278,16 @@
         ]
       },
       {
-        "Spiked manacles": [
-          23389
+        "Echo boots": [
+          28945
+        ],
+        "Guardian boots": [
+          21733
         ]
       },
       {
-        "Guardian boots": [
-          21733
+        "Spiked manacles": [
+          23389
         ]
       }
     ],
@@ -328,7 +331,7 @@
     ]
   },
   {
-    "name": "Solo melee",
+    "name": "Quick pool",
     "head": [
       {
         "Torva full helm": [
@@ -976,6 +979,9 @@
       {
         "Echo boots": [
           28945
+        ],
+        "Guardian boots": [
+          21733
         ]
       },
       {
