@@ -148,18 +148,26 @@
     ],
     "weapon": [
       {
+        "Steam battlestaff": [
+          11787
+        ],
+        "Twinflame staff": [
+          30634
+        ],
         "Infernal harpoon": [
           21031,
           21033
-        ],
-        "Crystal harpoon": [
-          23762,
-          23764
         ]
       },
       {
         "Dragon harpoon": [
           21028
+        ]
+      },
+      {
+        "Crystal harpoon": [
+          23762,
+          23764
         ]
       },
       {
@@ -171,6 +179,11 @@
     ],
     "shield": [
       {
+        "Imcando hammer (off-hand)": [
+          29775
+        ]
+      },
+      {
         "Tome of water": [
           25576,
           25574
@@ -178,11 +191,6 @@
         "Tome of fire": [
           20716,
           20714
-        ]
-      },
-      {
-        "Imcando hammer (off-hand)": [
-          29775
         ]
       }
     ],

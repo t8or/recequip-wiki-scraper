@@ -7,6 +7,9 @@
           11865,
           25177,
           26674
+        ],
+        "Oathplate helm": [
+          30750
         ]
       },
       {
@@ -32,19 +35,6 @@
         ],
         "Helm of neitiznot": [
           10828
-        ]
-      },
-      {
-        "Berserker helm": [
-          3751
-        ],
-        "Obsidian helmet": [
-          21298
-        ],
-        "Void melee helm": [
-          11665,
-          20481,
-          24185
         ]
       }
     ],
@@ -74,11 +64,6 @@
           11976,
           11978
         ]
-      },
-      {
-        "Amulet of power": [
-          1731
-        ]
       }
     ],
     "cape": [
@@ -105,29 +90,22 @@
         "Ardougne cloak 4": [
           13124
         ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
-        ],
-        "Hitpoints cape": [
-          9768,
-          9769
-        ]
       }
     ],
     "body": [
       {
+        "Oathplate chest": [
+          30753
+        ],
         "Masori body (f)": [
           27238
-        ],
-        "Torva platebody": [
-          26378,
-          26384
         ]
       },
       {
+        "Torva platebody": [
+          26378,
+          26384
+        ],
         "Karil's leathertop": [
           4736,
           4940,
@@ -135,12 +113,12 @@
           4942,
           4943,
           4944
-        ],
-        "Bandos chestplate": [
-          11832
         ]
       },
       {
+        "Bandos chestplate": [
+          11832
+        ],
         "Fighter torso": [
           10551,
           20513,
@@ -156,6 +134,16 @@
         "Obsidian platebody": [
           21301
         ],
+        "Blessed body": [
+          12492,
+          12508,
+          12500,
+          10378,
+          10386,
+          10370
+        ]
+      },
+      {
         "Elite void top": [
           13072,
           20467,
@@ -165,16 +153,6 @@
           8839,
           20465,
           24177
-        ]
-      },
-      {
-        "Blessed body": [
-          12492,
-          12508,
-          12500,
-          10378,
-          10386,
-          10370
         ],
         "Black d'hide body": [
           2503
@@ -183,6 +161,9 @@
     ],
     "legs": [
       {
+        "Oathplate legs": [
+          30756
+        ],
         "Torva platelegs": [
           26380,
           26386
@@ -248,29 +229,6 @@
           30305,
           19675
         ]
-      },
-      {
-        "Scythe of vitur": [
-          22486,
-          22325
-        ]
-      },
-      {
-        "Osmumten's fang": [
-          26219
-        ]
-      },
-      {
-        "Ghrazi rapier": [
-          22324
-        ],
-        "Blade of saeldor": [
-          23997,
-          23995
-        ],
-        "Inquisitor's mace": [
-          24417
-        ]
       }
     ],
     "shield": [
@@ -286,13 +244,6 @@
           12954,
           20463,
           24143
-        ]
-      },
-      {
-        "Rune defender": [
-          8850,
-          20461,
-          24142
         ]
       },
       {
@@ -337,29 +288,8 @@
         ]
       },
       {
-        "Void knight gloves": [
-          8842,
-          20475,
-          24182
-        ]
-      },
-      {
         "Rune gloves": [
           7460
-        ]
-      },
-      {
-        "regen bracelet": [
-          11133
-        ],
-        "Combat bracelet": [
-          11126,
-          11124,
-          11122,
-          11120,
-          11118,
-          11974,
-          11972
         ]
       }
     ],
@@ -401,13 +331,13 @@
     ],
     "ring": [
       {
-        "Bellator ring": [
-          28316
+        "Ultor ring": [
+          28307
         ]
       },
       {
-        "Ultor ring": [
-          28307
+        "Bellator ring": [
+          28316
         ]
       },
       {
@@ -421,19 +351,17 @@
         "Brimstone ring": [
           22975
         ]
-      },
-      {
-        "Ring of suffering (i)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
       }
     ],
     "special": [
+      {
+        "Voidwaker": [
+          27690
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
       {
         "Elder maul": [
           21003
@@ -445,21 +373,13 @@
         ]
       },
       {
-        "Voidwaker": [
-          27690
-        ],
-        "Burning claws": [
-          29577
-        ]
-      },
-      {
         "Dragon warhammer": [
           13576
         ]
       },
       {
-        "Dragon claws": [
-          13652
+        "Emberlight": [
+          29589
         ],
         "Arclight": [
           30305,
@@ -472,13 +392,13 @@
     "name": "Ranged",
     "head": [
       {
-        "Masori mask (f)": [
-          27235
-        ],
         "Slayer helmet (i)": [
           11865,
           25177,
           26674
+        ],
+        "Masori mask (f)": [
+          27235
         ]
       },
       {
@@ -531,16 +451,6 @@
           11976,
           11978
         ]
-      },
-      {
-        "Amulet of power": [
-          1731
-        ]
-      },
-      {
-        "Amulet of defence": [
-          1729
-        ]
       }
     ],
     "cape": [
@@ -564,21 +474,6 @@
         "Ava's accumulator": [
           10499
         ]
-      },
-      {
-        "Ava's attractor": [
-          10498
-        ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
-        ],
-        "Ranging cape(t)": [
-          9756,
-          9757
-        ]
       }
     ],
     "body": [
@@ -590,9 +485,7 @@
       {
         "Armadyl chestplate": [
           11828
-        ]
-      },
-      {
+        ],
         "Crystal body": [
           23975,
           23977
@@ -633,9 +526,7 @@
       {
         "Armadyl chainskirt": [
           11830
-        ]
-      },
-      {
+        ],
         "Crystal legs": [
           23979,
           23981
@@ -683,20 +574,6 @@
           25862,
           25865
         ]
-      },
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      },
-      {
-        "Armadyl crossbow": [
-          11785
-        ],
-        "Dragon crossbow": [
-          21902
-        ]
       }
     ],
     "shield": [
@@ -713,9 +590,7 @@
       {
         "Book of law": [
           12610
-        ]
-      },
-      {
+        ],
         "Unholy book": [
           3842
         ]
@@ -728,15 +603,6 @@
           11227,
           11228,
           11229
-        ],
-        "Dragon dart": [
-          11230,
-          11231,
-          11233,
-          11234
-        ],
-        "Diamond dragon bolts (e)": [
-          21946
         ]
       },
       {
@@ -745,15 +611,6 @@
           21332,
           21334,
           21336
-        ],
-        "Rune dart": [
-          811,
-          817,
-          5634,
-          5641
-        ],
-        "Diamond bolts (e)": [
-          9243
         ]
       },
       {
@@ -762,23 +619,15 @@
           893,
           5621,
           5627
-        ],
-        "Adamant dart": [
-          810,
-          816,
-          5633,
-          5640
-        ],
-        "Broad bolts": [
-          11875
         ]
       },
       {
-        "Rada's blessing 4": [
+        "Rada's blessing": [
+          22941,
+          22943,
+          22945,
           22947
-        ]
-      },
-      {
+        ],
         "God blessing": [
           20220,
           20223,
@@ -786,12 +635,6 @@
           20229,
           20232,
           20235
-        ],
-        "Rada's blessing 3": [
-          22945
-        ],
-        "Rada's blessing 2": [
-          22943
         ]
       }
     ],
@@ -812,16 +655,6 @@
         ],
         "Ranger gloves": [
           19994
-        ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Rune gloves": [
-          7460
         ],
         "Void knight gloves": [
           8842,
@@ -844,9 +677,7 @@
       {
         "Ranger boots": [
           2577
-        ]
-      },
-      {
+        ],
         "Blessed boots": [
           19921,
           19930,
@@ -885,9 +716,7 @@
           13202,
           25252,
           26764
-        ]
-      },
-      {
+        ],
         "Ring of suffering (i)": [
           19710,
           20657,
@@ -900,6 +729,14 @@
     ],
     "special": [
       {
+        "Voidwaker": [
+          27690
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
         "Elder maul": [
           21003
         ]
@@ -910,21 +747,13 @@
         ]
       },
       {
-        "Voidwaker": [
-          27690
-        ],
-        "Burning claws": [
-          29577
-        ]
-      },
-      {
         "Dragon warhammer": [
           13576
         ]
       },
       {
-        "Dragon claws": [
-          13652
+        "Emberlight": [
+          29589
         ],
         "Arclight": [
           30305,
