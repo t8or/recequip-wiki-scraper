@@ -393,18 +393,16 @@
     ],
     "feet": [
       {
-        "Echo boots": [
-          28945
-        ]
-      },
-      {
-        "Guardian boots": [
-          21733
-        ]
-      },
-      {
         "Avernic treads (max)": [
           31097
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
+        ],
+        "Guardian boots": [
+          21733
         ]
       },
       {
@@ -1158,6 +1156,11 @@
         "Echo boots": [
           28945
         ]
+      },
+      {
+        "Shayzien boots (5)": [
+          13378
+        ]
       }
     ],
     "ring": [
@@ -1499,18 +1502,16 @@
     ],
     "feet": [
       {
-        "Echo boots": [
-          28945
-        ]
-      },
-      {
-        "Guardian boots": [
-          21733
-        ]
-      },
-      {
         "Avernic treads (max)": [
           31097
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
+        ],
+        "Guardian boots": [
+          21733
         ]
       },
       {
@@ -1519,8 +1520,8 @@
         ]
       },
       {
-        "Bandos boots": [
-          11836
+        "Dragon boots": [
+          11840
         ]
       }
     ],
@@ -1872,18 +1873,21 @@
     ],
     "feet": [
       {
-        "Echo boots": [
-          28945
+        "Avernic treads (max)": [
+          31097
         ]
       },
       {
+        "Echo boots": [
+          28945
+        ],
         "Guardian boots": [
           21733
         ]
       },
       {
-        "Avernic treads (max)": [
-          31097
+        "Primordial boots": [
+          13239
         ]
       },
       {
@@ -2262,6 +2266,9 @@
         ]
       },
       {
+        "Echo boots": [
+          28945
+        ],
         "Guardian boots": [
           21733
         ]

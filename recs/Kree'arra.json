@@ -189,6 +189,15 @@
     ],
     "cape": [
       {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28826
+        ]
+      },
+      {
         "Max cape": [
           13280,
           13342
@@ -198,15 +207,6 @@
         "Ranging cape(t)": [
           9756,
           9757
-        ]
-      },
-      {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
         ]
       },
       {
@@ -371,13 +371,13 @@
     ],
     "feet": [
       {
-        "Armadyl d'hide boots": [
-          19930
+        "Avernic treads (max)": [
+          31097
         ]
       },
       {
-        "Avernic treads (max)": [
-          31097
+        "Armadyl d'hide boots": [
+          19930
         ]
       },
       {
@@ -688,13 +688,13 @@
     ],
     "feet": [
       {
-        "Armadyl d'hide boots": [
-          19930
+        "Avernic treads (max)": [
+          31097
         ]
       },
       {
-        "Avernic treads (max)": [
-          31097
+        "Armadyl d'hide boots": [
+          19930
         ]
       },
       {

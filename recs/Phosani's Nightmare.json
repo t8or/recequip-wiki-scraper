@@ -20,22 +20,6 @@
         "Zombie helmet": [
           30321
         ]
-      },
-      {
-        "Serpentine helm": [
-          12929,
-          12931
-        ],
-        "Blood moon helm": [
-          29028,
-          29047,
-          29073
-        ]
-      },
-      {
-        "Helm of neitiznot": [
-          10828
-        ]
       }
     ],
     "neck": [
@@ -52,11 +36,6 @@
       {
         "Amulet of blood fury": [
           24780
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
         ]
       }
     ],
@@ -94,16 +73,12 @@
       {
         "Bandos chestplate": [
           11832
-        ]
-      },
-      {
+        ],
         "Blood moon chestplate": [
           29022,
           29043,
           29067
-        ]
-      },
-      {
+        ],
         "Fighter torso": [
           10551,
           20513,
@@ -126,9 +101,7 @@
       {
         "Bandos tassets": [
           11834
-        ]
-      },
-      {
+        ],
         "Blood moon tassets": [
           29025,
           29045,
@@ -154,29 +127,6 @@
       {
         "Abyssal bludgeon": [
           13263
-        ]
-      },
-      {
-        "Dual macuahuitl": [
-          28997
-        ],
-        "Ursine chainmace (u)": [
-          27657,
-          27660
-        ],
-        "Sarachnis cudgel": [
-          23528
-        ]
-      },
-      {
-        "Zombie axe": [
-          28810
-        ],
-        "Zamorakian hasta": [
-          11889
-        ],
-        "Osmumten's fang": [
-          26219
         ]
       }
     ],
@@ -214,6 +164,11 @@
           20232,
           20235
         ]
+      },
+      {
+        "Ghommal's lucky penny": [
+          27544
+        ]
       }
     ],
     "hands": [
@@ -242,11 +197,6 @@
       {
         "Dragon boots": [
           11840
-        ]
-      },
-      {
-        "Echo boots": [
-          28945
         ]
       }
     ],
@@ -376,24 +326,9 @@
           22481,
           22323
         ],
-        "Staff of the dead": [
-          11791
-        ]
-      },
-      {
         "Trident of the swamp": [
           12900,
           12899
-        ],
-        "Twinflame staff": [
-          30634
-        ]
-      },
-      {
-        "Trident of the seas": [
-          11908,
-          11907,
-          11905
         ]
       }
     ],
@@ -416,24 +351,30 @@
         "Elidinis' ward": [
           25985
         ]
-      },
-      {
-        "Mage's book": [
-          6889
-        ],
-        "Ancient wyvern shield": [
-          21634,
-          21633
-        ],
-        "Malediction ward": [
-          11924
-        ]
       }
     ],
     "ammo": [
       {
         "Rada's blessing 4": [
           22947
+        ]
+      },
+      {
+        "Rada's blessing 3": [
+          22945
+        ],
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      },
+      {
+        "Ghommal's lucky penny": [
+          27544
         ]
       }
     ],
@@ -475,11 +416,6 @@
           11770,
           25258,
           26767
-        ]
-      },
-      {
-        "Seers ring": [
-          6731
         ]
       }
     ],

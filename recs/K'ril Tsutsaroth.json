@@ -602,12 +602,12 @@
       {
         "Echo boots": [
           28945
+        ],
+        "Guardian boots": [
+          21733
         ]
       },
       {
-        "Guardian boots": [
-          21733
-        ],
         "Dragon boots": [
           11840
         ]
@@ -923,19 +923,21 @@
     ],
     "feet": [
       {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
         "Echo boots": [
           28945
         ],
         "Guardian boots": [
           21733
-        ]
-      },
-      {
-        "Avernic treads (max)": [
-          31097
-        ],
-        "Primordial boots": [
-          13239
         ]
       },
       {
