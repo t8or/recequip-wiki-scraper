@@ -2379,6 +2379,11 @@
         ]
       },
       {
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
+        ],
         "Blessed coif": [
           12496,
           12512,
@@ -2483,6 +2488,11 @@
         ]
       },
       {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
         "Blessed body": [
           12492,
           12508,
@@ -2524,6 +2534,11 @@
         ]
       },
       {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
         "Blessed chaps": [
           12494,
           12510,
@@ -2564,6 +2579,9 @@
         ]
       },
       {
+        "Eclipse atlatl": [
+          29000
+        ],
         "Dragon crossbow": [
           21902
         ]
@@ -2611,6 +2629,9 @@
       {
         "Diamond bolts (e)": [
           9243
+        ],
+        "Atlatl dart": [
+          28991
         ]
       },
       {

@@ -10,16 +10,6 @@
         ]
       },
       {
-        "Blessed coif": [
-          12496,
-          12512,
-          12504,
-          10382,
-          10390,
-          10374
-        ]
-      },
-      {
         "Karil's coif": [
           4732,
           4928,
@@ -47,11 +37,6 @@
         ]
       },
       {
-        "Amulet of fury": [
-          6585
-        ]
-      },
-      {
         "Amulet of glory": [
           1704,
           1706,
@@ -60,6 +45,9 @@
           1712,
           11976,
           11978
+        ],
+        "Dragonbone necklace": [
+          22111
         ]
       },
       {
@@ -70,27 +58,16 @@
     ],
     "cape": [
       {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
-        ]
-      },
-      {
         "Ava's accumulator": [
           10499
-        ],
+        ]
+      },
+      {
         "Mixed hide cape": [
           29289
+        ],
+        "Ardougne cloak 4": [
+          13124
         ]
       },
       {
@@ -130,29 +107,14 @@
     ],
     "legs": [
       {
-        "Masori chaps (f)": [
-          27241
+        "Black d'hide chaps": [
+          2497
         ]
       },
       {
         "Crystal legs": [
           23979,
           23981
-        ]
-      },
-      {
-        "Blessed d'hide chaps": [
-          12494,
-          12510,
-          12502,
-          10380,
-          10388,
-          10372
-        ]
-      },
-      {
-        "Black d'hide chaps": [
-          2497
         ]
       }
     ],
@@ -201,6 +163,11 @@
     ],
     "shield": [
       {
+        "Twisted buckler": [
+          21000
+        ]
+      },
+      {
         "Odium ward": [
           11926
         ]
@@ -208,9 +175,7 @@
       {
         "Book of law": [
           12610
-        ]
-      },
-      {
+        ],
         "Unholy book": [
           3842
         ]
@@ -273,37 +238,25 @@
     ],
     "hands": [
       {
+        "Black d'hide vambraces": [
+          2491
+        ]
+      },
+      {
         "Barrows gloves": [
           7462
         ]
       },
       {
-        "Blessed vambraces": [
-          12490,
-          12506,
-          12498,
-          10376,
-          10384,
-          10368
-        ]
-      },
-      {
-        "Black d'hide vambraces": [
-          2491
+        "Rune gloves": [
+          7460
+        ],
+        "Adamant gloves": [
+          7459
         ]
       }
     ],
     "feet": [
-      {
-        "Blessed boots": [
-          19921,
-          19930,
-          19924,
-          19927,
-          19933,
-          19936
-        ]
-      },
       {
         "Mixed hide boots": [
           29286

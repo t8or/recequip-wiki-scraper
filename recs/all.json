@@ -8715,16 +8715,6 @@
             ]
           },
           {
-            "Blessed coif": [
-              12496,
-              12512,
-              12504,
-              10382,
-              10390,
-              10374
-            ]
-          },
-          {
             "Karil's coif": [
               4732,
               4928,
@@ -8752,11 +8742,6 @@
             ]
           },
           {
-            "Amulet of fury": [
-              6585
-            ]
-          },
-          {
             "Amulet of glory": [
               1704,
               1706,
@@ -8765,6 +8750,9 @@
               1712,
               11976,
               11978
+            ],
+            "Dragonbone necklace": [
+              22111
             ]
           },
           {
@@ -8775,27 +8763,16 @@
         ],
         "cape": [
           {
-            "Dizana's quiver": [
-              28947,
-              28951,
-              28949,
-              28953,
-              28826
-            ]
-          },
-          {
-            "Ava's assembler": [
-              22109,
-              21914,
-              24222
-            ]
-          },
-          {
             "Ava's accumulator": [
               10499
-            ],
+            ]
+          },
+          {
             "Mixed hide cape": [
               29289
+            ],
+            "Ardougne cloak 4": [
+              13124
             ]
           },
           {
@@ -8835,29 +8812,14 @@
         ],
         "legs": [
           {
-            "Masori chaps (f)": [
-              27241
+            "Black d'hide chaps": [
+              2497
             ]
           },
           {
             "Crystal legs": [
               23979,
               23981
-            ]
-          },
-          {
-            "Blessed d'hide chaps": [
-              12494,
-              12510,
-              12502,
-              10380,
-              10388,
-              10372
-            ]
-          },
-          {
-            "Black d'hide chaps": [
-              2497
             ]
           }
         ],
@@ -8906,6 +8868,11 @@
         ],
         "shield": [
           {
+            "Twisted buckler": [
+              21000
+            ]
+          },
+          {
             "Odium ward": [
               11926
             ]
@@ -8913,9 +8880,7 @@
           {
             "Book of law": [
               12610
-            ]
-          },
-          {
+            ],
             "Unholy book": [
               3842
             ]
@@ -8978,37 +8943,25 @@
         ],
         "hands": [
           {
+            "Black d'hide vambraces": [
+              2491
+            ]
+          },
+          {
             "Barrows gloves": [
               7462
             ]
           },
           {
-            "Blessed vambraces": [
-              12490,
-              12506,
-              12498,
-              10376,
-              10384,
-              10368
-            ]
-          },
-          {
-            "Black d'hide vambraces": [
-              2491
+            "Rune gloves": [
+              7460
+            ],
+            "Adamant gloves": [
+              7459
             ]
           }
         ],
         "feet": [
-          {
-            "Blessed boots": [
-              19921,
-              19930,
-              19924,
-              19927,
-              19933,
-              19936
-            ]
-          },
           {
             "Mixed hide boots": [
               29286
@@ -9652,10 +9605,10 @@
             ]
           },
           {
-            "Eclipse moon chestplate": [
-              29004,
-              29031,
-              29049
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
             ]
           },
           {
@@ -14395,6 +14348,9 @@
               1712,
               11976,
               11978
+            ],
+            "Amulet of strength": [
+              1725
             ]
           }
         ],
@@ -18653,6 +18609,11 @@
             ]
           },
           {
+            "Eclipse moon helm": [
+              29010,
+              29035,
+              29055
+            ],
             "Blessed coif": [
               12496,
               12512,
@@ -18757,6 +18718,11 @@
             ]
           },
           {
+            "Eclipse moon chestplate": [
+              29004,
+              29031,
+              29049
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -18798,6 +18764,11 @@
             ]
           },
           {
+            "Eclipse moon tassets": [
+              29007,
+              29033,
+              29052
+            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -18838,6 +18809,9 @@
             ]
           },
           {
+            "Eclipse atlatl": [
+              29000
+            ],
             "Dragon crossbow": [
               21902
             ]
@@ -18885,6 +18859,9 @@
           {
             "Diamond bolts (e)": [
               9243
+            ],
+            "Atlatl dart": [
+              28991
             ]
           },
           {
@@ -28834,6 +28811,13 @@
             ],
             "Dragon sword": [
               21009
+            ],
+            "Dragon hasta": [
+              22731,
+              22734,
+              22737,
+              22740,
+              22743
             ]
           }
         ],
@@ -39266,6 +39250,12 @@
             ]
           },
           {
+            "Eye of ayak": [
+              31115,
+              31113
+            ]
+          },
+          {
             "Harmonised nightmare staff": [
               24423
             ]
@@ -39274,9 +39264,7 @@
             "Sanguinesti staff": [
               22481,
               22323
-            ]
-          },
-          {
+            ],
             "Trident of the swamp": [
               12900,
               12899
@@ -48163,6 +48151,11 @@
             ]
           },
           {
+            "Lightbearer": [
+              25975
+            ]
+          },
+          {
             "Ring of suffering (ri)": [
               19710,
               20657,
@@ -48170,11 +48163,6 @@
               25248,
               26761,
               26762
-            ]
-          },
-          {
-            "Lightbearer": [
-              25975
             ]
           }
         ],
@@ -48198,6 +48186,9 @@
           {
             "Voidwaker": [
               27690
+            ],
+            "Arkan blade": [
+              30955
             ]
           },
           {
@@ -50520,8 +50511,8 @@
             ]
           },
           {
-            "Magic shortbow (i)": [
-              12788
+            "Scorching Bow": [
+              29591
             ]
           }
         ],
