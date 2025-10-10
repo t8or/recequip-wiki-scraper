@@ -10,6 +10,21 @@
         ]
       },
       {
+        "Blessed d'hide coif": [
+          12496,
+          12512,
+          12504,
+          10382,
+          10390,
+          10374
+        ]
+      },
+      {
+        "Archer helm": [
+          3749
+        ]
+      },
+      {
         "Karil's coif": [
           4732,
           4928,
@@ -22,11 +37,6 @@
       {
         "Snakeskin bandana": [
           6326
-        ]
-      },
-      {
-        "Coif": [
-          1169
         ]
       }
     ],
@@ -238,13 +248,23 @@
     ],
     "hands": [
       {
-        "Black d'hide vambraces": [
-          2491
+        "Barrows gloves": [
+          7462
         ]
       },
       {
-        "Barrows gloves": [
-          7462
+        "Blessed bracers": [
+          12490,
+          12506,
+          12498,
+          10376,
+          10384,
+          10368
+        ]
+      },
+      {
+        "Black d'hide vambraces": [
+          2491
         ]
       },
       {
