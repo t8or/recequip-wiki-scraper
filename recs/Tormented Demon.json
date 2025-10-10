@@ -20,9 +20,7 @@
         "Serpentine helm": [
           12929,
           12931
-        ]
-      },
-      {
+        ],
         "Inquisitor's great helm": [
           24419
         ]
@@ -42,7 +40,9 @@
           29010,
           29035,
           29055
-        ],
+        ]
+      },
+      {
         "Blue moon helm": [
           29019,
           29041,
@@ -230,22 +230,24 @@
         ]
       },
       {
-        "Scythe of vitur": [
-          22486,
-          22325
-        ]
-      },
-      {
         "Abyssal tentacle": [
           12006
         ],
-        "Inquisitor's mace": [
-          24417
+        "Abyssal whip": [
+          4151
         ]
       },
       {
-        "Abyssal whip": [
-          4151
+        "Zamorakian hasta": [
+          11889
+        ],
+        "Sarachnis cudgel": [
+          23528
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
         ]
       }
     ],
@@ -281,6 +283,11 @@
       {
         "Barrows gloves": [
           7462
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
         ]
       },
       {
@@ -320,8 +327,11 @@
         ]
       },
       {
-        "Guardian boots": [
-          21733
+        "Mixed hide boots": [
+          29286
+        ],
+        "Climbing boots": [
+          3105
         ]
       }
     ],
@@ -472,16 +482,6 @@
         "Crystal helm": [
           23971,
           23973
-        ]
-      },
-      {
-        "Blessed coif": [
-          12496,
-          12512,
-          12504,
-          10382,
-          10390,
-          10374
         ],
         "Eclipse moon helm": [
           29010,
@@ -556,6 +556,11 @@
         "Crystal body": [
           23975,
           23977
+        ],
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
         ]
       },
       {
@@ -566,11 +571,6 @@
           10378,
           10386,
           10370
-        ],
-        "Eclipse moon chestplate": [
-          29004,
-          29031,
-          29049
         ]
       },
       {
@@ -602,6 +602,11 @@
         "Crystal legs": [
           23979,
           23981
+        ],
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
         ]
       },
       {
@@ -612,11 +617,6 @@
           10380,
           10388,
           10372
-        ],
-        "Eclipse moon tassets": [
-          29007,
-          29033,
-          29052
         ]
       },
       {
@@ -641,13 +641,13 @@
         "Toxic blowpipe": [
           12924,
           12926
-        ],
-        "Bow of faerdhinen": [
-          25862,
-          25865
         ]
       },
       {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ],
         "Eclipse atlatl": [
           29000
         ]
@@ -681,6 +681,11 @@
       {
         "Odium ward": [
           11926
+        ]
+      },
+      {
+        "Antler guard": [
+          31081
         ]
       }
     ],
@@ -740,6 +745,11 @@
       {
         "Barrows gloves": [
           7462
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
         ]
       },
       {
@@ -1074,16 +1084,6 @@
         ],
         "Staff of the dead": [
           11791
-        ],
-        "Toxic staff of the dead": [
-          12902,
-          12904
-        ]
-      },
-      {
-        "Tumeken's shadow": [
-          27277,
-          27275
         ]
       },
       {
@@ -1094,27 +1094,16 @@
           4864,
           4865,
           4866
-        ],
-        "Blue moon spear": [
-          28988
-        ],
-        "Slayer's staff": [
-          4170
         ]
       },
       {
-        "Sanguinesti staff": [
-          22481,
-          22323
-        ],
-        "Trident of the swamp": [
-          12900,
-          12899
-        ],
-        "Trident of the seas": [
-          11908,
-          11907,
-          11905
+        "Blue moon spear": [
+          28988
+        ]
+      },
+      {
+        "Slayer's staff": [
+          4170
         ]
       }
     ],
@@ -1184,6 +1173,11 @@
       {
         "Barrows gloves": [
           7462
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
         ]
       },
       {

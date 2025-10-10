@@ -377,6 +377,13 @@
           23971,
           23973
         ]
+      },
+      {
+        "Eclipse moon helm": [
+          29010,
+          29035,
+          29055
+        ]
       }
     ],
     "neck": [
@@ -529,22 +536,19 @@
       {
         "Armadyl crossbow": [
           11785
-        ]
-      },
-      {
-        "Dragon hunter crossbow": [
-          21012
         ],
         "Dragon crossbow": [
           21902
         ]
       },
       {
-        "Rune crossbow": [
-          9185
-        ],
         "Eclipse atlatl": [
           29000
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
         ]
       }
     ],
@@ -581,6 +585,11 @@
       {
         "Rada's blessing 4": [
           22947
+        ]
+      },
+      {
+        "Atlatl dart": [
+          28991
         ]
       },
       {

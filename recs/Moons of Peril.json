@@ -675,17 +675,14 @@
         ]
       },
       {
-        "Abyssal whip": [
-          4151
-        ],
         "Zombie axe": [
           28810
         ],
-        "Arkan blade": [
-          30955
-        ],
         "Dragon sword": [
           21009
+        ],
+        "Arkan blade": [
+          30955
         ],
         "Dragon hasta": [
           22731,
@@ -693,6 +690,9 @@
           22737,
           22740,
           22743
+        ],
+        "Abyssal whip": [
+          4151
         ]
       }
     ],
@@ -754,18 +754,11 @@
         ]
       },
       {
-        "Noxious halberd": [
-          29796
-        ],
         "Elder maul": [
           21003
-        ]
-      },
-      {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
+        ],
+        "Noxious halberd": [
+          29796
         ],
         "Godsword": [
           26233,
@@ -773,6 +766,13 @@
           11804,
           11806,
           11808
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
         ],
         "Colossal blade": [
           27021
@@ -913,37 +913,40 @@
         ]
       },
       {
+        "Noxious halberd": [
+          29796
+        ],
         "Blade of saeldor": [
           23997,
           23995
-        ],
+        ]
+      },
+      {
         "Ghrazi rapier": [
           22324
         ],
         "Abyssal tentacle": [
           12006
-        ]
-      },
-      {
-        "Noxious halberd": [
-          29796
         ],
         "Abyssal whip": [
           4151
         ],
-        "Zamorakian hasta": [
-          11889
+        "Sulphur blades": [
+          29084
         ]
       },
       {
+        "Zombie axe": [
+          28810
+        ],
+        "Zamorakian hasta": [
+          11889
+        ],
         "Dragon scimitar": [
           4587
         ],
-        "Sulphur blades": [
-          29084
-        ],
-        "Zombie axe": [
-          28810
+        "Arkan blade": [
+          30955
         ]
       }
     ],

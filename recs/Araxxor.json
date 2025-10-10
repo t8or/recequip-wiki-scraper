@@ -78,17 +78,6 @@
         "Amulet of fury": [
           6585
         ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
       }
     ],
     "cape": [
@@ -122,14 +111,14 @@
         "Torva platebody": [
           26378,
           26384
-        ],
-        "Oathplate chest": [
-          30753
         ]
       },
       {
         "Bandos chestplate": [
           11832
+        ],
+        "Oathplate chest": [
+          30753
         ]
       },
       {
@@ -195,14 +184,14 @@
         "Torva platelegs": [
           26380,
           26386
-        ],
-        "Oathplate legs": [
-          30756
         ]
       },
       {
         "Bandos tassets": [
           11834
+        ],
+        "Oathplate legs": [
+          30756
         ]
       },
       {
@@ -315,16 +304,6 @@
           20463,
           24143
         ]
-      },
-      {
-        "Rune defender": [
-          8850,
-          20461,
-          24142
-        ],
-        "Toktz-ket-xil": [
-          6524
-        ]
       }
     ],
     "ammo": [
@@ -378,16 +357,6 @@
         "Barrows gloves": [
           7462
         ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Rune gloves": [
-          7460
-        ]
       }
     ],
     "feet": [
@@ -416,14 +385,6 @@
         "Guardian boots": [
           21733
         ]
-      },
-      {
-        "Rune boots": [
-          4131
-        ],
-        "Mixed hide boots": [
-          29286
-        ]
       }
     ],
     "ring": [
@@ -437,21 +398,6 @@
           11773,
           25264,
           26770
-        ]
-      },
-      {
-        "Lightbearer": [
-          25975
-        ]
-      },
-      {
-        "Ring of suffering (ri)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
         ]
       }
     ],
