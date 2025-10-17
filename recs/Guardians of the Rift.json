@@ -22,6 +22,14 @@
         "Binding necklace": [
           5521
         ]
+      },
+      {
+        "Amulet of the eye": [
+          26914,
+          26990,
+          26992,
+          26994
+        ]
       }
     ],
     "cape": [
@@ -39,6 +47,12 @@
         "Mining cape": [
           9792,
           9793
+        ]
+      },
+      {
+        "Spottier cape": [
+          10071,
+          10074
         ]
       },
       {

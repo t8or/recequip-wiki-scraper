@@ -582,5 +582,163 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Mage tank",
+    "head": [
+      {
+        "Ancestral hat": [
+          21018
+        ],
+        "Justiciar faceguard": [
+          22326
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "God capes#Imbuing": [
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ],
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ],
+        "Verac's plateskirt": [
+          4759,
+          4994,
+          4995,
+          4996,
+          4997,
+          4998
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ],
+        "Eye of ayak": [
+          31115,
+          31113
+        ],
+        "Eldritch nightmare staff": [
+          24425
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Crystal shield": [
+          23991,
+          23993,
+          24127
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Confliction gauntlets": [
+          31106
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Echo boots": [
+          28945
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Magus ring": [
+          28313
+        ]
+      },
+      {
+        "Ring of suffering (i)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Eldritch nightmare staff": [
+          24425
+        ],
+        "Eye of ayak": [
+          31115,
+          31113
+        ]
+      }
+    ]
   }
 ]
