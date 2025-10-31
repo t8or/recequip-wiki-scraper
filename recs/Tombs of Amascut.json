@@ -1333,12 +1333,6 @@
         "Keris partisan": [
           25979
         ],
-        "Dragon dagger": [
-          1215,
-          1231,
-          5680,
-          5698
-        ],
         "Osmumten's fang": [
           26219
         ]
@@ -1371,6 +1365,10 @@
         ]
       },
       {
+        "Eye of ayak": [
+          31115,
+          31113
+        ],
         "Zaryte crossbow": [
           26374
         ],
@@ -1390,6 +1388,9 @@
       {
         "Rune crossbow": [
           9185
+        ],
+        "Eclipse atlatl": [
+          29000
         ]
       }
     ],
