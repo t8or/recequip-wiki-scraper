@@ -151,51 +151,20 @@
       {
         "Scorching bow": [
           29591
-        ],
-        "Toxic blowpipe": [
-          12924,
-          12926
         ]
       },
       {
-        "Hunters' sunlight crossbow": [
-          28869
+        "Magic shortbow (i)": [
+          12788
         ],
-        "Dragon crossbow": [
-          21902
-        ]
-      },
-      {
-        "Rune crossbow": [
-          9185
+        "Crystal bow": [
+          23983,
+          23985,
+          24123
         ]
       }
     ],
-    "shield": [
-      {
-        "Twisted buckler": [
-          21000
-        ]
-      },
-      {
-        "Odium ward": [
-          11926
-        ]
-      },
-      {
-        "Book of law": [
-          12610
-        ],
-        "Unholy book": [
-          3842
-        ]
-      },
-      {
-        "Black d'hide shield": [
-          22284
-        ]
-      }
-    ],
+    "shield": [],
     "ammo": [
       {
         "Rada's blessing 4": [
@@ -228,21 +197,6 @@
           893,
           5621,
           5627
-        ]
-      },
-      {
-        "Moonlight antler bolts": [
-          28878
-        ]
-      },
-      {
-        "Diamond dragon bolts (e)": [
-          21946
-        ]
-      },
-      {
-        "Diamond bolts (e)": [
-          9243
         ]
       }
     ],
