@@ -107,9 +107,7 @@
         "Crystal pickaxe": [
           23680,
           23682
-        ]
-      },
-      {
+        ],
         "Dragon pickaxe": [
           11920
         ]
@@ -261,13 +259,15 @@
     ],
     "ring": [
       {
-        "Celestial ring": [
-          25539,
-          25541
-        ],
         "Celestial signet": [
           25543,
           25545
+        ]
+      },
+      {
+        "Celestial ring": [
+          25539,
+          25541
         ]
       },
       {
