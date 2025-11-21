@@ -202,6 +202,10 @@
     ],
     "body": [
       {
+        "Torva platebody": [
+          26378,
+          26384
+        ],
         "Masori body (f)": [
           27238
         ]
@@ -212,9 +216,8 @@
         ]
       },
       {
-        "Torva platebody": [
-          26378,
-          26384
+        "Bandos chestplate": [
+          11832
         ]
       },
       {
@@ -231,16 +234,31 @@
         ]
       },
       {
-        "Guthan's platebody": [
-          4728,
-          4916,
-          4917,
-          4918,
-          4919,
-          4920
-        ],
-        "Bandos chestplate": [
-          11832
+        "Barrows equipment": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860,
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872,
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878,
+          4710,
+          4862,
+          4863,
+          4864,
+          4865,
+          4866
         ]
       }
     ],
@@ -262,23 +280,31 @@
         ]
       },
       {
-        "Verac's plateskirt": [
-          4759,
-          4994,
-          4995,
-          4996,
-          4997,
-          4998
-        ]
-      },
-      {
-        "Guthan's chainskirt": [
-          4730,
-          4922,
-          4923,
-          4924,
-          4925,
-          4926
+        "Barrows equipment": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860,
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872,
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878,
+          4710,
+          4862,
+          4863,
+          4864,
+          4865,
+          4866
         ]
       }
     ],
@@ -314,13 +340,8 @@
         "Abyssal whip": [
           4151
         ],
-        "Guthan's warspear": [
-          4726,
-          4910,
-          4911,
-          4912,
-          4913,
-          4914
+        "Zombie axe": [
+          28810
         ]
       }
     ],
@@ -719,28 +740,25 @@
     ]
   },
   {
-    "name": "Solo (Ranged 6:0)",
+    "name": "Ranged (Solo)",
     "head": [
       {
         "Slayer helmet (i)": [
           11865,
           25177,
           26674
+        ],
+        "Crystal helm": [
+          23971,
+          23973
         ]
       },
       {
         "Masori mask (f)": [
           27235
-        ],
-        "Masori mask": [
-          27226
         ]
       },
       {
-        "Crystal helm": [
-          23971,
-          23973
-        ],
         "Bandos coif": [
           12504
         ]
@@ -798,13 +816,14 @@
     ],
     "body": [
       {
-        "Masori body (f)": [
-          27238
+        "Crystal body": [
+          23975,
+          23977
         ]
       },
       {
-        "Masori body": [
-          27229
+        "Masori body (f)": [
+          27238
         ]
       },
       {
@@ -825,13 +844,14 @@
     ],
     "legs": [
       {
-        "Masori chaps (f)": [
-          27241
+        "Crystal legs": [
+          23979,
+          23981
         ]
       },
       {
-        "Masori chaps": [
-          27232
+        "Masori chaps (f)": [
+          27241
         ]
       },
       {
@@ -852,6 +872,12 @@
     ],
     "weapon": [
       {
+        "Bow of faerdhinen": [
+          25862,
+          25865
+        ]
+      },
+      {
         "Zaryte crossbow": [
           26374
         ]
@@ -859,9 +885,7 @@
       {
         "Armadyl crossbow": [
           11785
-        ]
-      },
-      {
+        ],
         "Dragon crossbow": [
           21902
         ]
@@ -897,6 +921,14 @@
     ],
     "ammo": [
       {
+        "War blessing": [
+          20232
+        ],
+        "Unholy blessing": [
+          20223
+        ]
+      },
+      {
         "Diamond dragon bolts (e)": [
           21946
         ]
@@ -914,9 +946,14 @@
         ]
       },
       {
+        "Zamorak bracers": [
+          10368
+        ],
         "Bandos bracers": [
           12498
-        ],
+        ]
+      },
+      {
         "Barrows gloves": [
           7462
         ]
@@ -929,26 +966,29 @@
         ]
       },
       {
-        "Pegasian boots": [
-          13237
+        "Zamorak d'hide boots": [
+          19936
         ],
         "Bandos d'hide boots": [
           19924
         ]
       },
       {
-        "Blessed boots": [
-          19921,
-          19930,
-          19924,
-          19927,
-          19933,
-          19936
+        "Mixed hide boots": [
+          29286
         ]
       }
     ],
     "ring": [
       {
+        "Ring of suffering (i)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ],
         "Venator ring": [
           28310
         ]
@@ -967,214 +1007,18 @@
         ]
       },
       {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
         "Ring of the gods (i)": [
           13202,
           25252,
           26764
-        ],
-        "Ring of suffering (ri)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Solo (Ranged 7:0)",
-    "head": [
-      {
-        "Slayer helmet (i)": [
-          11865,
-          25177,
-          26674
         ]
       },
       {
-        "Crystal helm": [
-          23971,
-          23973
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Necklace of anguish": [
-          19547
-        ]
-      },
-      {
-        "Amulet of fury": [
-          6585
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Dizana's quiver": [
-          28947,
-          28951,
-          28949,
-          28953,
-          28826
-        ]
-      },
-      {
-        "Ava's assembler": [
-          22109,
-          21914,
-          24222
-        ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
-        ]
-      },
-      {
-        "Ranging cape(t)": [
-          9756,
-          9757
-        ]
-      },
-      {
-        "Ava's accumulator": [
-          10499
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Crystal body": [
-          23975,
-          23977
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Crystal legs": [
-          23979,
-          23981
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Bow of faerdhinen": [
-          25862,
-          25865
-        ]
-      }
-    ],
-    "shield": [],
-    "ammo": [
-      {
-        "War blessing": [
-          20232
-        ],
-        "Unholy blessing": [
-          20223
-        ],
-        "Rada's blessing 4": [
-          22947
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Zaryte vambraces": [
-          26235
-        ]
-      },
-      {
-        "Barrows gloves": [
-          7462
-        ]
-      },
-      {
-        "Zamorak bracers": [
-          10368
-        ],
-        "Bandos bracers": [
-          12498
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Avernic treads (max)": [
-          31097
-        ]
-      },
-      {
-        "Pegasian boots": [
-          13237
-        ]
-      },
-      {
-        "Zamorak d'hide boots": [
-          19936
-        ],
-        "Bandos d'hide boots": [
-          19924
-        ]
-      },
-      {
-        "Echo boots": [
-          28945
-        ]
-      },
-      {
-        "Shayzien boots (5)": [
-          13378
-        ]
-      }
-    ],
-    "ring": [
-      {
-        "Ring of suffering (i)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
-        ]
-      },
-      {
-        "Ring of endurance": [
-          24844,
-          24736
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
+        "Explorer's ring": [
+          13125,
+          13126,
+          13127,
+          13128
         ]
       }
     ],
