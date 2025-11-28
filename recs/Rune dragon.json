@@ -668,6 +668,11 @@
         ]
       },
       {
+        "Hunters' sunlight crossbow": [
+          28869
+        ]
+      },
+      {
         "Zaryte crossbow": [
           26374
         ],
@@ -699,9 +704,6 @@
     ],
     "ammo": [
       {
-        "Diamond dragon bolts (e)": [
-          21946
-        ],
         "Dragon arrow": [
           11212,
           11227,
@@ -710,6 +712,17 @@
         ]
       },
       {
+        "Moonlight antler bolts": [
+          28878
+        ],
+        "Sunlight antler bolts": [
+          28872
+        ]
+      },
+      {
+        "Diamond dragon bolts (e)": [
+          21946
+        ],
         "Diamond bolts (e)": [
           9243
         ]

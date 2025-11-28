@@ -1097,8 +1097,13 @@
         ]
       },
       {
-        "Lunar ring": [
-          9104
+        "Ring of shadows": [
+          28329,
+          28327
+        ],
+        "Ring of shadows (uncharged)": [
+          28329,
+          28327
         ]
       }
     ],
@@ -1472,6 +1477,10 @@
       },
       {
         "Ring of shadows": [
+          28329,
+          28327
+        ],
+        "Ring of shadows (uncharged)": [
           28329,
           28327
         ]
