@@ -3553,6 +3553,9 @@
             ]
           },
           {
+            "Beacon ring": [
+              11014
+            ],
             "Lunar ring": [
               9104
             ]
@@ -3907,6 +3910,9 @@
           {
             "Beacon ring": [
               11014
+            ],
+            "Lunar ring": [
+              9104
             ]
           },
           {
@@ -5735,6 +5741,9 @@
           {
             "Beacon ring": [
               11014
+            ],
+            "Lunar ring": [
+              9104
             ]
           },
           {
@@ -12148,6 +12157,9 @@
           {
             "Beacon ring": [
               11014
+            ],
+            "Lunar ring": [
+              9104
             ]
           },
           {
@@ -13265,6 +13277,12 @@
             ]
           },
           {
+            "Beacon ring": [
+              11014
+            ],
+            "Lunar ring": [
+              9104
+            ],
             "Explorer's ring": [
               13125,
               13126,
@@ -32377,6 +32395,9 @@
           {
             "Beacon ring": [
               11014
+            ],
+            "Lunar ring": [
+              9104
             ]
           },
           {
@@ -36517,6 +36538,9 @@
           {
             "Lunar ring": [
               9104
+            ],
+            "Beacon ring": [
+              11014
             ],
             "Ring of the gods (i)": [
               13202,
@@ -48463,8 +48487,13 @@
             ]
           },
           {
-            "Lunar ring": [
-              9104
+            "Ring of shadows": [
+              28329,
+              28327
+            ],
+            "Ring of shadows (uncharged)": [
+              28329,
+              28327
             ]
           }
         ],
@@ -48838,6 +48867,10 @@
           },
           {
             "Ring of shadows": [
+              28329,
+              28327
+            ],
+            "Ring of shadows (uncharged)": [
               28329,
               28327
             ]
@@ -50214,8 +50247,9 @@
             ]
           },
           {
-            "Dragon thrownaxe": [
-              20849
+            "Rosewood blowpipe": [
+              31585,
+              31583
             ],
             "Tonalztics of ralos": [
               28919,
@@ -53577,6 +53611,9 @@
           {
             "Beacon ring": [
               11014
+            ],
+            "Lunar ring": [
+              9104
             ]
           }
         ],
@@ -61989,6 +62026,11 @@
             ]
           },
           {
+            "Hunters' sunlight crossbow": [
+              28869
+            ]
+          },
+          {
             "Zaryte crossbow": [
               26374
             ],
@@ -62020,9 +62062,6 @@
         ],
         "ammo": [
           {
-            "Diamond dragon bolts (e)": [
-              21946
-            ],
             "Dragon arrow": [
               11212,
               11227,
@@ -62031,6 +62070,17 @@
             ]
           },
           {
+            "Moonlight antler bolts": [
+              28878
+            ],
+            "Sunlight antler bolts": [
+              28872
+            ]
+          },
+          {
+            "Diamond dragon bolts (e)": [
+              21946
+            ],
             "Diamond bolts (e)": [
               9243
             ]
@@ -63965,6 +64015,9 @@
           {
             "Beacon ring": [
               11014
+            ],
+            "Lunar ring": [
+              9104
             ]
           }
         ],
