@@ -50069,12 +50069,6 @@
             "Masori mask": [
               27226
             ]
-          },
-          {
-            "Serpentine helm": [
-              12929,
-              12931
-            ]
           }
         ],
         "neck": [
@@ -50188,6 +50182,9 @@
           {
             "Avernic treads (max)": [
               31097
+            ],
+            "Avernic treads": [
+              31088
             ]
           },
           {
@@ -50238,30 +50235,27 @@
           {
             "Zaryte crossbow": [
               26374
-            ],
+            ]
+          },
+          {
             "Dragon knife": [
               22804,
               22806,
               22808,
               22810
-            ]
-          },
-          {
+            ],
             "Rosewood blowpipe": [
               31585,
               31583
-            ],
-            "Tonalztics of ralos": [
-              28919,
-              28922
             ]
           },
           {
-            "Elder maul": [
-              21003
+            "Dragon thrownaxe": [
+              20849
             ],
-            "Dragon warhammer": [
-              13576
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           }
         ]
@@ -72092,8 +72086,8 @@
               13269,
               13271
             ],
-            "Dragon hunter lance": [
-              22978
+            "Belle's folly": [
+              31248
             ]
           },
           {
@@ -72102,12 +72096,6 @@
             ],
             "Arkan blade": [
               30955
-            ],
-            "Leaf-bladed sword": [
-              11902
-            ],
-            "Dual macuahuitl": [
-              28997
             ]
           }
         ],
