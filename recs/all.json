@@ -21786,10 +21786,14 @@
               25248,
               26761,
               26762
-            ],
+            ]
+          },
+          {
             "Lightbearer": [
               25975
-            ],
+            ]
+          },
+          {
             "Ring of the gods (i)": [
               13202,
               25252,
@@ -50078,8 +50082,14 @@
             ]
           },
           {
-            "Amulet of blood fury": [
-              24780
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
             ]
           }
         ],
@@ -52850,6 +52860,12 @@
         ],
         "special": [
           {
+            "Rosewood blowpipe": [
+              31585,
+              31583
+            ]
+          },
+          {
             "Magic shortbow (i)": [
               12788
             ]
@@ -53095,6 +53111,12 @@
           }
         ],
         "special": [
+          {
+            "Rosewood blowpipe": [
+              31585,
+              31583
+            ]
+          },
           {
             "Dragon battleaxe": [
               1377
@@ -53444,6 +53466,12 @@
           }
         ],
         "special": [
+          {
+            "Rosewood blowpipe": [
+              31585,
+              31583
+            ]
+          },
           {
             "Zaryte crossbow": [
               26374
