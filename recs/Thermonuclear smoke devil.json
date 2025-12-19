@@ -349,6 +349,735 @@
     "special": []
   },
   {
+    "name": "Magic",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Facemask": [
+          4164
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      },
+      {
+        "Amulet of magic": [
+          1727
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "God capes#Imbuing": [
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      },
+      {
+        "God capes": [
+          2412,
+          2415,
+          2414,
+          2417,
+          2413,
+          2416,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
+        ]
+      },
+      {
+        "Ardougne cloak 3": [
+          13123
+        ]
+      },
+      {
+        "Ardougne cloak 2": [
+          13122
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      },
+      {
+        "Ahrim's robetop": [
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872
+        ]
+      },
+      {
+        "Dagon'hai robe top": [
+          24291
+        ]
+      },
+      {
+        "Infinity top": [
+          6916
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      },
+      {
+        "Ahrim's robeskirt": [
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878
+        ]
+      },
+      {
+        "Dagon'hai robe bottom": [
+          24294
+        ]
+      },
+      {
+        "Infinity bottoms": [
+          6924
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ]
+      },
+      {
+        "Eye of ayak": [
+          31115,
+          31113
+        ]
+      },
+      {
+        "Harmonised nightmare staff": [
+          24423
+        ]
+      },
+      {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ],
+        "Trident of the swamp": [
+          12900,
+          12899
+        ]
+      },
+      {
+        "Kodai wand": [
+          21006
+        ],
+        "Nightmare staff": [
+          24422
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Elidinis' ward (f)": [
+          27251
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ],
+        "Elidinis' ward": [
+          25985
+        ]
+      },
+      {
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ]
+      },
+      {
+        "Malediction ward": [
+          11924
+        ],
+        "Mage's book": [
+          6889
+        ]
+      },
+      {
+        "Book of darkness": [
+          12612
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Infinity gloves": [
+          6922
+        ]
+      },
+      {
+        "Rune gloves": [
+          7460
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Eternal boots": [
+          13235
+        ]
+      },
+      {
+        "Infinity boots": [
+          6920
+        ],
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Wizard boots": [
+          2579
+        ],
+        "Bloodbark boots": [
+          25410
+        ]
+      },
+      {
+        "Boots of brimstone": [
+          22951
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Magus ring": [
+          28313
+        ]
+      },
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
+      },
+      {
+        "Seers ring (i)": [
+          11770,
+          25258,
+          26767
+        ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ],
+        "Ring of shadows (uncharged)": [
+          28329,
+          28327
+        ]
+      }
+    ],
+    "special": []
+  },
+  {
+    "name": "Melee",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Facemask": [
+          4164
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      },
+      {
+        "Amulet of strength": [
+          1725
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Mythical cape": [
+          22114
+        ]
+      },
+      {
+        "Ardougne cloak 4": [
+          13124
+        ]
+      },
+      {
+        "Ardougne cloak 3": [
+          13123
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Torva platebody": [
+          26378,
+          26384
+        ],
+        "Oathplate chest": [
+          30753
+        ]
+      },
+      {
+        "Inquisitor's hauberk": [
+          24420
+        ],
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Masori body (f)": [
+          27238
+        ]
+      },
+      {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
+        "Karil's leathertop": [
+          4736,
+          4940,
+          4941,
+          4942,
+          4943,
+          4944
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ]
+      },
+      {
+        "Torva platelegs": [
+          26380,
+          26386
+        ],
+        "Oathplate legs": [
+          30756
+        ]
+      },
+      {
+        "Inquisitor's plateskirt": [
+          24421
+        ],
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
+        "Karil's leatherskirt": [
+          4738,
+          4946,
+          4947,
+          4948,
+          4949,
+          4950
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ],
+        "Blade of saeldor": [
+          23997,
+          23995
+        ]
+      },
+      {
+        "Noxious halberd": [
+          29796
+        ],
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      },
+      {
+        "Rune defender": [
+          8850,
+          20461,
+          24142
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ]
+      },
+      {
+        "Rune gloves": [
+          7460
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840
+        ],
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Spiked manacles": [
+          23389
+        ]
+      },
+      {
+        "Guardian boots": [
+          21733
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Bellator ring": [
+          28316
+        ]
+      },
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Dragon claws": [
+          13652
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
+        ]
+      },
+      {
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698
+        ],
+        "Osmumten's fang": [
+          26219
+        ]
+      },
+      {
+        "Saradomin godsword": [
+          11806
+        ]
+      }
+    ]
+  },
+  {
     "name": "Melee",
     "head": [
       {
