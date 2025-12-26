@@ -3391,11 +3391,8 @@
             ]
           },
           {
-            "Zaryte crossbow": [
-              26374
-            ],
-            "Armadyl crossbow": [
-              11785
+            "Eclipse atlatl": [
+              29000
             ],
             "Dragon crossbow": [
               21902
@@ -23709,9 +23706,7 @@
               4870,
               4871,
               4872
-            ]
-          },
-          {
+            ],
             "Bloodbark body": [
               25404
             ]
@@ -23736,9 +23731,7 @@
               4876,
               4877,
               4878
-            ]
-          },
-          {
+            ],
             "Bloodbark legs": [
               25416
             ]
@@ -23766,12 +23759,12 @@
           {
             "Arcane spirit shield": [
               12825
+            ],
+            "Elidinis' ward": [
+              25985
             ]
           },
           {
-            "Elidinis' ward": [
-              25985
-            ],
             "Ancient wyvern shield": [
               21634,
               21633
@@ -23830,9 +23823,7 @@
             ],
             "Aranea boots": [
               29806
-            ]
-          },
-          {
+            ],
             "Bloodbark boots": [
               25410
             ]
@@ -23852,7 +23843,9 @@
               25248,
               26761,
               26762
-            ],
+            ]
+          },
+          {
             "Seers ring (i)": [
               11770,
               25258,
@@ -52174,6 +52167,9 @@
           {
             "Obsidian platelegs": [
               21304
+            ],
+            "Fremennik kilt": [
+              23246
             ]
           },
           {
@@ -63631,6 +63627,9 @@
           {
             "Ferocious gloves": [
               22981
+            ],
+            "Bracelet of slaughter": [
+              21183
             ]
           },
           {
@@ -64015,6 +64014,9 @@
           {
             "Ferocious gloves": [
               22981
+            ],
+            "Bracelet of slaughter": [
+              21183
             ]
           },
           {
@@ -75244,6 +75246,9 @@
           {
             "Dragon 2h sword": [
               7158
+            ],
+            "Tzhaar-ket-om": [
+              6528
             ]
           },
           {
