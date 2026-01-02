@@ -9066,9 +9066,9 @@
         ],
         "weapon": [
           {
-            "Tumeken's shadow": [
-              27277,
-              27275
+            "Eye of ayak": [
+              31115,
+              31113
             ]
           }
         ],
@@ -9076,6 +9076,26 @@
           {
             "Elidinis' ward (f)": [
               27251
+            ]
+          },
+          {
+            "Arcane spirit shield": [
+              12825
+            ],
+            "Elidinis' ward": [
+              25985
+            ]
+          },
+          {
+            "Ancient wyvern shield": [
+              21634,
+              21633
+            ],
+            "Mage's book": [
+              6889
+            ],
+            "Malediction ward": [
+              11924
             ]
           }
         ],
@@ -9137,15 +9157,15 @@
             ]
           },
           {
-            "Accursed sceptre": [
-              27662,
-              27665
-            ]
-          },
-          {
             "Eye of ayak": [
               31115,
               31113
+            ]
+          },
+          {
+            "Accursed sceptre": [
+              27662,
+              27665
             ]
           }
         ]
@@ -19972,6 +19992,9 @@
           {
             "Ghrazi rapier": [
               22324
+            ],
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -41155,11 +41178,11 @@
             ]
           },
           {
-            "Broad bolts": [
-              11875
-            ],
             "Diamond bolts (e)": [
               9243
+            ],
+            "Broad bolts": [
+              11875
             ],
             "Bolt rack": [
               4740
@@ -51623,7 +51646,7 @@
     "category": "Quest",
     "styles": [
       {
-        "name": "Melee",
+        "name": "Melee and Ranged",
         "head": [
           {
             "Torva full helm": [
@@ -61793,13 +61816,13 @@
             ]
           },
           {
+            "Bandos chestplate": [
+              11832
+            ],
             "Blood moon chestplate": [
               29022,
               29043,
               29067
-            ],
-            "Bandos chestplate": [
-              11832
             ],
             "Fighter torso": [
               10551,
@@ -61824,13 +61847,13 @@
             ]
           },
           {
+            "Bandos tassets": [
+              11834
+            ],
             "Blood moon tassets": [
               29025,
               29045,
               29070
-            ],
-            "Bandos tassets": [
-              11834
             ]
           }
         ],
@@ -63984,6 +64007,11 @@
               8850,
               20461,
               24142
+            ]
+          },
+          {
+            "Toktz-ket-xil": [
+              6524
             ]
           }
         ],
@@ -66344,6 +66372,281 @@
           }
         ],
         "special": []
+      },
+      {
+        "name": "Melee",
+        "head": [
+          {
+            "Slayer helmet (i)": [
+              11865,
+              25177,
+              26674
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Amulet of rancour": [
+              29801
+            ]
+          },
+          {
+            "Amulet of torture": [
+              19553
+            ]
+          },
+          {
+            "Amulet of strength": [
+              1725
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Infernal cape": [
+              21295,
+              21287,
+              24224
+            ]
+          },
+          {
+            "Fire cape": [
+              6570,
+              20445,
+              24223
+            ]
+          },
+          {
+            "Mythical cape": [
+              22114
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Torva platebody": [
+              26378,
+              26384
+            ],
+            "Oathplate chest": [
+              30753
+            ]
+          },
+          {
+            "Bandos chestplate": [
+              11832
+            ]
+          },
+          {
+            "Mixed hide top": [
+              29280
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Torva platelegs": [
+              26380,
+              26386
+            ],
+            "Oathplate legs": [
+              30756
+            ]
+          },
+          {
+            "Bandos tassets": [
+              11834
+            ],
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
+            ]
+          },
+          {
+            "Obsidian platelegs": [
+              21304
+            ],
+            "Eclipse moon tassets": [
+              29007,
+              29033,
+              29052
+            ],
+            "Blue moon tassets": [
+              29016,
+              29039,
+              29061
+            ]
+          },
+          {
+            "Mixed hide legs": [
+              29283
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Emberlight": [
+              29589
+            ]
+          },
+          {
+            "Arclight": [
+              30305,
+              19675
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Avernic defender": [
+              22322,
+              22441,
+              24186
+            ]
+          },
+          {
+            "Dragon defender": [
+              12954,
+              20463,
+              24143
+            ]
+          }
+        ],
+        "ammo": [
+          {
+            "Rada's blessing 4": [
+              22947
+            ]
+          },
+          {
+            "God blessing": [
+              20220,
+              20223,
+              20226,
+              20229,
+              20232,
+              20235
+            ],
+            "Rada's blessing 3": [
+              22945
+            ],
+            "Rada's blessing 2": [
+              22943
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Ferocious gloves": [
+              22981
+            ],
+            "Bracelet of slaughter": [
+              21183
+            ]
+          },
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Avernic treads (max)": [
+              31097
+            ]
+          },
+          {
+            "Primordial boots": [
+              13239
+            ]
+          },
+          {
+            "Dragon boots": [
+              11840
+            ],
+            "Spiked manacles": [
+              23389
+            ],
+            "Aranea boots": [
+              29806
+            ]
+          },
+          {
+            "Echo boots": [
+              28945
+            ]
+          },
+          {
+            "Mixed hide boots": [
+              29286
+            ],
+            "Climbing boots": [
+              3105
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Ultor ring": [
+              28307
+            ]
+          },
+          {
+            "Berserker ring (i)": [
+              11773,
+              25264,
+              26770
+            ]
+          }
+        ],
+        "special": [
+          {
+            "Burning claws": [
+              29577
+            ],
+            "Crystal halberd": [
+              23987,
+              23989,
+              24125
+            ]
+          },
+          {
+            "Dragon claws": [
+              13652
+            ]
+          },
+          {
+            "Voidwaker": [
+              27690
+            ]
+          },
+          {
+            "Dragon dagger(p++)": [
+              1215,
+              1231,
+              5680,
+              5698
+            ]
+          }
+        ]
       }
     ]
   },
@@ -70192,8 +70495,9 @@
             ]
           },
           {
-            "Bow of faerdhinen (c)": [
-              25867
+            "Bow of faerdhinen": [
+              25862,
+              25865
             ]
           },
           {
@@ -71964,21 +72268,14 @@
             "Torva platebody": [
               26378,
               26384
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
             "Bandos chestplate": [
               11832
-            ]
-          },
-          {
-            "Obsidian platebody": [
-              21301
-            ],
-            "Eclipse moon chestplate": [
-              29004,
-              29031,
-              29049
             ]
           },
           {
@@ -71992,6 +72289,9 @@
             "Torva platelegs": [
               26380,
               26386
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -77183,6 +77483,9 @@
             ],
             "Soulflame horn": [
               30759
+            ],
+            "Dragon warhammer": [
+              13576
             ]
           },
           {

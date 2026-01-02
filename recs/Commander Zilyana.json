@@ -66,9 +66,9 @@
     ],
     "weapon": [
       {
-        "Tumeken's shadow": [
-          27277,
-          27275
+        "Eye of ayak": [
+          31115,
+          31113
         ]
       }
     ],
@@ -76,6 +76,26 @@
       {
         "Elidinis' ward (f)": [
           27251
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ],
+        "Elidinis' ward": [
+          25985
+        ]
+      },
+      {
+        "Ancient wyvern shield": [
+          21634,
+          21633
+        ],
+        "Mage's book": [
+          6889
+        ],
+        "Malediction ward": [
+          11924
         ]
       }
     ],
@@ -137,15 +157,15 @@
         ]
       },
       {
-        "Accursed sceptre": [
-          27662,
-          27665
-        ]
-      },
-      {
         "Eye of ayak": [
           31115,
           31113
+        ]
+      },
+      {
+        "Accursed sceptre": [
+          27662,
+          27665
         ]
       }
     ]

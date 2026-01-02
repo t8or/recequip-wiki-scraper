@@ -472,21 +472,14 @@
         "Torva platebody": [
           26378,
           26384
+        ],
+        "Oathplate chest": [
+          30753
         ]
       },
       {
         "Bandos chestplate": [
           11832
-        ]
-      },
-      {
-        "Obsidian platebody": [
-          21301
-        ],
-        "Eclipse moon chestplate": [
-          29004,
-          29031,
-          29049
         ]
       },
       {
@@ -500,6 +493,9 @@
         "Torva platelegs": [
           26380,
           26386
+        ],
+        "Oathplate legs": [
+          30756
         ]
       },
       {
