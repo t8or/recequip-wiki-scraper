@@ -972,6 +972,9 @@
       {
         "Voidwaker": [
           27690
+        ],
+        "Zamorakian hasta": [
+          11889
         ]
       },
       {
@@ -1247,7 +1250,58 @@
     "special": []
   },
   {
-    "name": "Great Olm",
+    "name": "Great Olm Left Claw (Melee / 50 Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Dragon hunter lance": [
+          22978
+        ]
+      },
+      {
+        "Ghrazi rapier": [
+          22324
+        ],
+        "Dual macuahuitl": [
+          28997
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006
+        ],
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
+        "Abyssal whip": [
+          4151
+        ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Great Olm Right Claw (Magic)",
     "head": [],
     "neck": [],
     "cape": [],
@@ -1259,43 +1313,26 @@
           27277,
           27275
         ],
-        "Twisted bow": [
-          20997
-        ],
-        "Scythe of vitur": [
-          22486,
-          22325
+        "Eye of ayak": [
+          31115,
+          31113
+        ]
+      },
+      {
+        "Dragon hunter wand": [
+          30070
         ]
       },
       {
         "Sanguinesti staff": [
           22481,
           22323
-        ],
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ],
-        "Dragon dart": [
-          11230,
-          11231,
-          11233,
-          11234
-        ],
-        "Dragon hunter lance": [
-          22978
         ]
       },
       {
         "Trident of the swamp": [
           12900,
           12899
-        ],
-        "Dragon hunter crossbow": [
-          21012
-        ],
-        "Ghrazi rapier": [
-          22324
         ]
       },
       {
@@ -1303,13 +1340,55 @@
           11908,
           11907,
           11905
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Great Olm Head (Ranged)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Dragon hunter crossbow": [
+          21012
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
         ],
         "Bow of faerdhinen": [
           25862,
           25865
+        ]
+      },
+      {
+        "Dragon crossbow": [
+          21902
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
         ],
-        "Abyssal tentacle": [
-          12006
+        "Eclipse atlatl": [
+          29000
         ]
       }
     ],
