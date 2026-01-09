@@ -931,9 +931,6 @@
         ]
       },
       {
-        "Zaryte crossbow": [
-          26374
-        ],
         "Toxic blowpipe": [
           12924,
           12926
@@ -943,6 +940,9 @@
         "Bow of faerdhinen": [
           25862,
           25865
+        ],
+        "Zaryte crossbow": [
+          26374
         ]
       },
       {
@@ -976,11 +976,13 @@
         "Osmumten's fang": [
           26219
         ],
-        "Keris partisan of amascut": [
-          30891
-        ],
         "Keris partisan of breaching": [
           25981
+        ]
+      },
+      {
+        "Keris partisan of amascut": [
+          30891
         ]
       },
       {
