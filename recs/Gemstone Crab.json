@@ -2343,9 +2343,6 @@
       {
         "Beacon ring": [
           11014
-        ],
-        "Lunar ring": [
-          9104
         ]
       }
     ],
@@ -2414,6 +2411,9 @@
     ],
     "weapon": [
       {
+        "Slayer's staff (e)": [
+          21255
+        ],
         "Iban's staff (u)": [
           12658
         ],

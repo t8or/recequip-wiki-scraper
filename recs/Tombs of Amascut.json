@@ -1126,21 +1126,20 @@
         ]
       },
       {
+        "Ghrazi rapier": [
+          22324
+        ],
         "Zaryte crossbow": [
           26374
         ]
       },
       {
-        "Armadyl crossbow": [
-          11785
+        "Bow of faerdhinen": [
+          25862,
+          25865
         ],
         "Dragon crossbow": [
           21902
-        ]
-      },
-      {
-        "Ghrazi rapier": [
-          22324
         ]
       },
       {
@@ -1149,7 +1148,9 @@
         ],
         "Zamorakian hasta": [
           11889
-        ],
+        ]
+      },
+      {
         "Rune crossbow": [
           9185
         ]

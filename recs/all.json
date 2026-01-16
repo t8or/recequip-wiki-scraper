@@ -14718,28 +14718,27 @@
         ],
         "special": [
           {
+            "Burning claws": [
+              29577
+            ],
             "Bandos godsword": [
               11804
-            ]
-          },
-          {
-            "Voidwaker": [
-              27690
             ]
           },
           {
             "Dragon claws": [
               13652
             ],
-            "Burning claws": [
-              29577
+            "Voidwaker": [
+              27690
             ]
           },
           {
-            "Crystal halberd": [
-              23987,
-              23989,
-              24125
+            "Dragon dagger(p++)": [
+              1215,
+              1231,
+              5680,
+              5698
             ]
           }
         ]
@@ -54241,9 +54240,6 @@
           {
             "Beacon ring": [
               11014
-            ],
-            "Lunar ring": [
-              9104
             ]
           }
         ],
@@ -54312,6 +54308,9 @@
         ],
         "weapon": [
           {
+            "Slayer's staff (e)": [
+              21255
+            ],
             "Iban's staff (u)": [
               12658
             ],
@@ -57124,6 +57123,11 @@
               8850,
               20461,
               24142
+            ]
+          },
+          {
+            "Toktz-ket-xil": [
+              6524
             ]
           }
         ],
@@ -63256,9 +63260,6 @@
           {
             "Adamant full helm": [
               1161
-            ],
-            "Proselyte sallet": [
-              9672
             ]
           }
         ],
@@ -63312,9 +63313,6 @@
           {
             "Adamant platebody": [
               1123
-            ],
-            "Proselyte hauberk": [
-              9674
             ]
           }
         ],
@@ -63341,9 +63339,6 @@
           {
             "Adamant platelegs": [
               1073
-            ],
-            "Proselyte tasset": [
-              9678
             ]
           }
         ],
@@ -72854,6 +72849,9 @@
         ],
         "weapon": [
           {
+            "Soulreaper axe": [
+              28338
+            ],
             "Scythe of vitur": [
               22486,
               22325
@@ -74665,21 +74663,20 @@
             ]
           },
           {
+            "Ghrazi rapier": [
+              22324
+            ],
             "Zaryte crossbow": [
               26374
             ]
           },
           {
-            "Armadyl crossbow": [
-              11785
+            "Bow of faerdhinen": [
+              25862,
+              25865
             ],
             "Dragon crossbow": [
               21902
-            ]
-          },
-          {
-            "Ghrazi rapier": [
-              22324
             ]
           },
           {
@@ -74688,7 +74685,9 @@
             ],
             "Zamorakian hasta": [
               11889
-            ],
+            ]
+          },
+          {
             "Rune crossbow": [
               9185
             ]

@@ -317,28 +317,27 @@
     ],
     "special": [
       {
+        "Burning claws": [
+          29577
+        ],
         "Bandos godsword": [
           11804
-        ]
-      },
-      {
-        "Voidwaker": [
-          27690
         ]
       },
       {
         "Dragon claws": [
           13652
         ],
-        "Burning claws": [
-          29577
+        "Voidwaker": [
+          27690
         ]
       },
       {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
+        "Dragon dagger(p++)": [
+          1215,
+          1231,
+          5680,
+          5698
         ]
       }
     ]
