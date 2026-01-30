@@ -609,6 +609,14 @@
         "Occult necklace": [
           12002
         ]
+      },
+      {
+        "Bonecrusher necklace": [
+          22986
+        ],
+        "Dragonbone necklace": [
+          22111
+        ]
       }
     ],
     "cape": [
@@ -631,13 +639,17 @@
         "Ancestral robe top": [
           21021
         ],
-        "Bandos chestplate": [
-          11832
+        "Torva platebody": [
+          26378,
+          26384
         ]
       },
       {
         "Virtus robe top": [
           26243
+        ],
+        "Bandos chestplate": [
+          11832
         ]
       }
     ],
@@ -646,6 +658,14 @@
         "Ancestral robe bottom": [
           21024
         ],
+        "Oathplate legs": [
+          30756
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ],
         "Verac's plateskirt": [
           4759,
           4994,
@@ -653,11 +673,6 @@
           4996,
           4997,
           4998
-        ]
-      },
-      {
-        "Virtus robe bottom": [
-          26245
         ]
       }
     ],
