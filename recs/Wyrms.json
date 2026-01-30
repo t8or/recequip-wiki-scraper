@@ -717,5 +717,317 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Magic",
+    "head": [
+      {
+        "Slayer helmet (i)": [
+          11865,
+          25177,
+          26674
+        ]
+      },
+      {
+        "Ancestral hat": [
+          21018
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
+        ]
+      },
+      {
+        "Ahrim's hood": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860
+        ],
+        "Bloodbark helm": [
+          25413
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ]
+      },
+      {
+        "Dragonbone necklace": [
+          22111
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Imbued god cape": [
+          2412,
+          2415,
+          2414,
+          2417,
+          2413,
+          2416,
+          21791,
+          24236,
+          24248,
+          21795,
+          24244,
+          24250,
+          21793,
+          24240,
+          24249
+        ]
+      },
+      {
+        "Soul cape": [
+          25344,
+          25346
+        ]
+      },
+      {
+        "Ardougne cloak": [
+          13121,
+          13122,
+          13123,
+          13124
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      },
+      {
+        "Ahrim's robetop": [
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872
+        ],
+        "Bloodbark body": [
+          25404
+        ]
+      },
+      {
+        "Proselyte hauberk": [
+          9674
+        ]
+      },
+      {
+        "Monk's robe top": [
+          544
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      },
+      {
+        "Ahrim's robeskirt": [
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878
+        ],
+        "Bloodbark legs": [
+          25416
+        ]
+      },
+      {
+        "Proselyte cuisse": [
+          9676
+        ]
+      },
+      {
+        "Monk's robe": [
+          542
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Dragon hunter wand": [
+          30070
+        ]
+      },
+      {
+        "Twinflame staff": [
+          30634
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Tome of earth": [
+          30066,
+          30064
+        ],
+        "Tome of water": [
+          25576,
+          25574
+        ]
+      },
+      {
+        "Elidinis' ward": [
+          25985
+        ],
+        "Mage's book": [
+          6889
+        ]
+      },
+      {
+        "Book of darkness": [
+          12612
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235,
+          22941,
+          22943,
+          22945,
+          22947
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Eternal boots": [
+          13235
+        ]
+      },
+      {
+        "Devout boots": [
+          22954
+        ]
+      },
+      {
+        "Holy sandals": [
+          12598
+        ]
+      },
+      {
+        "Mystic boots": [
+          4097
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Magus ring": [
+          28313
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ],
+        "Seers ring (i)": [
+          11770,
+          25258,
+          26767
+        ]
+      },
+      {
+        "Explorer's ring": [
+          13125,
+          13126,
+          13127,
+          13128
+        ],
+        "Ring of wealth": [
+          2572,
+          11988,
+          11986,
+          11984,
+          11982,
+          11980
+        ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      }
+    ],
+    "special": []
   }
 ]
