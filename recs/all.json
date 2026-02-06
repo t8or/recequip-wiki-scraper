@@ -55443,9 +55443,6 @@
         ],
         "weapon": [
           {
-            "Slayer's staff (e)": [
-              21255
-            ],
             "Iban's staff (u)": [
               12658
             ],
@@ -70060,14 +70057,14 @@
         ],
         "special": [
           {
-            "Dragon claws": [
-              13652
-            ],
             "Burning claws": [
               29577
             ]
           },
           {
+            "Dragon claws": [
+              13652
+            ],
             "Voidwaker": [
               27690
             ]
