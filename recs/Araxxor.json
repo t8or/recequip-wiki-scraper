@@ -303,24 +303,6 @@
           20232,
           20235
         ]
-      },
-      {
-        "Dragon javelin": [
-          19484,
-          19486,
-          19488,
-          19490
-        ]
-      },
-      {
-        "Moonlight antler bolts": [
-          28878
-        ]
-      },
-      {
-        "Broad bolts": [
-          11875
-        ]
       }
     ],
     "hands": [
@@ -410,6 +392,9 @@
       {
         "Saradomin godsword": [
           11806
+        ],
+        "Dragon mace": [
+          1434
         ],
         "Ancient godsword": [
           26233
