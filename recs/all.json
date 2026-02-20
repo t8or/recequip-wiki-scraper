@@ -14313,6 +14313,11 @@
               20445,
               24223
             ]
+          },
+          {
+            "Mythical cape": [
+              22114
+            ]
           }
         ],
         "body": [
@@ -21138,16 +21143,16 @@
             ]
           },
           {
+            "Crystal body": [
+              23975,
+              23977
+            ]
+          },
+          {
             "Eclipse moon chestplate": [
               29004,
               29031,
               29049
-            ]
-          },
-          {
-            "Crystal body": [
-              23975,
-              23977
             ]
           },
           {
@@ -21181,16 +21186,16 @@
             ]
           },
           {
+            "Crystal legs": [
+              23979,
+              23981
+            ]
+          },
+          {
             "Eclipse moon tassets": [
               29007,
               29033,
               29052
-            ]
-          },
-          {
-            "Crystal legs": [
-              23979,
-              23981
             ]
           },
           {
@@ -21229,14 +21234,14 @@
             ]
           },
           {
-            "Eclipse atlatl": [
-              29000
-            ]
-          },
-          {
             "Bow of faerdhinen": [
               25862,
               25865
+            ]
+          },
+          {
+            "Eclipse atlatl": [
+              29000
             ]
           },
           {
@@ -21278,13 +21283,13 @@
             ]
           },
           {
-            "Atlatl dart": [
-              28991
+            "Rada's blessing 4": [
+              22947
             ]
           },
           {
-            "Rada's blessing 4": [
-              22947
+            "Atlatl dart": [
+              28991
             ]
           },
           {
@@ -29513,15 +29518,12 @@
             ]
           },
           {
-            "Elysian spirit shield": [
-              12817
-            ]
-          },
-          {
             "Dragonfire ward": [
               22003,
               22002
-            ],
+            ]
+          },
+          {
             "Odium ward": [
               11926
             ]
@@ -29695,6 +29697,9 @@
           {
             "Masori body (f)": [
               27238
+            ],
+            "Bandos chestplate": [
+              11832
             ]
           },
           {
@@ -29702,6 +29707,9 @@
               29004,
               29031,
               29049
+            ],
+            "Mixed hide top": [
+              29280
             ]
           }
         ],
@@ -29715,6 +29723,9 @@
           {
             "Masori chaps (f)": [
               27241
+            ],
+            "Bandos tassets": [
+              11834
             ]
           },
           {
@@ -29722,6 +29733,9 @@
               29007,
               29033,
               29052
+            ],
+            "Mixed hide legs": [
+              29283
             ]
           }
         ],
@@ -29745,11 +29759,6 @@
               12954,
               20463,
               24143
-            ]
-          },
-          {
-            "Elysian spirit shield": [
-              12817
             ]
           }
         ],
@@ -30259,15 +30268,15 @@
             ]
           },
           {
-            "Toxic blowpipe": [
-              12924,
-              12926
-            ]
-          },
-          {
             "Bow of faerdhinen": [
               25862,
               25865
+            ]
+          },
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
@@ -43031,6 +43040,9 @@
             ]
           },
           {
+            "Book of darkness": [
+              12612
+            ],
             "Damaged book": [
               12611,
               12609,
@@ -55878,6 +55890,12 @@
         ],
         "hands": [
           {
+            "Penance gloves": [
+              10553,
+              10554
+            ]
+          },
+          {
             "Graceful gloves": [
               11858,
               11859
@@ -56298,13 +56316,13 @@
         ],
         "weapon": [
           {
-            "Dragon scimitar": [
-              4587
+            "Zombie axe": [
+              28810
             ]
           },
           {
-            "Zombie axe": [
-              28810
+            "Dragon scimitar": [
+              4587
             ]
           }
         ],
