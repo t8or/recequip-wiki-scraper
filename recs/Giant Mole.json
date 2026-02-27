@@ -811,6 +811,9 @@
       {
         "Bandos chestplate": [
           11832
+        ],
+        "Oathplate chest": [
+          30753
         ]
       },
       {
@@ -846,6 +849,9 @@
       {
         "Bandos tassets": [
           11834
+        ],
+        "Oathplate legs": [
+          30756
         ]
       },
       {
@@ -871,22 +877,28 @@
         ]
       },
       {
-        "Ghrazi rapier": [
-          22324
-        ],
         "Noxious halberd": [
           29796
+        ],
+        "Ghrazi rapier": [
+          22324
         ]
       },
       {
         "Zamorakian hasta": [
           11889
-        ]
-      },
-      {
+        ],
         "Blade of saeldor": [
           23997,
           23995
+        ]
+      },
+      {
+        "Belle's folly": [
+          31248
+        ],
+        "Zombie axe": [
+          28810
         ]
       },
       {

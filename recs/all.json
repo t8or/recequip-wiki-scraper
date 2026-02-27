@@ -6234,6 +6234,9 @@
             "Dragon claws": [
               13652
             ],
+            "Bandos godsword": [
+              11804
+            ],
             "Elder maul": [
               21003
             ]
@@ -6249,9 +6252,6 @@
           {
             "Dragon warhammer": [
               13576
-            ],
-            "Bandos godsword": [
-              11804
             ]
           },
           {
@@ -19855,6 +19855,9 @@
           {
             "Bandos chestplate": [
               11832
+            ],
+            "Oathplate chest": [
+              30753
             ]
           },
           {
@@ -19890,6 +19893,9 @@
           {
             "Bandos tassets": [
               11834
+            ],
+            "Oathplate legs": [
+              30756
             ]
           },
           {
@@ -19915,22 +19921,28 @@
             ]
           },
           {
-            "Ghrazi rapier": [
-              22324
-            ],
             "Noxious halberd": [
               29796
+            ],
+            "Ghrazi rapier": [
+              22324
             ]
           },
           {
             "Zamorakian hasta": [
               11889
-            ]
-          },
-          {
+            ],
             "Blade of saeldor": [
               23997,
               23995
+            ]
+          },
+          {
+            "Belle's folly": [
+              31248
+            ],
+            "Zombie axe": [
+              28810
             ]
           },
           {
@@ -21021,6 +21033,10 @@
           {
             "Brimstone ring": [
               22975
+            ],
+            "Ring of shadows": [
+              28329,
+              28327
             ]
           },
           {
@@ -24015,6 +24031,11 @@
           {
             "Dragon boots": [
               11840
+            ]
+          },
+          {
+            "Mixed hide boots": [
+              29286
             ]
           },
           {
@@ -31339,6 +31360,9 @@
             ],
             "Sarachnis cudgel": [
               23528
+            ],
+            "Zombie axe": [
+              28810
             ]
           },
           {
@@ -49999,12 +50023,6 @@
               25177,
               26674
             ]
-          },
-          {
-            "Serpentine helm": [
-              12929,
-              12931
-            ]
           }
         ],
         "neck": [
@@ -50065,21 +50083,6 @@
           {
             "Bandos chestplate": [
               11832
-            ],
-            "Oathplate chest": [
-              30753
-            ]
-          },
-          {
-            "Blood moon chestplate": [
-              29022,
-              29043,
-              29067
-            ],
-            "Fighter torso": [
-              10551,
-              20513,
-              24175
             ]
           },
           {
@@ -50126,16 +50129,6 @@
           {
             "Bandos tassets": [
               11834
-            ],
-            "Oathplate legs": [
-              30756
-            ]
-          },
-          {
-            "Blood moon tassets": [
-              29025,
-              29045,
-              29070
             ]
           },
           {
@@ -50189,26 +50182,17 @@
             "Ursine chainmace (u)": [
               27657,
               27660
-            ]
-          },
-          {
-            "Saradomin's blessed sword": [
-              12809,
-              12808
             ],
             "Zamorakian hasta": [
               11889
-            ],
-            "Sarachnis cudgel": [
-              23528
             ]
           },
           {
+            "Sarachnis cudgel": [
+              23528
+            ],
             "Dual macuahuitl": [
               28997
-            ],
-            "Saradomin sword": [
-              11838
             ],
             "Zombie axe": [
               28810
@@ -50284,14 +50268,6 @@
             "Aranea boots": [
               29806
             ]
-          },
-          {
-            "Echo boots": [
-              28945
-            ],
-            "Guardian boots": [
-              21733
-            ]
           }
         ],
         "ring": [
@@ -50331,25 +50307,6 @@
             ],
             "Arkan blade": [
               30955
-            ]
-          },
-          {
-            "Bandos godsword": [
-              11804
-            ]
-          },
-          {
-            "Saradomin godsword": [
-              11806
-            ],
-            "Dragon mace": [
-              1434
-            ],
-            "Ancient godsword": [
-              26233
-            ],
-            "Dinh's bulwark": [
-              21015
             ]
           }
         ]
