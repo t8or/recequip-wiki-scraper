@@ -50,12 +50,6 @@
           25177,
           26674
         ]
-      },
-      {
-        "Serpentine helm": [
-          12929,
-          12931
-        ]
       }
     ],
     "neck": [
@@ -116,21 +110,6 @@
       {
         "Bandos chestplate": [
           11832
-        ],
-        "Oathplate chest": [
-          30753
-        ]
-      },
-      {
-        "Blood moon chestplate": [
-          29022,
-          29043,
-          29067
-        ],
-        "Fighter torso": [
-          10551,
-          20513,
-          24175
         ]
       },
       {
@@ -177,16 +156,6 @@
       {
         "Bandos tassets": [
           11834
-        ],
-        "Oathplate legs": [
-          30756
-        ]
-      },
-      {
-        "Blood moon tassets": [
-          29025,
-          29045,
-          29070
         ]
       },
       {
@@ -240,26 +209,17 @@
         "Ursine chainmace (u)": [
           27657,
           27660
-        ]
-      },
-      {
-        "Saradomin's blessed sword": [
-          12809,
-          12808
         ],
         "Zamorakian hasta": [
           11889
-        ],
-        "Sarachnis cudgel": [
-          23528
         ]
       },
       {
+        "Sarachnis cudgel": [
+          23528
+        ],
         "Dual macuahuitl": [
           28997
-        ],
-        "Saradomin sword": [
-          11838
         ],
         "Zombie axe": [
           28810
@@ -335,14 +295,6 @@
         "Aranea boots": [
           29806
         ]
-      },
-      {
-        "Echo boots": [
-          28945
-        ],
-        "Guardian boots": [
-          21733
-        ]
       }
     ],
     "ring": [
@@ -382,25 +334,6 @@
         ],
         "Arkan blade": [
           30955
-        ]
-      },
-      {
-        "Bandos godsword": [
-          11804
-        ]
-      },
-      {
-        "Saradomin godsword": [
-          11806
-        ],
-        "Dragon mace": [
-          1434
-        ],
-        "Ancient godsword": [
-          26233
-        ],
-        "Dinh's bulwark": [
-          21015
         ]
       }
     ]
