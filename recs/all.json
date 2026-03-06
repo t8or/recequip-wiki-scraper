@@ -11334,366 +11334,6 @@
             ]
           }
         ]
-      },
-      {
-        "name": "Ranged masses",
-        "head": [
-          {
-            "Masori mask (f)": [
-              27235
-            ]
-          },
-          {
-            "Armadyl helmet": [
-              11826
-            ]
-          },
-          {
-            "Blessed coif": [
-              12496,
-              12512,
-              12504,
-              10382,
-              10390,
-              10374
-            ]
-          },
-          {
-            "Robin hood hat": [
-              2581
-            ]
-          },
-          {
-            "Karil's coif": [
-              4732,
-              4928,
-              4929,
-              4930,
-              4931,
-              4932
-            ]
-          }
-        ],
-        "neck": [
-          {
-            "Necklace of anguish": [
-              19547
-            ]
-          },
-          {
-            "Amulet of fury": [
-              6585
-            ]
-          },
-          {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
-            ]
-          },
-          {
-            "Amulet of power": [
-              1731
-            ]
-          },
-          {
-            "Amulet of accuracy": [
-              1478
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "Dizana's quiver": [
-              28947,
-              28951,
-              28949,
-              28953,
-              28826
-            ]
-          },
-          {
-            "Ava's assembler": [
-              22109,
-              21914,
-              24222
-            ]
-          },
-          {
-            "Ava's accumulator": [
-              10499
-            ]
-          },
-          {
-            "Ranging cape(t)": [
-              9756,
-              9757
-            ]
-          },
-          {
-            "Ava's attractor": [
-              10498
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Masori body (f)": [
-              27238
-            ]
-          },
-          {
-            "Armadyl chestplate": [
-              11828
-            ]
-          },
-          {
-            "Blessed body": [
-              12492,
-              12508,
-              12500,
-              10378,
-              10386,
-              10370
-            ]
-          },
-          {
-            "Black d'hide body": [
-              2503
-            ],
-            "Karil's leathertop": [
-              4736,
-              4940,
-              4941,
-              4942,
-              4943,
-              4944
-            ]
-          },
-          {
-            "Red d'hide body": [
-              2501
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Masori chaps (f)": [
-              27241
-            ]
-          },
-          {
-            "Armadyl chainskirt": [
-              11830
-            ]
-          },
-          {
-            "Blessed chaps": [
-              12494,
-              12510,
-              12502,
-              10380,
-              10388,
-              10372
-            ]
-          },
-          {
-            "Black d'hide chaps": [
-              2497
-            ],
-            "Karil's leatherskirt": [
-              4738,
-              4946,
-              4947,
-              4948,
-              4949,
-              4950
-            ]
-          },
-          {
-            "Rangers' tights": [
-              23249
-            ],
-            "penance skirt": [
-              10555,
-              20515,
-              24176
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Twisted bow": [
-              20997
-            ]
-          },
-          {
-            "Zaryte crossbow": [
-              26374
-            ]
-          },
-          {
-            "Armadyl crossbow": [
-              11785
-            ]
-          },
-          {
-            "Dragon crossbow": [
-              21902
-            ]
-          },
-          {
-            "Rune crossbow": [
-              9185
-            ]
-          }
-        ],
-        "shield": [
-          {
-            "Twisted buckler": [
-              21000
-            ]
-          },
-          {
-            "Dragonfire ward": [
-              22003,
-              22002
-            ]
-          },
-          {
-            "Odium ward": [
-              11926
-            ]
-          },
-          {
-            "Book of law": [
-              12610
-            ]
-          },
-          {
-            "Unholy book": [
-              3842
-            ]
-          }
-        ],
-        "ammo": [
-          {
-            "Dragon arrow": [
-              11212,
-              11227,
-              11228,
-              11229
-            ]
-          },
-          {
-            "Ruby dragon bolts (e)": [
-              21944
-            ]
-          },
-          {
-            "Ruby bolts (e)": [
-              9242
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Zaryte vambraces": [
-              26235
-            ]
-          },
-          {
-            "Barrows gloves": [
-              7462
-            ]
-          },
-          {
-            "Blessed vambraces": [
-              12490,
-              12506,
-              12498,
-              10376,
-              10384,
-              10368
-            ]
-          },
-          {
-            "Black d'hide vambraces": [
-              2491
-            ],
-            "Ranger gloves": [
-              19994
-            ]
-          },
-          {
-            "Red d'hide vambraces": [
-              2489
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Avernic treads (max)": [
-              31097
-            ]
-          },
-          {
-            "Pegasian boots": [
-              13237
-            ]
-          },
-          {
-            "Ranger boots": [
-              2577
-            ]
-          },
-          {
-            "Blessed boots": [
-              19921,
-              19930,
-              19924,
-              19927,
-              19933,
-              19936
-            ]
-          },
-          {
-            "Boots of brimstone": [
-              22951
-            ]
-          }
-        ],
-        "ring": [
-          {
-            "Venator ring": [
-              28310
-            ]
-          },
-          {
-            "Archers ring (i)": [
-              11771,
-              25260,
-              26768
-            ]
-          },
-          {
-            "Brimstone ring": [
-              22975
-            ]
-          }
-        ],
-        "special": [
-          {
-            "Zaryte crossbow": [
-              26374
-            ]
-          }
-        ]
       }
     ]
   },
@@ -12272,9 +11912,6 @@
             ]
           },
           {
-            "Bandos tassets": [
-              11834
-            ],
             "Masori chaps": [
               27232
             ]
@@ -12291,14 +11928,6 @@
             ]
           },
           {
-            "Verac's plateskirt": [
-              4759,
-              4994,
-              4995,
-              4996,
-              4997,
-              4998
-            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -12509,9 +12138,6 @@
             ]
           },
           {
-            "Aranea boots": [
-              29806
-            ],
             "Echo boots": [
               28945
             ],
@@ -12522,25 +12148,6 @@
           {
             "Dragon boots": [
               11840
-            ],
-            "Granite boots": [
-              21643
-            ]
-          },
-          {
-            "Blessed boots": [
-              19921,
-              19930,
-              19924,
-              19927,
-              19933,
-              19936
-            ],
-            "Boots of brimstone": [
-              22951
-            ],
-            "Bandos boots": [
-              11836
             ]
           }
         ],
@@ -22686,19 +22293,6 @@
               30305,
               19675
             ]
-          },
-          {
-            "Inquisitor's mace": [
-              24417
-            ],
-            "Ghrazi rapier": [
-              22324
-            ]
-          },
-          {
-            "Abyssal tentacle": [
-              12006
-            ]
           }
         ],
         "shield": [
@@ -31539,6 +31133,9 @@
         "name": "Melee (High level)",
         "head": [
           {
+            "Oathplate helm": [
+              30750
+            ],
             "Slayer helmet (i)": [
               11865,
               25177,
@@ -31578,13 +31175,13 @@
         ],
         "neck": [
           {
-            "Amulet of blood fury": [
-              24780
+            "Amulet of rancour": [
+              29801
             ]
           },
           {
-            "Amulet of rancour": [
-              29801
+            "Amulet of blood fury": [
+              24780
             ]
           },
           {
@@ -42163,6 +41760,10 @@
           {
             "Elidinis' ward (f)": [
               27251
+            ],
+            "Tome of water": [
+              25576,
+              25574
             ]
           },
           {
@@ -44070,6 +43671,14 @@
           {
             "Climbing boots": [
               3105
+            ]
+          },
+          {
+            "Fremennik sea boots 4": [
+              13132
+            ],
+            "Adamant boots": [
+              4129
             ]
           }
         ],
@@ -46077,7 +45686,12 @@
               23294,
               23288,
               27806,
-              27808
+              27808,
+              33093,
+              33096,
+              33097,
+              33098,
+              33099
             ]
           }
         ],
@@ -55742,7 +55356,7 @@
         ],
         "shield": [
           {
-            "Abyssal lantern (redwood logs)": [
+            "Abyssal lantern (yew logs)": [
               26822,
               26824,
               26826,
@@ -55760,23 +55374,7 @@
             ]
           },
           {
-            "Abyssal lantern (yew logs)": [
-              26822,
-              26824,
-              26826,
-              26828,
-              26830,
-              26832,
-              26834,
-              26836,
-              26838,
-              26840,
-              26842,
-              26844,
-              26846,
-              26848
-            ],
-            "Abyssal lantern (oak logs)": [
+            "Abyssal lantern (redwood logs)": [
               26822,
               26824,
               26826,
@@ -60860,6 +60458,14 @@
           {
             "Climbing boots": [
               3105
+            ]
+          },
+          {
+            "Fremennik sea boots 4": [
+              13132
+            ],
+            "Adamant boots": [
+              4129
             ]
           }
         ],
@@ -66792,6 +66398,13 @@
               10384,
               10368
             ]
+          },
+          {
+            "Void knight gloves": [
+              8842,
+              20475,
+              24182
+            ]
           }
         ],
         "feet": [
@@ -68199,6 +67812,9 @@
             ]
           },
           {
+            "Noxious halberd": [
+              29796
+            ],
             "Abyssal tentacle": [
               12006
             ],

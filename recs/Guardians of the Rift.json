@@ -133,7 +133,7 @@
     ],
     "shield": [
       {
-        "Abyssal lantern (redwood logs)": [
+        "Abyssal lantern (yew logs)": [
           26822,
           26824,
           26826,
@@ -151,23 +151,7 @@
         ]
       },
       {
-        "Abyssal lantern (yew logs)": [
-          26822,
-          26824,
-          26826,
-          26828,
-          26830,
-          26832,
-          26834,
-          26836,
-          26838,
-          26840,
-          26842,
-          26844,
-          26846,
-          26848
-        ],
-        "Abyssal lantern (oak logs)": [
+        "Abyssal lantern (redwood logs)": [
           26822,
           26824,
           26826,
