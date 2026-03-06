@@ -363,6 +363,9 @@
     "name": "Melee (High level)",
     "head": [
       {
+        "Oathplate helm": [
+          30750
+        ],
         "Slayer helmet (i)": [
           11865,
           25177,
@@ -402,13 +405,13 @@
     ],
     "neck": [
       {
-        "Amulet of blood fury": [
-          24780
+        "Amulet of rancour": [
+          29801
         ]
       },
       {
-        "Amulet of rancour": [
-          29801
+        "Amulet of blood fury": [
+          24780
         ]
       },
       {
