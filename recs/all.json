@@ -11953,9 +11953,9 @@
             ]
           },
           {
-            "Toxic blowpipe": [
-              12924,
-              12926
+            "Bow of faerdhinen": [
+              25862,
+              25865
             ]
           },
           {
@@ -11969,9 +11969,9 @@
               12900,
               12899
             ],
-            "Bow of faerdhinen": [
-              25862,
-              25865
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
@@ -12620,6 +12620,9 @@
               11908,
               11907,
               11905
+            ],
+            "Twinflame staff": [
+              30634
             ]
           },
           {
@@ -13942,6 +13945,16 @@
           {
             "Bandos chestplate": [
               11832
+            ],
+            "Fighter torso": [
+              10551,
+              20513,
+              24175
+            ],
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
             ]
           },
           {
@@ -13972,6 +13985,11 @@
           {
             "Bandos tassets": [
               11834
+            ],
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
             ]
           },
           {
@@ -29973,8 +29991,8 @@
               5621,
               5627
             ],
-            "Diamond bolts (e)": [
-              9243
+            "Ruby bolts (e)": [
+              9242
             ]
           },
           {
@@ -30962,9 +30980,6 @@
           {
             "Abyssal tentacle": [
               12006
-            ],
-            "Zombie axe": [
-              28810
             ],
             "Saradomin sword": [
               11838
@@ -37483,6 +37498,11 @@
               8842,
               20475,
               24182
+            ]
+          },
+          {
+            "Barrows gloves": [
+              7462
             ]
           }
         ],
@@ -44820,6 +44840,9 @@
               19927,
               19933,
               19936
+            ],
+            "Aranea boots": [
+              29806
             ]
           },
           {
@@ -46291,6 +46314,9 @@
             ],
             "Staff of the dead": [
               11791
+            ],
+            "Twinflame staff": [
+              30634
             ]
           },
           {
@@ -46303,9 +46329,6 @@
             ],
             "Purging staff": [
               29594
-            ],
-            "Twinflame staff": [
-              30634
             ]
           }
         ],
@@ -46559,19 +46582,11 @@
             ]
           },
           {
-            "Karil's leathertop": [
-              4736,
-              4940,
-              4941,
-              4942,
-              4943,
-              4944
+            "Hueycoatl hide body": [
+              30076
             ]
           },
           {
-            "Hueycoatl hide body": [
-              30076
-            ],
             "Blessed body": [
               12492,
               12508,
@@ -46608,19 +46623,11 @@
             ]
           },
           {
-            "Karil's leatherskirt": [
-              4738,
-              4946,
-              4947,
-              4948,
-              4949,
-              4950
+            "Hueycoatl hide chaps": [
+              30079
             ]
           },
           {
-            "Hueycoatl hide chaps": [
-              30079
-            ],
             "Blessed chaps": [
               12494,
               12510,
@@ -72272,6 +72279,10 @@
             ]
           },
           {
+            "Ring of shadows": [
+              28329,
+              28327
+            ],
             "Explorer's ring 4": [
               13128
             ],
@@ -73657,6 +73668,12 @@
             ]
           },
           {
+            "Ring of shadows": [
+              28329,
+              28327
+            ]
+          },
+          {
             "Explorer's ring": [
               13125,
               13126,
@@ -73670,12 +73687,6 @@
               11984,
               11982,
               11980
-            ]
-          },
-          {
-            "Ring of shadows": [
-              28329,
-              28327
             ]
           }
         ],
@@ -75804,6 +75815,9 @@
             ]
           },
           {
+            "Osmumten's fang": [
+              26219
+            ],
             "Abyssal tentacle": [
               12006
             ],
