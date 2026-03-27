@@ -571,12 +571,12 @@
     ],
     "weapon": [
       {
+        "Dragon hunter lance": [
+          22978
+        ],
         "Scythe of vitur": [
           22486,
           22325
-        ],
-        "Dragon hunter lance": [
-          22978
         ]
       },
       {
@@ -585,6 +585,9 @@
         ],
         "Ghrazi rapier": [
           22324
+        ],
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
