@@ -174,10 +174,9 @@ def main() -> None:
         for item_name, slot_key, added_ids in patches:
             total_patches.append((activity_name, item_name, slot_key, added_ids))
 
-    # Write updated all.json
+    # Write updated all.json (no trailing newline — matches util.write_json)
     with open(ALL_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(all_data, f, indent=2, ensure_ascii=False)
-        f.write("\n")
 
     # Write updated all.min.json
     with open(ALL_MIN_JSON_PATH, "w", encoding="utf-8") as f:
@@ -193,7 +192,6 @@ def main() -> None:
         if os.path.exists(activity_path):
             with open(activity_path, "w", encoding="utf-8") as f:
                 json.dump(styles, f, indent=2, ensure_ascii=False)
-                f.write("\n")
 
     # Print summary
     if total_patches:

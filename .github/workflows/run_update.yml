@@ -9,6 +9,7 @@ on:
     paths:
       - 'data_to_import.csv'
       - '*.py'
+      - '!apply_variants.py'
   workflow_dispatch:
 
 jobs:
@@ -26,6 +27,7 @@ jobs:
             import:
               - 'data_to_import.csv'
               - '*.py'
+              - '!apply_variants.py'
             export:
               - 'recs/all.min.json'
   build:
