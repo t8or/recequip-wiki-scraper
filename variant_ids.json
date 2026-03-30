@@ -10,5 +10,11 @@
     "name": "Rune pouch",
     "note": "Divine rune pouch is a one-way upgrade",
     "extra_ids": [27281]
+  },
+  {
+    "base_id": 25985,
+    "name": "Elidinis' ward",
+    "note": "Ornament kit variant",
+    "extra_ids": [27251, 27253]
   }
 ]
