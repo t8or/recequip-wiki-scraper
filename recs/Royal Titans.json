@@ -189,10 +189,14 @@
       },
       {
         "Abyssal tentacle": [
-          12006
+          12006,
+          26484
         ],
         "Abyssal whip": [
-          4151
+          4151,
+          12773,
+          12774,
+          26482
         ],
         "Saradomin's blessed sword": [
           12809,
@@ -951,7 +955,8 @@
       },
       {
         "Abyssal tentacle": [
-          12006
+          12006,
+          26484
         ]
       }
     ],

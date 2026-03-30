@@ -60,6 +60,16 @@
     ]
   },
   {
+    "base_id": 4151,
+    "name": "Abyssal whip",
+    "note": "Base + Volcanic/Frozen (LMS Justine) + Abyssal whip (or) Shattered relics kit",
+    "extra_ids": [
+      12773,
+      12774,
+      26482
+    ]
+  },
+  {
     "base_id": 5680,
     "name": "Dragon dagger",
     "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
@@ -956,6 +966,14 @@
     ]
   },
   {
+    "base_id": 12006,
+    "name": "Abyssal tentacle",
+    "note": "Base + Abyssal tentacle (or) Shattered relics variety ornament kit",
+    "extra_ids": [
+      26484
+    ]
+  },
+  {
     "base_id": 12765,
     "name": "Dark bow",
     "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic)",
@@ -1001,6 +1019,26 @@
       12766,
       12767,
       27853
+    ]
+  },
+  {
+    "base_id": 12773,
+    "name": "Abyssal whip",
+    "note": "Base + Volcanic/Frozen (LMS Justine) + Abyssal whip (or) Shattered relics kit",
+    "extra_ids": [
+      4151,
+      12774,
+      26482
+    ]
+  },
+  {
+    "base_id": 12774,
+    "name": "Abyssal whip",
+    "note": "Base + Volcanic/Frozen (LMS Justine) + Abyssal whip (or) Shattered relics kit",
+    "extra_ids": [
+      4151,
+      12773,
+      26482
     ]
   },
   {
@@ -5128,6 +5166,24 @@
     "extra_ids": [
       26380,
       28258
+    ]
+  },
+  {
+    "base_id": 26482,
+    "name": "Abyssal whip",
+    "note": "Base + Volcanic/Frozen (LMS Justine) + Abyssal whip (or) Shattered relics kit",
+    "extra_ids": [
+      4151,
+      12773,
+      12774
+    ]
+  },
+  {
+    "base_id": 26484,
+    "name": "Abyssal tentacle",
+    "note": "Base + Abyssal tentacle (or) Shattered relics variety ornament kit",
+    "extra_ids": [
+      12006
     ]
   },
   {

@@ -227,6 +227,26 @@ def main() -> None:
         )
     )
 
+    # Abyssal whip: base + LMS volcanic/frozen + Shattered relics (or)
+    entries.extend(
+        peer_entries(
+            "Abyssal whip",
+            wiki_ids("Abyssal whip")
+            + wiki_ids("Volcanic abyssal whip")
+            + wiki_ids("Frozen abyssal whip")
+            + wiki_ids("Abyssal whip (or)"),
+            "Base + Volcanic/Frozen (LMS Justine) + Abyssal whip (or) Shattered relics kit",
+        )
+    )
+    # Abyssal tentacle: base + Shattered (or) only (no volcanic/frozen tentacle items)
+    entries.extend(
+        peer_entries(
+            "Abyssal tentacle",
+            wiki_ids("Abyssal tentacle") + wiki_ids("Abyssal tentacle (or)"),
+            "Base + Abyssal tentacle (or) Shattered relics variety ornament kit",
+        )
+    )
+
     by_id: dict[int, dict] = {}
     for e in entries:
         by_id[e["base_id"]] = e
