@@ -306,7 +306,8 @@
     "shield": [
       {
         "Elidinis' ward (f)": [
-          27251
+          27251,
+          27253
         ],
         "Tome of earth": [
           30066,
@@ -315,7 +316,9 @@
       },
       {
         "Elidinis' ward": [
-          25985
+          25985,
+          27251,
+          27253
         ],
         "Arcane spirit shield": [
           12825

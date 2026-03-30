@@ -10,5 +10,17 @@
     "name": "Rune pouch",
     "note": "Divine rune pouch is a one-way upgrade",
     "extra_ids": [27281]
+  },
+  {
+    "base_id": 25985,
+    "name": "Elidinis' ward",
+    "note": "Fortified (f) and ornament (or) variants",
+    "extra_ids": [27251, 27253]
+  },
+  {
+    "base_id": 27251,
+    "name": "Elidinis' ward (f)",
+    "note": "Menaphite ornament kit → Elidinis' ward (or)",
+    "extra_ids": [27253]
   }
 ]
