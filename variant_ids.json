@@ -106,6 +106,49 @@
     ]
   },
   {
+    "base_id": 8839,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      13072,
+      20465,
+      20467,
+      24177,
+      24178,
+      26463,
+      26469,
+      27000,
+      27003
+    ]
+  },
+  {
+    "base_id": 8840,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      13073,
+      20469,
+      20471,
+      24179,
+      24180,
+      26465,
+      26471,
+      27001,
+      27004
+    ]
+  },
+  {
+    "base_id": 8842,
+    "name": "Void knight gloves",
+    "note": "Base + (or) Shattered relics void ornament kit",
+    "extra_ids": [
+      20475,
+      24182,
+      26467,
+      27002
+    ]
+  },
+  {
     "base_id": 9676,
     "name": "Proselyte cuisse",
     "note": "Equivalent leg slot: Proselyte tasset (skirt)",
@@ -149,6 +192,39 @@
       12767,
       12768,
       27853
+    ]
+  },
+  {
+    "base_id": 11663,
+    "name": "Void mage helm",
+    "note": "Mage helm only + (or); not merged with melee/ranger helms",
+    "extra_ids": [
+      20477,
+      24183,
+      26473,
+      27005
+    ]
+  },
+  {
+    "base_id": 11664,
+    "name": "Void ranger helm",
+    "note": "Ranger helm only + (or); not merged with melee/mage helms",
+    "extra_ids": [
+      20479,
+      24184,
+      26475,
+      27006
+    ]
+  },
+  {
+    "base_id": 11665,
+    "name": "Void melee helm",
+    "note": "Melee helm only + (or); not merged with ranger/mage helms",
+    "extra_ids": [
+      20481,
+      24185,
+      26477,
+      27007
     ]
   },
   {
@@ -1047,6 +1123,38 @@
     "note": "Divine rune pouch is a one-way upgrade",
     "extra_ids": [
       27281
+    ]
+  },
+  {
+    "base_id": 13072,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      20465,
+      20467,
+      24177,
+      24178,
+      26463,
+      26469,
+      27000,
+      27003
+    ]
+  },
+  {
+    "base_id": 13073,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      20469,
+      20471,
+      24179,
+      24180,
+      26465,
+      26471,
+      27001,
+      27004
     ]
   },
   {
@@ -3303,6 +3411,114 @@
     ]
   },
   {
+    "base_id": 20465,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      13072,
+      20467,
+      24177,
+      24178,
+      26463,
+      26469,
+      27000,
+      27003
+    ]
+  },
+  {
+    "base_id": 20467,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      13072,
+      20465,
+      24177,
+      24178,
+      26463,
+      26469,
+      27000,
+      27003
+    ]
+  },
+  {
+    "base_id": 20469,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      13073,
+      20471,
+      24179,
+      24180,
+      26465,
+      26471,
+      27001,
+      27004
+    ]
+  },
+  {
+    "base_id": 20471,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      13073,
+      20469,
+      24179,
+      24180,
+      26465,
+      26471,
+      27001,
+      27004
+    ]
+  },
+  {
+    "base_id": 20475,
+    "name": "Void knight gloves",
+    "note": "Base + (or) Shattered relics void ornament kit",
+    "extra_ids": [
+      8842,
+      24182,
+      26467,
+      27002
+    ]
+  },
+  {
+    "base_id": 20477,
+    "name": "Void mage helm",
+    "note": "Mage helm only + (or); not merged with melee/ranger helms",
+    "extra_ids": [
+      11663,
+      24183,
+      26473,
+      27005
+    ]
+  },
+  {
+    "base_id": 20479,
+    "name": "Void ranger helm",
+    "note": "Ranger helm only + (or); not merged with melee/mage helms",
+    "extra_ids": [
+      11664,
+      24184,
+      26475,
+      27006
+    ]
+  },
+  {
+    "base_id": 20481,
+    "name": "Void melee helm",
+    "note": "Melee helm only + (or); not merged with ranger/mage helms",
+    "extra_ids": [
+      11665,
+      24185,
+      26477,
+      27007
+    ]
+  },
+  {
     "base_id": 21061,
     "name": "Graceful hood",
     "note": "All graceful kit/recolor variants for this slot (wiki infobox IDs)",
@@ -3879,6 +4095,114 @@
     "extra_ids": [
       23995,
       24551
+    ]
+  },
+  {
+    "base_id": 24177,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      13072,
+      20465,
+      20467,
+      24178,
+      26463,
+      26469,
+      27000,
+      27003
+    ]
+  },
+  {
+    "base_id": 24178,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      13072,
+      20465,
+      20467,
+      24177,
+      26463,
+      26469,
+      27000,
+      27003
+    ]
+  },
+  {
+    "base_id": 24179,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      13073,
+      20469,
+      20471,
+      24180,
+      26465,
+      26471,
+      27001,
+      27004
+    ]
+  },
+  {
+    "base_id": 24180,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      13073,
+      20469,
+      20471,
+      24179,
+      26465,
+      26471,
+      27001,
+      27004
+    ]
+  },
+  {
+    "base_id": 24182,
+    "name": "Void knight gloves",
+    "note": "Base + (or) Shattered relics void ornament kit",
+    "extra_ids": [
+      8842,
+      20475,
+      26467,
+      27002
+    ]
+  },
+  {
+    "base_id": 24183,
+    "name": "Void mage helm",
+    "note": "Mage helm only + (or); not merged with melee/ranger helms",
+    "extra_ids": [
+      11663,
+      20477,
+      26473,
+      27005
+    ]
+  },
+  {
+    "base_id": 24184,
+    "name": "Void ranger helm",
+    "note": "Ranger helm only + (or); not merged with melee/mage helms",
+    "extra_ids": [
+      11664,
+      20479,
+      26475,
+      27006
+    ]
+  },
+  {
+    "base_id": 24185,
+    "name": "Void melee helm",
+    "note": "Melee helm only + (or); not merged with ranger/mage helms",
+    "extra_ids": [
+      11665,
+      20481,
+      26477,
+      27007
     ]
   },
   {
@@ -5169,6 +5493,114 @@
     ]
   },
   {
+    "base_id": 26463,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      13072,
+      20465,
+      20467,
+      24177,
+      24178,
+      26469,
+      27000,
+      27003
+    ]
+  },
+  {
+    "base_id": 26465,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      13073,
+      20469,
+      20471,
+      24179,
+      24180,
+      26471,
+      27001,
+      27004
+    ]
+  },
+  {
+    "base_id": 26467,
+    "name": "Void knight gloves",
+    "note": "Base + (or) Shattered relics void ornament kit",
+    "extra_ids": [
+      8842,
+      20475,
+      24182,
+      27002
+    ]
+  },
+  {
+    "base_id": 26469,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      13072,
+      20465,
+      20467,
+      24177,
+      24178,
+      26463,
+      27000,
+      27003
+    ]
+  },
+  {
+    "base_id": 26471,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      13073,
+      20469,
+      20471,
+      24179,
+      24180,
+      26465,
+      27001,
+      27004
+    ]
+  },
+  {
+    "base_id": 26473,
+    "name": "Void mage helm",
+    "note": "Mage helm only + (or); not merged with melee/ranger helms",
+    "extra_ids": [
+      11663,
+      20477,
+      24183,
+      27005
+    ]
+  },
+  {
+    "base_id": 26475,
+    "name": "Void ranger helm",
+    "note": "Ranger helm only + (or); not merged with melee/mage helms",
+    "extra_ids": [
+      11664,
+      20479,
+      24184,
+      27006
+    ]
+  },
+  {
+    "base_id": 26477,
+    "name": "Void melee helm",
+    "note": "Melee helm only + (or); not merged with ranger/mage helms",
+    "extra_ids": [
+      11665,
+      20481,
+      24185,
+      27007
+    ]
+  },
+  {
     "base_id": 26482,
     "name": "Abyssal whip",
     "note": "Base + Volcanic/Frozen (LMS Justine) + Abyssal whip (or) Shattered relics kit",
@@ -5631,6 +6063,114 @@
       26778,
       26779,
       26780
+    ]
+  },
+  {
+    "base_id": 27000,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      13072,
+      20465,
+      20467,
+      24177,
+      24178,
+      26463,
+      26469,
+      27003
+    ]
+  },
+  {
+    "base_id": 27001,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      13073,
+      20469,
+      20471,
+      24179,
+      24180,
+      26465,
+      26471,
+      27004
+    ]
+  },
+  {
+    "base_id": 27002,
+    "name": "Void knight gloves",
+    "note": "Base + (or) Shattered relics void ornament kit",
+    "extra_ids": [
+      8842,
+      20475,
+      24182,
+      26467
+    ]
+  },
+  {
+    "base_id": 27003,
+    "name": "Void knight top / Elite void top",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8839,
+      13072,
+      20465,
+      20467,
+      24177,
+      24178,
+      26463,
+      26469,
+      27000
+    ]
+  },
+  {
+    "base_id": 27004,
+    "name": "Void knight robe / Elite void robe",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "extra_ids": [
+      8840,
+      13073,
+      20469,
+      20471,
+      24179,
+      24180,
+      26465,
+      26471,
+      27001
+    ]
+  },
+  {
+    "base_id": 27005,
+    "name": "Void mage helm",
+    "note": "Mage helm only + (or); not merged with melee/ranger helms",
+    "extra_ids": [
+      11663,
+      20477,
+      24183,
+      26473
+    ]
+  },
+  {
+    "base_id": 27006,
+    "name": "Void ranger helm",
+    "note": "Ranger helm only + (or); not merged with melee/mage helms",
+    "extra_ids": [
+      11664,
+      20479,
+      24184,
+      26475
+    ]
+  },
+  {
+    "base_id": 27007,
+    "name": "Void melee helm",
+    "note": "Melee helm only + (or); not merged with ranger/mage helms",
+    "extra_ids": [
+      11665,
+      20481,
+      24185,
+      26477
     ]
   },
   {

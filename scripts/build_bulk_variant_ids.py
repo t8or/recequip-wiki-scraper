@@ -247,6 +247,53 @@ def main() -> None:
         )
     )
 
+    # Void knight / Elite void: body/leg slots merge void+elite+(or). Three helms stay separate (melee/range/mage).
+    void_top = (
+        wiki_ids("Void knight top")
+        + wiki_ids("Elite void top")
+        + wiki_ids("Void knight top (or)")
+        + wiki_ids("Elite void top (or)")
+    )
+    entries.extend(
+        peer_entries(
+            "Void knight top / Elite void top",
+            void_top,
+            "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+        )
+    )
+    void_robe = (
+        wiki_ids("Void knight robe")
+        + wiki_ids("Elite void robe")
+        + wiki_ids("Void knight robe (or)")
+        + wiki_ids("Elite void robe (or)")
+    )
+    entries.extend(
+        peer_entries(
+            "Void knight robe / Elite void robe",
+            void_robe,
+            "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+        )
+    )
+    entries.extend(
+        peer_entries(
+            "Void knight gloves",
+            wiki_ids("Void knight gloves") + wiki_ids("Void knight gloves (or)"),
+            "Base + (or) Shattered relics void ornament kit",
+        )
+    )
+    for helm_name, note in [
+        ("Void melee helm", "Melee helm only + (or); not merged with ranger/mage helms"),
+        ("Void ranger helm", "Ranger helm only + (or); not merged with melee/mage helms"),
+        ("Void mage helm", "Mage helm only + (or); not merged with melee/ranger helms"),
+    ]:
+        entries.extend(
+            peer_entries(
+                helm_name,
+                wiki_ids(helm_name) + wiki_ids(helm_name + " (or)"),
+                note,
+            )
+        )
+
     by_id: dict[int, dict] = {}
     for e in entries:
         by_id[e["base_id"]] = e
