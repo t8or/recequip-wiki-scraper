@@ -1,0 +1,14 @@
+[
+  {
+    "base_id": 22109,
+    "name": "Ava's assembler",
+    "note": "Ornament kit variant",
+    "extra_ids": [24222]
+  },
+  {
+    "base_id": 12791,
+    "name": "Rune pouch",
+    "note": "Divine rune pouch is a one-way upgrade",
+    "extra_ids": [27281]
+  }
+]
