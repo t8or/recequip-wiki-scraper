@@ -158,6 +158,75 @@ def main() -> None:
         )
     )
 
+    # Torva + Sanguine torva (blood ornament)
+    entries.extend(
+        peer_entries(
+            "Torva full helm",
+            wiki_ids("Torva full helm") + wiki_ids("Sanguine torva full helm"),
+            "Torva + Sanguine torva (blood ornament) + all infobox versions",
+        )
+    )
+    entries.extend(
+        peer_entries(
+            "Torva platebody",
+            wiki_ids("Torva platebody") + wiki_ids("Sanguine torva platebody"),
+            "Torva + Sanguine torva (blood ornament) + all infobox versions",
+        )
+    )
+    entries.extend(
+        peer_entries(
+            "Torva platelegs",
+            wiki_ids("Torva platelegs") + wiki_ids("Sanguine torva platelegs"),
+            "Torva + Sanguine torva (blood ornament) + all infobox versions",
+        )
+    )
+
+    # Blood moon armour (recolors)
+    entries.extend(
+        peer_entries(
+            "Blood moon helm",
+            wiki_ids("Blood moon helm"),
+            "Blood moon armour recolors (all wiki infobox versions)",
+        )
+    )
+    entries.extend(
+        peer_entries(
+            "Blood moon chestplate",
+            wiki_ids("Blood moon chestplate"),
+            "Blood moon armour recolors (all wiki infobox versions)",
+        )
+    )
+    entries.extend(
+        peer_entries(
+            "Blood moon tassets",
+            wiki_ids("Blood moon tassets"),
+            "Blood moon armour recolors (all wiki infobox versions)",
+        )
+    )
+
+    # Oathplate + Radiant oathplate (white / purifying sigil cosmetic)
+    entries.extend(
+        peer_entries(
+            "Oathplate helm",
+            wiki_ids("Oathplate helm") + wiki_ids("Radiant oathplate helm"),
+            "Oathplate + Radiant oathplate (white) variant",
+        )
+    )
+    entries.extend(
+        peer_entries(
+            "Oathplate chest",
+            wiki_ids("Oathplate chest") + wiki_ids("Radiant oathplate chest"),
+            "Oathplate + Radiant oathplate (white) variant",
+        )
+    )
+    entries.extend(
+        peer_entries(
+            "Oathplate legs",
+            wiki_ids("Oathplate legs") + wiki_ids("Radiant oathplate legs"),
+            "Oathplate + Radiant oathplate (white) variant",
+        )
+    )
+
     by_id: dict[int, dict] = {}
     for e in entries:
         by_id[e["base_id"]] = e

@@ -5,7 +5,8 @@
       {
         "Torva full helm": [
           26376,
-          26382
+          26382,
+          28254
         ],
         "Masori mask (f)": [
           27235
@@ -13,7 +14,8 @@
       },
       {
         "Oathplate helm": [
-          30750
+          30750,
+          30777
         ],
         "Crystal helm": [
           23971,
@@ -119,7 +121,8 @@
       {
         "Torva platebody": [
           26378,
-          26384
+          26384,
+          28256
         ],
         "Masori body (f)": [
           27238
@@ -127,7 +130,8 @@
       },
       {
         "Oathplate chest": [
-          30753
+          30753,
+          30779
         ],
         "Masori body (f)": [
           27238
@@ -195,7 +199,8 @@
       {
         "Torva platelegs": [
           26380,
-          26386
+          26386,
+          28258
         ],
         "Masori chaps (f)": [
           27241
@@ -203,7 +208,8 @@
       },
       {
         "Oathplate legs": [
-          30756
+          30756,
+          30781
         ],
         "Crystal legs": [
           23979,
@@ -453,7 +459,8 @@
       {
         "Torva full helm": [
           26376,
-          26382
+          26382,
+          28254
         ],
         "Ancestral hat": [
           21018
@@ -461,7 +468,8 @@
       },
       {
         "Oathplate helm": [
-          30750
+          30750,
+          30777
         ],
         "Virtus mask": [
           26241
@@ -555,7 +563,8 @@
       {
         "Torva platebody": [
           26378,
-          26384
+          26384,
+          28256
         ],
         "Ancestral robe top": [
           21021
@@ -563,7 +572,8 @@
       },
       {
         "Oathplate chest": [
-          30753
+          30753,
+          30779
         ],
         "Virtus robe top": [
           26243
@@ -597,7 +607,8 @@
       {
         "Torva platelegs": [
           26380,
-          26386
+          26386,
+          28258
         ],
         "Ancestral robe bottom": [
           21024
@@ -605,7 +616,8 @@
       },
       {
         "Oathplate legs": [
-          30756
+          30756,
+          30781
         ],
         "Virtus robe bottom": [
           26245
@@ -1061,10 +1073,12 @@
       {
         "Torva full helm": [
           26376,
-          26382
+          26382,
+          28254
         ],
         "Oathplate helm": [
-          30750
+          30750,
+          30777
         ]
       },
       {
@@ -1107,12 +1121,14 @@
       {
         "Torva platebody": [
           26378,
-          26384
+          26384,
+          28256
         ]
       },
       {
         "Oathplate chest": [
-          30753
+          30753,
+          30779
         ]
       },
       {
@@ -1137,12 +1153,14 @@
       {
         "Torva platelegs": [
           26380,
-          26386
+          26386,
+          28258
         ]
       },
       {
         "Oathplate legs": [
-          30756
+          30756,
+          30781
         ]
       },
       {
@@ -1338,7 +1356,8 @@
       {
         "Torva full helm": [
           26376,
-          26382
+          26382,
+          28254
         ]
       },
       {
@@ -1387,11 +1406,13 @@
     "body": [
       {
         "Oathplate chest": [
-          30753
+          30753,
+          30779
         ],
         "Torva platebody": [
           26378,
-          26384
+          26384,
+          28256
         ],
         "Masori body (f)": [
           27238
@@ -1441,11 +1462,13 @@
     "legs": [
       {
         "Oathplate legs": [
-          30756
+          30756,
+          30781
         ],
         "Torva platelegs": [
           26380,
-          26386
+          26386,
+          28258
         ],
         "Masori chaps (f)": [
           27241
@@ -1594,7 +1617,8 @@
       {
         "Torva full helm": [
           26376,
-          26382
+          26382,
+          28254
         ],
         "Masori mask (f)": [
           27235
@@ -1649,11 +1673,13 @@
     "body": [
       {
         "Oathplate chest": [
-          30753
+          30753,
+          30779
         ],
         "Torva platebody": [
           26378,
-          26384
+          26384,
+          28256
         ],
         "Masori body (f)": [
           27238
@@ -1703,11 +1729,13 @@
     "legs": [
       {
         "Oathplate legs": [
-          30756
+          30756,
+          30781
         ],
         "Torva platelegs": [
           26380,
-          26386
+          26386,
+          28258
         ],
         "Masori chaps (f)": [
           27241

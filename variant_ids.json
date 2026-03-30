@@ -5077,6 +5077,60 @@
     ]
   },
   {
+    "base_id": 26376,
+    "name": "Torva full helm",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26382,
+      28254
+    ]
+  },
+  {
+    "base_id": 26378,
+    "name": "Torva platebody",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26384,
+      28256
+    ]
+  },
+  {
+    "base_id": 26380,
+    "name": "Torva platelegs",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26386,
+      28258
+    ]
+  },
+  {
+    "base_id": 26382,
+    "name": "Torva full helm",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26376,
+      28254
+    ]
+  },
+  {
+    "base_id": 26384,
+    "name": "Torva platebody",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26378,
+      28256
+    ]
+  },
+  {
+    "base_id": 26386,
+    "name": "Torva platelegs",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26380,
+      28258
+    ]
+  },
+  {
     "base_id": 26674,
     "name": "Slayer helmet (i)",
     "note": "Recolor variants (all Slayer helmet (i) IDs)",
@@ -7106,6 +7160,114 @@
     ]
   },
   {
+    "base_id": 28254,
+    "name": "Torva full helm",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26376,
+      26382
+    ]
+  },
+  {
+    "base_id": 28256,
+    "name": "Torva platebody",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26378,
+      26384
+    ]
+  },
+  {
+    "base_id": 28258,
+    "name": "Torva platelegs",
+    "note": "Torva + Sanguine torva (blood ornament) + all infobox versions",
+    "extra_ids": [
+      26380,
+      26386
+    ]
+  },
+  {
+    "base_id": 29022,
+    "name": "Blood moon chestplate",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29043,
+      29067
+    ]
+  },
+  {
+    "base_id": 29025,
+    "name": "Blood moon tassets",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29045,
+      29070
+    ]
+  },
+  {
+    "base_id": 29028,
+    "name": "Blood moon helm",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29047,
+      29073
+    ]
+  },
+  {
+    "base_id": 29043,
+    "name": "Blood moon chestplate",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29022,
+      29067
+    ]
+  },
+  {
+    "base_id": 29045,
+    "name": "Blood moon tassets",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29025,
+      29070
+    ]
+  },
+  {
+    "base_id": 29047,
+    "name": "Blood moon helm",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29028,
+      29073
+    ]
+  },
+  {
+    "base_id": 29067,
+    "name": "Blood moon chestplate",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29022,
+      29043
+    ]
+  },
+  {
+    "base_id": 29070,
+    "name": "Blood moon tassets",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29025,
+      29045
+    ]
+  },
+  {
+    "base_id": 29073,
+    "name": "Blood moon helm",
+    "note": "Blood moon armour recolors (all versions)",
+    "extra_ids": [
+      29028,
+      29047
+    ]
+  },
+  {
     "base_id": 30045,
     "name": "Graceful hood",
     "note": "All graceful kit/recolor variants for this slot (wiki infobox IDs)",
@@ -7463,6 +7625,54 @@
       27459,
       27461,
       30060
+    ]
+  },
+  {
+    "base_id": 30750,
+    "name": "Oathplate helm",
+    "note": "Oathplate + Radiant oathplate (white) variant",
+    "extra_ids": [
+      30777
+    ]
+  },
+  {
+    "base_id": 30753,
+    "name": "Oathplate chest",
+    "note": "Oathplate + Radiant oathplate (white) variant",
+    "extra_ids": [
+      30779
+    ]
+  },
+  {
+    "base_id": 30756,
+    "name": "Oathplate legs",
+    "note": "Oathplate + Radiant oathplate (white) variant",
+    "extra_ids": [
+      30781
+    ]
+  },
+  {
+    "base_id": 30777,
+    "name": "Oathplate helm",
+    "note": "Oathplate + Radiant oathplate (white) variant",
+    "extra_ids": [
+      30750
+    ]
+  },
+  {
+    "base_id": 30779,
+    "name": "Oathplate chest",
+    "note": "Oathplate + Radiant oathplate (white) variant",
+    "extra_ids": [
+      30753
+    ]
+  },
+  {
+    "base_id": 30781,
+    "name": "Oathplate legs",
+    "note": "Oathplate + Radiant oathplate (white) variant",
+    "extra_ids": [
+      30756
     ]
   },
   {

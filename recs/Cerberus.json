@@ -120,12 +120,14 @@
       {
         "Torva platebody": [
           26378,
-          26384
+          26384,
+          28256
         ]
       },
       {
         "Oathplate chest": [
-          30753
+          30753,
+          30779
         ],
         "Bandos chestplate": [
           11832
@@ -196,12 +198,14 @@
       {
         "Torva platelegs": [
           26380,
-          26386
+          26386,
+          28258
         ]
       },
       {
         "Oathplate legs": [
-          30756
+          30756,
+          30781
         ],
         "Bandos tassets": [
           11834

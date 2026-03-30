@@ -5,7 +5,8 @@
       {
         "Torva full helm": [
           26376,
-          26382
+          26382,
+          28254
         ],
         "Slayer helmet (i)": [
           11865,
@@ -15,7 +16,8 @@
       },
       {
         "Oathplate helm": [
-          30750
+          30750,
+          30777
         ],
         "Inquisitor's great helm": [
           24419
@@ -111,14 +113,16 @@
     "body": [
       {
         "Oathplate chest": [
-          30753
+          30753,
+          30779
         ],
         "Inquisitor's hauberk": [
           24420
         ],
         "Torva platebody": [
           26378,
-          26384
+          26384,
+          28256
         ]
       },
       {
@@ -173,14 +177,16 @@
     "legs": [
       {
         "Oathplate legs": [
-          30756
+          30756,
+          30781
         ],
         "Inquisitor's plateskirt": [
           24421
         ],
         "Torva platelegs": [
           26380,
-          26386
+          26386,
+          28258
         ]
       },
       {
