@@ -443,24 +443,24 @@
     ],
     "special": [
       {
+        "Burning claws": [
+          29577
+        ],
         "Dragon claws": [
           13652,
           26708,
           28039
-        ],
-        "Bandos godsword": [
-          11804
-        ],
-        "Elder maul": [
-          21003
         ]
       },
       {
         "Voidwaker": [
           27690
         ],
-        "Burning claws": [
-          29577
+        "Bandos godsword": [
+          11804
+        ],
+        "Elder maul": [
+          21003
         ]
       },
       {

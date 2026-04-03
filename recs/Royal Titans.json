@@ -70,11 +70,6 @@
           29035,
           29055
         ]
-      },
-      {
-        "Obsidian helmet": [
-          21298
-        ]
       }
     ],
     "neck": [
@@ -96,11 +91,6 @@
           11976,
           11978
         ]
-      },
-      {
-        "Berserker necklace": [
-          11128
-        ]
       }
     ],
     "cape": [
@@ -114,11 +104,6 @@
       {
         "Mythical cape": [
           22114
-        ]
-      },
-      {
-        "Ardougne cloak 4": [
-          13124
         ]
       }
     ],
@@ -148,11 +133,6 @@
           29037,
           29058
         ]
-      },
-      {
-        "Obsidian platebody": [
-          21301
-        ]
       }
     ],
     "legs": [
@@ -173,11 +153,6 @@
           29016,
           29039,
           29061
-        ]
-      },
-      {
-        "Obsidian platelegs": [
-          21304
         ]
       }
     ],
@@ -204,11 +179,6 @@
         ]
       },
       {
-        "Toktz-xil-ak": [
-          6523
-        ]
-      },
-      {
         "Zombie axe": [
           28810
         ],
@@ -232,18 +202,6 @@
         "Antler guard": [
           31081
         ]
-      },
-      {
-        "Rune defender": [
-          8850,
-          20461,
-          24142
-        ]
-      },
-      {
-        "Toktz-ket-xil": [
-          6524
-        ]
       }
     ],
     "ammo": [],
@@ -251,19 +209,6 @@
       {
         "Barrows gloves": [
           7462
-        ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ],
-        "Rune gloves": [
-          7460
-        ]
-      },
-      {
-        "Regen bracelet": [
-          11133
         ]
       },
       {
@@ -280,15 +225,17 @@
     ],
     "feet": [
       {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
         "Dragon boots": [
           11840,
           28055
         ]
       },
       {
-        "Rune boots": [
-          4131
-        ],
         "Climbing boots": [
           3105
         ]
@@ -305,24 +252,6 @@
       {
         "Lightbearer": [
           25975
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ],
-        "Warrior ring (i)": [
-          11772,
-          25262,
-          26769
-        ]
-      },
-      {
-        "Explorer's ring": [
-          13125,
-          13126,
-          13127,
-          13128
         ]
       }
     ],
@@ -342,12 +271,9 @@
           23987,
           23989,
           24125
-        ]
-      },
-      {
-        "Dragon halberd": [
-          3204,
-          28049
+        ],
+        "Arkan blade": [
+          30955
         ]
       }
     ]
@@ -417,8 +343,13 @@
         "Hueycoatl hide body": [
           30076
         ],
-        "Ancient d'hide body": [
-          12492
+        "Blessed d'hide body": [
+          12492,
+          12508,
+          12500,
+          10378,
+          10386,
+          10370
         ]
       },
       {
@@ -449,8 +380,13 @@
         "Hueycoatl hide chaps": [
           30079
         ],
-        "Ancient chaps": [
-          12494
+        "Blessed d'hide chaps": [
+          12494,
+          12510,
+          12502,
+          10380,
+          10388,
+          10372
         ]
       },
       {
@@ -586,6 +522,11 @@
           11840,
           28055
         ]
+      },
+      {
+        "Climbing boots": [
+          3105
+        ]
       }
     ],
     "ring": [
@@ -607,11 +548,6 @@
         "Toxic blowpipe": [
           12924,
           12926
-        ]
-      },
-      {
-        "Magic shortbow (i)": [
-          12788
         ]
       }
     ]
@@ -987,6 +923,9 @@
         ],
         "Dual macuahuitl": [
           28997
+        ],
+        "Osmumten's fang": [
+          26219
         ]
       },
       {
