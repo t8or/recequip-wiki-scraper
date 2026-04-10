@@ -350,12 +350,13 @@
     ],
     "ring": [
       {
+        "Celestial ring": [
+          25539,
+          25541
+        ],
         "Celestial signet": [
           25543,
           25545
-        ],
-        "Elven signet": [
-          23943
         ]
       },
       {
@@ -906,12 +907,13 @@
     ],
     "ring": [
       {
+        "Celestial ring": [
+          25539,
+          25541
+        ],
         "Celestial signet": [
           25543,
           25545
-        ],
-        "Elven signet": [
-          23943
         ]
       },
       {

@@ -1015,6 +1015,9 @@
           25865,
           25867
         ],
+        "Eclipse atlatl": [
+          29000
+        ],
         "Zaryte crossbow": [
           26374
         ]
@@ -1103,6 +1106,9 @@
           12924,
           12926
         ],
+        "Eclipse atlatl": [
+          29000
+        ],
         "Osmumten's fang": [
           26219
         ]
@@ -1182,6 +1188,9 @@
           25862,
           25865,
           25867
+        ],
+        "Eclipse atlatl": [
+          29000
         ]
       }
     ],
@@ -1235,6 +1244,9 @@
       {
         "Rune crossbow": [
           9185
+        ],
+        "Eclipse atlatl": [
+          29000
         ]
       }
     ],
@@ -1264,6 +1276,9 @@
           25862,
           25865,
           25867
+        ],
+        "Eclipse atlatl": [
+          29000
         ],
         "Toxic blowpipe": [
           12924,
@@ -1456,13 +1471,16 @@
           31115,
           31113
         ],
-        "Zaryte crossbow": [
-          26374
-        ],
         "Bow of faerdhinen": [
           25862,
           25865,
           25867
+        ],
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Eclipse atlatl": [
+          29000
         ]
       },
       {
@@ -1477,9 +1495,6 @@
       {
         "Rune crossbow": [
           9185
-        ],
-        "Eclipse atlatl": [
-          29000
         ]
       }
     ],
