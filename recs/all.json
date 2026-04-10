@@ -28659,10 +28659,6 @@
             ]
           },
           {
-            "Accursed sceptre (a)": [
-              27676,
-              27679
-            ],
             "Eye of ayak": [
               31115,
               31113
@@ -29965,7 +29961,7 @@
     "category": "World",
     "styles": [
       {
-        "name": "Moons of Peril Armour",
+        "name": "Moons of Peril armour",
         "head": [
           {
             "Torva full helm": [
@@ -30751,6 +30747,9 @@
           {
             "Zombie axe": [
               28810
+            ],
+            "Belle's folly": [
+              31248
             ],
             "Barrelchest anchor": [
               10887,
@@ -34824,6 +34823,11 @@
           {
             "Snakeskin boots": [
               6328
+            ]
+          },
+          {
+            "Frog-leather boots": [
+              10958
             ]
           }
         ],
@@ -72453,6 +72457,9 @@
             ],
             "Arkan blade": [
               30955
+            ],
+            "Belle's folly": [
+              31248
             ]
           }
         ],
@@ -80088,6 +80095,9 @@
               25865,
               25867
             ],
+            "Eclipse atlatl": [
+              29000
+            ],
             "Zaryte crossbow": [
               26374
             ]
@@ -80176,6 +80186,9 @@
               12924,
               12926
             ],
+            "Eclipse atlatl": [
+              29000
+            ],
             "Osmumten's fang": [
               26219
             ]
@@ -80255,6 +80268,9 @@
               25862,
               25865,
               25867
+            ],
+            "Eclipse atlatl": [
+              29000
             ]
           }
         ],
@@ -80308,6 +80324,9 @@
           {
             "Rune crossbow": [
               9185
+            ],
+            "Eclipse atlatl": [
+              29000
             ]
           }
         ],
@@ -80337,6 +80356,9 @@
               25862,
               25865,
               25867
+            ],
+            "Eclipse atlatl": [
+              29000
             ],
             "Toxic blowpipe": [
               12924,
@@ -80529,13 +80551,16 @@
               31115,
               31113
             ],
-            "Zaryte crossbow": [
-              26374
-            ],
             "Bow of faerdhinen": [
               25862,
               25865,
               25867
+            ],
+            "Zaryte crossbow": [
+              26374
+            ],
+            "Eclipse atlatl": [
+              29000
             ]
           },
           {
@@ -80550,9 +80575,6 @@
           {
             "Rune crossbow": [
               9185
-            ],
-            "Eclipse atlatl": [
-              29000
             ]
           }
         ],
@@ -82317,12 +82339,13 @@
         ],
         "ring": [
           {
+            "Celestial ring": [
+              25539,
+              25541
+            ],
             "Celestial signet": [
               25543,
               25545
-            ],
-            "Elven signet": [
-              23943
             ]
           },
           {
@@ -82873,12 +82896,13 @@
         ],
         "ring": [
           {
+            "Celestial ring": [
+              25539,
+              25541
+            ],
             "Celestial signet": [
               25543,
               25545
-            ],
-            "Elven signet": [
-              23943
             ]
           },
           {

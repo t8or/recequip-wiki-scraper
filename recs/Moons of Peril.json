@@ -1,6 +1,6 @@
 [
   {
-    "name": "Moons of Peril Armour",
+    "name": "Moons of Peril armour",
     "head": [
       {
         "Torva full helm": [
@@ -786,6 +786,9 @@
       {
         "Zombie axe": [
           28810
+        ],
+        "Belle's folly": [
+          31248
         ],
         "Barrelchest anchor": [
           10887,
