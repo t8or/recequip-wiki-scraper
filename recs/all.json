@@ -30780,6 +30780,10 @@
               27657,
               27660
             ],
+            "Saradomin's blessed sword": [
+              12809,
+              12808
+            ],
             "Zamorakian hasta": [
               11889
             ],
@@ -30886,6 +30890,10 @@
             "Abyssal tentacle": [
               12006,
               26484
+            ],
+            "Saradomin's blessed sword": [
+              12809,
+              12808
             ],
             "Abyssal whip": [
               4151,
@@ -48782,8 +48790,7 @@
               2912,
               2922,
               2932,
-              2942,
-              6629
+              2942
             ]
           }
         ],
@@ -48973,6 +48980,10 @@
           },
           {
             "Hitpoints cape(t)": [
+              9768,
+              9769
+            ],
+            "Hitpoints cape": [
               9768,
               9769
             ]
@@ -80165,7 +80176,9 @@
             "Toxic blowpipe": [
               12924,
               12926
-            ],
+            ]
+          },
+          {
             "Eclipse atlatl": [
               29000
             ],
@@ -80239,18 +80252,24 @@
             ]
           },
           {
-            "Osmumten's fang": [
-              26219
-            ]
-          },
-          {
             "Bow of faerdhinen": [
               25862,
               25865,
               25867
             ],
+            "Eye of ayak": [
+              31115,
+              31113
+            ]
+          },
+          {
             "Eclipse atlatl": [
               29000
+            ]
+          },
+          {
+            "Osmumten's fang": [
+              26219
             ]
           }
         ],
@@ -82054,6 +82073,10 @@
           },
           {
             "Hitpoints cape(t)": [
+              9768,
+              9769
+            ],
+            "Hitpoints cape": [
               9768,
               9769
             ]

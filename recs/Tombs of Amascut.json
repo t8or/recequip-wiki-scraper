@@ -1105,7 +1105,9 @@
         "Toxic blowpipe": [
           12924,
           12926
-        ],
+        ]
+      },
+      {
         "Eclipse atlatl": [
           29000
         ],
@@ -1179,18 +1181,24 @@
         ]
       },
       {
-        "Osmumten's fang": [
-          26219
-        ]
-      },
-      {
         "Bow of faerdhinen": [
           25862,
           25865,
           25867
         ],
+        "Eye of ayak": [
+          31115,
+          31113
+        ]
+      },
+      {
         "Eclipse atlatl": [
           29000
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
         ]
       }
     ],
