@@ -202,6 +202,10 @@
         "Inquisitor's hauberk": [
           24420
         ],
+        "Oathplate chest": [
+          30753,
+          30779
+        ],
         "Torva platebody": [
           26378,
           26384,
@@ -243,6 +247,10 @@
       {
         "Inquisitor's plateskirt": [
           24421
+        ],
+        "Oathplate legs": [
+          30756,
+          30781
         ],
         "Torva platelegs": [
           26380,
