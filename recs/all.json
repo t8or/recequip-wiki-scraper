@@ -14760,6 +14760,11 @@
             "Mythical cape": [
               22114
             ]
+          },
+          {
+            "Mixed hide cape": [
+              29289
+            ]
           }
         ],
         "body": [
@@ -25232,6 +25237,11 @@
         ],
         "cape": [
           {
+            "Mythical cape": [
+              22114
+            ]
+          },
+          {
             "Fire cape": [
               6570,
               20445,
@@ -25673,6 +25683,11 @@
               21295,
               21287,
               24224
+            ]
+          },
+          {
+            "Mythical cape": [
+              22114
             ]
           },
           {
@@ -52755,6 +52770,10 @@
             "Inquisitor's hauberk": [
               24420
             ],
+            "Oathplate chest": [
+              30753,
+              30779
+            ],
             "Torva platebody": [
               26378,
               26384,
@@ -52796,6 +52815,10 @@
           {
             "Inquisitor's plateskirt": [
               24421
+            ],
+            "Oathplate legs": [
+              30756,
+              30781
             ],
             "Torva platelegs": [
               26380,
@@ -78537,8 +78560,8 @@
             ]
           },
           {
-            "Mystic boots": [
-              4097
+            "Boots of stone": [
+              23037
             ]
           }
         ],
