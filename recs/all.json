@@ -33258,10 +33258,6 @@
         "name": "Melee (High level)",
         "head": [
           {
-            "Oathplate helm": [
-              30750,
-              30777
-            ],
             "Slayer helmet (i)": [
               11865,
               25177,
@@ -33281,6 +33277,10 @@
           {
             "Neitiznot faceguard": [
               24271
+            ],
+            "Oathplate helm": [
+              30750,
+              30777
             ]
           },
           {
@@ -38073,6 +38073,10 @@
               22806,
               22808,
               22810
+            ],
+            "Rosewood blowpipe": [
+              31585,
+              31583
             ]
           }
         ]
@@ -70617,13 +70621,13 @@
         ],
         "feet": [
           {
-            "Devout boots": [
-              22954
+            "Avernic treads (max)": [
+              31097
             ]
           },
           {
-            "Avernic treads (max)": [
-              31097
+            "Devout boots": [
+              22954
             ]
           },
           {

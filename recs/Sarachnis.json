@@ -382,10 +382,6 @@
     "name": "Melee (High level)",
     "head": [
       {
-        "Oathplate helm": [
-          30750,
-          30777
-        ],
         "Slayer helmet (i)": [
           11865,
           25177,
@@ -405,6 +401,10 @@
       {
         "Neitiznot faceguard": [
           24271
+        ],
+        "Oathplate helm": [
+          30750,
+          30777
         ]
       },
       {
