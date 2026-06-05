@@ -302,8 +302,9 @@
         "Abyssal bludgeon": [
           13263
         ],
-        "Sarachnis cudgel": [
-          23528
+        "Ursine chainmace (u)": [
+          27657,
+          27660
         ],
         "Zamorakian hasta": [
           11889
@@ -313,12 +314,11 @@
         ]
       },
       {
+        "Sarachnis cudgel": [
+          23528
+        ],
         "Glacial temotli": [
           29889
-        ],
-        "Ursine chainmace (u)": [
-          27657,
-          27660
         ],
         "Zombie axe": [
           28810
