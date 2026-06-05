@@ -5288,6 +5288,11 @@
         ],
         "hands": [
           {
+            "Zaryte vambraces": [
+              26235
+            ]
+          },
+          {
             "Void knight gloves": [
               8842,
               20475,
@@ -39996,6 +40001,10 @@
             ],
             "Harmonised nightmare staff": [
               24423
+            ],
+            "Rosewood blowpipe": [
+              31585,
+              31583
             ]
           },
           {
@@ -43352,6 +43361,10 @@
               1712,
               11976,
               11978
+            ],
+            "Amulet of the damned": [
+              12851,
+              12853
             ]
           },
           {
@@ -54541,6 +54554,11 @@
               13652,
               26708,
               28039
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
             ]
           },
           {
@@ -75014,8 +75032,9 @@
             "Abyssal bludgeon": [
               13263
             ],
-            "Sarachnis cudgel": [
-              23528
+            "Ursine chainmace (u)": [
+              27657,
+              27660
             ],
             "Zamorakian hasta": [
               11889
@@ -75025,12 +75044,11 @@
             ]
           },
           {
+            "Sarachnis cudgel": [
+              23528
+            ],
             "Glacial temotli": [
               29889
-            ],
-            "Ursine chainmace (u)": [
-              27657,
-              27660
             ],
             "Zombie axe": [
               28810
