@@ -9144,9 +9144,7 @@
             "Ursine chainmace": [
               27657,
               27660
-            ]
-          },
-          {
+            ],
             "Viggora's chainmace": [
               22542,
               22545
@@ -9155,6 +9153,11 @@
           {
             "Osmumten's fang": [
               26219
+            ]
+          },
+          {
+            "Noxious halberd": [
+              29796
             ]
           },
           {
@@ -14514,15 +14517,15 @@
             ]
           },
           {
+            "Arcane spirit shield": [
+              12825
+            ]
+          },
+          {
             "Elidinis' ward": [
               25985,
               27251,
               27253
-            ]
-          },
-          {
-            "Arcane spirit shield": [
-              12825
             ]
           },
           {
@@ -25192,437 +25195,6 @@
     "category": "World",
     "styles": [
       {
-        "name": "Flinching",
-        "head": [
-          {
-            "Slayer helmet (i)": [
-              11865,
-              25177,
-              26674
-            ]
-          },
-          {
-            "Verac's helm": [
-              4753,
-              4976,
-              4977,
-              4978,
-              4979,
-              4980
-            ]
-          },
-          {
-            "Blood moon helm": [
-              29028,
-              29047,
-              29073
-            ],
-            "Helm of neitiznot": [
-              10828
-            ]
-          }
-        ],
-        "neck": [
-          {
-            "Amulet of fury": [
-              6585
-            ]
-          },
-          {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "Mythical cape": [
-              22114
-            ]
-          },
-          {
-            "Fire cape": [
-              6570,
-              20445,
-              24223
-            ]
-          },
-          {
-            "Mixed hide cape": [
-              29289
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Fighter torso": [
-              10551,
-              20513,
-              24175
-            ],
-            "Blood moon chestplate": [
-              29022,
-              29043,
-              29067
-            ]
-          },
-          {
-            "Verac's brassard": [
-              4757,
-              4988,
-              4989,
-              4990,
-              4991,
-              4992
-            ]
-          },
-          {
-            "Obsidian platebody": [
-              21301
-            ]
-          },
-          {
-            "Rune platebody": [
-              1127
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Blood moon tassets": [
-              29025,
-              29045,
-              29070
-            ]
-          },
-          {
-            "Verac's plateskirt": [
-              4759,
-              4994,
-              4995,
-              4996,
-              4997,
-              4998
-            ]
-          },
-          {
-            "Obsidian platelegs": [
-              21304
-            ]
-          },
-          {
-            "Rune platelegs": [
-              1079
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Keris partisan of breaching": [
-              25981
-            ],
-            "Zombie axe": [
-              28810
-            ]
-          },
-          {
-            "Verac's flail": [
-              4755,
-              4982,
-              4983,
-              4984,
-              4985,
-              4986
-            ]
-          },
-          {
-            "Colossal blade": [
-              27021
-            ],
-            "Keris partisan": [
-              25979
-            ]
-          }
-        ],
-        "shield": [
-          {
-            "Dragon defender": [
-              12954,
-              20463,
-              24143
-            ]
-          }
-        ],
-        "ammo": [
-          {
-            "Peaceful blessing": [
-              20226
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Barrows gloves": [
-              7462
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Dragon boots": [
-              11840,
-              28055
-            ]
-          },
-          {
-            "Mixed hide boots": [
-              29286
-            ]
-          },
-          {
-            "Climbing boots": [
-              3105
-            ]
-          }
-        ],
-        "ring": [
-          {
-            "Berserker ring (i)": [
-              11773,
-              25264,
-              26770
-            ]
-          },
-          {
-            "Ring of shadows": [
-              28329,
-              28327
-            ]
-          },
-          {
-            "Explorer's ring": [
-              13125,
-              13126,
-              13127,
-              13128
-            ]
-          }
-        ],
-        "special": [
-          {
-            "Bone dagger (p++)": [
-              8872,
-              8874,
-              8876,
-              8878
-            ],
-            "Arkan blade": [
-              30955
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Flinching",
-        "head": [
-          {
-            "Slayer helmet (i)": [
-              11865,
-              25177,
-              26674
-            ]
-          },
-          {
-            "Blue moon helm": [
-              29019,
-              29041,
-              29064
-            ],
-            "Ahrim's hood": [
-              4708,
-              4856,
-              4857,
-              4858,
-              4859,
-              4860
-            ]
-          },
-          {
-            "Mystic hat": [
-              4089
-            ]
-          }
-        ],
-        "neck": [
-          {
-            "Occult necklace": [
-              12002
-            ]
-          },
-          {
-            "Amulet of fury": [
-              6585
-            ]
-          },
-          {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
-            ]
-          }
-        ],
-        "cape": [
-          {
-            "God capes#Imbuing": [
-              21791,
-              24236,
-              24248,
-              21795,
-              24244,
-              24250,
-              21793,
-              24240,
-              24249
-            ]
-          },
-          {
-            "God cape": [
-              2412,
-              2415,
-              2414,
-              2417,
-              2413,
-              2416,
-              21791,
-              24236,
-              24248,
-              21795,
-              24244,
-              24250,
-              21793,
-              24240,
-              24249
-            ]
-          }
-        ],
-        "body": [
-          {
-            "Blue moon chestplate": [
-              29013,
-              29037,
-              29058
-            ],
-            "Ahrim's robetop": [
-              4712,
-              4868,
-              4869,
-              4870,
-              4871,
-              4872
-            ]
-          },
-          {
-            "Mystic robe top": [
-              4091
-            ]
-          }
-        ],
-        "legs": [
-          {
-            "Blue moon tassets": [
-              29016,
-              29039,
-              29061
-            ],
-            "Ahrim's robeskirt": [
-              4714,
-              4874,
-              4875,
-              4876,
-              4877,
-              4878
-            ]
-          },
-          {
-            "Mystic robe bottom": [
-              4093
-            ]
-          }
-        ],
-        "weapon": [
-          {
-            "Tecu salamander": [
-              28834
-            ]
-          },
-          {
-            "Black salamander": [
-              10148
-            ]
-          },
-          {
-            "Red salamander": [
-              10147
-            ]
-          }
-        ],
-        "shield": [],
-        "ammo": [
-          {
-            "Irit tar": [
-              28837
-            ]
-          },
-          {
-            "Harralander tar": [
-              10145
-            ]
-          },
-          {
-            "Tarromin tar": [
-              10144
-            ]
-          }
-        ],
-        "hands": [
-          {
-            "Barrows gloves": [
-              7462
-            ]
-          },
-          {
-            "Dragon gloves": [
-              7461
-            ]
-          }
-        ],
-        "feet": [
-          {
-            "Infinity boots": [
-              6920
-            ]
-          },
-          {
-            "Mystic boots": [
-              4097
-            ]
-          }
-        ],
-        "ring": [],
-        "special": []
-      },
-      {
         "name": "High level melee",
         "head": [
           {
@@ -26407,6 +25979,437 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Flinching",
+        "head": [
+          {
+            "Slayer helmet (i)": [
+              11865,
+              25177,
+              26674
+            ]
+          },
+          {
+            "Verac's helm": [
+              4753,
+              4976,
+              4977,
+              4978,
+              4979,
+              4980
+            ]
+          },
+          {
+            "Blood moon helm": [
+              29028,
+              29047,
+              29073
+            ],
+            "Helm of neitiznot": [
+              10828
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Mythical cape": [
+              22114
+            ]
+          },
+          {
+            "Fire cape": [
+              6570,
+              20445,
+              24223
+            ]
+          },
+          {
+            "Mixed hide cape": [
+              29289
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Fighter torso": [
+              10551,
+              20513,
+              24175
+            ],
+            "Blood moon chestplate": [
+              29022,
+              29043,
+              29067
+            ]
+          },
+          {
+            "Verac's brassard": [
+              4757,
+              4988,
+              4989,
+              4990,
+              4991,
+              4992
+            ]
+          },
+          {
+            "Obsidian platebody": [
+              21301
+            ]
+          },
+          {
+            "Rune platebody": [
+              1127
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Blood moon tassets": [
+              29025,
+              29045,
+              29070
+            ]
+          },
+          {
+            "Verac's plateskirt": [
+              4759,
+              4994,
+              4995,
+              4996,
+              4997,
+              4998
+            ]
+          },
+          {
+            "Obsidian platelegs": [
+              21304
+            ]
+          },
+          {
+            "Rune platelegs": [
+              1079
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Keris partisan of breaching": [
+              25981
+            ],
+            "Zombie axe": [
+              28810
+            ]
+          },
+          {
+            "Verac's flail": [
+              4755,
+              4982,
+              4983,
+              4984,
+              4985,
+              4986
+            ]
+          },
+          {
+            "Colossal blade": [
+              27021
+            ],
+            "Keris partisan": [
+              25979
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Dragon defender": [
+              12954,
+              20463,
+              24143
+            ]
+          }
+        ],
+        "ammo": [
+          {
+            "Peaceful blessing": [
+              20226
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Dragon boots": [
+              11840,
+              28055
+            ]
+          },
+          {
+            "Mixed hide boots": [
+              29286
+            ]
+          },
+          {
+            "Climbing boots": [
+              3105
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Berserker ring (i)": [
+              11773,
+              25264,
+              26770
+            ]
+          },
+          {
+            "Ring of shadows": [
+              28329,
+              28327
+            ]
+          },
+          {
+            "Explorer's ring": [
+              13125,
+              13126,
+              13127,
+              13128
+            ]
+          }
+        ],
+        "special": [
+          {
+            "Bone dagger (p++)": [
+              8872,
+              8874,
+              8876,
+              8878
+            ],
+            "Arkan blade": [
+              30955
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Flinching",
+        "head": [
+          {
+            "Slayer helmet (i)": [
+              11865,
+              25177,
+              26674
+            ]
+          },
+          {
+            "Blue moon helm": [
+              29019,
+              29041,
+              29064
+            ],
+            "Ahrim's hood": [
+              4708,
+              4856,
+              4857,
+              4858,
+              4859,
+              4860
+            ]
+          },
+          {
+            "Mystic hat": [
+              4089
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Occult necklace": [
+              12002
+            ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "God capes#Imbuing": [
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          },
+          {
+            "God cape": [
+              2412,
+              2415,
+              2414,
+              2417,
+              2413,
+              2416,
+              21791,
+              24236,
+              24248,
+              21795,
+              24244,
+              24250,
+              21793,
+              24240,
+              24249
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Blue moon chestplate": [
+              29013,
+              29037,
+              29058
+            ],
+            "Ahrim's robetop": [
+              4712,
+              4868,
+              4869,
+              4870,
+              4871,
+              4872
+            ]
+          },
+          {
+            "Mystic robe top": [
+              4091
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Blue moon tassets": [
+              29016,
+              29039,
+              29061
+            ],
+            "Ahrim's robeskirt": [
+              4714,
+              4874,
+              4875,
+              4876,
+              4877,
+              4878
+            ]
+          },
+          {
+            "Mystic robe bottom": [
+              4093
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Tecu salamander": [
+              28834
+            ]
+          },
+          {
+            "Black salamander": [
+              10148
+            ]
+          },
+          {
+            "Red salamander": [
+              10147
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [
+          {
+            "Irit tar": [
+              28837
+            ]
+          },
+          {
+            "Harralander tar": [
+              10145
+            ]
+          },
+          {
+            "Tarromin tar": [
+              10144
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          },
+          {
+            "Dragon gloves": [
+              7461
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Infinity boots": [
+              6920
+            ]
+          },
+          {
+            "Mystic boots": [
+              4097
+            ]
+          }
+        ],
+        "ring": [],
+        "special": []
       }
     ]
   },
@@ -45967,9 +45970,7 @@
             "Serpentine helm": [
               12929,
               12931
-            ]
-          },
-          {
+            ],
             "Justiciar faceguard": [
               22326
             ]
@@ -46048,12 +46049,12 @@
               29022,
               29043,
               29067
+            ],
+            "Justiciar chestguard": [
+              22327
             ]
           },
           {
-            "Justiciar chestguard": [
-              22327
-            ],
             "Barrows equipment": [
               4708,
               4856,
@@ -46104,12 +46105,12 @@
               29025,
               29045,
               29070
+            ],
+            "Justiciar legguards": [
+              22328
             ]
           },
           {
-            "Justiciar legguards": [
-              22328
-            ],
             "Barrows equipment": [
               4708,
               4856,
@@ -47891,6 +47892,11 @@
               11771,
               25260,
               26768
+            ],
+            "Ring of the gods (i)": [
+              13202,
+              25252,
+              26764
             ]
           },
           {
