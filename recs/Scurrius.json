@@ -217,6 +217,9 @@
       {
         "Dragon scimitar": [
           4587
+        ],
+        "Arkan blade": [
+          30955
         ]
       },
       {
@@ -327,7 +330,7 @@
         "Mixed hide boots": [
           29286
         ],
-        "climbing boots": [
+        "Climbing boots": [
           3105
         ]
       }
@@ -352,6 +355,11 @@
       }
     ],
     "special": [
+      {
+        "Arkan blade": [
+          30955
+        ]
+      },
       {
         "Dragon dagger(p++)": [
           1215,
@@ -1019,7 +1027,6 @@
       {
         "Infernal cape": [
           21295,
-          21287,
           24224
         ]
       },
@@ -1410,8 +1417,7 @@
           28947,
           28951,
           28949,
-          28953,
-          28826
+          28953
         ]
       },
       {

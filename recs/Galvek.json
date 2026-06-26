@@ -73,15 +73,13 @@
       {
         "Infernal cape": [
           21295,
-          21287,
           24224
         ],
         "Dizana's quiver": [
           28947,
           28951,
           28949,
-          28953,
-          28826
+          28953
         ]
       },
       {
@@ -324,13 +322,13 @@
     ],
     "shield": [
       {
-        "Dragonfire ward": [
-          22003,
-          22002
-        ],
         "Dragonfire shield": [
           11284,
           11283
+        ],
+        "Dragonfire ward": [
+          22003,
+          22002
         ]
       },
       {
