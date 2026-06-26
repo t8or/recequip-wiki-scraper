@@ -53,29 +53,12 @@
         "Amulet of fury": [
           6585
         ]
-      },
-      {
-        "Amulet of strength": [
-          1725
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
       }
     ],
     "cape": [
       {
         "Infernal cape": [
           21295,
-          21287,
           24224
         ]
       },
@@ -89,16 +72,6 @@
       {
         "Mythical cape": [
           22114
-        ]
-      },
-      {
-        "Ardougne cloak 4": [
-          13124
-        ]
-      },
-      {
-        "Ardougne cloak 3": [
-          13123
         ]
       }
     ],
@@ -277,21 +250,6 @@
           26467,
           27002
         ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Rune gloves": [
-          7460
-        ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ]
       }
     ],
     "feet": [
@@ -314,55 +272,11 @@
       {
         "Echo boots": [
           28945
-        ],
-        "Guardian boots": [
-          21733
-        ]
-      },
-      {
-        "Spiked manacles": [
-          23389
         ]
       }
     ],
-    "ring": [
-      {
-        "Ultor ring": [
-          28307
-        ]
-      },
-      {
-        "Berserker ring (i)": [
-          11773,
-          25264,
-          26770
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Osmumten's fang": [
-          26219
-        ]
-      },
-      {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
-        ]
-      },
-      {
-        "Bandos godsword": [
-          11804
-        ]
-      }
-    ]
+    "ring": [],
+    "special": []
   },
   {
     "name": "Quick pool",
@@ -405,7 +319,6 @@
       {
         "Infernal cape": [
           21295,
-          21287,
           24224
         ],
         "Mythical cape": [
@@ -662,7 +575,6 @@
       {
         "Infernal cape": [
           21295,
-          21287,
           24224
         ]
       },
@@ -927,7 +839,6 @@
       {
         "Infernal cape": [
           21295,
-          21287,
           24224
         ]
       },
@@ -1080,11 +991,6 @@
           25264,
           26770
         ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
       }
     ],
     "special": [
@@ -1187,7 +1093,6 @@
       {
         "Infernal cape": [
           21295,
-          21287,
           24224
         ]
       },
@@ -1544,7 +1449,6 @@
       {
         "Infernal cape": [
           21295,
-          21287,
           24224
         ]
       },
