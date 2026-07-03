@@ -61,8 +61,8 @@
         "Occult necklace": [
           12002
         ],
-        "Necklace of anguish": [
-          19547
+        "Necklace of rupture": [
+          33639
         ]
       },
       {
@@ -1232,6 +1232,11 @@
       }
     ],
     "neck": [
+      {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
       {
         "Necklace of anguish": [
           19547

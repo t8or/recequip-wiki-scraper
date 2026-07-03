@@ -224,6 +224,15 @@
               11227,
               11228,
               11229,
+              33553,
+              33559,
+              33565,
+              33571,
+              33577,
+              33583,
+              33601,
+              33589,
+              33595,
               27374,
               27359,
               27376
@@ -541,8 +550,8 @@
         ],
         "neck": [
           {
-            "Necklace of anguish": [
-              19547
+            "Necklace of rupture": [
+              33639
             ]
           },
           {
@@ -2163,8 +2172,8 @@
         ],
         "neck": [
           {
-            "Necklace of anguish": [
-              19547
+            "Necklace of rupture": [
+              33639
             ]
           },
           {
@@ -3439,6 +3448,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -5022,6 +5036,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -5045,11 +5064,6 @@
           {
             "Amulet of power": [
               1731
-            ]
-          },
-          {
-            "Holy symbol": [
-              1718
             ]
           }
         ],
@@ -9887,6 +9901,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -12409,8 +12428,8 @@
             "Occult necklace": [
               12002
             ],
-            "Necklace of anguish": [
-              19547
+            "Necklace of rupture": [
+              33639
             ]
           },
           {
@@ -13580,6 +13599,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -15050,13 +15074,16 @@
             "Amulet of rancour": [
               29801
             ],
-            "Necklace of anguish": [
-              19547
+            "Necklace of rupture": [
+              33639
             ]
           },
           {
             "Amulet of torture": [
               19553
+            ],
+            "Necklace of anguish": [
+              19547
             ]
           }
         ],
@@ -16346,8 +16373,8 @@
             "Amulet of blood fury": [
               24780
             ],
-            "Necklace of anguish": [
-              19547
+            "Necklace of rupture": [
+              33639
             ]
           },
           {
@@ -16611,8 +16638,8 @@
             "Amulet of blood fury": [
               24780
             ],
-            "Necklace of anguish": [
-              19547
+            "Necklace of rupture": [
+              33639
             ]
           },
           {
@@ -17665,6 +17692,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -18396,6 +18428,11 @@
           {
             "Amulet of fury": [
               6585
+            ]
+          },
+          {
+            "Necklace of rupture": [
+              33639
             ]
           },
           {
@@ -19214,6 +19251,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -23311,6 +23353,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -27185,6 +27232,9 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ],
             "Necklace of anguish": [
               19547
             ]
@@ -27444,6 +27494,9 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ],
             "Necklace of anguish": [
               19547
             ]
@@ -27703,6 +27756,9 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ],
             "Necklace of anguish": [
               19547
             ]
@@ -28695,6 +28751,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -28981,6 +29042,11 @@
           {
             "Amulet of fury": [
               6585
+            ]
+          },
+          {
+            "Necklace of rupture": [
+              33639
             ]
           },
           {
@@ -29308,6 +29374,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -35414,6 +35485,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -35426,17 +35502,6 @@
           {
             "Bonecrusher necklace": [
               22986
-            ]
-          },
-          {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
             ]
           }
         ],
@@ -36514,19 +36579,24 @@
         ],
         "special": [
           {
-            "Voidwaker": [
-              27690
-            ],
             "Burning claws": [
               29577
+            ],
+            "Dragon claws": [
+              13652,
+              26708,
+              28039
+            ]
+          },
+          {
+            "Voidwaker": [
+              27690
             ]
           },
           {
             "Elder maul": [
               21003
-            ]
-          },
-          {
+            ],
             "Bandos godsword": [
               11804
             ]
@@ -37510,6 +37580,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -39074,6 +39149,241 @@
             ],
             "Burning claws": [
               29577
+            ]
+          },
+          {
+            "Dragon dagger(p++)": [
+              1215,
+              1231,
+              5680,
+              5698,
+              28019,
+              28021,
+              28023,
+              28025
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Melee",
+        "head": [
+          {
+            "Helm of neitiznot": [
+              10828
+            ]
+          }
+        ],
+        "neck": [
+          {
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
+          }
+        ],
+        "cape": [
+          {
+            "Fire cape": [
+              6570,
+              20445,
+              24223
+            ]
+          }
+        ],
+        "body": [
+          {
+            "Bandos chestplate": [
+              11832
+            ]
+          },
+          {
+            "Fighter torso": [
+              10551,
+              20513,
+              24175
+            ]
+          }
+        ],
+        "legs": [
+          {
+            "Bandos tassets": [
+              11834
+            ]
+          },
+          {
+            "Verac's plateskirt": [
+              4759,
+              4994,
+              4995,
+              4996,
+              4997,
+              4998
+            ],
+            "Dharok's platelegs": [
+              4722,
+              4898,
+              4899,
+              4900,
+              4901,
+              4902
+            ],
+            "Torag's platelegs": [
+              4751,
+              4970,
+              4971,
+              4972,
+              4973,
+              4974
+            ]
+          },
+          {
+            "Dragon platelegs": [
+              4087
+            ],
+            "Dragon plateskirt": [
+              4585
+            ]
+          }
+        ],
+        "weapon": [
+          {
+            "Abyssal tentacle": [
+              12006,
+              26484
+            ],
+            "Abyssal whip": [
+              4151,
+              12773,
+              12774,
+              26482
+            ]
+          },
+          {
+            "Zombie axe": [
+              28810
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
+            ]
+          }
+        ],
+        "shield": [
+          {
+            "Dragon defender": [
+              12954,
+              20463,
+              24143
+            ]
+          }
+        ],
+        "ammo": [
+          {
+            "Rada's blessing 4": [
+              22947
+            ],
+            "Rada's blessing 3": [
+              22945
+            ],
+            "God blessing": [
+              20220,
+              20223,
+              20226,
+              20229,
+              20232,
+              20235
+            ]
+          }
+        ],
+        "hands": [
+          {
+            "Barrows gloves": [
+              7462
+            ]
+          }
+        ],
+        "feet": [
+          {
+            "Dragon boots": [
+              11840,
+              28055
+            ]
+          },
+          {
+            "Mixed hide boots": [
+              29286
+            ]
+          },
+          {
+            "Climbing boots": [
+              3105
+            ]
+          }
+        ],
+        "ring": [
+          {
+            "Berserker ring (i)": [
+              11773,
+              25264,
+              26770
+            ]
+          },
+          {
+            "Ring of suffering (ri)": [
+              19710,
+              20657,
+              25246,
+              25248,
+              26761,
+              26762
+            ],
+            "Ring of shadows": [
+              28329,
+              28327
+            ]
+          },
+          {
+            "Brimstone ring": [
+              22975
+            ]
+          },
+          {
+            "Steel ring": [
+              30895
+            ]
+          }
+        ],
+        "special": [
+          {
+            "Voidwaker": [
+              27690
+            ]
+          },
+          {
+            "Dragon claws": [
+              13652,
+              26708,
+              28039
+            ],
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
             ]
           },
           {
@@ -43172,6 +43482,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -43202,16 +43517,6 @@
             "Amulet of the damned": [
               12851,
               12853
-            ]
-          },
-          {
-            "Stole": [
-              10470,
-              10472,
-              10474,
-              12257,
-              12269,
-              12201
             ]
           }
         ],
@@ -44713,6 +45018,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -49696,6 +50006,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -53316,9 +53631,14 @@
             ]
           },
           {
+            "Bandos godsword": [
+              11804
+            ],
             "Voidwaker": [
               27690
-            ],
+            ]
+          },
+          {
             "Arkan blade": [
               30955
             ]
@@ -53337,6 +53657,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -53543,6 +53868,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -53550,17 +53880,6 @@
           {
             "Amulet of fury": [
               6585
-            ]
-          },
-          {
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
             ]
           }
         ],
@@ -54452,6 +54771,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -57691,6 +58015,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
@@ -66252,6 +66581,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -69003,6 +69337,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -69026,11 +69365,6 @@
           {
             "Amulet of power": [
               1731
-            ]
-          },
-          {
-            "Amulet of accuracy": [
-              1478
             ]
           }
         ],
@@ -69397,6 +69731,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -69420,11 +69759,6 @@
               1712,
               11976,
               11978
-            ]
-          },
-          {
-            "Amulet of power": [
-              1731
             ]
           }
         ],
@@ -71273,6 +71607,11 @@
         ],
         "neck": [
           {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
+          {
             "Necklace of anguish": [
               19547
             ]
@@ -71298,11 +71637,6 @@
               12257,
               12269,
               12201
-            ]
-          },
-          {
-            "Unholy symbol": [
-              1724
             ]
           }
         ],
@@ -81000,6 +81334,11 @@
           }
         ],
         "neck": [
+          {
+            "Necklace of rupture": [
+              33639
+            ]
+          },
           {
             "Necklace of anguish": [
               19547
