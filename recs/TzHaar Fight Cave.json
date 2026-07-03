@@ -66,6 +66,11 @@
     ],
     "neck": [
       {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -96,16 +101,6 @@
         "Amulet of the damned": [
           12851,
           12853
-        ]
-      },
-      {
-        "Stole": [
-          10470,
-          10472,
-          10474,
-          12257,
-          12269,
-          12201
         ]
       }
     ],
@@ -1607,6 +1602,11 @@
       }
     ],
     "neck": [
+      {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
       {
         "Necklace of anguish": [
           19547

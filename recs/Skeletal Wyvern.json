@@ -491,6 +491,11 @@
     ],
     "neck": [
       {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -514,11 +519,6 @@
       {
         "Amulet of power": [
           1731
-        ]
-      },
-      {
-        "Amulet of accuracy": [
-          1478
         ]
       }
     ],
@@ -885,6 +885,11 @@
     ],
     "neck": [
       {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -908,11 +913,6 @@
           1712,
           11976,
           11978
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
         ]
       }
     ],

@@ -22,6 +22,11 @@
     ],
     "neck": [
       {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -29,17 +34,6 @@
       {
         "Amulet of fury": [
           6585
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
         ]
       }
     ],

@@ -971,5 +971,240 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Melee",
+    "head": [
+      {
+        "Helm of neitiznot": [
+          10828
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Fighter torso": [
+          10551,
+          20513,
+          24175
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Bandos tassets": [
+          11834
+        ]
+      },
+      {
+        "Verac's plateskirt": [
+          4759,
+          4994,
+          4995,
+          4996,
+          4997,
+          4998
+        ],
+        "Dharok's platelegs": [
+          4722,
+          4898,
+          4899,
+          4900,
+          4901,
+          4902
+        ],
+        "Torag's platelegs": [
+          4751,
+          4970,
+          4971,
+          4972,
+          4973,
+          4974
+        ]
+      },
+      {
+        "Dragon platelegs": [
+          4087
+        ],
+        "Dragon plateskirt": [
+          4585
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Abyssal tentacle": [
+          12006,
+          26484
+        ],
+        "Abyssal whip": [
+          4151,
+          12773,
+          12774,
+          26482
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ],
+        "Rada's blessing 3": [
+          22945
+        ],
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Dragon boots": [
+          11840,
+          28055
+        ]
+      },
+      {
+        "Mixed hide boots": [
+          29286
+        ]
+      },
+      {
+        "Climbing boots": [
+          3105
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ],
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
+      },
+      {
+        "Steel ring": [
+          30895
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Dragon claws": [
+          13652,
+          26708,
+          28039
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
+        ]
+      },
+      {
+        "Dragon dagger(p++)": [
+          1215,
+          1231,
+          5680,
+          5698,
+          28019,
+          28021,
+          28023,
+          28025
+        ]
+      }
+    ]
   }
 ]
