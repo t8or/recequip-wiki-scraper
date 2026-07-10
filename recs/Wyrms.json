@@ -49,6 +49,11 @@
     ],
     "neck": [
       {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -70,11 +75,6 @@
         ],
         "Bonecrusher necklace": [
           22986
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
         ]
       }
     ],
@@ -524,7 +524,9 @@
         "Fighter torso": [
           10551,
           20513,
-          24175
+          24175,
+          33520,
+          33522
         ]
       }
     ],

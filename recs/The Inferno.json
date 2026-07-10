@@ -45,6 +45,14 @@
     ],
     "neck": [
       {
+        "Necklace of rupture": [
+          33639
+        ],
+        "Occult necklace": [
+          12002
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ],
@@ -250,12 +258,16 @@
         "Blood ancient sceptre": [
           28260,
           28238,
-          28473
+          28473,
+          33504,
+          33506
         ],
         "Ice ancient sceptre": [
           28262,
           28242,
-          28474
+          28474,
+          33508,
+          33510
         ],
         "Armadyl crossbow": [
           11785
@@ -268,7 +280,9 @@
         ],
         "Ancient sceptre": [
           27624,
-          27626
+          27626,
+          33827,
+          33829
         ],
         "Dragon crossbow": [
           21902,
@@ -442,6 +456,11 @@
       }
     ],
     "neck": [
+      {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
       {
         "Necklace of anguish": [
           19547

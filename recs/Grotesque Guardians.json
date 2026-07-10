@@ -69,14 +69,14 @@
     ],
     "body": [
       {
+        "Oathplate chest": [
+          30753,
+          30779
+        ],
         "Torva platebody": [
           26378,
           26384,
           28256
-        ],
-        "Oathplate chest": [
-          30753,
-          30779
         ]
       },
       {
@@ -93,7 +93,9 @@
         "Fighter torso": [
           10551,
           20513,
-          24175
+          24175,
+          33520,
+          33522
         ]
       },
       {
@@ -405,6 +407,11 @@
     ],
     "neck": [
       {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -613,6 +620,9 @@
     ],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
         "Dragon arrow": [
           11212,
           11227,

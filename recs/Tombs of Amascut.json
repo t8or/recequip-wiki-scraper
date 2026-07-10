@@ -123,7 +123,9 @@
         "Fighter torso": [
           10551,
           20513,
-          24175
+          24175,
+          33520,
+          33522
         ],
         "Oathplate chest": [
           30753,
@@ -413,6 +415,11 @@
       }
     ],
     "neck": [
+      {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
       {
         "Necklace of anguish": [
           19547

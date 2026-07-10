@@ -604,7 +604,9 @@
         "Fighter torso": [
           10551,
           20513,
-          24175
+          24175,
+          33520,
+          33522
         ],
         "Blood moon chestplate": [
           29022,
@@ -914,7 +916,9 @@
       {
         "Necklace of rupture": [
           33639
-        ],
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -928,17 +932,6 @@
         "Bonecrusher necklace": [
           22986
         ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
-        ]
       }
     ],
     "cape": [
@@ -946,7 +939,9 @@
         "Blessed dizana's quiver (l)": [
           28955,
           28957,
-          28828
+          28828,
+          33528,
+          33530
         ]
       },
       {
@@ -1176,7 +1171,9 @@
       {
         "Necklace of rupture": [
           33639
-        ],
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -1189,17 +1186,6 @@
       {
         "Bonecrusher necklace": [
           22986
-        ]
-      },
-      {
-        "Amulet of glory": [
-          1704,
-          1706,
-          1708,
-          1710,
-          1712,
-          11976,
-          11978
         ]
       }
     ],
@@ -1438,7 +1424,9 @@
       {
         "Necklace of rupture": [
           33639
-        ],
+        ]
+      },
+      {
         "Necklace of anguish": [
           19547
         ]
@@ -1456,11 +1444,6 @@
       {
         "Amulet of power": [
           1731
-        ]
-      },
-      {
-        "Amulet of accuracy": [
-          1478
         ]
       }
     ],
