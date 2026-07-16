@@ -329,23 +329,14 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Seeking dragon arrow": [
+          33595
         ],
         "Diamond dragon bolts (e)": [
           21946
         ]
       },
       {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
-        ],
         "Diamond bolts (e)": [
           9243
         ]
@@ -654,23 +645,11 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ],
         "Diamond dragon bolts (e)": [
           21946
         ]
       },
       {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
-        ],
         "Diamond bolts (e)": [
           9243
         ]
@@ -963,11 +942,8 @@
     "shield": [],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Seeking dragon arrow": [
+          33595
         ],
         "Rada's blessing 4": [
           22947
@@ -977,25 +953,11 @@
         ]
       },
       {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
-        ],
         "Unholy blessing": [
           20223
         ],
         "Honourable blessing": [
           20229
-        ]
-      },
-      {
-        "Rune arrow": [
-          892,
-          893,
-          5621,
-          5627
         ]
       }
     ],
@@ -1138,7 +1100,10 @@
       {
         "Infernal cape": [
           21295,
-          24224
+          21287,
+          24224,
+          33500,
+          33502
         ]
       },
       {

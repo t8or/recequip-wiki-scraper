@@ -76,7 +76,10 @@
       {
         "Infernal cape": [
           21295,
-          24224
+          21287,
+          24224,
+          33500,
+          33502
         ]
       },
       {
@@ -322,12 +325,18 @@
         ],
         "Saradomin godsword": [
           11806
+        ],
+        "Crimson kisten": [
+          33631
         ]
       },
       {
         "Dragon warhammer": [
           13576,
           28035
+        ],
+        "Voidwaker": [
+          27690
         ]
       },
       {

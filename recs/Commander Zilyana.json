@@ -455,11 +455,8 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Seeking dragon arrow": [
+          33595
         ],
         "Diamond dragon bolts (e)": [
           21946
@@ -472,12 +469,6 @@
         ]
       },
       {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
-        ],
         "Diamond bolts (e)": [
           9243
         ],

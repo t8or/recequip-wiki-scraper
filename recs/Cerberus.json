@@ -84,7 +84,10 @@
       {
         "Infernal cape": [
           21295,
-          24224
+          21287,
+          24224,
+          33500,
+          33502
         ]
       },
       {
@@ -92,21 +95,6 @@
           6570,
           20445,
           24223
-        ]
-      },
-      {
-        "Ardougne cloak 4": [
-          13124
-        ]
-      },
-      {
-        "Ardougne cloak 3": [
-          13123
-        ]
-      },
-      {
-        "Mythical cape": [
-          22114
         ]
       }
     ],
@@ -324,13 +312,6 @@
           11284,
           11283
         ]
-      },
-      {
-        "Rune defender": [
-          8850,
-          20461,
-          24142
-        ]
       }
     ],
     "ammo": [
@@ -362,16 +343,6 @@
       {
         "Barrows gloves": [
           7462
-        ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Rune gloves": [
-          7460
         ]
       }
     ],
@@ -417,11 +388,6 @@
         ]
       },
       {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
         "Lightbearer": [
           25975
         ]
@@ -444,8 +410,8 @@
     ],
     "special": [
       {
-        "Burning claws": [
-          29577
+        "Crimson kisten": [
+          33631
         ],
         "Dragon claws": [
           13652,
@@ -454,26 +420,31 @@
         ]
       },
       {
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
         "Voidwaker": [
           27690
         ],
         "Bandos godsword": [
           11804
-        ],
-        "Elder maul": [
-          21003
         ]
       },
       {
+        "Elder maul": [
+          21003
+        ],
         "Dragon warhammer": [
           13576,
           28035
+        ],
+        "Emberlight": [
+          29589
         ]
       },
       {
-        "Emberlight": [
-          29589
-        ],
         "Saradomin godsword": [
           11806
         ],
@@ -486,16 +457,6 @@
           28021,
           28023,
           28025
-        ]
-      },
-      {
-        "Arclight": [
-          30305,
-          19675
-        ],
-        "Dragon mace": [
-          1434,
-          28027
         ]
       }
     ]
@@ -573,11 +534,6 @@
           1712,
           11976,
           11978
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
         ]
       }
     ],
@@ -755,11 +711,19 @@
     "shield": [],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ]
+      },
+      {
         "Dragon arrow": [
           11212,
           11227,
           11228,
           11229
+        ],
+        "Seeking amethyst arrow": [
+          33589
         ]
       },
       {
@@ -771,19 +735,11 @@
         ]
       },
       {
-        "Rune arrow": [
-          892,
-          893,
-          5621,
-          5627
-        ]
-      },
-      {
-        "Ruby dragon bolts": [
-          21967
+        "Ruby dragon bolts (e)": [
+          21944
         ],
-        "Diamond dragon bolts": [
-          21969
+        "Diamond dragon bolts (e)": [
+          21946
         ]
       },
       {
@@ -812,22 +768,6 @@
           10384,
           10368
         ]
-      },
-      {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
-        "Combat bracelet": [
-          11126,
-          11124,
-          11122,
-          11120,
-          11118,
-          11974,
-          11972
-        ]
       }
     ],
     "feet": [
@@ -855,22 +795,12 @@
           19933,
           19936
         ]
-      },
-      {
-        "Shayzien boots (5)": [
-          13378
-        ]
       }
     ],
     "ring": [
       {
-        "Ring of suffering (ri)": [
-          19710,
-          20657,
-          25246,
-          25248,
-          26761,
-          26762
+        "Lightbearer": [
+          25975
         ]
       },
       {
@@ -879,15 +809,13 @@
         ]
       },
       {
-        "Lightbearer": [
-          25975
-        ]
-      },
-      {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
         ]
       },
       {
