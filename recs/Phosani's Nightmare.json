@@ -21,6 +21,13 @@
         "Zombie helmet": [
           30321
         ]
+      },
+      {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ]
       }
     ],
     "neck": [
@@ -44,7 +51,10 @@
       {
         "Infernal cape": [
           21295,
-          24224
+          21287,
+          24224,
+          33500,
+          33502
         ]
       },
       {
@@ -131,6 +141,11 @@
       {
         "Abyssal bludgeon": [
           13263
+        ]
+      },
+      {
+        "Dual macuahuitl": [
+          28997
         ]
       }
     ],
@@ -220,9 +235,22 @@
           25264,
           26770
         ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Berserker ring": [
+          6737
+        ]
       }
     ],
     "special": [
+      {
+        "Crimson kisten": [
+          33631
+        ]
+      },
       {
         "Voidwaker": [
           27690

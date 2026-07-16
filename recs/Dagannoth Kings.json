@@ -97,7 +97,10 @@
       {
         "Infernal cape": [
           21295,
-          24224
+          21287,
+          24224,
+          33500,
+          33502
         ],
         "Blessed dizana's quiver": [
           28955,
@@ -367,23 +370,20 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ],
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
+        "Seeking dragon arrow": [
+          33595
         ],
         "Moonlight antler bolts": [
           28878
         ]
       },
       {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ],
         "Rada's blessing 4": [
           22947
         ]
@@ -658,7 +658,10 @@
       {
         "Infernal cape": [
           21295,
-          24224
+          21287,
+          24224,
+          33500,
+          33502
         ],
         "Fire cape": [
           6570,
@@ -1566,11 +1569,8 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Seeking dragon arrow": [
+          33595
         ],
         "Amethyst arrow": [
           21326,
