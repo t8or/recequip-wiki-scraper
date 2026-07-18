@@ -32663,6 +32663,11 @@
             "Amulet of blood fury": [
               24780
             ]
+          },
+          {
+            "Amulet of fury": [
+              6585
+            ]
           }
         ],
         "cape": [
@@ -54510,11 +54515,8 @@
         "shield": [],
         "ammo": [
           {
-            "Dragon arrow": [
-              11212,
-              11227,
-              11228,
-              11229
+            "Seeking dragon arrow": [
+              33595
             ],
             "Ruby bolts (e)": [
               9242
