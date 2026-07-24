@@ -1012,19 +1012,14 @@
         ]
       },
       {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      },
-      {
         "Bow of faerdhinen": [
           25862,
           25865,
           25867
         ],
-        "Eclipse atlatl": [
-          29000
+        "Toxic blowpipe": [
+          12924,
+          12926
         ],
         "Zaryte crossbow": [
           26374
@@ -1037,6 +1032,11 @@
         "Dragon crossbow": [
           21902,
           28053
+        ]
+      },
+      {
+        "Eclipse atlatl": [
+          29000
         ],
         "Rune crossbow": [
           9185

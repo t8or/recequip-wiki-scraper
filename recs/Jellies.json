@@ -652,34 +652,28 @@
       {
         "Kodai wand": [
           21006
-        ]
-      },
-      {
+        ],
         "Nightmare staff": [
           24422
-        ],
-        "Dragon hunter wand": [
-          30070
         ]
       },
       {
-        "Ice ancient sceptre": [
-          28262,
-          28242,
-          28474,
-          33508,
-          33510
-        ],
         "Ancient sceptre": [
           27624,
           27626,
           33827,
           33829
+        ],
+        "Dragon hunter wand": [
+          30070
+        ],
+        "Master wand": [
+          6914
         ]
       },
       {
-        "Master wand": [
-          6914
+        "Blue moon spear": [
+          28988
         ]
       },
       {
