@@ -241,20 +241,6 @@
           12924,
           12926
         ],
-        "Dragon hunter wand": [
-          30070
-        ],
-        "Bow of faerdhinen": [
-          25862,
-          25865,
-          25867
-        ]
-      },
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ],
         "Blood ancient sceptre": [
           28260,
           28238,
@@ -269,8 +255,10 @@
           33508,
           33510
         ],
-        "Armadyl crossbow": [
-          11785
+        "Bow of faerdhinen": [
+          25862,
+          25865,
+          25867
         ]
       },
       {
@@ -283,6 +271,21 @@
           27626,
           33827,
           33829
+        ],
+        "Armadyl crossbow": [
+          11785
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ],
+        "Dragon hunter wand": [
+          30070
+        ],
+        "Master wand": [
+          6914
         ],
         "Dragon crossbow": [
           21902,

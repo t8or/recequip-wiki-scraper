@@ -291,7 +291,20 @@
       }
     ],
     "ring": [],
-    "special": []
+    "special": [
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      },
+      {
+        "Bandos godsword": [
+          11804
+        ]
+      }
+    ]
   },
   {
     "name": "Quick pool",

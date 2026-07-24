@@ -8414,6 +8414,9 @@
           {
             "Dragon hunter lance": [
               22978
+            ],
+            "Soulreaper axe": [
+              28338
             ]
           },
           {
@@ -10159,6 +10162,9 @@
             ]
           },
           {
+            "Seeking amethyst arrow": [
+              33589
+            ],
             "Diamond bolts (e)": [
               9243
             ],
@@ -10556,7 +10562,20 @@
           }
         ],
         "ring": [],
-        "special": []
+        "special": [
+          {
+            "Crystal halberd": [
+              23987,
+              23989,
+              24125
+            ]
+          },
+          {
+            "Bandos godsword": [
+              11804
+            ]
+          }
+        ]
       },
       {
         "name": "Quick pool",
@@ -21255,6 +21274,11 @@
         ],
         "special": [
           {
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
             "Voidwaker": [
               27690
             ]
@@ -21264,11 +21288,6 @@
               13652,
               26708,
               28039
-            ]
-          },
-          {
-            "Burning claws": [
-              29577
             ]
           },
           {
@@ -21624,6 +21643,11 @@
           }
         ],
         "special": [
+          {
+            "Burning claws": [
+              29577
+            ]
+          },
           {
             "Voidwaker": [
               27690
@@ -22916,20 +22940,6 @@
               12924,
               12926
             ],
-            "Dragon hunter wand": [
-              30070
-            ],
-            "Bow of faerdhinen": [
-              25862,
-              25865,
-              25867
-            ]
-          },
-          {
-            "Toxic blowpipe": [
-              12924,
-              12926
-            ],
             "Blood ancient sceptre": [
               28260,
               28238,
@@ -22944,8 +22954,10 @@
               33508,
               33510
             ],
-            "Armadyl crossbow": [
-              11785
+            "Bow of faerdhinen": [
+              25862,
+              25865,
+              25867
             ]
           },
           {
@@ -22958,6 +22970,21 @@
               27626,
               33827,
               33829
+            ],
+            "Armadyl crossbow": [
+              11785
+            ]
+          },
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ],
+            "Dragon hunter wand": [
+              30070
+            ],
+            "Master wand": [
+              6914
             ],
             "Dragon crossbow": [
               21902,
@@ -31356,11 +31383,8 @@
             "Ruby dragon bolts (e)": [
               21944
             ],
-            "Dragon arrow": [
-              11212,
-              11227,
-              11228,
-              11229
+            "Seeking dragon arrow": [
+              33595
             ]
           },
           {
@@ -31591,11 +31615,8 @@
         ],
         "ammo": [
           {
-            "Dragon arrow": [
-              11212,
-              11227,
-              11228,
-              11229
+            "Seeking dragon arrow": [
+              33595
             ]
           },
           {
@@ -33241,6 +33262,11 @@
               29007,
               29033,
               29052
+            ],
+            "Blue moon tassets": [
+              29016,
+              29039,
+              29061
             ]
           },
           {
@@ -33611,6 +33637,11 @@
               29007,
               29033,
               29052
+            ],
+            "Blue moon tassets": [
+              29016,
+              29039,
+              29061
             ]
           },
           {
@@ -41663,26 +41694,26 @@
               22481,
               22323
             ],
-            "Trident of the swamp": [
-              12900,
-              12899
-            ],
-            "Toxic staff of the dead": [
-              12902,
-              12904
+            "Staff of the dead": [
+              11791
             ]
           },
           {
-            "Trident of the seas": [
-              11908,
-              11907,
-              11905
+            "Trident of the swamp": [
+              12900,
+              12899
             ],
             "Ancient sceptre": [
               27624,
               27626,
               33827,
               33829
+            ],
+            "Dragon hunter wand": [
+              30070
+            ],
+            "Master wand": [
+              6914
             ]
           }
         ],
@@ -54169,8 +54200,8 @@
             "Elder maul": [
               21003
             ],
-            "Burning claws": [
-              29577
+            "Crimson kisten": [
+              33631
             ]
           },
           {
@@ -54178,8 +54209,8 @@
               13576,
               28035
             ],
-            "Crimson kisten": [
-              33631
+            "Burning claws": [
+              29577
             ]
           },
           {
@@ -56789,6 +56820,12 @@
         ],
         "shield": [
           {
+            "Dragonfire shield": [
+              11284,
+              11283
+            ]
+          },
+          {
             "Dragon defender": [
               12954,
               20463,
@@ -56813,6 +56850,9 @@
           {
             "Book of war": [
               12608
+            ],
+            "Mooleta": [
+              33101
             ]
           }
         ],
@@ -57347,19 +57387,19 @@
             ]
           },
           {
-            "Dragon defender": [
-              12954,
-              20463,
-              24143
+            "Dragonfire shield": [
+              11284,
+              11283
             ],
             "Antler guard": [
               31081
             ]
           },
           {
-            "Dragonfire shield": [
-              11284,
-              11283
+            "Dragon defender": [
+              12954,
+              20463,
+              24143
             ]
           },
           {
@@ -57903,8 +57943,22 @@
             ]
           },
           {
-            "Amulet of accuracy": [
-              1478
+            "Amulet of fury": [
+              6585
+            ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ],
+            "Amulet of power": [
+              1731
             ]
           }
         ],
@@ -57994,82 +58048,24 @@
           {
             "Adamant crossbow": [
               9183
+            ],
+            "Rosewood blowpipe": [
+              31585,
+              31583
             ]
           },
           {
-            "Throwing knife": [
-              864,
-              870,
-              5654,
-              5661,
-              863,
-              871,
-              5655,
-              5662,
-              865,
-              872,
-              5656,
-              5663,
-              869,
-              874,
-              5658,
-              5665,
-              866,
-              873,
-              5657,
-              5664,
-              867,
-              875,
-              5659,
-              5666,
-              868,
-              876,
-              5660,
-              5667,
-              22804,
-              22806,
-              22808,
-              22810
-            ]
-          },
-          {
-            "Dart": [
-              806,
-              812,
-              5628,
-              5635,
-              807,
-              813,
-              5629,
-              5636,
-              808,
-              814,
-              5630,
-              5637,
-              3093,
-              3094,
-              5631,
-              5638,
-              809,
-              815,
-              5632,
-              5639,
+            "Adamant dart": [
               810,
               816,
               5633,
-              5640,
-              811,
-              817,
-              5634,
-              5641,
-              11230,
-              11231,
-              11233,
-              11234,
-              25849,
-              25851,
-              25855,
-              25857
+              5640
+            ],
+            "Mithril dart": [
+              809,
+              815,
+              5632,
+              5639
             ]
           },
           {
@@ -58080,7 +58076,9 @@
               853,
               857,
               861
-            ],
+            ]
+          },
+          {
             "Dorgeshuun crossbow": [
               8880
             ]
@@ -58184,8 +58182,8 @@
             ]
           },
           {
-            "Green d'hide vambraces": [
-              1065
+            "Black d'hide vambraces": [
+              2491
             ]
           }
         ],
@@ -58351,21 +58349,11 @@
             ]
           },
           {
-            "Ava's accumulator": [
-              10499
-            ]
-          },
-          {
             "Mixed hide cape": [
               29289
             ],
-            "Mythical cape": [
-              22114
-            ]
-          },
-          {
-            "Ava's attractor": [
-              10498
+            "Ava's accumulator": [
+              10499
             ]
           }
         ],
@@ -58477,13 +58465,14 @@
             ]
           },
           {
-            "Aranea boots": [
-              29806
+            "Dragon boots": [
+              11840,
+              28055
             ]
           },
           {
-            "Mixed hide boots": [
-              29286
+            "Rune boots": [
+              4131
             ]
           }
         ],
@@ -58605,11 +58594,6 @@
             "Ava's accumulator": [
               10499
             ]
-          },
-          {
-            "Ava's attractor": [
-              10498
-            ]
           }
         ],
         "body": [
@@ -58694,17 +58678,24 @@
             ]
           },
           {
-            "Rune knife": [
-              868,
-              876,
-              5660,
-              5667
+            "Amethyst dart": [
+              25849,
+              25851,
+              25855,
+              25857
             ],
-            "Rune dart": [
-              811,
-              817,
-              5634,
-              5641
+            "Twisted buckler": [
+              21000
+            ],
+            "Dragonfire ward": [
+              22003,
+              22002
+            ]
+          },
+          {
+            "Rosewood blowpipe": [
+              31585,
+              31583
             ]
           },
           {
@@ -58724,9 +58715,7 @@
           {
             "Hunters' sunlight crossbow": [
               28869
-            ]
-          },
-          {
+            ],
             "Magic shortbow": [
               861
             ]
@@ -58850,11 +58839,14 @@
             ]
           },
           {
-            "Devout boots": [
-              22954
+            "Pegasian boots": [
+              13237
             ]
           },
           {
+            "Devout boots": [
+              22954
+            ],
             "Holy sandals": [
               12598
             ]
@@ -69867,6 +69859,9 @@
               12006,
               26484
             ],
+            "Zamorakian hasta": [
+              11889
+            ],
             "Abyssal whip": [
               4151,
               12773,
@@ -70600,6 +70595,9 @@
               24175,
               33520,
               33522
+            ],
+            "Mixed hide top": [
+              29280
             ]
           },
           {
@@ -70825,6 +70823,12 @@
           {
             "Guardian boots": [
               21733
+            ],
+            "Rune boots": [
+              4131
+            ],
+            "Mixed hide boots": [
+              29286
             ]
           }
         ],
@@ -72317,14 +72321,9 @@
           {
             "Kodai wand": [
               21006
-            ]
-          },
-          {
+            ],
             "Nightmare staff": [
               24422
-            ],
-            "Dragon hunter wand": [
-              30070
             ]
           },
           {
@@ -72333,6 +72332,12 @@
               27626,
               33827,
               33829
+            ],
+            "Dragon hunter wand": [
+              30070
+            ],
+            "Master wand": [
+              6914
             ]
           },
           {
@@ -72341,9 +72346,6 @@
             ]
           },
           {
-            "Master wand": [
-              6914
-            ],
             "Ancient staff": [
               4675
             ]
@@ -73864,24 +73866,17 @@
             ]
           },
           {
-            "Dragon hunter wand": [
-              30070
-            ]
-          },
-          {
             "Ancient sceptre": [
               27624,
               27626,
               33827,
               33829
             ],
-            "Ahrim's staff": [
-              4710,
-              4862,
-              4863,
-              4864,
-              4865,
-              4866
+            "Dragon hunter wand": [
+              30070
+            ],
+            "Master wand": [
+              6914
             ]
           },
           {
@@ -73890,9 +73885,6 @@
             ]
           },
           {
-            "Master wand": [
-              6914
-            ],
             "Ancient staff": [
               4675
             ]
@@ -75652,6 +75644,9 @@
             "Abyssal tentacle": [
               12006,
               26484
+            ],
+            "Belle's folly": [
+              31248
             ]
           }
         ],
@@ -78109,34 +78104,28 @@
           {
             "Kodai wand": [
               21006
-            ]
-          },
-          {
+            ],
             "Nightmare staff": [
               24422
-            ],
-            "Dragon hunter wand": [
-              30070
             ]
           },
           {
-            "Ice ancient sceptre": [
-              28262,
-              28242,
-              28474,
-              33508,
-              33510
-            ],
             "Ancient sceptre": [
               27624,
               27626,
               33827,
               33829
+            ],
+            "Dragon hunter wand": [
+              30070
+            ],
+            "Master wand": [
+              6914
             ]
           },
           {
-            "Master wand": [
-              6914
+            "Blue moon spear": [
+              28988
             ]
           },
           {
@@ -78826,14 +78815,9 @@
           {
             "Kodai wand": [
               21006
-            ]
-          },
-          {
+            ],
             "Nightmare staff": [
               24422
-            ],
-            "Dragon hunter wand": [
-              30070
             ]
           },
           {
@@ -78843,13 +78827,11 @@
               33827,
               33829
             ],
-            "Ahrim's staff": [
-              4710,
-              4862,
-              4863,
-              4864,
-              4865,
-              4866
+            "Dragon hunter wand": [
+              30070
+            ],
+            "Master wand": [
+              6914
             ]
           },
           {
@@ -78858,9 +78840,6 @@
             ]
           },
           {
-            "Master wand": [
-              6914
-            ],
             "Ancient staff": [
               4675
             ]
@@ -82021,19 +82000,14 @@
             ]
           },
           {
-            "Toxic blowpipe": [
-              12924,
-              12926
-            ]
-          },
-          {
             "Bow of faerdhinen": [
               25862,
               25865,
               25867
             ],
-            "Eclipse atlatl": [
-              29000
+            "Toxic blowpipe": [
+              12924,
+              12926
             ],
             "Zaryte crossbow": [
               26374
@@ -82046,6 +82020,11 @@
             "Dragon crossbow": [
               21902,
               28053
+            ]
+          },
+          {
+            "Eclipse atlatl": [
+              29000
             ],
             "Rune crossbow": [
               9185
@@ -82775,6 +82754,9 @@
             ]
           },
           {
+            "Osmumten's fang": [
+              26219
+            ],
             "Abyssal tentacle": [
               12006,
               26484
@@ -82787,9 +82769,6 @@
             ],
             "Darklight": [
               6746
-            ],
-            "Osmumten's fang": [
-              26219
             ]
           },
           {

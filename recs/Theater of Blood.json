@@ -872,26 +872,26 @@
           22481,
           22323
         ],
-        "Trident of the swamp": [
-          12900,
-          12899
-        ],
-        "Toxic staff of the dead": [
-          12902,
-          12904
+        "Staff of the dead": [
+          11791
         ]
       },
       {
-        "Trident of the seas": [
-          11908,
-          11907,
-          11905
+        "Trident of the swamp": [
+          12900,
+          12899
         ],
         "Ancient sceptre": [
           27624,
           27626,
           33827,
           33829
+        ],
+        "Dragon hunter wand": [
+          30070
+        ],
+        "Master wand": [
+          6914
         ]
       }
     ],
