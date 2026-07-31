@@ -1,0 +1,840 @@
+[
+  {
+    "name": "Melee",
+    "head": [
+      {
+        "Inquisitor's great helm": [
+          24419
+        ]
+      },
+      {
+        "Torva full helm": [
+          26376,
+          26382,
+          28254
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ],
+        "Oathplate helm": [
+          30750,
+          30777
+        ]
+      },
+      {
+        "Serpentine helm": [
+          12929,
+          12931
+        ],
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ]
+      },
+      {
+        "Helm of neitiznot": [
+          10828
+        ],
+        "Zombie helmet": [
+          30321
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of strength": [
+          1725
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224,
+          33500,
+          33502
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ],
+        "Mythical cape": [
+          22114
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Inquisitor's hauberk": [
+          24420
+        ]
+      },
+      {
+        "Torva platebody": [
+          26378,
+          26384,
+          28256
+        ]
+      },
+      {
+        "Oathplate chest": [
+          30753,
+          30779
+        ],
+        "Bandos chestplate": [
+          11832
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Inquisitor's plateskirt": [
+          24421
+        ]
+      },
+      {
+        "Torva platelegs": [
+          26380,
+          26386,
+          28258
+        ]
+      },
+      {
+        "Oathplate legs": [
+          30756,
+          30781
+        ],
+        "Bandos tassets": [
+          11834
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Granite hammer": [
+          21742
+        ],
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Inquisitor's mace": [
+          24417
+        ],
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ],
+        "Noxious halberd": [
+          29796
+        ],
+        "Abyssal bludgeon": [
+          13263
+        ]
+      },
+      {
+        "Dual macuahuitl": [
+          28997
+        ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840,
+          28055
+        ],
+        "Spiked manacles": [
+          23389
+        ]
+      },
+      {
+        "Mixed hide boots": [
+          29286
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Steel ring": [
+          30895
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Crimson kisten": [
+          33631
+        ]
+      },
+      {
+        "Elder maul": [
+          21003
+        ]
+      },
+      {
+        "Bandos godsword": [
+          11804
+        ],
+        "Dragon warhammer": [
+          13576,
+          28035
+        ],
+        "Voidwaker": [
+          27690
+        ],
+        "Ancient godsword": [
+          26233
+        ]
+      },
+      {
+        "Dragon mace": [
+          1434,
+          28027
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Melee (Low level)",
+    "head": [
+      {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ]
+      },
+      {
+        "Helm of neitiznot": [
+          10828
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of strength": [
+          1725
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ],
+        "Mythical cape": [
+          22114
+        ]
+      },
+      {
+        "Mixed hide cape": [
+          29289
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ],
+        "Fighter torso": [
+          10551,
+          20513,
+          24175,
+          33520,
+          33522
+        ]
+      },
+      {
+        "Torag's platebody": [
+          4749,
+          4964,
+          4965,
+          4966,
+          4967,
+          4968
+        ],
+        "Proselyte hauberk": [
+          9674
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
+        "Verac's plateskirt": [
+          4759,
+          4994,
+          4995,
+          4996,
+          4997,
+          4998
+        ],
+        "Proselyte cuisse": [
+          9676,
+          9678
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Granite hammer": [
+          21742
+        ],
+        "Dual macuahuitl": [
+          28997
+        ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ]
+      },
+      {
+        "Dragon mace": [
+          1434,
+          28027
+        ],
+        "Barronite mace": [
+          25641,
+          25625,
+          25643
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Dragon boots": [
+          11840,
+          28055
+        ]
+      },
+      {
+        "Mixed hide boots": [
+          29286
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Bandos godsword": [
+          11804
+        ],
+        "Dragon warhammer": [
+          13576,
+          28035
+        ]
+      },
+      {
+        "Dragon mace": [
+          1434,
+          28027
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Melee (Low level)",
+    "head": [
+      {
+        "Mitre": [
+          10452,
+          10454,
+          10456,
+          12259,
+          12271,
+          12203
+        ]
+      },
+      {
+        "Halo": [
+          24201,
+          24153,
+          24203,
+          24192,
+          24147,
+          24194,
+          24195,
+          24149,
+          24197,
+          24204,
+          24155,
+          24206,
+          12639,
+          20541,
+          24171,
+          12637,
+          20537,
+          24169,
+          24198,
+          24151,
+          24200,
+          12638,
+          20539,
+          24170
+        ]
+      },
+      {
+        "Ancient ceremonial mask": [
+          26225
+        ]
+      },
+      {
+        "Zealot's helm": [
+          25438
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ],
+        "Amulet of strength": [
+          1725
+        ]
+      },
+      {
+        "Amulet of glory": [
+          1704,
+          1706,
+          1708,
+          1710,
+          1712,
+          11976,
+          11978
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224,
+          33500,
+          33502
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Zealot's robe top": [
+          25434
+        ]
+      },
+      {
+        "Vestment robe top": [
+          10458,
+          10462,
+          10460,
+          12253,
+          12265,
+          12193
+        ],
+        "Monk's robe top": [
+          544
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Fremennik kilt": [
+          23246
+        ],
+        "Zealot's robe bottom": [
+          25436
+        ]
+      },
+      {
+        "Vestment robe legs": [
+          10464,
+          10466,
+          10468,
+          12255,
+          12267,
+          12195
+        ],
+        "Monk's robe": [
+          542
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Granite hammer": [
+          21742
+        ]
+      },
+      {
+        "Inquisitor's mace": [
+          24417
+        ],
+        "Scythe of vitur": [
+          22486,
+          22325
+        ],
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Abyssal bludgeon": [
+          13263
+        ],
+        "Elder maul": [
+          21003
+        ],
+        "Noxious halberd": [
+          29796
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ],
+        "Sarachnis cudgel": [
+          23528
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Antler guard": [
+          31081
+        ]
+      },
+      {
+        "Book of war": [
+          12608
+        ]
+      },
+      {
+        "Mooleta": [
+          33101
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Regen bracelet": [
+          11133
+        ]
+      },
+      {
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
+        ],
+        "Mithril gloves": [
+          7458
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Aranea boots": [
+          29806
+        ]
+      },
+      {
+        "Spiked manacles": [
+          23389
+        ]
+      },
+      {
+        "Climbing boots": [
+          3105
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ],
+        "Bellator ring": [
+          28316
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ],
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Crimson kisten": [
+          33631
+        ]
+      },
+      {
+        "Elder maul": [
+          21003
+        ],
+        "Bandos godsword": [
+          11804
+        ],
+        "Dragon warhammer": [
+          13576,
+          28035
+        ]
+      },
+      {
+        "Saradomin godsword": [
+          11806
+        ],
+        "Ancient godsword": [
+          26233
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
+        ]
+      }
+    ]
+  }
+]
