@@ -259,9 +259,6 @@
       {
         "Voidwaker": [
           27690
-        ],
-        "Saradomin godsword": [
-          11806
         ]
       },
       {
@@ -281,6 +278,53 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Husks and Parasites",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Hallowfell": [
+          34027
+        ],
+        "Dinh's bulwark": [
+          21015
+        ],
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Ham joint": [
+          23360
+        ],
+        "Goblin paint cannon": [
+          12727
+        ],
+        "Zombie axe": [
+          28810
+        ]
+      },
+      {
+        "Saradomin godsword": [
+          11806
+        ],
+        "Dragon 2h sword": [
+          7158,
+          28051
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
   },
   {
     "name": "Mage",

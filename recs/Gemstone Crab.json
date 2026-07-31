@@ -155,6 +155,9 @@
         ],
         "Colossal blade": [
           27021
+        ],
+        "Staff of light": [
+          22296
         ]
       },
       {
@@ -329,306 +332,6 @@
           28021,
           28023,
           28025
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Melee",
-    "head": [
-      {
-        "Dharok's helm": [
-          4716,
-          4880,
-          4881,
-          4882,
-          4883,
-          4884
-        ]
-      }
-    ],
-    "neck": [
-      {
-        "Amulet of rancour": [
-          29801
-        ]
-      },
-      {
-        "Amulet of torture": [
-          19553
-        ]
-      },
-      {
-        "Amulet of strength": [
-          1725
-        ]
-      }
-    ],
-    "cape": [
-      {
-        "Infernal cape": [
-          21295,
-          21287,
-          24224,
-          33500,
-          33502
-        ]
-      },
-      {
-        "Fire cape": [
-          6570,
-          20445,
-          24223
-        ]
-      },
-      {
-        "Mixed hide cape": [
-          29289
-        ],
-        "Mythical cape": [
-          22114
-        ]
-      },
-      {
-        "Soul cape": [
-          25344,
-          25346
-        ],
-        "Ardougne cloak 4": [
-          13124
-        ]
-      },
-      {
-        "Strength cape(t)": [
-          9750,
-          9751
-        ]
-      }
-    ],
-    "body": [
-      {
-        "Dharok's platebody": [
-          4720,
-          4892,
-          4893,
-          4894,
-          4895,
-          4896
-        ]
-      }
-    ],
-    "legs": [
-      {
-        "Dharok's platelegs": [
-          4722,
-          4898,
-          4899,
-          4900,
-          4901,
-          4902
-        ]
-      }
-    ],
-    "weapon": [
-      {
-        "Dharok's greataxe": [
-          4718,
-          4886,
-          4887,
-          4888,
-          4889,
-          4890
-        ]
-      }
-    ],
-    "shield": [],
-    "ammo": [
-      {
-        "Rada's blessing 4": [
-          22947
-        ]
-      },
-      {
-        "God blessing": [
-          20220,
-          20223,
-          20226,
-          20229,
-          20232,
-          20235
-        ]
-      }
-    ],
-    "hands": [
-      {
-        "Ferocious gloves": [
-          22981
-        ]
-      },
-      {
-        "Barrows gloves": [
-          7462
-        ],
-        "Rune gloves": [
-          7460
-        ]
-      },
-      {
-        "Regen bracelet": [
-          11133
-        ],
-        "Granite gloves": [
-          21736
-        ]
-      },
-      {
-        "Combat bracelet": [
-          11126,
-          11124,
-          11122,
-          11120,
-          11118,
-          11974,
-          11972
-        ],
-        "Shayzien gloves (5)": [
-          13377
-        ]
-      },
-      {
-        "Red spiky vambraces": [
-          10083
-        ],
-        "Steel gauntlets": [
-          778
-        ]
-      }
-    ],
-    "feet": [
-      {
-        "Avernic treads (max)": [
-          31097
-        ]
-      },
-      {
-        "Primordial boots": [
-          13239
-        ]
-      },
-      {
-        "Dragon boots": [
-          11840,
-          28055
-        ]
-      },
-      {
-        "Guardian boots": [
-          21733
-        ],
-        "Echo boots": [
-          28945
-        ]
-      },
-      {
-        "Mixed hide boots": [
-          29286
-        ],
-        "Climbing boots": [
-          3105
-        ]
-      }
-    ],
-    "ring": [
-      {
-        "Ultor ring": [
-          28307
-        ]
-      },
-      {
-        "Berserker ring (i)": [
-          11773,
-          25264,
-          26770
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
-        ]
-      },
-      {
-        "Ring of shadows": [
-          28329,
-          28327
-        ],
-        "Ring of the gods (i)": [
-          13202,
-          25252,
-          26764
-        ]
-      },
-      {
-        "Lightbearer": [
-          25975
-        ]
-      }
-    ],
-    "special": [
-      {
-        "Dragon dagger": [
-          1215,
-          1231,
-          5680,
-          5698,
-          28019,
-          28021,
-          28023,
-          28025
-        ],
-        "Dragon claws": [
-          13652,
-          26708,
-          28039
-        ]
-      },
-      {
-        "Burning claws": [
-          29577
-        ],
-        "Abyssal dagger": [
-          13265,
-          13267,
-          13269,
-          13271,
-          27861,
-          27863,
-          27865,
-          27867
-        ]
-      },
-      {
-        "Dragon battleaxe": [
-          1377,
-          28037
-        ]
-      },
-      {
-        "Crystal halberd": [
-          23987,
-          23989,
-          24125
-        ],
-        "Dragon halberd": [
-          3204,
-          28049
-        ]
-      },
-      {
-        "Ancient mace": [
-          11061
-        ],
-        "Saradomin godsword": [
-          11806
         ]
       }
     ]
@@ -1284,6 +987,306 @@
     ]
   },
   {
+    "name": "Melee",
+    "head": [
+      {
+        "Dharok's helm": [
+          4716,
+          4880,
+          4881,
+          4882,
+          4883,
+          4884
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of strength": [
+          1725
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224,
+          33500,
+          33502
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Mixed hide cape": [
+          29289
+        ],
+        "Mythical cape": [
+          22114
+        ]
+      },
+      {
+        "Soul cape": [
+          25344,
+          25346
+        ],
+        "Ardougne cloak 4": [
+          13124
+        ]
+      },
+      {
+        "Strength cape(t)": [
+          9750,
+          9751
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Dharok's platebody": [
+          4720,
+          4892,
+          4893,
+          4894,
+          4895,
+          4896
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Dharok's platelegs": [
+          4722,
+          4898,
+          4899,
+          4900,
+          4901,
+          4902
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Dharok's greataxe": [
+          4718,
+          4886,
+          4887,
+          4888,
+          4889,
+          4890
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ],
+        "Rune gloves": [
+          7460
+        ]
+      },
+      {
+        "Regen bracelet": [
+          11133
+        ],
+        "Granite gloves": [
+          21736
+        ]
+      },
+      {
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
+        ],
+        "Shayzien gloves (5)": [
+          13377
+        ]
+      },
+      {
+        "Red spiky vambraces": [
+          10083
+        ],
+        "Steel gauntlets": [
+          778
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840,
+          28055
+        ]
+      },
+      {
+        "Guardian boots": [
+          21733
+        ],
+        "Echo boots": [
+          28945
+        ]
+      },
+      {
+        "Mixed hide boots": [
+          29286
+        ],
+        "Climbing boots": [
+          3105
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ],
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698,
+          28019,
+          28021,
+          28023,
+          28025
+        ],
+        "Dragon claws": [
+          13652,
+          26708,
+          28039
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ],
+        "Abyssal dagger": [
+          13265,
+          13267,
+          13269,
+          13271,
+          27861,
+          27863,
+          27865,
+          27867
+        ]
+      },
+      {
+        "Dragon battleaxe": [
+          1377,
+          28037
+        ]
+      },
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ],
+        "Dragon halberd": [
+          3204,
+          28049
+        ]
+      },
+      {
+        "Ancient mace": [
+          11061
+        ],
+        "Saradomin godsword": [
+          11806
+        ]
+      }
+    ]
+  },
+  {
     "name": "Ranged",
     "head": [
       {
@@ -1688,6 +1691,9 @@
         ]
       },
       {
+        "Amulet of torture": [
+          19553
+        ],
         "Amulet of strength": [
           1725
         ]

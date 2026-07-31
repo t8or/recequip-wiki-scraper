@@ -296,13 +296,11 @@
     ],
     "feet": [
       {
-        "Echo boots": [
-          28945
-        ]
-      },
-      {
         "Avernic treads (max)": [
           31097
+        ],
+        "Echo boots": [
+          28945
         ]
       },
       {

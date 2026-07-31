@@ -618,12 +618,12 @@
     ],
     "weapon": [
       {
-        "Dragon hunter lance": [
-          22978
-        ],
         "Scythe of vitur": [
           22486,
           22325
+        ],
+        "Dragon hunter lance": [
+          22978
         ]
       },
       {
@@ -771,11 +771,11 @@
     ],
     "ring": [
       {
-        "Lightbearer": [
-          25975
-        ],
         "Ultor ring": [
           28307
+        ],
+        "Lightbearer": [
+          25975
         ]
       },
       {
@@ -800,37 +800,12 @@
           28329,
           28327
         ]
-      },
-      {
-        "Ring of the gods (i)": [
-          13202,
-          25252,
-          26764
-        ]
       }
     ],
     "special": [
       {
         "Bandos godsword": [
           11804
-        ],
-        "Burning claws": [
-          29577
-        ]
-      },
-      {
-        "Dragon claws": [
-          13652,
-          26708,
-          28039
-        ]
-      },
-      {
-        "Voidwaker": [
-          27690
-        ],
-        "Saradomin godsword": [
-          11806
         ]
       },
       {
@@ -843,6 +818,33 @@
         ]
       },
       {
+        "Dragon claws": [
+          13652,
+          26708,
+          28039
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Crimson kisten": [
+          33631
+        ],
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Bone dagger": [
+          8872,
+          8874,
+          8876,
+          8878
+        ],
+        "Arkan blade": [
+          30955
+        ],
         "Dragon dagger": [
           1215,
           1231,
@@ -852,16 +854,6 @@
           28021,
           28023,
           28025
-        ],
-        "Abyssal dagger": [
-          13265,
-          13267,
-          13269,
-          13271,
-          27861,
-          27863,
-          27865,
-          27867
         ]
       }
     ]
