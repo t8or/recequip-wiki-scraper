@@ -700,24 +700,21 @@
         ]
       },
       {
-        "Voidwaker": [
-          27690
-        ]
-      },
-      {
         "Burning claws": [
           29577
         ]
       },
       {
-        "Elder maul": [
-          21003
+        "Voidwaker": [
+          27690
         ]
       },
       {
-        "Dragon warhammer": [
-          13576,
-          28035
+        "Arkan blade": [
+          30955
+        ],
+        "Elder maul": [
+          21003
         ],
         "Dragon dagger": [
           1215,
@@ -728,6 +725,11 @@
           28021,
           28023,
           28025
+        ]
+      },
+      {
+        "Bandos godsword": [
+          11804
         ]
       }
     ]

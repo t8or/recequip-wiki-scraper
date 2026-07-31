@@ -444,13 +444,13 @@
     ],
     "special": [
       {
-        "Burning claws": [
-          29577
-        ],
         "Dragon claws": [
           13652,
           26708,
           28039
+        ],
+        "Burning claws": [
+          29577
         ]
       },
       {
@@ -467,15 +467,15 @@
         ]
       },
       {
+        "Emberlight": [
+          29589
+        ],
         "Dragon warhammer": [
           13576,
           28035
         ]
       },
       {
-        "Emberlight": [
-          29589
-        ],
         "Arclight": [
           30305,
           19675

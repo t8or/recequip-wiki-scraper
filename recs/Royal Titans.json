@@ -1043,21 +1043,36 @@
     ],
     "special": [
       {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
         "Dragon claws": [
           13652,
           26708,
           28039
-        ]
-      },
-      {
-        "Burning claws": [
-          29577
         ],
         "Crimson kisten": [
           33631
         ]
       },
       {
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Dragon dagger": [
+          1215,
+          1231,
+          5680,
+          5698,
+          28019,
+          28021,
+          28023,
+          28025
+        ],
         "Voidwaker": [
           27690
         ]

@@ -422,32 +422,17 @@
       {
         "Burning claws": [
           29577
+        ],
+        "Voidwaker": [
+          27690
         ]
       },
       {
-        "Voidwaker": [
-          27690
-        ],
         "Bandos godsword": [
           11804
         ]
       },
       {
-        "Elder maul": [
-          21003
-        ],
-        "Dragon warhammer": [
-          13576,
-          28035
-        ],
-        "Emberlight": [
-          29589
-        ]
-      },
-      {
-        "Saradomin godsword": [
-          11806
-        ],
         "Dragon dagger": [
           1215,
           1231,
@@ -457,6 +442,18 @@
           28021,
           28023,
           28025
+        ],
+        "Elder maul": [
+          21003
+        ]
+      },
+      {
+        "Saradomin godsword": [
+          11806
+        ],
+        "Dragon warhammer": [
+          13576,
+          28035
         ]
       }
     ]

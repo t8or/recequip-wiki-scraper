@@ -372,11 +372,6 @@
     ],
     "special": [
       {
-        "Burning claws": [
-          29577
-        ]
-      },
-      {
         "Dragon claws": [
           13652,
           26708,
@@ -384,6 +379,17 @@
         ]
       },
       {
+        "Crimson kisten": [
+          33631
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
+        ],
         "Dragon dagger": [
           1215,
           1231,
