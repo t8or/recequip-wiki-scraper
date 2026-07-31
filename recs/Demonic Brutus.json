@@ -1,0 +1,327 @@
+[
+  {
+    "name": "Melee",
+    "head": [
+      {
+        "Oathplate helm": [
+          30750,
+          30777
+        ],
+        "Torva full helm": [
+          26376,
+          26382,
+          28254
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ]
+      },
+      {
+        "Blood moon helm": [
+          29028,
+          29047,
+          29073
+        ]
+      },
+      {
+        "Void melee helm": [
+          11665,
+          20481,
+          24185,
+          33464,
+          33466,
+          26477,
+          27007
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224,
+          33500,
+          33502
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      },
+      {
+        "Mythical cape": [
+          22114
+        ]
+      },
+      {
+        "Mixed hide cape": [
+          29289
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Oathplate chest": [
+          30753,
+          30779
+        ],
+        "Torva platebody": [
+          26378,
+          26384,
+          28256
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ]
+      },
+      {
+        "Blood moon chestplate": [
+          29022,
+          29043,
+          29067
+        ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178,
+          33480,
+          33482,
+          8839,
+          20465,
+          24177,
+          26463,
+          26469,
+          27000,
+          27003
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Oathplate legs": [
+          30756,
+          30781
+        ],
+        "Torva platelegs": [
+          26380,
+          26386,
+          28258
+        ]
+      },
+      {
+        "Bandos tassets": [
+          11834
+        ]
+      },
+      {
+        "Blood moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180,
+          33488,
+          33490,
+          8840,
+          20469,
+          24179,
+          26465,
+          26471,
+          27001,
+          27004
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Scythe of vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Noxious halberd": [
+          29796
+        ],
+        "Blade of saeldor": [
+          23997,
+          23995,
+          24551
+        ]
+      },
+      {
+        "Abyssal tentacle": [
+          12006,
+          26484
+        ],
+        "Zombie axe": [
+          28810
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ],
+        "Rada's blessing 3": [
+          22945
+        ],
+        "Rada's blessing 2": [
+          22943
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182,
+          33492,
+          33494,
+          26467,
+          27002
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840,
+          28055
+        ],
+        "Guardian boots": [
+          21733
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Bellator ring": [
+          28316
+        ],
+        "Ultor ring": [
+          28307
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      },
+      {
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Dragon claws": [
+          13652,
+          26708,
+          28039
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
+        ]
+      }
+    ]
+  }
+]

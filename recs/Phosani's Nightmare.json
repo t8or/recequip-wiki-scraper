@@ -280,7 +280,7 @@
     ]
   },
   {
-    "name": "Husks and Parasites",
+    "name": "Husks",
     "head": [],
     "neck": [],
     "cape": [],
@@ -293,9 +293,6 @@
         ],
         "Dinh's bulwark": [
           21015
-        ],
-        "Inquisitor's mace": [
-          24417
         ]
       },
       {
@@ -304,9 +301,6 @@
         ],
         "Goblin paint cannon": [
           12727
-        ],
-        "Zombie axe": [
-          28810
         ]
       },
       {
@@ -316,6 +310,40 @@
         "Dragon 2h sword": [
           7158,
           28051
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Parasites",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Hallowfell": [
+          34027
+        ],
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ]
+      },
+      {
+        "Saradomin godsword": [
+          11806
         ]
       }
     ],
