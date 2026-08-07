@@ -22122,9 +22122,6 @@
             ]
           },
           {
-            "Ghrazi rapier": [
-              22324
-            ],
             "Noxious halberd": [
               29796
             ],
@@ -22142,14 +22139,14 @@
               12773,
               12774,
               26482
-            ],
-            "Abyssal bludgeon": [
-              13263
             ]
           },
           {
             "Zamorakian hasta": [
               11889
+            ],
+            "Dual macuahuitl": [
+              28997
             ],
             "Dragon scimitar": [
               4587
@@ -28651,13 +28648,13 @@
             ]
           },
           {
+            "Twinflame staff": [
+              30634
+            ],
             "Trident of the seas": [
               11908,
               11907,
               11905
-            ],
-            "Twinflame staff": [
-              30634
             ]
           },
           {
@@ -32173,9 +32170,7 @@
               25862,
               25865,
               25867
-            ]
-          },
-          {
+            ],
             "Toxic blowpipe": [
               12924,
               12926
@@ -32184,7 +32179,9 @@
           {
             "Zaryte crossbow": [
               26374
-            ],
+            ]
+          },
+          {
             "Armadyl crossbow": [
               11785
             ],
@@ -49648,27 +49645,7 @@
           {
             "Warm clothing#Ring slot": [
               26815,
-              26818,
-              12891,
-              12896,
-              13182,
-              19695,
-              20710,
-              11019,
-              20433,
-              26310,
-              23285,
-              33002,
-              23291,
-              23294,
-              23288,
-              27806,
-              27808,
-              33093,
-              33096,
-              33097,
-              33098,
-              33099
+              26818
             ],
             "Ring of life": [
               2570
@@ -54419,6 +54396,11 @@
         ],
         "shield": [],
         "ammo": [
+          {
+            "Seeking dragon arrow": [
+              33595
+            ]
+          },
           {
             "Dragon arrow": [
               11212,
@@ -60283,6 +60265,9 @@
           {
             "Unholy symbol": [
               1724
+            ],
+            "Holy symbol": [
+              1718
             ]
           }
         ],
@@ -63745,17 +63730,17 @@
             "Granite hammer": [
               21742
             ],
-            "Scythe of vitur": [
-              22486,
-              22325
+            "Soulreaper axe": [
+              28338
             ]
           },
           {
             "Inquisitor's mace": [
               24417
             ],
-            "Soulreaper axe": [
-              28338
+            "Scythe of vitur": [
+              22486,
+              22325
             ]
           },
           {
@@ -63825,6 +63810,21 @@
           {
             "Barrows gloves": [
               7462
+            ]
+          },
+          {
+            "Dragon gloves": [
+              7461
+            ]
+          },
+          {
+            "Rune gloves": [
+              7460
+            ]
+          },
+          {
+            "Adamant gloves": [
+              7459
             ]
           }
         ],
@@ -64039,11 +64039,6 @@
             "Dragon mace": [
               1434,
               28027
-            ],
-            "Barronite mace": [
-              25641,
-              25625,
-              25643
             ]
           }
         ],
@@ -64077,6 +64072,16 @@
           {
             "Barrows gloves": [
               7462
+            ]
+          },
+          {
+            "Dragon gloves": [
+              7461
+            ]
+          },
+          {
+            "Rune gloves": [
+              7460
             ]
           }
         ],
@@ -64129,7 +64134,7 @@
         ]
       },
       {
-        "name": "Melee (Low level)",
+        "name": "Melee (1 Defence Pure)",
         "head": [
           {
             "Mitre": [
@@ -64288,9 +64293,15 @@
             ],
             "Soulreaper axe": [
               28338
+            ],
+            "Osmumten's fang": [
+              26219
             ]
           },
           {
+            "Ghrazi rapier": [
+              22324
+            ],
             "Abyssal bludgeon": [
               13263
             ],
@@ -77412,8 +77423,18 @@
             ]
           },
           {
+            "Abyssal tentacle": [
+              12006,
+              26484
+            ],
             "Zamorakian hasta": [
               11889
+            ],
+            "Abyssal whip": [
+              4151,
+              12773,
+              12774,
+              26482
             ]
           }
         ],
@@ -77813,8 +77834,18 @@
             ]
           },
           {
+            "Abyssal tentacle": [
+              12006,
+              26484
+            ],
             "Zamorakian hasta": [
               11889
+            ],
+            "Abyssal whip": [
+              4151,
+              12773,
+              12774,
+              26482
             ]
           }
         ],
@@ -77979,6 +78010,9 @@
               13652,
               26708,
               28039
+            ],
+            "Burning claws": [
+              29577
             ]
           },
           {
@@ -79168,6 +79202,11 @@
         ],
         "weapon": [
           {
+            "Hallowfell": [
+              34027
+            ]
+          },
+          {
             "Ghrazi rapier": [
               22324
             ],
@@ -79346,6 +79385,13 @@
           }
         ],
         "special": [
+          {
+            "Crystal halberd": [
+              23987,
+              23989,
+              24125
+            ]
+          },
           {
             "Saradomin godsword": [
               11806
@@ -81986,6 +82032,9 @@
             ],
             "Obsidian helmet": [
               21298
+            ],
+            "Zombie helmet": [
+              30321
             ]
           },
           {
@@ -86623,9 +86672,7 @@
           {
             "Voidwaker": [
               27690
-            ]
-          },
-          {
+            ],
             "Saradomin godsword": [
               11806
             ]
@@ -86812,6 +86859,9 @@
             ]
           },
           {
+            "Master wand": [
+              6914
+            ],
             "Ahrim's staff": [
               4710,
               4862,

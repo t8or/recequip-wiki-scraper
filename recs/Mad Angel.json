@@ -137,17 +137,17 @@
         "Granite hammer": [
           21742
         ],
-        "Scythe of vitur": [
-          22486,
-          22325
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
         "Inquisitor's mace": [
           24417
         ],
-        "Soulreaper axe": [
-          28338
+        "Scythe of vitur": [
+          22486,
+          22325
         ]
       },
       {
@@ -217,6 +217,21 @@
       {
         "Barrows gloves": [
           7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ]
+      },
+      {
+        "Rune gloves": [
+          7460
+        ]
+      },
+      {
+        "Adamant gloves": [
+          7459
         ]
       }
     ],
@@ -431,11 +446,6 @@
         "Dragon mace": [
           1434,
           28027
-        ],
-        "Barronite mace": [
-          25641,
-          25625,
-          25643
         ]
       }
     ],
@@ -469,6 +479,16 @@
       {
         "Barrows gloves": [
           7462
+        ]
+      },
+      {
+        "Dragon gloves": [
+          7461
+        ]
+      },
+      {
+        "Rune gloves": [
+          7460
         ]
       }
     ],
@@ -521,7 +541,7 @@
     ]
   },
   {
-    "name": "Melee (Low level)",
+    "name": "Melee (1 Defence Pure)",
     "head": [
       {
         "Mitre": [
@@ -680,9 +700,15 @@
         ],
         "Soulreaper axe": [
           28338
+        ],
+        "Osmumten's fang": [
+          26219
         ]
       },
       {
+        "Ghrazi rapier": [
+          22324
+        ],
         "Abyssal bludgeon": [
           13263
         ],
