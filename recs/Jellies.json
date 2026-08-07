@@ -272,6 +272,11 @@
     ],
     "weapon": [
       {
+        "Hallowfell": [
+          34027
+        ]
+      },
+      {
         "Ghrazi rapier": [
           22324
         ],
@@ -450,6 +455,13 @@
       }
     ],
     "special": [
+      {
+        "Crystal halberd": [
+          23987,
+          23989,
+          24125
+        ]
+      },
       {
         "Saradomin godsword": [
           11806
