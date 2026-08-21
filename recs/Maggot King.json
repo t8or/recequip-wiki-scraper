@@ -116,7 +116,7 @@
     ],
     "weapon": [
       {
-        "Harmonised nightmare staff": [
+        "Harmonised Nightmare staff": [
           24423
         ]
       },
@@ -142,17 +142,17 @@
           12902,
           12904
         ],
-        "Volatile nightmare staff": [
+        "Volatile Nightmare staff": [
           24424
         ],
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
         ]
       }
     ],
     "shield": [
       {
-        "Tome of fire": [
+        "Tome of Fire": [
           20716,
           20714
         ]
@@ -214,11 +214,6 @@
       {
         "Magus ring": [
           28313
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
         ]
       }
     ],
@@ -348,22 +343,6 @@
           29031,
           29049
         ]
-      },
-      {
-        "Void knight top": [
-          8839,
-          20465,
-          24177,
-          33476,
-          33478,
-          13072,
-          20467,
-          24178,
-          26463,
-          26469,
-          27000,
-          27003
-        ]
       }
     ],
     "legs": [
@@ -396,22 +375,6 @@
           29007,
           29033,
           29052
-        ]
-      },
-      {
-        "Void knight robe": [
-          8840,
-          20469,
-          24179,
-          33484,
-          33486,
-          13073,
-          20471,
-          24180,
-          26465,
-          26471,
-          27001,
-          27004
         ]
       }
     ],
@@ -531,11 +494,6 @@
       {
         "Venator ring": [
           28310
-        ]
-      },
-      {
-        "Brimstone ring": [
-          22975
         ]
       }
     ],
@@ -762,7 +720,7 @@
         ]
       },
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ],
@@ -932,7 +890,7 @@
         ]
       },
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ],

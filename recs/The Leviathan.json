@@ -301,7 +301,10 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Twisted bow": [
+          20997
+        ],
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -351,6 +354,11 @@
       {
         "Ruby bolts (e)": [
           9242
+        ]
+      },
+      {
+        "Seeking dragon arrow": [
+          33595
         ]
       }
     ],
@@ -485,7 +493,7 @@
         ]
       },
       {
-        "Tonalztics of ralos": [
+        "Tonalztics of Ralos": [
           28919,
           28922
         ],
@@ -670,7 +678,7 @@
     ],
     "special": [
       {
-        "Volatile nightmare staff": [
+        "Volatile Nightmare staff": [
           24424
         ]
       },

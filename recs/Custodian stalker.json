@@ -220,7 +220,7 @@
         ]
       },
       {
-        "Book of law": [
+        "Book of Law": [
           12610
         ]
       },
@@ -682,13 +682,13 @@
         ]
       },
       {
-        "Book of darkness": [
+        "Book of Darkness": [
           12612
         ],
         "Antler guard": [
           31081
         ],
-        "Tome of water": [
+        "Tome of Water": [
           25576,
           25574
         ]
@@ -837,7 +837,7 @@
         ]
       },
       {
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
         ]
       },
@@ -1052,7 +1052,10 @@
     ],
     "weapon": [
       {
-        "Blade of saeldor": [
+        "Hallowfell": [
+          34027
+        ],
+        "Blade of Saeldor": [
           23997,
           23995,
           24551

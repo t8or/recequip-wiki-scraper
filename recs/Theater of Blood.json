@@ -242,7 +242,7 @@
     ],
     "weapon": [
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -316,6 +316,11 @@
       }
     ],
     "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
       {
         "Primordial boots": [
           13239
@@ -568,7 +573,7 @@
     ],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -577,7 +582,7 @@
         "Soulreaper axe": [
           28338
         ],
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -872,12 +877,12 @@
           22481,
           22323
         ],
-        "Staff of the dead": [
+        "Staff of the Dead": [
           11791
         ]
       },
       {
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ],
@@ -910,7 +915,7 @@
         ]
       },
       {
-        "Book of darkness": [
+        "Book of Darkness": [
           12612
         ]
       }
@@ -993,7 +998,7 @@
         "Elder maul": [
           21003
         ],
-        "Tonalztics of ralos": [
+        "Tonalztics of Ralos": [
           28919,
           28922
         ]
@@ -1219,7 +1224,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1241,7 +1246,7 @@
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -1268,13 +1273,13 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -1308,7 +1313,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1327,7 +1332,7 @@
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -1393,7 +1398,7 @@
         ]
       },
       {
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ]
@@ -1415,7 +1420,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1436,7 +1441,7 @@
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -1463,7 +1468,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1485,7 +1490,7 @@
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -1512,7 +1517,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1526,7 +1531,7 @@
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -1556,7 +1561,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1567,7 +1572,7 @@
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551

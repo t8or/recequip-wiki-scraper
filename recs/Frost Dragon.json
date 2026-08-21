@@ -388,6 +388,11 @@
         ]
       },
       {
+        "Crimson kisten": [
+          33631
+        ]
+      },
+      {
         "Dragon claws": [
           13652,
           26708,
@@ -680,7 +685,7 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -1104,7 +1109,7 @@
         "Dragon hunter wand": [
           30070
         ],
-        "Harmonised nightmare staff": [
+        "Harmonised Nightmare staff": [
           24423
         ]
       },
@@ -1128,7 +1133,7 @@
           22481,
           22323
         ],
-        "Trident of the seas": [
+        "Trident of the Seas": [
           11908,
           11907,
           11905
@@ -1156,7 +1161,7 @@
     ],
     "shield": [
       {
-        "Tome of fire": [
+        "Tome of Fire": [
           20716,
           20714
         ]
@@ -1311,7 +1316,7 @@
     ],
     "special": [
       {
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
         ]
       }

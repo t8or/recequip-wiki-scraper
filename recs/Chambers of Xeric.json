@@ -7,13 +7,13 @@
           26376,
           26382,
           28254
-        ]
-      },
-      {
+        ],
         "Oathplate helm": [
           30750,
           30777
-        ],
+        ]
+      },
+      {
         "Neitiznot faceguard": [
           24271
         ],
@@ -94,13 +94,13 @@
           26378,
           26384,
           28256
-        ]
-      },
-      {
+        ],
         "Oathplate chest": [
           30753,
           30779
-        ],
+        ]
+      },
+      {
         "Inquisitor's hauberk": [
           24420
         ],
@@ -141,13 +141,13 @@
           26380,
           26386,
           28258
-        ]
-      },
-      {
+        ],
         "Oathplate legs": [
           30756,
           30781
-        ],
+        ]
+      },
+      {
         "Inquisitor's plateskirt": [
           24421
         ]
@@ -177,7 +177,7 @@
     ],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -191,6 +191,14 @@
         ]
       },
       {
+        "Ghrazi rapier": [
+          22324
+        ],
+        "Blade of Saeldor": [
+          23997,
+          23995,
+          24551
+        ],
         "Dual macuahuitl": [
           28997
         ]
@@ -555,7 +563,7 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -827,13 +835,13 @@
           22481,
           22323
         ],
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ]
       },
       {
-        "Trident of the seas": [
+        "Trident of the Seas": [
           11908,
           11907,
           11905
@@ -850,11 +858,11 @@
           27251,
           27253
         ],
-        "Tome of earth": [
+        "Tome of Earth": [
           30066,
           30064
         ],
-        "Tome of fire": [
+        "Tome of Fire": [
           20716,
           20714
         ]
@@ -882,7 +890,7 @@
         ]
       },
       {
-        "Book of the dead": [
+        "Book of the Dead": [
           25818
         ]
       }
@@ -935,7 +943,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -989,12 +997,12 @@
         ]
       },
       {
-        "Harmonised nightmare staff": [
+        "Harmonised Nightmare staff": [
           24423
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -1093,7 +1101,7 @@
         ]
       },
       {
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ]
@@ -1115,7 +1123,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1169,7 +1177,7 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -1267,7 +1275,7 @@
           22481,
           22323
         ],
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ]
@@ -1320,7 +1328,7 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -1343,7 +1351,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1422,13 +1430,13 @@
         ]
       },
       {
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ]
       },
       {
-        "Trident of the seas": [
+        "Trident of the Seas": [
           11908,
           11907,
           11905
@@ -1465,7 +1473,7 @@
           12924,
           12926
         ],
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867

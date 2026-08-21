@@ -134,18 +134,18 @@
     ],
     "weapon": [
       {
-        "Granite hammer": [
-          21742
-        ],
         "Soulreaper axe": [
           28338
+        ],
+        "Granite hammer": [
+          21742
         ]
       },
       {
         "Inquisitor's mace": [
           24417
         ],
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -275,6 +275,33 @@
         ],
         "Lightbearer": [
           25975
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Berserker ring": [
+          6737
+        ],
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ],
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
         ]
       },
       {
@@ -429,20 +456,20 @@
       {
         "Granite hammer": [
           21742
-        ],
-        "Dual macuahuitl": [
-          28997
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
         ],
         "Zamorakian hasta": [
           11889
         ]
       },
       {
-        "Zombie axe": [
-          28810
-        ]
-      },
-      {
+        "Dual macuahuitl": [
+          28997
+        ],
         "Dragon mace": [
           1434,
           28027
@@ -514,6 +541,34 @@
         ],
         "Lightbearer": [
           25975
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Berserker ring": [
+          6737
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ],
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Steel ring": [
+          30895
         ]
       }
     ],
@@ -694,7 +749,7 @@
         "Inquisitor's mace": [
           24417
         ],
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ],
@@ -735,7 +790,7 @@
         ]
       },
       {
-        "Book of war": [
+        "Book of War": [
           12608
         ]
       },

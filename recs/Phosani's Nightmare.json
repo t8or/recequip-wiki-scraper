@@ -130,7 +130,7 @@
     ],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ],
@@ -304,12 +304,14 @@
         ]
       },
       {
-        "Saradomin godsword": [
-          11806
-        ],
         "Dragon 2h sword": [
           7158,
           28051
+        ]
+      },
+      {
+        "Inquisitor's mace": [
+          24417
         ]
       }
     ],
@@ -329,9 +331,6 @@
     "legs": [],
     "weapon": [
       {
-        "Hallowfell": [
-          34027
-        ],
         "Inquisitor's mace": [
           24417
         ]
@@ -432,7 +431,7 @@
         ]
       },
       {
-        "Harmonised nightmare staff": [
+        "Harmonised Nightmare staff": [
           24423
         ]
       },
@@ -441,7 +440,7 @@
           22481,
           22323
         ],
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ]
@@ -449,7 +448,7 @@
     ],
     "shield": [
       {
-        "Tome of fire": [
+        "Tome of Fire": [
           20716,
           20714
         ]

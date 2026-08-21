@@ -576,7 +576,7 @@
     ],
     "shield": [
       {
-        "Book of law": [
+        "Book of Law": [
           12610
         ]
       },
@@ -842,7 +842,7 @@
         ]
       },
       {
-        "Trident of the seas": [
+        "Trident of the Seas": [
           11908,
           11907,
           11905
@@ -873,7 +873,7 @@
         ]
       },
       {
-        "Book of darkness": [
+        "Book of Darkness": [
           12612
         ]
       },
@@ -1162,7 +1162,7 @@
     ],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1181,7 +1181,7 @@
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -1346,16 +1346,19 @@
     ],
     "special": [
       {
-        "Burning claws": [
-          29577
-        ],
         "Dragon claws": [
           13652,
           26708,
           28039
+        ],
+        "Crimson kisten": [
+          33631
         ]
       },
       {
+        "Burning claws": [
+          29577
+        ],
         "Dragon dagger": [
           1215,
           1231,
@@ -1370,6 +1373,9 @@
       {
         "Voidwaker": [
           27690
+        ],
+        "Arkan blade": [
+          30955
         ]
       },
       {
@@ -1912,16 +1918,16 @@
         ]
       },
       {
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ],
-        "Harmonised nightmare staff": [
+        "Harmonised Nightmare staff": [
           24423
         ]
       },
       {
-        "Trident of the seas": [
+        "Trident of the Seas": [
           11908,
           11907,
           11905

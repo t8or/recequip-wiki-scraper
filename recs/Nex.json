@@ -295,11 +295,6 @@
     ],
     "neck": [
       {
-        "Amulet of blood fury": [
-          24780
-        ]
-      },
-      {
         "Amulet of rancour": [
           29801
         ]
@@ -307,6 +302,11 @@
       {
         "Amulet of torture": [
           19553
+        ]
+      },
+      {
+        "Amulet of blood fury": [
+          24780
         ]
       }
     ],
@@ -325,12 +325,6 @@
           6570,
           20445,
           24223
-        ]
-      },
-      {
-        "Max cape": [
-          13280,
-          13342
         ]
       }
     ],
@@ -415,9 +409,7 @@
       {
         "Seeking dragon arrow": [
           33595
-        ]
-      },
-      {
+        ],
         "Ruby dragon bolts (e)": [
           21944
         ]
@@ -464,9 +456,6 @@
         ]
       },
       {
-        "Brimstone ring": [
-          22975
-        ],
         "Berserker ring (i)": [
           11773,
           25264,
