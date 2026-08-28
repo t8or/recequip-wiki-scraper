@@ -165,6 +165,11 @@
         ]
       },
       {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
         "Elite void top": [
           13072,
           20467,
@@ -228,6 +233,11 @@
         ]
       },
       {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
         "Elite void robe": [
           13073,
           20471,
@@ -256,7 +266,7 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -425,7 +435,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -989,7 +999,7 @@
         ]
       },
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -1174,7 +1184,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -1632,7 +1642,7 @@
     ],
     "cape": [
       {
-        "Imbued zamorak cape": [
+        "Imbued Zamorak cape": [
           21795,
           24244,
           24250
@@ -1816,7 +1826,7 @@
     ],
     "special": [
       {
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
         ]
       }

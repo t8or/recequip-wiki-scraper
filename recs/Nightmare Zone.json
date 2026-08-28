@@ -16,7 +16,7 @@
         "Sunfire fanatic helm": [
           28933
         ],
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       },
@@ -292,7 +292,7 @@
         "Inquisitor's mace": [
           24417
         ],
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -553,7 +553,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -734,7 +734,7 @@
         "Inquisitor's mace": [
           24417
         ],
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -944,7 +944,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ],
         "Slayer helmet (i)": [
@@ -1151,21 +1151,33 @@
           12924,
           12926
         ],
-        "Amethyst dart": [
-          25849,
-          25851,
-          25855,
-          25857
-        ],
         "Adamant dart": [
           810,
           816,
           5633,
           5640
+        ],
+        "Rosewood blowpipe": [
+          31585,
+          31583
+        ],
+        "Rune dart": [
+          811,
+          817,
+          5634,
+          5641
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Rune knife": [
+          868,
+          876,
+          5660,
+          5667
+        ]
+      },
+      {
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -1174,9 +1186,7 @@
       {
         "Hunters' sunlight crossbow": [
           28869
-        ]
-      },
-      {
+        ],
         "Magic shortbow (i)": [
           12788
         ]
@@ -1204,7 +1214,7 @@
           11284,
           11283
         ],
-        "Book of law": [
+        "Book of Law": [
           12610
         ]
       }
@@ -1359,7 +1369,22 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Rosewood blowpipe": [
+          31585,
+          31583
+        ]
+      },
+      {
+        "Dragon knife": [
+          22804,
+          22806,
+          22808,
+          22810
+        ]
+      }
+    ]
   },
   {
     "name": "Magic",
@@ -1734,7 +1759,7 @@
     ],
     "weapon": [
       {
-        "Harmonised nightmare staff": [
+        "Harmonised Nightmare staff": [
           24423
         ]
       },
@@ -1745,7 +1770,7 @@
         "Nightmare staff": [
           24422
         ],
-        "Staff of the dead": [
+        "Staff of the Dead": [
           11791
         ]
       },
@@ -1784,15 +1809,15 @@
     ],
     "shield": [
       {
-        "Tome of fire": [
+        "Tome of Fire": [
           20716,
           20714
         ],
-        "Tome of earth": [
+        "Tome of Earth": [
           30066,
           30064
         ],
-        "Tome of water": [
+        "Tome of Water": [
           25576,
           25574
         ]
@@ -1826,7 +1851,7 @@
         ]
       },
       {
-        "Book of darkness": [
+        "Book of Darkness": [
           12612
         ]
       }
@@ -1901,7 +1926,7 @@
         ]
       },
       {
-        "Boots of brimstone": [
+        "Boots of Brimstone": [
           22951
         ]
       },
@@ -1953,12 +1978,12 @@
     ],
     "special": [
       {
-        "Volatile nightmare staff": [
+        "Volatile Nightmare staff": [
           24424
         ]
       },
       {
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
         ]
       },
@@ -2633,7 +2658,7 @@
         ]
       },
       {
-        "Book of law": [
+        "Book of Law": [
           12610
         ]
       },
@@ -2722,7 +2747,7 @@
         ]
       },
       {
-        "Boots of brimstone": [
+        "Boots of Brimstone": [
           22951
         ]
       }

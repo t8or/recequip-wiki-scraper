@@ -61,7 +61,7 @@
           29047,
           29073
         ],
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ],
         "Berserker helm": [
@@ -643,13 +643,13 @@
         "Ghrazi rapier": [
           22324
         ],
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
       },
       {
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -714,13 +714,18 @@
     "ring": [],
     "special": [
       {
-        "Voidwaker": [
-          27690
+        "Crimson kisten": [
+          33631
         ],
         "Crystal halberd": [
           23987,
           23989,
           24125
+        ]
+      },
+      {
+        "Voidwaker": [
+          27690
         ]
       },
       {
@@ -825,7 +830,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -898,13 +903,16 @@
         ]
       },
       {
-        "Voidwaker": [
-          27690
+        "Crimson kisten": [
+          33631
+        ],
+        "Burning claws": [
+          29577
         ]
       },
       {
-        "Burning claws": [
-          29577
+        "Voidwaker": [
+          27690
         ],
         "Dragon dagger": [
           1215,
@@ -934,7 +942,7 @@
     "legs": [],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ]
@@ -948,7 +956,7 @@
         "Noxious halberd": [
           29796
         ],
-        "Blade of saeldor": [
+        "Blade of Saeldor": [
           23997,
           23995,
           24551
@@ -1010,11 +1018,9 @@
         ]
       },
       {
-        "Voidwaker": [
-          27690
-        ]
-      },
-      {
+        "Crimson kisten": [
+          33631
+        ],
         "Dragon dagger": [
           1215,
           1231,
@@ -1024,9 +1030,14 @@
           28021,
           28023,
           28025
-        ],
+        ]
+      },
+      {
         "Burning claws": [
           29577
+        ],
+        "Voidwaker": [
+          27690
         ]
       },
       {
