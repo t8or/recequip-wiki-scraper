@@ -3,7 +3,7 @@
     "name": "Runecrafting",
     "head": [
       {
-        "Hat of the eye": [
+        "Hat of the Eye": [
           26850,
           26858,
           26864,
@@ -78,7 +78,7 @@
     ],
     "body": [
       {
-        "Robe top of the eye": [
+        "Robe top of the Eye": [
           26852,
           26860,
           26866,
@@ -102,7 +102,7 @@
     ],
     "legs": [
       {
-        "Robe bottoms of the eye": [
+        "Robe bottoms of the Eye": [
           26854,
           26862,
           26868,
@@ -220,11 +220,11 @@
         ]
       },
       {
-        "Tome of fire": [
+        "Tome of Fire": [
           20716,
           20714
         ],
-        "Tome of water": [
+        "Tome of Water": [
           25576,
           25574
         ]
@@ -275,7 +275,7 @@
     ],
     "feet": [
       {
-        "Boots of the eye": [
+        "Boots of the Eye": [
           26856
         ]
       },

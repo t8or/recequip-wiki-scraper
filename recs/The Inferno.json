@@ -255,7 +255,7 @@
           33508,
           33510
         ],
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -309,11 +309,8 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Seeking dragon arrow": [
+          33595
         ],
         "Blessing": [
           20220,
@@ -335,6 +332,12 @@
         ]
       },
       {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
         "Amethyst arrow": [
           21326,
           21332,
@@ -441,7 +444,7 @@
           12924,
           12926
         ],
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
         ]
       }
@@ -585,7 +588,7 @@
           12902,
           12904
         ],
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -612,11 +615,8 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Seeking dragon arrow": [
+          33595
         ],
         "Rada's blessing 4": [
           22947
@@ -629,6 +629,12 @@
         ]
       },
       {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
         "Amethyst arrow": [
           21326,
           21332,
@@ -794,12 +800,29 @@
           27277,
           27275
         ],
-        "Eye of ayak": [
+        "Eye of Ayak": [
           31115,
           31113
         ],
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
+        ]
+      },
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ],
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ],
+        "Blood ancient sceptre": [
+          28260,
+          28238,
+          28473,
+          33504,
+          33506
         ]
       }
     ],
@@ -811,6 +834,9 @@
         ]
       },
       {
+        "Arcane spirit shield": [
+          12825
+        ],
         "Crystal shield": [
           23991,
           23993,
@@ -851,7 +877,7 @@
         ]
       },
       {
-        "Ring of suffering (i)": [
+        "Ring of suffering (ri)": [
           19710,
           20657,
           25246,
@@ -863,10 +889,10 @@
     ],
     "special": [
       {
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
         ],
-        "Eye of ayak": [
+        "Eye of Ayak": [
           31115,
           31113
         ]

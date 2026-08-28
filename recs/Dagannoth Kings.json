@@ -48,7 +48,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -102,7 +102,7 @@
           33500,
           33502
         ],
-        "Blessed dizana's quiver": [
+        "Blessed Dizana's quiver": [
           28955,
           28957,
           28828,
@@ -251,11 +251,11 @@
     ],
     "weapon": [
       {
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ],
-        "Eye of ayak": [
+        "Eye of Ayak": [
           31115,
           31113
         ],
@@ -264,7 +264,7 @@
         ]
       },
       {
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -278,7 +278,7 @@
           12006,
           26484
         ],
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ],
@@ -294,7 +294,7 @@
           12774,
           26482
         ],
-        "Trident of the seas": [
+        "Trident of the Seas": [
           11908,
           11907,
           11905
@@ -513,7 +513,7 @@
         ]
       },
       {
-        "Eldritch nightmare staff": [
+        "Eldritch Nightmare staff": [
           24425
         ]
       },
@@ -599,7 +599,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -616,7 +616,7 @@
         ]
       },
       {
-        "Amulet of the damned": [
+        "Amulet of the Damned": [
           12851,
           12853
         ]
@@ -923,7 +923,7 @@
     ],
     "weapon": [
       {
-        "Eye of ayak": [
+        "Eye of Ayak": [
           31115,
           31113
         ],
@@ -933,11 +933,11 @@
         ]
       },
       {
-        "Trident of the swamp": [
+        "Trident of the Swamp": [
           12900,
           12899
         ],
-        "Trident of the seas": [
+        "Trident of the Seas": [
           11908,
           11907,
           11905
@@ -1091,7 +1091,7 @@
         ]
       },
       {
-        "Boots of brimstone": [
+        "Boots of Brimstone": [
           22951
         ]
       },
@@ -1502,7 +1502,7 @@
         "Twisted bow": [
           20997
         ],
-        "Bow of faerdhinen": [
+        "Bow of Faerdhinen": [
           25862,
           25865,
           25867
@@ -1562,6 +1562,9 @@
         ]
       },
       {
+        "Dragon sq shield": [
+          1187
+        ],
         "Rune kiteshield": [
           1201
         ]
@@ -1671,7 +1674,7 @@
         ]
       },
       {
-        "Boots of brimstone": [
+        "Boots of Brimstone": [
           22951
         ]
       },

@@ -10,6 +10,9 @@
         ]
       },
       {
+        "Inquisitor's great helm": [
+          24419
+        ],
         "Neitiznot faceguard": [
           24271
         ]
@@ -18,9 +21,6 @@
         "Serpentine helm": [
           12929,
           12931
-        ],
-        "Inquisitor's great helm": [
-          24419
         ]
       },
       {
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -574,7 +574,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -838,7 +838,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -1095,7 +1095,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -1466,7 +1466,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }

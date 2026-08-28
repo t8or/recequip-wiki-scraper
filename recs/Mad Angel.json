@@ -12,15 +12,15 @@
           26376,
           26382,
           28254
+        ],
+        "Oathplate helm": [
+          30750,
+          30777
         ]
       },
       {
         "Neitiznot faceguard": [
           24271
-        ],
-        "Oathplate helm": [
-          30750,
-          30777
         ]
       },
       {
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ],
         "Zombie helmet": [
@@ -97,13 +97,13 @@
           26378,
           26384,
           28256
-        ]
-      },
-      {
+        ],
         "Oathplate chest": [
           30753,
           30779
-        ],
+        ]
+      },
+      {
         "Bandos chestplate": [
           11832
         ]
@@ -120,13 +120,13 @@
           26380,
           26386,
           28258
-        ]
-      },
-      {
+        ],
         "Oathplate legs": [
           30756,
           30781
-        ],
+        ]
+      },
+      {
         "Bandos tassets": [
           11834
         ]
@@ -136,18 +136,18 @@
       {
         "Granite hammer": [
           21742
-        ],
-        "Soulreaper axe": [
-          28338
         ]
       },
       {
         "Inquisitor's mace": [
           24417
         ],
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
+        ],
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
@@ -170,6 +170,9 @@
         ]
       },
       {
+        "Glacial temotli": [
+          29889
+        ],
         "Zombie axe": [
           28810
         ]
@@ -278,6 +281,30 @@
         ]
       },
       {
+        "Brimstone ring": [
+          22975
+        ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ],
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ],
         "Steel ring": [
           30895
         ]
@@ -285,13 +312,28 @@
     ],
     "special": [
       {
+        "Voidwaker": [
+          27690
+        ],
         "Crimson kisten": [
           33631
         ]
       },
       {
+        "Dragon mace": [
+          1434,
+          28027
+        ],
+        "Arkan blade": [
+          30955
+        ]
+      },
+      {
         "Elder maul": [
           21003
+        ],
+        "Ancient godsword": [
+          26233
         ]
       },
       {
@@ -301,18 +343,6 @@
         "Dragon warhammer": [
           13576,
           28035
-        ],
-        "Voidwaker": [
-          27690
-        ],
-        "Ancient godsword": [
-          26233
-        ]
-      },
-      {
-        "Dragon mace": [
-          1434,
-          28027
         ]
       }
     ]
@@ -328,7 +358,7 @@
         ]
       },
       {
-        "Helm of neitiznot": [
+        "Helm of Neitiznot": [
           10828
         ]
       }
@@ -389,6 +419,18 @@
         ]
       },
       {
+        "Eclipse moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
+        ]
+      },
+      {
         "Torag's platebody": [
           4749,
           4964,
@@ -411,6 +453,18 @@
         ]
       },
       {
+        "Eclipse moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
+        ]
+      },
+      {
         "Verac's plateskirt": [
           4759,
           4994,
@@ -429,23 +483,26 @@
       {
         "Granite hammer": [
           21742
-        ],
-        "Dual macuahuitl": [
-          28997
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
         ],
         "Zamorakian hasta": [
           11889
         ]
       },
       {
-        "Zombie axe": [
-          28810
-        ]
-      },
-      {
+        "Dual macuahuitl": [
+          28997
+        ],
         "Dragon mace": [
           1434,
           28027
+        ],
+        "Glacial temotli": [
+          29889
         ]
       }
     ],
@@ -514,6 +571,34 @@
         ],
         "Lightbearer": [
           25975
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ],
+        "Berserker ring": [
+          6737
+        ]
+      },
+      {
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
+        ],
+        "Ring of suffering (ri)": [
+          19710,
+          20657,
+          25246,
+          25248,
+          26761,
+          26762
+        ]
+      },
+      {
+        "Steel ring": [
+          30895
         ]
       }
     ],
@@ -694,7 +779,7 @@
         "Inquisitor's mace": [
           24417
         ],
-        "Scythe of vitur": [
+        "Scythe of Vitur": [
           22486,
           22325
         ],
@@ -735,7 +820,7 @@
         ]
       },
       {
-        "Book of war": [
+        "Book of War": [
           12608
         ]
       },
