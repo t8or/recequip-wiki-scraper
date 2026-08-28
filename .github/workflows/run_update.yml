@@ -2,7 +2,8 @@ name: Scrape wiki
 
 on:
   schedule:
-    - cron: '21 0 * * fri'
+    - cron: '21 18 * * tue'
+      timezone: "America/New_York"
   push:
     branches:
       - master
