@@ -316,9 +316,6 @@
       {
         "Masori body (f)": [
           27238
-        ],
-        "Masori body": [
-          27229
         ]
       },
       {
@@ -349,9 +346,6 @@
       {
         "Masori chaps (f)": [
           27241
-        ],
-        "Masori chaps": [
-          27232
         ]
       },
       {
@@ -734,14 +728,6 @@
         ],
         "Elder maul": [
           21003
-        ]
-      },
-      {
-        "Zombie axe": [
-          28810
-        ],
-        "Sarachnis cudgel": [
-          23528
         ],
         "Dharok's greataxe": [
           4718,
@@ -750,6 +736,14 @@
           4888,
           4889,
           4890
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ],
+        "Zamorakian hasta": [
+          11889
         ]
       }
     ],
