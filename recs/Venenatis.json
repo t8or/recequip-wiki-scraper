@@ -515,20 +515,11 @@
         ]
       },
       {
-        "Twisted bow": [
-          20997
-        ]
-      },
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
-      },
-      {
         "Zaryte crossbow": [
           26374
-        ],
+        ]
+      },
+      {
         "Armadyl crossbow": [
           11785
         ]
@@ -537,7 +528,9 @@
         "Dragon crossbow": [
           21902,
           28053
-        ],
+        ]
+      },
+      {
         "Rune crossbow": [
           9185
         ]
@@ -567,8 +560,19 @@
         ]
       },
       {
-        "Black d'hide shield": [
-          22284
+        "Dragonhide shield": [
+          22269,
+          22272,
+          22275,
+          22278,
+          22281,
+          22284,
+          23197,
+          23200,
+          23203,
+          23188,
+          23191,
+          23194
         ]
       }
     ],
@@ -589,15 +593,6 @@
         ],
         "Rada's blessing 3": [
           22945
-        ],
-        "Diamond dragon bolts (e)": [
-          21946
-        ],
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
         ]
       },
       {
@@ -635,18 +630,18 @@
     ],
     "feet": [
       {
-        "Mixed hide boots": [
-          29286
-        ]
-      },
-      {
-        "Blessed boots": [
+        "Blessed d'hide boots": [
           19921,
           19930,
           19924,
           19927,
           19933,
           19936
+        ]
+      },
+      {
+        "Mixed hide boots": [
+          29286
         ]
       },
       {

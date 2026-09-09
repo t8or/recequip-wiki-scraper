@@ -64,6 +64,14 @@
     ],
     "neck": [
       {
+        "Elemental amulet": [
+          34428
+        ],
+        "Amulet of fire": [
+          34425
+        ]
+      },
+      {
         "Occult necklace": [
           12002
         ]
@@ -72,6 +80,11 @@
         "Amulet of fury": [
           6585
         ],
+        "Bonecrusher necklace": [
+          22986
+        ]
+      },
+      {
         "Amulet of glory": [
           1704,
           1706,
@@ -80,14 +93,6 @@
           1712,
           11976,
           11978
-        ],
-        "Amulet of power": [
-          1731
-        ]
-      },
-      {
-        "Bonecrusher necklace": [
-          22986
         ]
       }
     ],
@@ -1269,6 +1274,14 @@
     ],
     "neck": [
       {
+        "Elemental amulet": [
+          34428
+        ],
+        "Amulet of fire": [
+          34425
+        ]
+      },
+      {
         "Occult necklace": [
           12002
         ]
@@ -1276,9 +1289,7 @@
       {
         "Amulet of fury": [
           6585
-        ]
-      },
-      {
+        ],
         "Bonecrusher necklace": [
           22986
         ]
@@ -1295,6 +1306,9 @@
         ]
       },
       {
+        "Amulet of power": [
+          1731
+        ],
         "Amulet of magic": [
           1727
         ]

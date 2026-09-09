@@ -60,6 +60,14 @@
     ],
     "neck": [
       {
+        "Amulet of air": [
+          34407
+        ],
+        "Elemental amulet": [
+          34428
+        ]
+      },
+      {
         "Occult necklace": [
           12002
         ]
@@ -78,11 +86,6 @@
           1712,
           11976,
           11978
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
         ]
       },
       {

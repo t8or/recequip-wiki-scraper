@@ -3668,8 +3668,8 @@
             ]
           },
           {
-            "Rune crossbow": [
-              9185
+            "Hunters' sunlight crossbow": [
+              28869
             ]
           },
           {
@@ -3724,22 +3724,22 @@
             ]
           },
           {
+            "Atlatl dart": [
+              28991
+            ],
             "Ruby dragon bolts (e)": [
               21944
             ],
-            "Ruby bolts (e)": [
-              9242
+            "dragon bolts": [
+              21905,
+              21924,
+              21926,
+              21928
             ]
           },
           {
-            "Broad bolts": [
-              11875
-            ],
-            "Adamant bolts": [
-              9143,
-              9290,
-              9297,
-              9304
+            "moonlight antler bolts": [
+              28878
             ]
           },
           {
@@ -3764,13 +3764,13 @@
             ]
           },
           {
-            "Black d'hide vambraces": [
-              2491
+            "Rune gloves": [
+              7460
             ]
           },
           {
-            "Rune gloves": [
-              7460
+            "Black d'hide vambraces": [
+              2491
             ]
           },
           {
@@ -4265,6 +4265,14 @@
         ],
         "neck": [
           {
+            "Amulet of air": [
+              34407
+            ],
+            "Elemental amulet": [
+              34428
+            ]
+          },
+          {
             "Occult necklace": [
               12002
             ]
@@ -4283,11 +4291,6 @@
               1712,
               11976,
               11978
-            ]
-          },
-          {
-            "Amulet of power": [
-              1731
             ]
           },
           {
@@ -14979,9 +14982,6 @@
           {
             "Rada's blessing 4": [
               22947
-            ],
-            "Ghommal's lucky penny": [
-              27544
             ]
           },
           {
@@ -18543,8 +18543,10 @@
             ]
           },
           {
-            "Ring of life": [
-              2570
+            "Granite ring (i)": [
+              21752,
+              25193,
+              26685
             ]
           }
         ],
@@ -22365,6 +22367,11 @@
           {
             "Necklace of anguish": [
               19547
+            ]
+          },
+          {
+            "Necklace of fangs": [
+              34401
             ]
           }
         ],
@@ -28762,9 +28769,6 @@
           {
             "Rada's blessing 4": [
               22947
-            ],
-            "Ghommal's lucky penny": [
-              27544
             ]
           },
           {
@@ -32862,11 +32866,6 @@
               20232,
               20235
             ]
-          },
-          {
-            "Ghommal's lucky penny": [
-              27544
-            ]
           }
         ],
         "hands": [
@@ -33047,6 +33046,11 @@
             "Occult necklace": [
               12002
             ]
+          },
+          {
+            "Elemental amulet": [
+              34428
+            ]
           }
         ],
         "cape": [
@@ -33162,11 +33166,6 @@
               20229,
               20232,
               20235
-            ]
-          },
-          {
-            "Ghommal's lucky penny": [
-              27544
             ]
           }
         ],
@@ -37656,13 +37655,7 @@
             ]
           }
         ],
-        "ammo": [
-          {
-            "Ghommal's lucky penny": [
-              27544
-            ]
-          }
-        ],
+        "ammo": [],
         "hands": [],
         "feet": [
           {
@@ -41580,9 +41573,6 @@
               11227,
               11228,
               11229
-            ],
-            "Ghommal's lucky penny": [
-              27544
             ]
           },
           {
@@ -41875,9 +41865,6 @@
               11227,
               11228,
               11229
-            ],
-            "Ghommal's lucky penny": [
-              27544
             ]
           },
           {
@@ -42085,9 +42072,6 @@
               11227,
               11228,
               11229
-            ],
-            "Ghommal's lucky penny": [
-              27544
             ]
           },
           {
@@ -47074,11 +47058,6 @@
             "Rada's blessing 2": [
               22943
             ]
-          },
-          {
-            "Ghommal's lucky penny": [
-              27544
-            ]
           }
         ],
         "hands": [
@@ -47713,20 +47692,11 @@
             ]
           },
           {
-            "Twisted bow": [
-              20997
-            ]
-          },
-          {
-            "Toxic blowpipe": [
-              12924,
-              12926
-            ]
-          },
-          {
             "Zaryte crossbow": [
               26374
-            ],
+            ]
+          },
+          {
             "Armadyl crossbow": [
               11785
             ]
@@ -47735,7 +47705,9 @@
             "Dragon crossbow": [
               21902,
               28053
-            ],
+            ]
+          },
+          {
             "Rune crossbow": [
               9185
             ]
@@ -47765,8 +47737,19 @@
             ]
           },
           {
-            "Black d'hide shield": [
-              22284
+            "Dragonhide shield": [
+              22269,
+              22272,
+              22275,
+              22278,
+              22281,
+              22284,
+              23197,
+              23200,
+              23203,
+              23188,
+              23191,
+              23194
             ]
           }
         ],
@@ -47787,15 +47770,6 @@
             ],
             "Rada's blessing 3": [
               22945
-            ],
-            "Diamond dragon bolts (e)": [
-              21946
-            ],
-            "Dragon arrow": [
-              11212,
-              11227,
-              11228,
-              11229
             ]
           },
           {
@@ -47833,18 +47807,18 @@
         ],
         "feet": [
           {
-            "Mixed hide boots": [
-              29286
-            ]
-          },
-          {
-            "Blessed boots": [
+            "Blessed d'hide boots": [
               19921,
               19930,
               19924,
               19927,
               19933,
               19936
+            ]
+          },
+          {
+            "Mixed hide boots": [
+              29286
             ]
           },
           {
@@ -50029,9 +50003,6 @@
           {
             "Rada's blessing 4": [
               22947
-            ],
-            "Ghommal's lucky penny": [
-              27544
             ]
           },
           {
@@ -50269,6 +50240,14 @@
         ],
         "neck": [
           {
+            "Elemental amulet": [
+              34428
+            ],
+            "Amulet of fire": [
+              34425
+            ]
+          },
+          {
             "Occult necklace": [
               12002
             ]
@@ -50277,6 +50256,11 @@
             "Amulet of fury": [
               6585
             ],
+            "Bonecrusher necklace": [
+              22986
+            ]
+          },
+          {
             "Amulet of glory": [
               1704,
               1706,
@@ -50285,14 +50269,6 @@
               1712,
               11976,
               11978
-            ],
-            "Amulet of power": [
-              1731
-            ]
-          },
-          {
-            "Bonecrusher necklace": [
-              22986
             ]
           }
         ],
@@ -51474,6 +51450,14 @@
         ],
         "neck": [
           {
+            "Elemental amulet": [
+              34428
+            ],
+            "Amulet of fire": [
+              34425
+            ]
+          },
+          {
             "Occult necklace": [
               12002
             ]
@@ -51481,9 +51465,7 @@
           {
             "Amulet of fury": [
               6585
-            ]
-          },
-          {
+            ],
             "Bonecrusher necklace": [
               22986
             ]
@@ -51500,6 +51482,9 @@
             ]
           },
           {
+            "Amulet of power": [
+              1731
+            ],
             "Amulet of magic": [
               1727
             ]
@@ -53698,9 +53683,6 @@
             ]
           },
           {
-            "Mixed hide top": [
-              29280
-            ],
             "Monk's robe top": [
               544
             ]
@@ -53846,9 +53828,6 @@
         ],
         "ammo": [
           {
-            "Ghommal's lucky penny": [
-              27544
-            ],
             "Rada's blessing 4": [
               22947
             ]
@@ -56634,6 +56613,11 @@
             ]
           },
           {
+            "Necklace of fangs": [
+              34401
+            ]
+          },
+          {
             "Amulet of fury": [
               6585
             ]
@@ -56647,16 +56631,6 @@
               1712,
               11976,
               11978
-            ]
-          },
-          {
-            "Stole": [
-              10470,
-              10472,
-              10474,
-              12257,
-              12269,
-              12201
             ]
           }
         ],
@@ -57078,6 +57052,14 @@
         ],
         "neck": [
           {
+            "Elemental amulet": [
+              34428
+            ],
+            "Amulet of fire": [
+              34425
+            ]
+          },
+          {
             "Occult necklace": [
               12002
             ]
@@ -57106,11 +57088,6 @@
               12257,
               12269,
               12201
-            ]
-          },
-          {
-            "Holy symbol": [
-              1718
             ]
           }
         ],
@@ -58289,7 +58266,7 @@
         ]
       },
       {
-        "name": "Melee",
+        "name": "Melee (Obsidian)",
         "head": [
           {
             "Obsidian helmet": [
@@ -58650,7 +58627,7 @@
         ]
       },
       {
-        "name": "Melee",
+        "name": "Melee (Blood Moon)",
         "head": [
           {
             "Blood moon helm": [
@@ -58939,7 +58916,7 @@
         ]
       },
       {
-        "name": "Melee",
+        "name": "Melee (Dharok's)",
         "head": [
           {
             "Dharok's helm": [
@@ -59239,7 +59216,7 @@
         ]
       },
       {
-        "name": "Ranged",
+        "name": "Ranged (low level)",
         "head": [
           {
             "Mitre": [
@@ -59264,6 +59241,11 @@
         ],
         "neck": [
           {
+            "Necklace of fangs": [
+              34401
+            ]
+          },
+          {
             "Stole": [
               10470,
               10472,
@@ -59276,14 +59258,15 @@
           {
             "Unholy symbol": [
               1724
+            ],
+            "Holy symbol": [
+              1718
             ]
           },
           {
             "Amulet of fury": [
               6585
-            ]
-          },
-          {
+            ],
             "Amulet of glory": [
               1704,
               1706,
@@ -59601,7 +59584,7 @@
         ]
       },
       {
-        "name": "Ranged",
+        "name": "Ranged (Atlatl)",
         "head": [
           {
             "Torva full helm": [
@@ -59856,7 +59839,7 @@
         ]
       },
       {
-        "name": "Ranged",
+        "name": "Ranged (high level)",
         "head": [
           {
             "Void ranger helm": [
@@ -59895,6 +59878,11 @@
             ]
           },
           {
+            "Necklace of fangs": [
+              34401
+            ]
+          },
+          {
             "Stole": [
               10470,
               10472,
@@ -59902,14 +59890,9 @@
               12257,
               12269,
               12201
-            ]
-          },
-          {
+            ],
             "Unholy symbol": [
               1724
-            ],
-            "Holy symbol": [
-              1718
             ]
           }
         ],
@@ -60294,17 +60277,8 @@
         ],
         "neck": [
           {
-            "Amulet of magic": [
-              1727
-            ],
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
+            "Elemental amulet": [
+              34428
             ]
           }
         ],
@@ -60446,17 +60420,8 @@
         ],
         "neck": [
           {
-            "Amulet of magic": [
-              1727
-            ],
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
+            "Elemental amulet": [
+              34428
             ]
           }
         ],
@@ -60582,6 +60547,9 @@
         ],
         "neck": [
           {
+            "Elemental amulet": [
+              34428
+            ],
             "Occult necklace": [
               12002
             ]
@@ -61377,13 +61345,7 @@
             ]
           }
         ],
-        "ammo": [
-          {
-            "Ghommal's lucky penny": [
-              27544
-            ]
-          }
-        ],
+        "ammo": [],
         "hands": [
           {
             "Penance gloves": [
@@ -63496,6 +63458,9 @@
           {
             "Mixed hide boots": [
               29286
+            ],
+            "Climbing boots": [
+              3105
             ]
           }
         ],
@@ -63555,12 +63520,12 @@
             ]
           },
           {
+            "Arkan blade": [
+              30955
+            ],
             "Dragon mace": [
               1434,
               28027
-            ],
-            "Arkan blade": [
-              30955
             ]
           },
           {
@@ -63739,6 +63704,13 @@
             "Glacial temotli": [
               29889
             ]
+          },
+          {
+            "Barronite mace": [
+              25641,
+              25625,
+              25643
+            ]
           }
         ],
         "shield": [
@@ -63794,6 +63766,9 @@
           {
             "Mixed hide boots": [
               29286
+            ],
+            "Climbing boots": [
+              3105
             ]
           }
         ],
@@ -64226,6 +64201,14 @@
         ],
         "neck": [
           {
+            "Elemental amulet": [
+              34428
+            ],
+            "Amulet of fire": [
+              34425
+            ]
+          },
+          {
             "Occult necklace": [
               12002
             ]
@@ -64312,14 +64295,14 @@
             ]
           },
           {
-            "Tumeken's shadow": [
-              27277,
-              27275
+            "Twinflame staff": [
+              30634
             ]
           },
           {
-            "Twinflame staff": [
-              30634
+            "Tumeken's shadow": [
+              27277,
+              27275
             ]
           },
           {
@@ -69689,6 +69672,11 @@
             ]
           },
           {
+            "Necklace of fangs": [
+              34401
+            ]
+          },
+          {
             "Amulet of glory": [
               1704,
               1706,
@@ -72719,9 +72707,6 @@
         ],
         "ammo": [
           {
-            "Ghommal's lucky penny": [
-              27544
-            ],
             "Rada's blessing 4": [
               22947
             ]
@@ -81990,9 +81975,6 @@
         ],
         "ammo": [
           {
-            "Ghommal's lucky penny": [
-              27544
-            ],
             "Rada's blessing 4": [
               22947
             ]
@@ -83825,24 +83807,6 @@
               20445,
               24223
             ]
-          },
-          {
-            "Mythical cape": [
-              22114
-            ]
-          },
-          {
-            "Ardougne cloak": [
-              13121,
-              13122,
-              13123,
-              13124
-            ]
-          },
-          {
-            "Mixed hide cape": [
-              29289
-            ]
           }
         ],
         "body": [
@@ -83986,28 +83950,6 @@
               12773,
               12774,
               26482
-            ],
-            "Darklight": [
-              6746
-            ]
-          },
-          {
-            "Zamorakian hasta": [
-              11889
-            ],
-            "Sarachnis cudgel": [
-              23528
-            ]
-          },
-          {
-            "Arkan blade": [
-              30955
-            ],
-            "Zombie axe": [
-              28810
-            ],
-            "Belle's folly": [
-              31248
             ]
           }
         ],
@@ -84025,12 +83967,6 @@
               20463,
               24143
             ]
-          },
-          {
-            "Dragonfire shield": [
-              11284,
-              11283
-            ]
           }
         ],
         "ammo": [],
@@ -84043,22 +83979,6 @@
           {
             "Barrows gloves": [
               7462
-            ]
-          },
-          {
-            "Regen bracelet": [
-              11133
-            ]
-          },
-          {
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
             ]
           }
         ],
@@ -84090,9 +84010,6 @@
           {
             "Mixed hide boots": [
               29286
-            ],
-            "Climbing boots": [
-              3105
             ]
           }
         ],
@@ -84112,22 +84029,6 @@
           {
             "Lightbearer": [
               25975
-            ]
-          },
-          {
-            "Ring of suffering (ri)": [
-              19710,
-              20657,
-              25246,
-              25248,
-              26761,
-              26762
-            ]
-          },
-          {
-            "Ring of shadows": [
-              28329,
-              28327
             ]
           }
         ],
@@ -84596,22 +84497,6 @@
             "Barrows gloves": [
               7462
             ]
-          },
-          {
-            "Regen bracelet": [
-              11133
-            ]
-          },
-          {
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
-            ]
           }
         ],
         "feet": [
@@ -84626,23 +84511,8 @@
             ]
           },
           {
-            "Blessed d'hide boots": [
-              19921,
-              19930,
-              19924,
-              19927,
-              19933,
-              19936
-            ]
-          },
-          {
             "Aranea boots": [
               29806
-            ]
-          },
-          {
-            "Mixed hide boots": [
-              29286
             ]
           }
         ],
@@ -84650,30 +84520,6 @@
           {
             "Venator ring": [
               28310
-            ],
-            "Lightbearer": [
-              25975
-            ]
-          },
-          {
-            "Brimstone ring": [
-              22975
-            ]
-          },
-          {
-            "Ring of suffering (ri)": [
-              19710,
-              20657,
-              25246,
-              25248,
-              26761,
-              26762
-            ]
-          },
-          {
-            "Ring of shadows": [
-              28329,
-              28327
             ]
           }
         ],
@@ -84777,11 +84623,6 @@
             "Bloodbark helm": [
               25413
             ]
-          },
-          {
-            "Mystic hat": [
-              4089
-            ]
           }
         ],
         "neck": [
@@ -84820,33 +84661,6 @@
               24240,
               24249
             ]
-          },
-          {
-            "God capes": [
-              2412,
-              2415,
-              2414,
-              2417,
-              2413,
-              2416,
-              21791,
-              24236,
-              24248,
-              21795,
-              24244,
-              24250,
-              21793,
-              24240,
-              24249
-            ]
-          },
-          {
-            "Ardougne cloak": [
-              13121,
-              13122,
-              13123,
-              13124
-            ]
           }
         ],
         "body": [
@@ -84878,11 +84692,6 @@
           {
             "Bloodbark body": [
               25404
-            ]
-          },
-          {
-            "Mystic robe top": [
-              4091
             ]
           }
         ],
@@ -84916,11 +84725,6 @@
             "Bloodbark legs": [
               25416
             ]
-          },
-          {
-            "Mystic robe bottom": [
-              4093
-            ]
           }
         ],
         "weapon": [
@@ -84930,11 +84734,17 @@
             ]
           },
           {
-            "Kodai wand": [
-              21006
+            "Toxic staff of the dead": [
+              12902,
+              12904
             ],
             "Staff of the Dead": [
               11791
+            ]
+          },
+          {
+            "Master wand": [
+              6914
             ]
           },
           {
@@ -84945,16 +84755,6 @@
               4864,
               4865,
               4866
-            ]
-          },
-          {
-            "Blue moon spear": [
-              28988
-            ]
-          },
-          {
-            "Slayer's staff": [
-              4170
             ]
           }
         ],
@@ -85028,22 +84828,6 @@
             "Barrows gloves": [
               7462
             ]
-          },
-          {
-            "Regen bracelet": [
-              11133
-            ]
-          },
-          {
-            "Combat bracelet": [
-              11126,
-              11124,
-              11122,
-              11120,
-              11118,
-              11974,
-              11972
-            ]
           }
         ],
         "feet": [
@@ -85060,19 +84844,6 @@
           {
             "Aranea boots": [
               29806
-            ],
-            "Infinity boots": [
-              6920
-            ]
-          },
-          {
-            "Bloodbark boots": [
-              25410
-            ]
-          },
-          {
-            "Mystic boots": [
-              4097
             ]
           }
         ],
@@ -85080,34 +84851,6 @@
           {
             "Magus ring": [
               28313
-            ]
-          },
-          {
-            "Brimstone ring": [
-              22975
-            ]
-          },
-          {
-            "Seers ring (i)": [
-              11770,
-              25258,
-              26767
-            ]
-          },
-          {
-            "Ring of suffering (ri)": [
-              19710,
-              20657,
-              25246,
-              25248,
-              26761,
-              26762
-            ]
-          },
-          {
-            "Ring of shadows": [
-              28329,
-              28327
             ]
           }
         ],
@@ -85415,11 +85158,6 @@
           }
         ],
         "ammo": [
-          {
-            "Ghommal's lucky penny": [
-              27544
-            ]
-          },
           {
             "Rada's blessing 4": [
               22947
@@ -85919,11 +85657,6 @@
           }
         ],
         "ammo": [
-          {
-            "Ghommal's lucky penny": [
-              27544
-            ]
-          },
           {
             "Rada's blessing 4": [
               22947
