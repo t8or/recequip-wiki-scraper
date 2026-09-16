@@ -52,6 +52,11 @@
         "Occult necklace": [
           12002
         ]
+      },
+      {
+        "Elemental amulet": [
+          34428
+        ]
       }
     ],
     "cape": [
@@ -173,12 +178,12 @@
         ]
       },
       {
+        "Harmonised Nightmare staff": [
+          24423
+        ],
         "Eye of Ayak": [
           31115,
           31113
-        ],
-        "Harmonised Nightmare staff": [
-          24423
         ],
         "Rosewood blowpipe": [
           31585,
@@ -189,18 +194,20 @@
         "Sanguinesti staff": [
           22481,
           22323
-        ],
-        "Trident of the Swamp": [
-          12900,
-          12899
         ]
       },
       {
-        "Mystic smoke staff": [
-          12000
-        ],
         "Twinflame staff": [
           30634
+        ],
+        "Mystic smoke staff": [
+          12000
+        ]
+      },
+      {
+        "Trident of the Swamp": [
+          12900,
+          12899
         ]
       }
     ],

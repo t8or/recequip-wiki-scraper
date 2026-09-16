@@ -256,8 +256,8 @@
         ]
       },
       {
-        "Rune crossbow": [
-          9185
+        "Hunters' sunlight crossbow": [
+          28869
         ]
       },
       {
@@ -312,22 +312,22 @@
         ]
       },
       {
+        "Atlatl dart": [
+          28991
+        ],
         "Ruby dragon bolts (e)": [
           21944
         ],
-        "Ruby bolts (e)": [
-          9242
+        "dragon bolts": [
+          21905,
+          21924,
+          21926,
+          21928
         ]
       },
       {
-        "Broad bolts": [
-          11875
-        ],
-        "Adamant bolts": [
-          9143,
-          9290,
-          9297,
-          9304
+        "moonlight antler bolts": [
+          28878
         ]
       },
       {
@@ -352,13 +352,13 @@
         ]
       },
       {
-        "Black d'hide vambraces": [
-          2491
+        "Rune gloves": [
+          7460
         ]
       },
       {
-        "Rune gloves": [
-          7460
+        "Black d'hide vambraces": [
+          2491
         ]
       },
       {

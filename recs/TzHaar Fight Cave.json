@@ -12,12 +12,12 @@
       {
         "Masori mask (f)": [
           27235
+        ],
+        "Masori mask": [
+          27226
         ]
       },
       {
-        "Masori mask": [
-          27226
-        ],
         "Crystal helm": [
           23971,
           23973,
@@ -86,6 +86,9 @@
       {
         "Amulet of fury": [
           6585
+        ],
+        "Necklace of fangs": [
+          34401
         ]
       },
       {
@@ -128,27 +131,15 @@
           9756,
           9757
         ]
-      },
-      {
-        "Vestment cloak": [
-          10446,
-          10448,
-          10450,
-          12261,
-          12273,
-          12197
-        ]
-      },
-      {
-        "Ardougne cloak 4": [
-          13124
-        ]
       }
     ],
     "body": [
       {
         "Masori body (f)": [
           27238
+        ],
+        "Masori body": [
+          27229
         ]
       },
       {
@@ -206,6 +197,9 @@
       {
         "Masori chaps (f)": [
           27241
+        ],
+        "Masori chaps": [
+          27232
         ]
       },
       {
@@ -280,14 +274,11 @@
         "Zaryte crossbow": [
           26374
         ],
-        "Armadyl crossbow": [
-          11785
+        "Hunters' sunlight crossbow": [
+          28869
         ]
       },
       {
-        "Hunters' sunlight crossbow": [
-          28869
-        ],
         "Dragon crossbow": [
           21902,
           28053
@@ -338,16 +329,13 @@
           23993,
           24127
         ],
-        "Blessed spirit shield": [
-          12831
+        "Granite shield": [
+          3122
         ]
       },
       {
-        "Toktz-ket-xil": [
-          6524
-        ],
-        "Dragon kiteshield": [
-          21895
+        "Guthix kiteshield": [
+          2675
         ]
       }
     ],
@@ -392,6 +380,14 @@
         ]
       },
       {
+        "Diamond dragon bolts (e)": [
+          21946
+        ],
+        "Moonlight antler bolts": [
+          28878
+        ]
+      },
+      {
         "Diamond bolts (e)": [
           9243
         ],
@@ -431,11 +427,6 @@
         ]
       },
       {
-        "Dragon gloves": [
-          7461
-        ]
-      },
-      {
         "Regen bracelet": [
           11133
         ]
@@ -466,13 +457,11 @@
         ]
       },
       {
-        "Ranger boots": [
-          2577
-        ]
-      },
-      {
         "Mixed hide boots": [
           29286
+        ],
+        "Shayzien boots (5)": [
+          13378
         ]
       }
     ],
@@ -486,10 +475,10 @@
         ]
       },
       {
-        "Archers ring (i)": [
-          11771,
-          25260,
-          26768
+        "Ring of the gods (i)": [
+          13202,
+          25252,
+          26764
         ]
       },
       {
@@ -500,24 +489,17 @@
           25248,
           26761,
           26762
-        ]
-      },
-      {
-        "Ring of the gods (i)": [
-          13202,
-          25252,
-          26764
+        ],
+        "Granite ring (i)": [
+          21752,
+          25193,
+          26685
         ]
       },
       {
         "Ring of shadows": [
           28329,
           28327
-        ],
-        "Granite ring (i)": [
-          21752,
-          25193,
-          26685
         ],
         "Explorer's ring 4": [
           13128
