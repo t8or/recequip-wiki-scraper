@@ -60,6 +60,14 @@
     ],
     "neck": [
       {
+        "Amulet of air": [
+          34407
+        ],
+        "Elemental amulet": [
+          34428
+        ]
+      },
+      {
         "Occult necklace": [
           12002
         ]
@@ -78,11 +86,6 @@
           1712,
           11976,
           11978
-        ]
-      },
-      {
-        "Amulet of power": [
-          1731
         ]
       },
       {
@@ -431,6 +434,11 @@
           4859,
           4860
         ],
+        "Blue moon helm": [
+          29019,
+          29041,
+          29064
+        ],
         "Infinity hat": [
           6918
         ],
@@ -545,6 +553,11 @@
           4871,
           4872
         ],
+        "Blue moon chestplate": [
+          29013,
+          29037,
+          29058
+        ],
         "Infinity top": [
           6916
         ],
@@ -607,6 +620,11 @@
           4876,
           4877,
           4878
+        ],
+        "Blue moon tassets": [
+          29016,
+          29039,
+          29061
         ],
         "Infinity bottoms": [
           6924

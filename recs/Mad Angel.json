@@ -261,6 +261,9 @@
       {
         "Mixed hide boots": [
           29286
+        ],
+        "Climbing boots": [
+          3105
         ]
       }
     ],
@@ -320,12 +323,12 @@
         ]
       },
       {
+        "Arkan blade": [
+          30955
+        ],
         "Dragon mace": [
           1434,
           28027
-        ],
-        "Arkan blade": [
-          30955
         ]
       },
       {
@@ -504,6 +507,13 @@
         "Glacial temotli": [
           29889
         ]
+      },
+      {
+        "Barronite mace": [
+          25641,
+          25625,
+          25643
+        ]
       }
     ],
     "shield": [
@@ -559,6 +569,9 @@
       {
         "Mixed hide boots": [
           29286
+        ],
+        "Climbing boots": [
+          3105
         ]
       }
     ],
