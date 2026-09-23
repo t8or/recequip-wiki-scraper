@@ -3212,7 +3212,7 @@
             ]
           },
           {
-            "Belle's Folly": [
+            "Belle's folly": [
               31248
             ],
             "Dragon sword": [
@@ -4642,7 +4642,7 @@
               4859,
               4860
             ],
-            "Blue moon helm": [
+            "Blue Moon helm": [
               29019,
               29041,
               29064
@@ -4761,7 +4761,7 @@
               4871,
               4872
             ],
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -4829,7 +4829,7 @@
               4877,
               4878
             ],
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -8081,10 +8081,9 @@
             ]
           },
           {
-            "Bow of Faerdhinen": [
-              25862,
-              25865,
-              25867
+            "Sanguinesti staff": [
+              22481,
+              22323
             ]
           },
           {
@@ -8093,9 +8092,10 @@
             ]
           },
           {
-            "Sanguinesti staff": [
-              22481,
-              22323
+            "Bow of Faerdhinen": [
+              25862,
+              25865,
+              25867
             ]
           }
         ],
@@ -8219,6 +8219,11 @@
             ]
           },
           {
+            "Blade of Saeldor": [
+              23997,
+              23995,
+              24551
+            ],
             "Ghrazi rapier": [
               22324
             ]
@@ -8257,8 +8262,9 @@
             ]
           },
           {
-            "Twisted bow": [
-              20997
+            "Tumeken's shadow": [
+              27277,
+              27275
             ]
           },
           {
@@ -8269,9 +8275,8 @@
             ]
           },
           {
-            "Tumeken's shadow": [
-              27277,
-              27275
+            "Twisted bow": [
+              20997
             ]
           }
         ],
@@ -9473,6 +9478,11 @@
             ],
             "Dragonbone necklace": [
               22111
+            ]
+          },
+          {
+            "Necklace of Fangs": [
+              34401
             ]
           },
           {
@@ -12678,7 +12688,7 @@
               33023,
               33025
             ],
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -12732,7 +12742,7 @@
               33027,
               33029
             ],
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -13447,7 +13457,7 @@
             ]
           },
           {
-            "Toxic staff of the dead": [
+            "Toxic Staff of the Dead": [
               12902,
               12904
             ]
@@ -14908,7 +14918,7 @@
             "Bandos tassets": [
               11834
             ],
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -19019,7 +19029,7 @@
             "Helm of Neitiznot": [
               10828
             ],
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -19115,7 +19125,7 @@
             "Masori body (f)": [
               27238
             ],
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -19156,7 +19166,7 @@
               26386,
               28258
             ],
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -19461,7 +19471,7 @@
             ]
           },
           {
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
@@ -19593,7 +19603,7 @@
             ]
           },
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -19655,7 +19665,7 @@
             ]
           },
           {
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -20190,7 +20200,7 @@
             ]
           },
           {
-            "Robin hood hat": [
+            "Robin Hood hat": [
               2581
             ]
           },
@@ -22409,7 +22419,7 @@
             ]
           },
           {
-            "Necklace of fangs": [
+            "Necklace of Fangs": [
               34401
             ]
           }
@@ -23322,7 +23332,7 @@
               12924,
               12926
             ],
-            "Toxic staff of the dead": [
+            "Toxic Staff of the Dead": [
               12902,
               12904
             ],
@@ -25514,7 +25524,7 @@
             ]
           },
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -25591,7 +25601,7 @@
               33520,
               33522
             ],
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -25615,7 +25625,7 @@
             ]
           },
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -26302,7 +26312,7 @@
             ]
           },
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -26358,7 +26368,7 @@
               33520,
               33522
             ],
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -26387,7 +26397,7 @@
         ],
         "legs": [
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -26531,7 +26541,7 @@
             ]
           },
           {
-            "Blue moon helm": [
+            "Blue Moon helm": [
               29019,
               29041,
               29064
@@ -26610,7 +26620,7 @@
         ],
         "body": [
           {
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -26632,7 +26642,7 @@
         ],
         "legs": [
           {
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -31373,7 +31383,7 @@
             ]
           },
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -31403,7 +31413,7 @@
             ]
           },
           {
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -31577,7 +31587,7 @@
               12929,
               12931
             ],
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
@@ -31636,7 +31646,7 @@
             ]
           },
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -31663,7 +31673,7 @@
             ]
           },
           {
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -31815,6 +31825,9 @@
           {
             "Occult necklace": [
               12002
+            ],
+            "Elemental amulet": [
+              34428
             ]
           },
           {
@@ -37886,6 +37899,11 @@
               21031,
               21033
             ]
+          },
+          {
+            "Barb-tail harpoon": [
+              10129
+            ]
           }
         ],
         "shield": [
@@ -41408,7 +41426,7 @@
             ]
           },
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -41485,7 +41503,7 @@
             "Bandos chestplate": [
               11832
             ],
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -41533,7 +41551,7 @@
             "Bandos tassets": [
               11834
             ],
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -44201,7 +44219,7 @@
             "Amulet of fury": [
               6585
             ],
-            "Necklace of fangs": [
+            "Necklace of Fangs": [
               34401
             ]
           },
@@ -44651,7 +44669,7 @@
               12929,
               12931
             ],
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -44875,7 +44893,7 @@
               33520,
               33522
             ],
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -44934,7 +44952,7 @@
             "Bandos tassets": [
               11834
             ],
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -45678,7 +45696,7 @@
             ]
           },
           {
-            "Robin hood hat": [
+            "Robin Hood hat": [
               2581
             ]
           },
@@ -46619,7 +46637,7 @@
             ]
           },
           {
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
@@ -46692,7 +46710,7 @@
         ],
         "body": [
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -46701,7 +46719,7 @@
         ],
         "legs": [
           {
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -47293,7 +47311,7 @@
             ]
           },
           {
-            "Cape of legends": [
+            "Cape of Legends": [
               1052
             ]
           }
@@ -49010,6 +49028,9 @@
             ]
           },
           {
+            "Belle's folly": [
+              31248
+            ],
             "Zamorakian hasta": [
               11889
             ]
@@ -49121,14 +49142,14 @@
         ],
         "special": [
           {
-            "Burning claws": [
-              29577
-            ],
             "Voidwaker": [
               27690
             ]
           },
           {
+            "Burning claws": [
+              29577
+            ],
             "Dragon claws": [
               13652,
               26708,
@@ -50239,7 +50260,7 @@
               4859,
               4860
             ],
-            "Blue moon helm": [
+            "Blue Moon helm": [
               29019,
               29041,
               29064
@@ -50346,7 +50367,7 @@
               4871,
               4872
             ],
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -50403,7 +50424,7 @@
               4877,
               4878
             ],
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -51156,14 +51177,14 @@
             ]
           },
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
             ]
           },
           {
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
@@ -51237,7 +51258,7 @@
             ]
           },
           {
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -51295,7 +51316,7 @@
             ]
           },
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -51458,7 +51479,7 @@
               4859,
               4860
             ],
-            "Blue moon helm": [
+            "Blue Moon helm": [
               29019,
               29041,
               29064
@@ -51679,7 +51700,7 @@
               4871,
               4872
             ],
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -51712,7 +51733,7 @@
               4877,
               4878
             ],
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -56358,6 +56379,10 @@
         ],
         "weapon": [
           {
+            "Scythe of Vitur": [
+              22486,
+              22325
+            ],
             "Dragon hunter lance": [
               22978
             ]
@@ -56539,13 +56564,13 @@
         ],
         "special": [
           {
-            "Burning claws": [
-              29577
+            "Crimson kisten": [
+              33631
             ]
           },
           {
-            "Crimson kisten": [
-              33631
+            "Burning claws": [
+              29577
             ]
           },
           {
@@ -56558,9 +56583,7 @@
           {
             "Arkan blade": [
               30955
-            ]
-          },
-          {
+            ],
             "Dragon dagger": [
               1215,
               1231,
@@ -56585,6 +56608,11 @@
             ],
             "Masori mask (f)": [
               27235
+            ]
+          },
+          {
+            "Armadyl helmet": [
+              11826
             ],
             "Crystal helm": [
               23971,
@@ -56605,11 +56633,6 @@
               27779,
               33031,
               33033
-            ]
-          },
-          {
-            "Armadyl helmet": [
-              11826
             ]
           },
           {
@@ -56646,7 +56669,7 @@
             ]
           },
           {
-            "Necklace of fangs": [
+            "Necklace of Fangs": [
               34401
             ]
           },
@@ -56702,6 +56725,11 @@
           {
             "Masori body (f)": [
               27238
+            ]
+          },
+          {
+            "Armadyl chestplate": [
+              11828
             ],
             "Crystal body": [
               23975,
@@ -56722,11 +56750,6 @@
               27771,
               33023,
               33025
-            ]
-          },
-          {
-            "Armadyl chestplate": [
-              11828
             ]
           },
           {
@@ -56765,6 +56788,11 @@
           {
             "Masori chaps (f)": [
               27241
+            ]
+          },
+          {
+            "Armadyl chainskirt": [
+              11830
             ],
             "Crystal legs": [
               23979,
@@ -56785,11 +56813,6 @@
               27775,
               33027,
               33029
-            ]
-          },
-          {
-            "Armadyl chainskirt": [
-              11830
             ]
           },
           {
@@ -56826,13 +56849,12 @@
         ],
         "weapon": [
           {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ],
             "Dragon hunter crossbow": [
               21012
-            ]
-          },
-          {
-            "Twisted bow": [
-              20997
             ]
           },
           {
@@ -56840,6 +56862,11 @@
               25862,
               25865,
               25867
+            ]
+          },
+          {
+            "Twisted bow": [
+              20997
             ]
           },
           {
@@ -58099,7 +58126,7 @@
             "Obsidian platebody": [
               21301
             ],
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -58132,7 +58159,7 @@
             "Fremennik kilt": [
               23246
             ],
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -58722,7 +58749,7 @@
         "name": "Melee (Blood Moon)",
         "head": [
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -58789,7 +58816,7 @@
         ],
         "body": [
           {
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -58798,7 +58825,7 @@
         ],
         "legs": [
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -59333,7 +59360,7 @@
         ],
         "neck": [
           {
-            "Necklace of fangs": [
+            "Necklace of Fangs": [
               34401
             ]
           },
@@ -59785,7 +59812,7 @@
             ]
           },
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -59798,7 +59825,7 @@
             "Mixed hide top": [
               29280
             ],
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -59970,7 +59997,7 @@
             ]
           },
           {
-            "Necklace of fangs": [
+            "Necklace of Fangs": [
               34401
             ]
           },
@@ -61924,7 +61951,7 @@
         ],
         "body": [
           {
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -61966,7 +61993,7 @@
         ],
         "legs": [
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -62218,7 +62245,7 @@
             ]
           },
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -64112,6 +64139,11 @@
             ],
             "Sarachnis cudgel": [
               23528
+            ],
+            "Barrelchest anchor": [
+              10887,
+              10888,
+              27855
             ]
           }
         ],
@@ -64404,7 +64436,7 @@
             "Kodai wand": [
               21006
             ],
-            "Toxic staff of the dead": [
+            "Toxic Staff of the Dead": [
               12902,
               12904
             ],
@@ -64481,6 +64513,11 @@
             "Magus ring": [
               28313
             ]
+          },
+          {
+            "Brimstone ring": [
+              22975
+            ]
           }
         ],
         "special": [
@@ -64545,7 +64582,7 @@
             ]
           },
           {
-            "Necklace of fangs": [
+            "Necklace of Fangs": [
               34401
             ]
           },
@@ -65105,6 +65142,11 @@
               11773,
               25264,
               26770
+            ]
+          },
+          {
+            "Brimstone ring": [
+              22975
             ]
           }
         ],
@@ -65738,7 +65780,7 @@
             ]
           },
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -65844,7 +65886,7 @@
             ]
           },
           {
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -65890,7 +65932,7 @@
             ]
           },
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -66608,7 +66650,7 @@
             "Bloodbark helm": [
               25413
             ],
-            "Blue moon helm": [
+            "Blue Moon helm": [
               29019,
               29041,
               29064
@@ -66835,7 +66877,7 @@
             "Bloodbark body": [
               25404
             ],
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -66906,7 +66948,7 @@
             "Bloodbark legs": [
               25416
             ],
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -68608,7 +68650,7 @@
             ]
           },
           {
-            "Cape of legends": [
+            "Cape of Legends": [
               1052
             ]
           }
@@ -69321,7 +69363,7 @@
             "Ardougne cloak 4": [
               13124
             ],
-            "Cape of legends": [
+            "Cape of Legends": [
               1052
             ],
             "Mixed hide cape": [
@@ -69484,7 +69526,7 @@
             ]
           },
           {
-            "Blue moon spear": [
+            "Blue Moon spear": [
               28988
             ]
           },
@@ -69526,7 +69568,7 @@
             ]
           },
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -69536,7 +69578,7 @@
             "Helm of Neitiznot": [
               10828
             ],
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
@@ -69580,7 +69622,7 @@
         ],
         "body": [
           {
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -69596,12 +69638,12 @@
             ]
           },
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
             ],
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -69610,19 +69652,19 @@
         ],
         "legs": [
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
             ]
           },
           {
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
             ],
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -69762,7 +69804,7 @@
             ]
           },
           {
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
@@ -69776,7 +69818,7 @@
             ]
           },
           {
-            "Necklace of fangs": [
+            "Necklace of Fangs": [
               34401
             ]
           },
@@ -69811,7 +69853,7 @@
         ],
         "body": [
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -69848,7 +69890,7 @@
         ],
         "legs": [
           {
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -70063,7 +70105,7 @@
             ]
           },
           {
-            "Blue moon helm": [
+            "Blue Moon helm": [
               29019,
               29041,
               29064
@@ -70137,7 +70179,7 @@
             ]
           },
           {
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -70176,7 +70218,7 @@
             ]
           },
           {
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -70285,7 +70327,7 @@
             ]
           },
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -70348,7 +70390,7 @@
             "Bandos chestplate": [
               11832
             ],
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -70383,7 +70425,7 @@
             "Bandos tassets": [
               11834
             ],
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -70598,7 +70640,7 @@
             ]
           },
           {
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
@@ -70676,7 +70718,7 @@
             ]
           },
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -70717,7 +70759,7 @@
             ]
           },
           {
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -73045,7 +73087,7 @@
             ]
           },
           {
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -73112,7 +73154,7 @@
             "Bandos tassets": [
               11834
             ],
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -74338,7 +74380,7 @@
             ]
           },
           {
-            "Toxic staff of the dead": [
+            "Toxic Staff of the Dead": [
               12902,
               12904
             ]
@@ -74802,7 +74844,7 @@
             ]
           },
           {
-            "Blue moon spear": [
+            "Blue Moon spear": [
               28988
             ]
           },
@@ -76341,7 +76383,7 @@
             ]
           },
           {
-            "Blue moon spear": [
+            "Blue Moon spear": [
               28988
             ]
           },
@@ -76567,7 +76609,7 @@
             "Neitiznot faceguard": [
               24271
             ],
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -76683,7 +76725,7 @@
             "Obsidian platebody": [
               21301
             ],
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -76716,7 +76758,7 @@
             "Bandos tassets": [
               11834
             ],
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -76726,12 +76768,12 @@
             "Obsidian platelegs": [
               21304
             ],
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
             ],
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -79413,7 +79455,7 @@
             ]
           },
           {
-            "Blue moon spear": [
+            "Blue Moon spear": [
               28988
             ]
           },
@@ -80124,7 +80166,7 @@
             ]
           },
           {
-            "Blue moon spear": [
+            "Blue Moon spear": [
               28988
             ]
           },
@@ -80429,7 +80471,7 @@
             "Obsidian platebody": [
               21301
             ],
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -80457,7 +80499,7 @@
             "Bandos tassets": [
               11834
             ],
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
@@ -80467,12 +80509,12 @@
             "Obsidian platelegs": [
               21304
             ],
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
             ],
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -83838,7 +83880,7 @@
             ]
           },
           {
-            "Blood moon helm": [
+            "Blood Moon helm": [
               29028,
               29047,
               29073
@@ -83848,14 +83890,14 @@
             "Helm of Neitiznot": [
               10828
             ],
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
             ]
           },
           {
-            "Blue moon helm": [
+            "Blue Moon helm": [
               29019,
               29041,
               29064
@@ -83934,7 +83976,7 @@
             ]
           },
           {
-            "Blood moon chestplate": [
+            "Blood Moon chestplate": [
               29022,
               29043,
               29067
@@ -83948,7 +83990,7 @@
             ]
           },
           {
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -83958,7 +84000,7 @@
             ]
           },
           {
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -83989,14 +84031,14 @@
             ]
           },
           {
-            "Blood moon tassets": [
+            "Blood Moon tassets": [
               29025,
               29045,
               29070
             ]
           },
           {
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -84006,7 +84048,7 @@
             ]
           },
           {
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -84044,7 +84086,9 @@
           {
             "Osmumten's fang": [
               26219
-            ],
+            ]
+          },
+          {
             "Abyssal tentacle": [
               12006,
               26484
@@ -84054,6 +84098,11 @@
               12773,
               12774,
               26482
+            ]
+          },
+          {
+            "Darklight": [
+              6746
             ]
           }
         ],
@@ -84147,16 +84196,26 @@
               27863,
               27865,
               27867
-            ]
-          },
-          {
-            "Arkan blade": [
-              30955
+            ],
+            "Dragon dagger(p++)": [
+              1215,
+              1231,
+              5680,
+              5698,
+              28019,
+              28021,
+              28023,
+              28025
             ]
           },
           {
             "Burning claws": [
               29577
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
             ]
           },
           {
@@ -84275,7 +84334,7 @@
               33031,
               33033
             ],
-            "Eclipse moon helm": [
+            "Eclipse Moon helm": [
               29010,
               29035,
               29055
@@ -84381,7 +84440,7 @@
               33023,
               33025
             ],
-            "Eclipse moon chestplate": [
+            "Eclipse Moon chestplate": [
               29004,
               29031,
               29049
@@ -84452,7 +84511,7 @@
               33027,
               33029
             ],
-            "Eclipse moon tassets": [
+            "Eclipse Moon tassets": [
               29007,
               29033,
               29052
@@ -84717,7 +84776,7 @@
               4859,
               4860
             ],
-            "Blue moon helm": [
+            "Blue Moon helm": [
               29019,
               29041,
               29064
@@ -84787,7 +84846,7 @@
               4871,
               4872
             ],
-            "Blue moon chestplate": [
+            "Blue Moon chestplate": [
               29013,
               29037,
               29058
@@ -84819,7 +84878,7 @@
               4877,
               4878
             ],
-            "Blue moon tassets": [
+            "Blue Moon tassets": [
               29016,
               29039,
               29061
@@ -84838,7 +84897,7 @@
             ]
           },
           {
-            "Toxic staff of the dead": [
+            "Toxic Staff of the Dead": [
               12902,
               12904
             ],

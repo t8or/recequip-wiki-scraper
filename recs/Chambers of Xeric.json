@@ -1008,10 +1008,9 @@
         ]
       },
       {
-        "Bow of Faerdhinen": [
-          25862,
-          25865,
-          25867
+        "Sanguinesti staff": [
+          22481,
+          22323
         ]
       },
       {
@@ -1020,9 +1019,10 @@
         ]
       },
       {
-        "Sanguinesti staff": [
-          22481,
-          22323
+        "Bow of Faerdhinen": [
+          25862,
+          25865,
+          25867
         ]
       }
     ],
@@ -1146,6 +1146,11 @@
         ]
       },
       {
+        "Blade of Saeldor": [
+          23997,
+          23995,
+          24551
+        ],
         "Ghrazi rapier": [
           22324
         ]
@@ -1184,8 +1189,9 @@
         ]
       },
       {
-        "Twisted bow": [
-          20997
+        "Tumeken's shadow": [
+          27277,
+          27275
         ]
       },
       {
@@ -1196,9 +1202,8 @@
         ]
       },
       {
-        "Tumeken's shadow": [
-          27277,
-          27275
+        "Twisted bow": [
+          20997
         ]
       }
     ],

@@ -146,7 +146,7 @@
         "Kodai wand": [
           21006
         ],
-        "Toxic staff of the dead": [
+        "Toxic Staff of the Dead": [
           12902,
           12904
         ],
@@ -223,6 +223,11 @@
         "Magus ring": [
           28313
         ]
+      },
+      {
+        "Brimstone ring": [
+          22975
+        ]
       }
     ],
     "special": [
@@ -287,7 +292,7 @@
         ]
       },
       {
-        "Necklace of fangs": [
+        "Necklace of Fangs": [
           34401
         ]
       },
@@ -847,6 +852,11 @@
           11773,
           25264,
           26770
+        ]
+      },
+      {
+        "Brimstone ring": [
+          22975
         ]
       }
     ],

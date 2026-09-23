@@ -202,6 +202,10 @@
     ],
     "weapon": [
       {
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ],
         "Dragon hunter lance": [
           22978
         ]
@@ -383,13 +387,13 @@
     ],
     "special": [
       {
-        "Burning claws": [
-          29577
+        "Crimson kisten": [
+          33631
         ]
       },
       {
-        "Crimson kisten": [
-          33631
+        "Burning claws": [
+          29577
         ]
       },
       {
@@ -402,9 +406,7 @@
       {
         "Arkan blade": [
           30955
-        ]
-      },
-      {
+        ],
         "Dragon dagger": [
           1215,
           1231,
@@ -429,6 +431,11 @@
         ],
         "Masori mask (f)": [
           27235
+        ]
+      },
+      {
+        "Armadyl helmet": [
+          11826
         ],
         "Crystal helm": [
           23971,
@@ -449,11 +456,6 @@
           27779,
           33031,
           33033
-        ]
-      },
-      {
-        "Armadyl helmet": [
-          11826
         ]
       },
       {
@@ -490,7 +492,7 @@
         ]
       },
       {
-        "Necklace of fangs": [
+        "Necklace of Fangs": [
           34401
         ]
       },
@@ -546,6 +548,11 @@
       {
         "Masori body (f)": [
           27238
+        ]
+      },
+      {
+        "Armadyl chestplate": [
+          11828
         ],
         "Crystal body": [
           23975,
@@ -566,11 +573,6 @@
           27771,
           33023,
           33025
-        ]
-      },
-      {
-        "Armadyl chestplate": [
-          11828
         ]
       },
       {
@@ -609,6 +611,11 @@
       {
         "Masori chaps (f)": [
           27241
+        ]
+      },
+      {
+        "Armadyl chainskirt": [
+          11830
         ],
         "Crystal legs": [
           23979,
@@ -629,11 +636,6 @@
           27775,
           33027,
           33029
-        ]
-      },
-      {
-        "Armadyl chainskirt": [
-          11830
         ]
       },
       {
@@ -670,13 +672,12 @@
     ],
     "weapon": [
       {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ],
         "Dragon hunter crossbow": [
           21012
-        ]
-      },
-      {
-        "Twisted bow": [
-          20997
         ]
       },
       {
@@ -684,6 +685,11 @@
           25862,
           25865,
           25867
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
         ]
       },
       {
