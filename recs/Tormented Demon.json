@@ -31,7 +31,7 @@
         ]
       },
       {
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -41,14 +41,14 @@
         "Helm of Neitiznot": [
           10828
         ],
-        "Eclipse moon helm": [
+        "Eclipse Moon helm": [
           29010,
           29035,
           29055
         ]
       },
       {
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -127,7 +127,7 @@
         ]
       },
       {
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -141,7 +141,7 @@
         ]
       },
       {
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -182,14 +182,14 @@
         ]
       },
       {
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
         ]
       },
       {
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
@@ -199,7 +199,7 @@
         ]
       },
       {
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061
@@ -237,7 +237,9 @@
       {
         "Osmumten's fang": [
           26219
-        ],
+        ]
+      },
+      {
         "Abyssal tentacle": [
           12006,
           26484
@@ -247,6 +249,11 @@
           12773,
           12774,
           26482
+        ]
+      },
+      {
+        "Darklight": [
+          6746
         ]
       }
     ],
@@ -340,16 +347,26 @@
           27863,
           27865,
           27867
-        ]
-      },
-      {
-        "Arkan blade": [
-          30955
+        ],
+        "Dragon dagger(p++)": [
+          1215,
+          1231,
+          5680,
+          5698,
+          28019,
+          28021,
+          28023,
+          28025
         ]
       },
       {
         "Burning claws": [
           29577
+        ]
+      },
+      {
+        "Arkan blade": [
+          30955
         ]
       },
       {
@@ -468,7 +485,7 @@
           33031,
           33033
         ],
-        "Eclipse moon helm": [
+        "Eclipse Moon helm": [
           29010,
           29035,
           29055
@@ -574,7 +591,7 @@
           33023,
           33025
         ],
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
@@ -645,7 +662,7 @@
           33027,
           33029
         ],
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
@@ -910,7 +927,7 @@
           4859,
           4860
         ],
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -980,7 +997,7 @@
           4871,
           4872
         ],
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -1012,7 +1029,7 @@
           4877,
           4878
         ],
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061
@@ -1031,7 +1048,7 @@
         ]
       },
       {
-        "Toxic staff of the dead": [
+        "Toxic Staff of the Dead": [
           12902,
           12904
         ],
