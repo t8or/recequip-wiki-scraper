@@ -1,5 +1,20 @@
 [
   {
+    "name": "Ur-maggot larvae",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
     "name": "Mage",
     "head": [
       {
@@ -18,7 +33,7 @@
         ]
       },
       {
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -80,7 +95,7 @@
         ]
       },
       {
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -107,7 +122,7 @@
         ]
       },
       {
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061
@@ -216,6 +231,11 @@
         "Eternal boots": [
           13235
         ]
+      },
+      {
+        "Aranea boots": [
+          29806
+        ]
       }
     ],
     "ring": [
@@ -273,7 +293,7 @@
         ]
       },
       {
-        "Eclipse moon helm": [
+        "Eclipse Moon helm": [
           29010,
           29035,
           29055
@@ -353,7 +373,7 @@
         ]
       },
       {
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
@@ -383,7 +403,7 @@
         ]
       },
       {
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
@@ -562,7 +582,7 @@
         ]
       },
       {
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -651,7 +671,7 @@
         "Bandos chestplate": [
           11832
         ],
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -706,7 +726,7 @@
         "Bandos tassets": [
           11834
         ],
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
@@ -867,14 +887,30 @@
         ]
       },
       {
-        "Elder maul": [
-          21003
+        "Voidwaker": [
+          27690
         ]
       },
       {
+        "Dragon claws": [
+          13652,
+          26708,
+          28039
+        ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Elder maul": [
+          21003
+        ],
         "Dragon warhammer": [
           13576,
           28035
+        ],
+        "Bandos godsword": [
+          11804
         ]
       }
     ]

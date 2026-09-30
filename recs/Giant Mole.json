@@ -278,11 +278,33 @@
     "shield": [],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
+        "Diamond dragon bolts (e)": [
+          21946
+        ],
+        "Ruby dragon bolts (e)": [
+          21944
+        ]
+      },
+      {
         "Dragon arrow": [
           11212,
           11227,
           11228,
           11229
+        ],
+        "Diamond bolts (e)": [
+          9243
+        ],
+        "Ruby bolts (e)": [
+          9242
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
         ]
       },
       {
@@ -299,22 +321,6 @@
           893,
           5621,
           5627
-        ]
-      },
-      {
-        "Diamond dragon bolts (e)": [
-          21946
-        ],
-        "Ruby dragon bolts (e)": [
-          21944
-        ]
-      },
-      {
-        "Diamond bolts (e)": [
-          9243
-        ],
-        "Ruby bolts (e)": [
-          9242
         ]
       }
     ],
@@ -486,6 +492,14 @@
       {
         "Bonecrusher necklace": [
           22986
+        ]
+      },
+      {
+        "Elemental amulet": [
+          34428
+        ],
+        "Amulet of earth": [
+          34419
         ]
       },
       {

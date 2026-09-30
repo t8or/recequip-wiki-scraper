@@ -430,7 +430,7 @@
         "Neitiznot faceguard": [
           24271
         ],
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -510,14 +510,14 @@
         "Bandos chestplate": [
           11832
         ],
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
         ]
       },
       {
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
@@ -545,14 +545,14 @@
         "Bandos tassets": [
           11834
         ],
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
         ]
       },
       {
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
@@ -834,6 +834,11 @@
       {
         "Dragonbone necklace": [
           22111
+        ]
+      },
+      {
+        "Amulet of water": [
+          34413
         ]
       },
       {

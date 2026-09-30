@@ -28,7 +28,7 @@
           12929,
           12931
         ],
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -354,7 +354,7 @@
     "name": "Melee (Low level)",
     "head": [
       {
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -408,7 +408,7 @@
     ],
     "body": [
       {
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -422,12 +422,12 @@
         ]
       },
       {
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
         ],
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -449,19 +449,19 @@
     ],
     "legs": [
       {
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
         ]
       },
       {
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
         ],
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061

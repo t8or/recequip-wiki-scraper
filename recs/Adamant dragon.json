@@ -554,6 +554,11 @@
         ]
       },
       {
+        "Necklace of Fangs": [
+          34401
+        ]
+      },
+      {
         "Amulet of fury": [
           6585
         ]
@@ -756,6 +761,11 @@
         ]
       },
       {
+        "Hunters' sunlight crossbow": [
+          28869
+        ]
+      },
+      {
         "Zaryte crossbow": [
           26374
         ],
@@ -788,27 +798,64 @@
     ],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
         "Diamond dragon bolts (e)": [
           21946
         ],
+        "Moonlight antler bolts": [
+          28878
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
+        ],
+        "Diamond bolts (e)": [
+          9243
+        ],
+        "Sunlight antler bolts": [
+          28872
+        ]
+      },
+      {
         "Dragon arrow": [
           11212,
           11227,
           11228,
           11229
-        ]
-      },
-      {
-        "Diamond bolts (e)": [
-          9243
-        ]
-      },
-      {
+        ],
         "Runite bolts": [
           9144,
           9291,
           9298,
           9305
+        ],
+        "Amethyst broad bolts": [
+          21316
+        ]
+      },
+      {
+        "Seeking rune arrow": [
+          33583
+        ],
+        "Broad bolts": [
+          11875
+        ],
+        "Adamant bolts": [
+          9143,
+          9290,
+          9297,
+          9304
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
         ]
       }
     ],
@@ -850,6 +897,11 @@
     ],
     "feet": [
       {
+        "Insulated boots": [
+          7159
+        ]
+      },
+      {
         "Avernic treads (max)": [
           31097
         ]
@@ -860,11 +912,6 @@
         ]
       },
       {
-        "Ranger boots": [
-          2577
-        ]
-      },
-      {
         "Blessed boots": [
           19921,
           19930,
@@ -872,11 +919,6 @@
           19927,
           19933,
           19936
-        ]
-      },
-      {
-        "Aranea boots": [
-          29806
         ]
       }
     ],

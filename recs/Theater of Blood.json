@@ -627,25 +627,20 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ]
-      },
-      {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
+        "Seeking dragon arrow": [
+          33595
         ],
         "Rada's blessing 4": [
           22947
         ]
       },
       {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
         "God blessing": [
           20220,
           20223,
@@ -656,6 +651,19 @@
         ],
         "Rada's blessing 3": [
           22945
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
         ]
       }
     ],
@@ -874,8 +882,9 @@
           22481,
           22323
         ],
-        "Staff of the Dead": [
-          11791
+        "Toxic Staff of the Dead": [
+          12902,
+          12904
         ]
       },
       {
@@ -919,25 +928,20 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ]
-      },
-      {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
+        "Seeking dragon arrow": [
+          33595
         ],
         "Rada's blessing 4": [
           22947
         ]
       },
       {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
         "God blessing": [
           20220,
           20223,
@@ -948,6 +952,19 @@
         ],
         "Rada's blessing 3": [
           22945
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
         ]
       }
     ],
@@ -1126,25 +1143,20 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ]
-      },
-      {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
+        "Seeking dragon arrow": [
+          33595
         ],
         "Rada's blessing 4": [
           22947
         ]
       },
       {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
         "God blessing": [
           20220,
           20223,
@@ -1155,6 +1167,19 @@
         ],
         "Rada's blessing 3": [
           22945
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
         ]
       }
     ],
@@ -1310,16 +1335,8 @@
         ]
       },
       {
-        "Noxious halberd": [
-          29796
-        ],
         "Soulreaper axe": [
           28338
-        ]
-      },
-      {
-        "Osmumten's fang": [
-          26219
         ]
       },
       {
@@ -1330,9 +1347,17 @@
         ]
       },
       {
+        "Noxious halberd": [
+          29796
+        ],
         "Abyssal tentacle": [
           12006,
           26484
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
         ]
       }
     ],
@@ -1422,6 +1447,13 @@
         ]
       },
       {
+        "Blade of Saeldor": [
+          23997,
+          23995,
+          24551
+        ]
+      },
+      {
         "Osmumten's fang": [
           26219
         ]
@@ -1429,13 +1461,6 @@
       {
         "Noxious halberd": [
           29796
-        ]
-      },
-      {
-        "Blade of Saeldor": [
-          23997,
-          23995,
-          24551
         ],
         "Abyssal tentacle": [
           12006,

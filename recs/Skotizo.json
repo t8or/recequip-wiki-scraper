@@ -30,7 +30,7 @@
         ]
       },
       {
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -145,7 +145,7 @@
           33520,
           33522
         ],
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -214,7 +214,7 @@
         "Bandos tassets": [
           11834
         ],
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
@@ -770,6 +770,30 @@
     "shield": [],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
+        "Rada's blessing": [
+          22941,
+          22943,
+          22945,
+          22947
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
+        ],
+        "God blessing": [
+          20220,
+          20223,
+          20226,
+          20229,
+          20232,
+          20235
+        ]
+      },
+      {
         "Dragon arrow": [
           11212,
           11227,
@@ -786,27 +810,8 @@
         ]
       },
       {
-        "Rune arrow": [
-          892,
-          893,
-          5621,
-          5627
-        ]
-      },
-      {
-        "Rada's blessing": [
-          22941,
-          22943,
-          22945,
-          22947
-        ],
-        "God blessing": [
-          20220,
-          20223,
-          20226,
-          20229,
-          20232,
-          20235
+        "Seeking rune arrow": [
+          33583
         ]
       }
     ],

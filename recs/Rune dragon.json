@@ -565,6 +565,11 @@
         ]
       },
       {
+        "Necklace of Fangs": [
+          34401
+        ]
+      },
+      {
         "Amulet of fury": [
           6585
         ]
@@ -804,35 +809,64 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Seeking dragon arrow": [
+          33595
+        ],
+        "Diamond dragon bolts (e)": [
+          21946
+        ],
+        "Moonlight antler bolts": [
+          28878
         ]
       },
       {
-        "Moonlight antler bolts": [
-          28878
+        "Seeking amethyst arrow": [
+          33589
+        ],
+        "Diamond bolts (e)": [
+          9243
         ],
         "Sunlight antler bolts": [
           28872
         ]
       },
       {
-        "Diamond dragon bolts (e)": [
-          21946
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
         ],
-        "Diamond bolts (e)": [
-          9243
-        ]
-      },
-      {
         "Runite bolts": [
           9144,
           9291,
           9298,
           9305
+        ],
+        "Amethyst broad bolts": [
+          21316
+        ]
+      },
+      {
+        "Seeking rune arrow": [
+          33583
+        ],
+        "Broad bolts": [
+          11875
+        ],
+        "Adamant bolts": [
+          9143,
+          9290,
+          9297,
+          9304
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
         ]
       }
     ],
@@ -968,7 +1002,7 @@
         ]
       },
       {
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -1083,7 +1117,7 @@
         ]
       },
       {
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -1117,7 +1151,7 @@
         ]
       },
       {
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061

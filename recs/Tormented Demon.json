@@ -752,43 +752,45 @@
     ],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
+        "Ruby dragon bolts (e)": [
+          21944
+        ],
+        "Moonlight antler bolts": [
+          28878
+        ],
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
+        ],
         "Dragon arrow": [
           11212,
           11227,
           11228,
           11229
         ],
+        "Sunlight antler bolts": [
+          28872
+        ],
+        "Ruby bolts (e)": [
+          9242
+        ]
+      },
+      {
         "Amethyst arrow": [
           21326,
           21332,
           21334,
           21336
-        ]
-      },
-      {
-        "Rada's blessing 4": [
-          22947
-        ]
-      },
-      {
+        ],
         "Atlatl dart": [
           28991
-        ]
-      },
-      {
-        "Moonlight antler bolts": [
-          28878
-        ],
-        "Sunlight antler bolts": [
-          28872
-        ]
-      },
-      {
-        "Ruby dragon bolts (e)": [
-          21944
-        ],
-        "Ruby bolts (e)": [
-          9242
         ]
       }
     ],
