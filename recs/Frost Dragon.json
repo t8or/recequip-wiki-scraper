@@ -27,7 +27,7 @@
         ]
       },
       {
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -137,7 +137,7 @@
         ]
       },
       {
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
@@ -703,6 +703,11 @@
           21902,
           28053
         ]
+      },
+      {
+        "Hunters' sunlight crossbow": [
+          28869
+        ]
       }
     ],
     "shield": [
@@ -735,30 +740,62 @@
     ],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
         "Diamond dragon bolts (e)": [
           21946
+        ],
+        "Moonlight antler bolts": [
+          28878
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
         ],
         "Dragon arrow": [
           11212,
           11227,
           11228,
           11229
-        ]
-      },
-      {
+        ],
         "Diamond bolts (e)": [
           9243
-        ]
-      },
-      {
-        "Runite bolts": [
-          9144,
-          9291,
-          9298,
-          9305
         ],
         "Amethyst broad bolts": [
           21316
+        ],
+        "Sunlight antler bolts": [
+          28872
+        ]
+      },
+      {
+        "Seeking rune arrow": [
+          33583
+        ],
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ],
+        "Broad bolts": [
+          11875
+        ],
+        "Adamant bolts": [
+          9143,
+          9290,
+          9297,
+          9304
+        ]
+      },
+      {
+        "Rune arrow": [
+          892,
+          893,
+          5621,
+          5627
         ]
       }
     ],
@@ -913,7 +950,7 @@
           4859,
           4860
         ],
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -1048,7 +1085,7 @@
           4871,
           4872
         ],
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -1088,7 +1125,7 @@
           4877,
           4878
         ],
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061

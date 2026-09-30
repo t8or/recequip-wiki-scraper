@@ -37,12 +37,12 @@
       {
         "Amulet of rancour": [
           29801
+        ],
+        "Amulet of blood fury": [
+          24780
         ]
       },
       {
-        "Amulet of blood fury": [
-          24780
-        ],
         "Amulet of torture": [
           19553
         ]
@@ -106,7 +106,7 @@
           33520,
           33522
         ],
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -162,7 +162,7 @@
         "Bandos tassets": [
           11834
         ],
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070

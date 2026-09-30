@@ -28,7 +28,7 @@
         ]
       },
       {
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -38,12 +38,12 @@
         "Helm of Neitiznot": [
           10828
         ],
-        "Eclipse moon helm": [
+        "Eclipse Moon helm": [
           29010,
           29035,
           29055
         ],
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -107,7 +107,7 @@
         "Bandos chestplate": [
           11832
         ],
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -121,14 +121,14 @@
         ]
       },
       {
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
         ]
       },
       {
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -156,19 +156,19 @@
         "Bandos tassets": [
           11834
         ],
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
         ]
       },
       {
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
         ],
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061
@@ -381,7 +381,7 @@
         ]
       },
       {
-        "Eclipse moon helm": [
+        "Eclipse Moon helm": [
           29010,
           29035,
           29055
@@ -475,7 +475,7 @@
         ]
       },
       {
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
@@ -532,7 +532,7 @@
         ]
       },
       {
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
@@ -607,24 +607,36 @@
     ],
     "ammo": [
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
-        ]
-      },
-      {
+        "Seeking dragon arrow": [
+          33595
+        ],
         "Ruby dragon bolts (e)": [
           21944
         ]
       },
       {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
         "Ruby bolts (e)": [
           9242
         ]
       },
       {
+        "Seeking amethyst arrow": [
+          33589
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ],
         "Atlatl dart": [
           28991
         ]
@@ -697,7 +709,7 @@
           4859,
           4860
         ],
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -762,7 +774,7 @@
           4871,
           4872
         ],
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -800,7 +812,7 @@
           4877,
           4878
         ],
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061
@@ -832,15 +844,15 @@
         ]
       },
       {
+        "Sanguinesti staff": [
+          22481,
+          22323
+        ],
         "Dragon hunter wand": [
           30070
         ]
       },
       {
-        "Sanguinesti staff": [
-          22481,
-          22323
-        ],
         "Trident of the Swamp": [
           12900,
           12899

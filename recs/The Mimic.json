@@ -532,6 +532,11 @@
         ]
       },
       {
+        "Necklace of Fangs": [
+          34401
+        ]
+      },
+      {
         "Amulet of fury": [
           6585
         ]
@@ -817,6 +822,12 @@
     ],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
+        "Seeking amethyst arrow": [
+          33589
+        ],
         "Dragon arrow": [
           11212,
           11227,

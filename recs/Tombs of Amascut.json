@@ -25,7 +25,7 @@
         ]
       },
       {
-        "Blood moon helm": [
+        "Blood Moon helm": [
           29028,
           29047,
           29073
@@ -35,12 +35,12 @@
         "Helm of Neitiznot": [
           10828
         ],
-        "Eclipse moon helm": [
+        "Eclipse Moon helm": [
           29010,
           29035,
           29055
         ],
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -118,7 +118,7 @@
         "Bandos chestplate": [
           11832
         ],
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -136,7 +136,7 @@
         ]
       },
       {
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
@@ -146,7 +146,7 @@
         "Mixed hide top": [
           29280
         ],
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -170,7 +170,7 @@
         "Bandos tassets": [
           11834
         ],
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
@@ -181,7 +181,7 @@
         ]
       },
       {
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
@@ -191,7 +191,7 @@
         "Mixed hide legs": [
           29283
         ],
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061
@@ -410,7 +410,7 @@
         ]
       },
       {
-        "Eclipse moon helm": [
+        "Eclipse Moon helm": [
           29010,
           29035,
           29055
@@ -486,7 +486,7 @@
         ]
       },
       {
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
@@ -551,7 +551,7 @@
         ]
       },
       {
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
@@ -644,29 +644,39 @@
     ],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
+        "Ruby dragon bolts (e)": [
+          21944
+        ],
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
         "Dragon arrow": [
           11212,
           11227,
           11228,
           11229
         ],
-        "Ruby dragon bolts (e)": [
-          21944
-        ]
-      },
-      {
-        "Rada's blessing 4": [
-          22947
-        ]
-      },
-      {
-        "Atlatl dart": [
-          28991
-        ]
-      },
-      {
+        "Seeking amethyst arrow": [
+          33589
+        ],
         "Ruby bolts (e)": [
           9242
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ],
+        "Atlatl dart": [
+          28991
         ]
       }
     ],
@@ -746,7 +756,7 @@
           4859,
           4860
         ],
-        "Blue moon helm": [
+        "Blue Moon helm": [
           29019,
           29041,
           29064
@@ -795,7 +805,7 @@
           4871,
           4872
         ],
-        "Blue moon chestplate": [
+        "Blue Moon chestplate": [
           29013,
           29037,
           29058
@@ -838,7 +848,7 @@
           4877,
           4878
         ],
-        "Blue moon tassets": [
+        "Blue Moon tassets": [
           29016,
           29039,
           29061
@@ -1259,8 +1269,8 @@
         "Rune crossbow": [
           9185
         ],
-        "Eclipse atlatl": [
-          29000
+        "Belle's folly": [
+          31248
         ]
       }
     ],
@@ -1291,15 +1301,17 @@
           25865,
           25867
         ],
-        "Eclipse atlatl": [
-          29000
-        ],
         "Toxic blowpipe": [
           12924,
           12926
-        ],
+        ]
+      },
+      {
         "Osmumten's fang": [
           26219
+        ],
+        "Eclipse atlatl": [
+          29000
         ]
       },
       {
@@ -1492,9 +1504,6 @@
         ],
         "Zaryte crossbow": [
           26374
-        ],
-        "Eclipse atlatl": [
-          29000
         ]
       },
       {
@@ -1509,6 +1518,9 @@
       {
         "Rune crossbow": [
           9185
+        ],
+        "Eclipse atlatl": [
+          29000
         ]
       }
     ],

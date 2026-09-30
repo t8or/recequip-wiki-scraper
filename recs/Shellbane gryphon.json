@@ -189,6 +189,9 @@
         ]
       },
       {
+        "Dragon sword": [
+          21009
+        ],
         "Arkan blade": [
           30955
         ],
@@ -539,7 +542,7 @@
         ]
       },
       {
-        "Blood moon chestplate": [
+        "Blood Moon chestplate": [
           29022,
           29043,
           29067
@@ -573,7 +576,7 @@
         ]
       },
       {
-        "Blood moon tassets": [
+        "Blood Moon tassets": [
           29025,
           29045,
           29070
@@ -583,7 +586,7 @@
         "Obsidian platelegs": [
           21304
         ],
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052

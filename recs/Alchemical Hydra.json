@@ -51,6 +51,12 @@
       {
         "Necklace of rupture": [
           33639
+        ],
+        "Bonecrusher necklace": [
+          22986
+        ],
+        "Dragonbone necklace": [
+          22111
         ]
       },
       {
@@ -59,8 +65,8 @@
         ]
       },
       {
-        "Dragonbone necklace": [
-          22111
+        "Necklace of Fangs": [
+          34401
         ]
       },
       {
@@ -146,7 +152,7 @@
           33023,
           33025
         ],
-        "Eclipse moon chestplate": [
+        "Eclipse Moon chestplate": [
           29004,
           29031,
           29049
@@ -195,7 +201,7 @@
           33027,
           33029
         ],
-        "Eclipse moon tassets": [
+        "Eclipse Moon tassets": [
           29007,
           29033,
           29052
@@ -275,33 +281,26 @@
     ],
     "ammo": [
       {
+        "Seeking dragon arrow": [
+          33595
+        ],
+        "Ruby dragon bolts (e)": [
+          21944
+        ],
+        "Rada's blessing 4": [
+          22947
+        ]
+      },
+      {
         "Dragon arrow": [
           11212,
           11227,
           11228,
           11229
         ],
-        "Ruby dragon bolts (e)": [
-          21944
-        ]
-      },
-      {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
-        ],
         "Ruby bolts (e)": [
           9242
-        ]
-      },
-      {
-        "Rada's blessing 4": [
-          22947
-        ]
-      },
-      {
+        ],
         "Blessing": [
           20220,
           20223,
@@ -313,7 +312,22 @@
           22943,
           22945,
           22947
-        ],
+        ]
+      },
+      {
+        "Seeking amethyst arrow": [
+          33589
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ]
+      },
+      {
         "Atlatl dart": [
           28991
         ]
