@@ -62,6 +62,13 @@ accepted mappings or querying individual Wiki pages.
 Source-parser anomalies, including some mixed-state item pages and cape IDs in an
 Arrows table, remain separate issues. This release preserves those original IDs and
 constrains further expansion; it does not claim to repair all source parsing.
+The published plugin selects the first eligible matching item in bank order within
+each recommendation. Accepted ID array order does not prioritize owned matches by
+stats or poison strength. For example, a normal Dragon dagger can be selected ahead
+of an owned Dragon dagger(p++) when both IDs are accepted. This existing behavior
+was verified in `BankTab.createPartialSection` at the published plugin checkpoint
+above; compatibility tests do not establish strongest-owned-item selection.
+
 The published plugin also retains its existing duplicate-icon and missing-alternative
 behavior. Optional plugin fixes are outside this scraper release.
 

@@ -128,6 +128,24 @@ Applying a narrower mapping to already-expanded output cannot remove old IDs. Ru
 normal scraper first (or replay recorded Wiki responses), then apply the narrowed mapping
 and review the removals. Do not silently remove IDs that originated in the Wiki itself.
 
+### How the published plugin selects an owned item
+
+**The published plugin selects the first matching item in bank order.** Within a
+single recommendation's accepted ID list, it scans eligible bank item widgets and
+uses the first match. It does not rank owned matches by stats, poison strength, or
+their position in the scraper's ID array. Reordering those IDs therefore does not
+make a stronger owned variant take priority.
+
+For example, if a recommendation accepts both a normal Dragon dagger and a
+Dragon dagger(p++), the normal dagger can be selected first when both are banked.
+An accepted ID list defines which items qualify, not which owned item is preferred.
+The Wiki's order of separate recommendations remains a different concern.
+
+This behavior was verified against published plugin commit
+`e7c64ece0a83c49f98b25cdc57c34f7ee3f641cb` in
+[`BankTab.createPartialSection`](https://github.com/t8or/runelite-recommended-equipment/blob/e7c64ece0a83c49f98b25cdc57c34f7ee3f641cb/src/main/java/com/adamk33n3r/runelite/recommendedequipment/banktab/BankTab.java).
+The scraper-only release does not change this selection behavior.
+
 ### Missing-item display icons
 
 Expansion preserves the original first Wiki ID and appends reviewed variants. Thus
