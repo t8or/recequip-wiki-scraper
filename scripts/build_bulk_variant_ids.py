@@ -63,7 +63,7 @@ def discover(items: list[dict], entries: list[dict], search: re.Pattern) -> list
             'id': item['id'], 'name': name, 'config_name': config,
             'equipable': any(a in ('Wear', 'Wield', 'Equip') for a in actions),
             'missing_from_base_ids': uncovered,
-            'review': 'Verify equal or stronger functionality; names do not establish a match.',
+            'review': 'Verify the same functional tier; names do not establish a match.',
             'lookup': f"https://chisel.weirdgloop.org/moid/item_id.html#{item['id']}",
         })
     return sorted(results, key=lambda row: (row['name'].casefold(), row['id']))

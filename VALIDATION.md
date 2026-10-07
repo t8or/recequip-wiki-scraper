@@ -1,151 +1,69 @@
-> Current policy: preserve independent Wiki choices; same-tier variants only. The later local-trial validation in `../validation/2026-10-07-89f2318/wiki-choices/` supersedes the upgrade-policy results below. Original baseline evidence is retained.
+# Same-tier variant matching validation
 
-# Variant discovery and matching validation
+Validated on 2026-10-07 against scraper production checkpoint
+`89f23186faeba8e31a067580b8d1f99732f2fcae` and published Plugin Hub commit
+`e7c64ece0a83c49f98b25cdc57c34f7ee3f641cb`. Both repositories use `master`.
 
-Validated locally on 2026-10-07. Neither repository was pushed or published.
+## Final behavior
 
-## Deterministic checkpoints
+The Wiki defines recommendation choices and their order. Each named recommendation
+accepts only explicitly reviewed variants of the same functional tier. Attractor,
+accumulator, assembler and quiver remain independent. Ornamented and max-cape
+variants can match their corresponding recommendation; automatic upgrades and
+downgrades are not added. Warm cape additions require separate warmth evidence.
+Oathplate imbued Slayer helmets remain accepted for combat and warm headwear.
 
-- Scraper default branch is `master`, captured at `89f23186faeba8e31a067580b8d1f99732f2fcae`.
-- Plugin default branch is `master`, captured at `e7c64ece0a83c49f98b25cdc57c34f7ee3f641cb`.
-- Fresh unchanged-scraper output is committed separately as `e811436b4faeebd9217a2367913599b8ff2a87f3`.
-- Runtime: Python 3.12.15, mwparserfromhell 0.6.6; Temurin JDK 17.0.20.1+1,
-  Gradle 7.4, RuneLite client 1.13.1. Candidate Java tests used offline dependencies
-  resolved by the successful baseline build.
-- Raw pre-expansion JSON SHA-256: `78398891f47f3925bb56e481b06b6a8973342c1a992cd86d91290ec7c76e5165`.
+The output contract is unchanged: item names map to arrays of integer IDs. Original
+Wiki IDs remain first, so the existing plugin retains each missing item's icon.
+No plugin update, display metadata, or plugin-side ranking is required.
 
-The baseline ran the unchanged scraper and unchanged expansion step from the recorded
-commit. Its 1,171 distinct real Wiki responses were captured once; repeated requests
-reused them. The candidate ran its scraper and changed expansion step using only those
-captured responses. A replay miss fails rather than silently fetching newer data.
-Both raw scraper outputs were byte-identical. Candidate network requests: **0**.
+## Deterministic comparison
 
-Fresh baseline output differs from the default branch's checked-in data in 52 activities.
-That separate baseline-data commit avoids attributing this drift to the new implementation.
-The candidate comparisons below use the fresh baseline, not stale checked-in output.
-
-## Results
+The unchanged scraper's 1,171 distinct Wiki responses were recorded once. Both
+baseline and candidate raw outputs were byte-identical; subsequent comparisons
+reused the recording and made no additional Wiki requests.
 
 | Check | Result |
 |---|---|
 | Activities / loadouts | 84 / 284, unchanged |
-| Recommendation entries compared | 12,353 |
-| Activity, style, slot, tier, and item-name structure | Unchanged |
-| Original Wiki IDs removed | 0 |
-| Recommendation entries changed | 803 |
-| Added ID occurrences | 8,762 |
-| Removed previous expansion ID occurrences | 628 |
-| Changes only to ID ordering | 214 |
-| Aggregate, minified, and per-activity outputs | Consistent |
-| Second application of candidate expansion | Byte-identical across 90 JSON files |
-| Python tests | 8 passed |
-| Plugin baseline compile/test | Passed |
-| Candidate bank placement / JSON contract tests | 5 passed |
-| Runnable plugin JAR | Built successfully |
-| Manual discovery, live catalog and offline catalog | Both succeeded; neither changed mappings |
+| Recommendation entries checked | 12,353 |
+| Activity, style, slot, tier and item-name structure | Unchanged |
+| Original Wiki IDs and their ordering | Preserved |
+| Entries changed versus freshly scraped baseline | 738 |
+| Added ID occurrences versus freshly scraped baseline | 7,239 |
+| Removed previous expansion occurrences | 1,047 |
+| Second expansion | Byte-identical across 90 JSON files |
+| Python regression tests | 9 passed |
+| Published plugin compatibility tests | 5 passed |
 
-The independent comparison checks every candidate ID list against accepted mappings,
-slot constraints, and preference policy. It checks actual JSON structure and original
-IDs, not just file counts. The Python suite additionally exercises overlapping rules,
-incomplete chains, directed upgrades, invalid input, repeat runs, mixed source families,
-slot mistakes, and advisory catalog discovery. Java tests exercise the actual bank
-placement path with in-memory RuneLite widgets: highest owned preference independent
-of bank order, rejection of weaker unaccepted IDs, correct duplicate icons/quantities,
-and missing alternatives after an owned alternative. A fifth test reads actual generated
-cape recommendations through the plugin Gson deserializer, rejects accumulator/attractor
-IDs for an assembler, and selects an owned Dizana’s max cape ahead of an assembler.
+Raw pre-expansion JSON SHA-256:
+`78398891f47f3925bb56e481b06b6a8973342c1a992cd86d91290ec7c76e5165`.
+Validated generated `all.min.json` SHA-256:
+`e574ed8c1f4596f61cf9b04c5b45b379619f73cb3d68d973f556617512c7d46b`.
+The fresh baseline also incorporates ordinary Wiki drift from the prior checked-in
+feed; that drift was recorded separately from the matching changes.
 
-## Reviewed behavior
+The five compatibility tests used the exact published plugin's production source
+(all 41 source/resource files unchanged), RuneLite API 1.13.1, and in-memory bank
+widgets. They covered full-feed parsing, separate cape choices and withdrawals,
+ornamented helmets, warm cape eligibility, and rejection of cross-tier substitutions.
+The user also successfully tested the candidate feed in-game with a local plugin
+build containing additional optional display fixes. The unchanged published plugin
+was tested automatically, not separately in-game.
 
-- 45 imbued Slayer helmet IDs: the original three imbue-source IDs plus 42 verified
-  cosmetic IDs. Non-imbued helmets are not accepted for an imbued recommendation.
-- Corresponding imbued god max capes stay within their god-cape families.
-- Explicit ranged direction: attractor → accumulator → assembler → quiver. No reverse
-  assembler-to-accumulator/attractor relationship. Charged/blessed quivers precede
-  uncharged quivers. Ordinary Max cape is not pooled with all max-cape variants.
-- Reviewed one-way preferences replace previous bidirectional lower-tier acceptance
-  for Elite Void, poisoned daggers, and other existing configured upgrades.
-- Equipment-slot constraints prevent cape expansions in an existing malformed Arrows
-  recommendation. Unrelated mixed-family source lists are not globally ranked or
-  expanded to higher-preference items.
-- Discovery remains a manual report: one catalog download, no Wiki calls, no writes
-  to accepted mappings. Existing workflows and plugin JSON format are retained.
+## Maintenance and limits
 
-Removed baseline expansion IDs by recommendation label:
+Run `python -m unittest discover -s tests -v` and `python apply_variants.py`.
+Both update workflows run the regression suite. Removing mappings requires a fresh
+raw scrape before expansion; already-expanded data cannot identify old additions.
+The discovery helper downloads one catalog and reports candidates without modifying
+accepted mappings or querying individual Wiki pages.
 
-```json
-{
-  "Arrows": [
-    27359,
-    27374,
-    27376
-  ],
-  "Ava's assembler": [
-    27359
-  ],
-  "Crystal pickaxe": [
-    23863,
-    25112
-  ],
-  "Elite void robe": [
-    8840,
-    20469,
-    24179,
-    26465,
-    27001
-  ],
-  "Elite void top": [
-    8839,
-    20465,
-    24177,
-    26463,
-    27000
-  ],
-  "Void knight robe": [
-    20471
-  ],
-  "Void knight top": [
-    20467
-  ]
-}
-```
+Source-parser anomalies, including some mixed-state item pages and cape IDs in an
+Arrows table, remain separate issues. This release preserves those original IDs and
+constrains further expansion; it does not claim to repair all source parsing.
+The published plugin also retains its existing duplicate-icon and missing-alternative
+behavior. Optional plugin fixes are outside this scraper release.
 
-These removals are previous expansions, not IDs scraped directly from the Wiki. They
-include weaker standard Void IDs under Elite recommendations, non-equipable repair
-states, restricted-game pickaxes, and expansions rejected by slot/comparability checks.
-
-## Evidence and repeatability
-
-The local workspace sibling directory `../validation/2026-10-07-89f2318/` contains:
-
-- `checkpoint.json`, immutable baseline checkout, and candidate validation checkout;
-- `run_scrape.py`, `wiki-responses/`, and both raw JSON snapshots;
-- `compare_outputs.py`, `comparison.json` (per-recommendation additions/removals),
-  and `comparison-summary.json`;
-- baseline/candidate request counts and scrape logs;
-- Python, baseline/candidate Java, and packaging logs;
-- `output-sha256.json` and `candidate-second-pass.log`;
-- offline and live manual discovery reports.
-
-To repeat comparison without contacting the Wiki, use Python 3.12 with
-mwparserfromhell 0.6.6 to run `run_scrape.py candidate` and `compare_outputs.py` from
-that evidence directory. The evidence is local and is not part of this repository's
-published source. The normal regression command is:
-
-```sh
-python -m unittest discover -s tests -v
-```
-
-## Limits
-
-This is a deterministic scraper comparison and automated bank-placement validation,
-not a logged-in in-game test. The local JAR still uses the published GitHub feed; the
-new generated recommendations must be published separately before that feed changes.
-No issues were commented on or closed.
-
-The mapping prevents the reviewed downgrade relationships; it cannot establish every
-item's contextual value automatically. Quiver ammunition recovery depends on account
-unlocks. Original Wiki parser IDs are retained, including legacy mixed-family/repair
-state results. The existing Arrows source anomaly is guarded against further expansion,
-not repaired at its source. These limits should be checked in the in-game review and
-any later work on item-page parsing.
+Detailed recorded responses, comparison reports and plugin test artifacts are in the
+local validation workspace and are not required to run the production scraper.

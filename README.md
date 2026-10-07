@@ -132,8 +132,8 @@ and review the removals. Do not silently remove IDs that originated in the Wiki 
 
 Expansion preserves the original first Wiki ID and appends reviewed variants. Thus
 missing icons retain the Wiki's representative item without new display metadata.
-The plugin still supports optional `display_ids` from earlier feeds for compatibility;
-it affects missing icons only, never accepted matches.
+The published plugin can consume this output without an update. No `display_ids`
+metadata or plugin-side ranking is required.
 
 `Warm clothing` cape recommendations retain the Wiki's listed IDs and permit
 additional variants only when their mapping entry explicitly records `warm: true`.
