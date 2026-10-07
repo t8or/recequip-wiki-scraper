@@ -4689,6 +4689,9 @@
           {
             "Occult necklace": [
               12002
+            ],
+            "Amulet of air": [
+              34407
             ]
           },
           {
@@ -4703,15 +4706,6 @@
             "Amulet of the Damned": [
               12851,
               12853
-            ],
-            "Amulet of glory": [
-              1704,
-              1706,
-              1708,
-              1710,
-              1712,
-              11976,
-              11978
             ]
           }
         ],
@@ -26211,6 +26205,12 @@
               31115,
               31113
             ]
+          },
+          {
+            "Sanguinesti Staff": [
+              22481,
+              22323
+            ]
           }
         ],
         "shield": [
@@ -33201,13 +33201,13 @@
         ],
         "weapon": [
           {
-            "Eye of Ayak": [
-              31115,
-              31113
-            ],
             "Tumeken's shadow": [
               27277,
               27275
+            ],
+            "Eye of Ayak": [
+              31115,
+              31113
             ]
           },
           {
@@ -48832,32 +48832,14 @@
             ]
           },
           {
-            "Elder maul": [
-              21003
-            ],
-            "Tonalztics of Ralos": [
-              28919,
-              28922
-            ]
-          },
-          {
-            "Bandos godsword": [
-              11804
-            ],
-            "Dragon warhammer": [
-              13576,
-              28035
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
             "Armadyl crossbow": [
               11785
-            ]
-          },
-          {
-            "Toxic blowpipe": [
-              12924,
-              12926
             ]
           }
         ]
@@ -49234,12 +49216,12 @@
           {
             "Voidwaker": [
               27690
+            ],
+            "Burning claws": [
+              29577
             ]
           },
           {
-            "Burning claws": [
-              29577
-            ],
             "Dragon claws": [
               13652,
               26708,
@@ -49252,6 +49234,9 @@
             ],
             "Bandos godsword": [
               11804
+            ],
+            "Crimson kisten": [
+              33631
             ]
           },
           {
@@ -57103,6 +57088,12 @@
             ],
             "Broad bolts": [
               11875
+            ],
+            "Runite bolts": [
+              9144,
+              9291,
+              9298,
+              9305
             ],
             "Adamant bolts": [
               9143,
@@ -85184,6 +85175,9 @@
               4864,
               4865,
               4866
+            ],
+            "Blue Moon spear": [
+              28988
             ]
           }
         ],
