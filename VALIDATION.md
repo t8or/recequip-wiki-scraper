@@ -1,3 +1,5 @@
+> Current policy: preserve independent Wiki choices; same-tier variants only. The later local-trial validation in `../validation/2026-10-07-89f2318/wiki-choices/` supersedes the upgrade-policy results below. Original baseline evidence is retained.
+
 # Variant discovery and matching validation
 
 Validated locally on 2026-10-07. Neither repository was pushed or published.

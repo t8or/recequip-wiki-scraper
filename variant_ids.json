@@ -2,30 +2,20 @@
   {
     "base_id": 1215,
     "name": "Dragon dagger",
-    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
+    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      1231,
-      5680,
-      5698,
-      28019,
-      28021,
-      28023,
-      28025
+      28019
     ],
-    "preference": 0
+    "tier": 0
   },
   {
     "base_id": 1231,
     "name": "Dragon dagger",
-    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
+    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      5680,
-      5698,
-      28021,
-      28023,
-      28025
+      28021
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 1377,
@@ -72,13 +62,11 @@
   {
     "base_id": 5680,
     "name": "Dragon dagger",
-    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
+    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      5698,
-      28023,
-      28025
+      28023
     ],
-    "preference": 20
+    "tier": 20
   },
   {
     "base_id": 5698,
@@ -87,7 +75,7 @@
     "extra_ids": [
       28025
     ],
-    "preference": 30
+    "tier": 30
   },
   {
     "base_id": 7158,
@@ -100,34 +88,26 @@
   {
     "base_id": 8839,
     "name": "Void knight top / Elite void top",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      13072,
       24177,
-      24178,
       26463,
-      26469,
-      27000,
-      27003
+      27000
     ],
-    "preference": 10,
-    "slot": "body"
+    "slot": "body",
+    "tier": 10
   },
   {
     "base_id": 8840,
     "name": "Void knight robe / Elite void robe",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      13073,
       24179,
-      24180,
       26465,
-      26471,
-      27001,
-      27004
+      27001
     ],
-    "preference": 10,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 10
   },
   {
     "base_id": 8842,
@@ -158,86 +138,47 @@
   {
     "base_id": 10498,
     "name": "Ava's attractor",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
-    "extra_ids": [
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949,
-      22109,
-      24222,
-      27374,
-      27376,
-      21898,
-      24135,
-      27363,
-      27365,
-      10499,
-      13337
-    ],
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
     "slot": "cape"
   },
   {
     "base_id": 10499,
     "name": "Ava's accumulator",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      13337,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949,
-      22109,
-      24222,
-      27374,
-      27376,
-      21898,
-      24135,
-      27363,
-      27365
+      13337
     ],
-    "preference": 10,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 10
   },
   {
     "base_id": 10887,
     "name": "Barrelchest anchor",
-    "note": "Base + Barrelchest anchor (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      27855
-    ],
-    "preference": 0
+    "note": "Base + Barrelchest anchor (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 0
   },
   {
     "base_id": 10888,
     "name": "Barrelchest anchor",
-    "note": "Base + Barrelchest anchor (bh) (Bounty Hunter cosmetic)",
+    "note": "Base + Barrelchest anchor (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      10887,
-      27855
+      10887
     ],
-    "preference": 0
+    "tier": 0
   },
   {
     "base_id": 11235,
     "name": "Dark bow",
-    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic)",
+    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       12765,
       12766,
       12767,
-      12768,
-      27853
+      12768
     ],
-    "preference": 0
+    "tier": 0
   },
   {
     "base_id": 11663,
@@ -1137,54 +1078,50 @@
   {
     "base_id": 12765,
     "name": "Dark bow",
-    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic)",
+    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       11235,
       12766,
       12767,
-      12768,
-      27853
+      12768
     ],
-    "preference": 0
+    "tier": 0
   },
   {
     "base_id": 12766,
     "name": "Dark bow",
-    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic)",
+    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       11235,
       12765,
       12767,
-      12768,
-      27853
+      12768
     ],
-    "preference": 0
+    "tier": 0
   },
   {
     "base_id": 12767,
     "name": "Dark bow",
-    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic)",
+    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       11235,
       12765,
       12766,
-      12768,
-      27853
+      12768
     ],
-    "preference": 0
+    "tier": 0
   },
   {
     "base_id": 12768,
     "name": "Dark bow",
-    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic)",
+    "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       11235,
       12765,
       12766,
-      12767,
-      27853
+      12767
     ],
-    "preference": 0
+    "tier": 0
   },
   {
     "base_id": 12773,
@@ -1209,10 +1146,8 @@
   {
     "base_id": 12791,
     "name": "Rune pouch",
-    "note": "Divine rune pouch is a one-way upgrade",
-    "extra_ids": [
-      27281
-    ]
+    "note": "Divine rune pouch is a one-way upgrade Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": []
   },
   {
     "base_id": 13072,
@@ -1223,8 +1158,8 @@
       26469,
       27003
     ],
-    "preference": 20,
-    "slot": "body"
+    "slot": "body",
+    "tier": 20
   },
   {
     "base_id": 13073,
@@ -1235,8 +1170,8 @@
       26471,
       27004
     ],
-    "preference": 20,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 20
   },
   {
     "base_id": 13241,
@@ -1247,7 +1182,7 @@
       25066,
       25371
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 13242,
@@ -1258,87 +1193,45 @@
       25066,
       25371
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 13265,
     "name": "Abyssal dagger",
-    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      13267,
-      13269,
-      13271,
-      27861,
-      27863,
-      27865,
-      27867
-    ],
-    "preference": 0
+    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 0
   },
   {
     "base_id": 13267,
     "name": "Abyssal dagger",
-    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      13269,
-      13271,
-      27861,
-      27863,
-      27865,
-      27867
-    ],
-    "preference": 10
+    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 10
   },
   {
     "base_id": 13269,
     "name": "Abyssal dagger",
-    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      13271,
-      27861,
-      27863,
-      27865,
-      27867
-    ],
-    "preference": 20
+    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 20
   },
   {
     "base_id": 13271,
     "name": "Abyssal dagger",
-    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      27861,
-      27863,
-      27865,
-      27867
-    ],
-    "preference": 30
+    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 30
   },
   {
     "base_id": 13337,
     "name": "Ava's accumulator",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      10499,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949,
-      22109,
-      24222,
-      27374,
-      27376,
-      21898,
-      24135,
-      27363,
-      27365
+      10499
     ],
-    "preference": 10,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 10
   },
   {
     "base_id": 13576,
@@ -3676,19 +3569,15 @@
   {
     "base_id": 20465,
     "name": "Void knight top / Elite void top",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       8839,
-      13072,
       24177,
-      24178,
       26463,
-      26469,
-      27000,
-      27003
+      27000
     ],
-    "preference": 10,
-    "slot": "body"
+    "slot": "body",
+    "tier": 10
   },
   {
     "base_id": 20467,
@@ -3700,25 +3589,21 @@
       26469,
       27003
     ],
-    "preference": 20,
-    "slot": "body"
+    "slot": "body",
+    "tier": 20
   },
   {
     "base_id": 20469,
     "name": "Void knight robe / Elite void robe",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       8840,
-      13073,
       24179,
-      24180,
       26465,
-      26471,
-      27001,
-      27004
+      27001
     ],
-    "preference": 10,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 10
   },
   {
     "base_id": 20471,
@@ -3730,8 +3615,8 @@
       26471,
       27004
     ],
-    "preference": 20,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 20
   },
   {
     "base_id": 20475,
@@ -4310,7 +4195,7 @@
   {
     "base_id": 21898,
     "name": "Ava's assembler",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       22109,
       24222,
@@ -4318,18 +4203,10 @@
       27376,
       24135,
       27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
+      27365
     ],
-    "preference": 20,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 20
   },
   {
     "base_id": 21902,
@@ -4342,55 +4219,21 @@
   {
     "base_id": 21914,
     "name": "Ava's assembler (repair state)",
-    "extra_ids": [
-      22109,
-      24222,
-      27374,
-      27376,
-      21898,
-      24135,
-      27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
-    ],
+    "extra_ids": [],
     "slot": "cape",
-    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms. Cross-tier substitutions removed; preserve separate Wiki choices."
   },
   {
     "base_id": 21916,
     "name": "Ava's assembler (repair state)",
-    "extra_ids": [
-      22109,
-      24222,
-      27374,
-      27376,
-      21898,
-      24135,
-      27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
-    ],
+    "extra_ids": [],
     "slot": "cape",
-    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms. Cross-tier substitutions removed; preserve separate Wiki choices."
   },
   {
     "base_id": 22109,
     "name": "Ava's assembler",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       24222,
       27374,
@@ -4398,18 +4241,10 @@
       21898,
       24135,
       27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
+      27365
     ],
-    "preference": 20,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 20
   },
   {
     "base_id": 23075,
@@ -4478,7 +4313,7 @@
     "extra_ids": [
       23682
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23682,
@@ -4487,7 +4322,7 @@
     "extra_ids": [
       23680
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23863,
@@ -4497,7 +4332,7 @@
       23680,
       23682
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23971,
@@ -4522,7 +4357,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23973,
@@ -4547,7 +4382,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23975,
@@ -4572,7 +4407,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23977,
@@ -4597,7 +4432,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23979,
@@ -4622,7 +4457,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23981,
@@ -4647,32 +4482,30 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23995,
     "name": "Blade of saeldor",
-    "note": "Inactive/active + corrupted (c)",
+    "note": "Inactive/active + corrupted (c) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      23997,
-      24551
+      23997
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 23997,
     "name": "Blade of saeldor",
-    "note": "Inactive/active + corrupted (c)",
+    "note": "Inactive/active + corrupted (c) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      23995,
-      24551
+      23995
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 24135,
     "name": "Ava's assembler",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       22109,
       24222,
@@ -4680,34 +4513,22 @@
       27376,
       21898,
       27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
+      27365
     ],
-    "preference": 20,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 20
   },
   {
     "base_id": 24177,
     "name": "Void knight top / Elite void top",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       8839,
-      13072,
-      24178,
       26463,
-      26469,
-      27000,
-      27003
+      27000
     ],
-    "preference": 10,
-    "slot": "body"
+    "slot": "body",
+    "tier": 10
   },
   {
     "base_id": 24178,
@@ -4718,24 +4539,20 @@
       26469,
       27003
     ],
-    "preference": 20,
-    "slot": "body"
+    "slot": "body",
+    "tier": 20
   },
   {
     "base_id": 24179,
     "name": "Void knight robe / Elite void robe",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       8840,
-      13073,
-      24180,
       26465,
-      26471,
-      27001,
-      27004
+      27001
     ],
-    "preference": 10,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 10
   },
   {
     "base_id": 24180,
@@ -4746,8 +4563,8 @@
       26471,
       27004
     ],
-    "preference": 20,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 20
   },
   {
     "base_id": 24182,
@@ -4792,7 +4609,7 @@
   {
     "base_id": 24222,
     "name": "Ava's assembler",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       22109,
       27374,
@@ -4800,18 +4617,10 @@
       21898,
       24135,
       27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
+      27365
     ],
-    "preference": 20,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 20
   },
   {
     "base_id": 24232,
@@ -4936,7 +4745,7 @@
     "name": "Blade of saeldor",
     "note": "Inactive/active + corrupted (c)",
     "extra_ids": [],
-    "preference": 20
+    "tier": 20
   },
   {
     "base_id": 24743,
@@ -5307,7 +5116,7 @@
       13242,
       25371
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 25069,
@@ -5677,7 +5486,7 @@
       23680,
       23682
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 25177,
@@ -6533,34 +6342,32 @@
       13242,
       25066
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 25862,
     "name": "Bow of faerdhinen",
-    "note": "Inactive/active + corrupted (c)",
+    "note": "Inactive/active + corrupted (c) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      25865,
-      25867
+      25865
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 25865,
     "name": "Bow of faerdhinen",
-    "note": "Inactive/active + corrupted (c)",
+    "note": "Inactive/active + corrupted (c) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      25862,
-      25867
+      25862
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 25867,
     "name": "Bow of faerdhinen",
     "note": "Inactive/active + corrupted (c)",
     "extra_ids": [],
-    "preference": 20
+    "tier": 20
   },
   {
     "base_id": 25900,
@@ -6877,11 +6684,8 @@
   {
     "base_id": 25985,
     "name": "Elidinis' ward",
-    "note": "Fortified (f) and ornament (or) variants",
-    "extra_ids": [
-      27251,
-      27253
-    ]
+    "note": "Fortified (f) and ornament (or) variants Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": []
   },
   {
     "base_id": 26376,
@@ -6891,7 +6695,7 @@
       26382,
       28254
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 26378,
@@ -6901,7 +6705,7 @@
       26384,
       28256
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 26380,
@@ -6911,7 +6715,7 @@
       26386,
       28258
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 26382,
@@ -6921,7 +6725,7 @@
       26376,
       28254
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 26384,
@@ -6931,7 +6735,7 @@
       26378,
       28256
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 26386,
@@ -6941,39 +6745,31 @@
       26380,
       28258
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 26463,
     "name": "Void knight top / Elite void top",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       8839,
-      13072,
       24177,
-      24178,
-      26469,
-      27000,
-      27003
+      27000
     ],
-    "preference": 10,
-    "slot": "body"
+    "slot": "body",
+    "tier": 10
   },
   {
     "base_id": 26465,
     "name": "Void knight robe / Elite void robe",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       8840,
-      13073,
       24179,
-      24180,
-      26471,
-      27001,
-      27004
+      27001
     ],
-    "preference": 10,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 10
   },
   {
     "base_id": 26467,
@@ -6994,8 +6790,8 @@
       24178,
       27003
     ],
-    "preference": 20,
-    "slot": "body"
+    "slot": "body",
+    "tier": 20
   },
   {
     "base_id": 26471,
@@ -7006,8 +6802,8 @@
       24180,
       27004
     ],
-    "preference": 20,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 20
   },
   {
     "base_id": 26473,
@@ -8070,34 +7866,26 @@
   {
     "base_id": 27000,
     "name": "Void knight top / Elite void top",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       8839,
-      13072,
       24177,
-      24178,
-      26463,
-      26469,
-      27003
+      26463
     ],
-    "preference": 10,
-    "slot": "body"
+    "slot": "body",
+    "tier": 10
   },
   {
     "base_id": 27001,
     "name": "Void knight robe / Elite void robe",
-    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
+    "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       8840,
-      13073,
       24179,
-      24180,
-      26465,
-      26471,
-      27004
+      26465
     ],
-    "preference": 10,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 10
   },
   {
     "base_id": 27002,
@@ -8118,8 +7906,8 @@
       24178,
       26469
     ],
-    "preference": 20,
-    "slot": "body"
+    "slot": "body",
+    "tier": 20
   },
   {
     "base_id": 27004,
@@ -8130,8 +7918,8 @@
       24180,
       26471
     ],
-    "preference": 20,
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 20
   },
   {
     "base_id": 27005,
@@ -8170,7 +7958,7 @@
     "extra_ids": [
       27253
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27253,
@@ -8179,67 +7967,33 @@
     "extra_ids": [
       27251
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27281,
     "name": "Divine rune pouch",
     "note": "Existing one-way Rune pouch upgrade; never return to the base pouch",
     "extra_ids": [],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27359,
     "name": "Ava's assembler (repair state)",
-    "extra_ids": [
-      22109,
-      24222,
-      27374,
-      27376,
-      21898,
-      24135,
-      27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
-    ],
+    "extra_ids": [],
     "slot": "cape",
-    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms. Cross-tier substitutions removed; preserve separate Wiki choices."
   },
   {
     "base_id": 27361,
     "name": "Ava's assembler (repair state)",
-    "extra_ids": [
-      22109,
-      24222,
-      27374,
-      27376,
-      21898,
-      24135,
-      27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
-    ],
+    "extra_ids": [],
     "slot": "cape",
-    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms. Cross-tier substitutions removed; preserve separate Wiki choices."
   },
   {
     "base_id": 27363,
     "name": "Ava's assembler",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Warmth verified for Masori assembler max cape (including locked): all max cape variants count as warm. https://oldschool.runescape.wiki/w/Max_cape#Variants Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       22109,
       24222,
@@ -8247,23 +8001,16 @@
       27376,
       21898,
       24135,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
+      27365
     ],
-    "preference": 20,
-    "slot": "cape"
+    "slot": "cape",
+    "warm": true,
+    "tier": 20
   },
   {
     "base_id": 27365,
     "name": "Ava's assembler",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Warmth verified for Masori assembler max cape (including locked): all max cape variants count as warm. https://oldschool.runescape.wiki/w/Max_cape#Variants Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       22109,
       24222,
@@ -8271,23 +8018,16 @@
       27376,
       21898,
       24135,
-      27363,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
+      27363
     ],
-    "preference": 20,
-    "slot": "cape"
+    "slot": "cape",
+    "warm": true,
+    "tier": 20
   },
   {
     "base_id": 27374,
     "name": "Ava's assembler",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       22109,
       24222,
@@ -8295,23 +8035,15 @@
       21898,
       24135,
       27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
+      27365
     ],
-    "preference": 20,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 20
   },
   {
     "base_id": 27376,
     "name": "Ava's assembler",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
       22109,
       24222,
@@ -8319,18 +8051,10 @@
       21898,
       24135,
       27363,
-      27365,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906,
-      28947,
-      28949
+      27365
     ],
-    "preference": 20,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 20
   },
   {
     "base_id": 27444,
@@ -8715,7 +8439,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27699,
@@ -8740,7 +8464,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27701,
@@ -8765,7 +8489,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27703,
@@ -8790,7 +8514,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27705,
@@ -8815,7 +8539,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27707,
@@ -8840,7 +8564,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27709,
@@ -8865,7 +8589,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27711,
@@ -8890,7 +8614,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27713,
@@ -8915,7 +8639,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27715,
@@ -8940,7 +8664,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27717,
@@ -8965,7 +8689,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27719,
@@ -8990,7 +8714,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27721,
@@ -9015,7 +8739,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27723,
@@ -9040,7 +8764,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27725,
@@ -9065,7 +8789,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27727,
@@ -9090,7 +8814,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27729,
@@ -9115,7 +8839,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27731,
@@ -9140,7 +8864,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27733,
@@ -9165,7 +8889,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27735,
@@ -9190,7 +8914,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27737,
@@ -9215,7 +8939,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27739,
@@ -9240,7 +8964,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27741,
@@ -9265,7 +8989,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27743,
@@ -9290,7 +9014,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27745,
@@ -9315,7 +9039,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27747,
@@ -9340,7 +9064,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27749,
@@ -9365,7 +9089,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27751,
@@ -9390,7 +9114,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27753,
@@ -9415,7 +9139,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27755,
@@ -9440,7 +9164,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27757,
@@ -9465,7 +9189,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27759,
@@ -9490,7 +9214,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27761,
@@ -9515,7 +9239,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27763,
@@ -9540,7 +9264,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27765,
@@ -9565,7 +9289,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27767,
@@ -9590,7 +9314,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27769,
@@ -9615,7 +9339,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27771,
@@ -9640,7 +9364,7 @@
       33023,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27773,
@@ -9665,7 +9389,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27775,
@@ -9690,7 +9414,7 @@
       33027,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27777,
@@ -9715,7 +9439,7 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27779,
@@ -9740,97 +9464,76 @@
       33031,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 27853,
     "name": "Dark bow",
     "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [],
-    "preference": 40
+    "tier": 40
   },
   {
     "base_id": 27855,
     "name": "Barrelchest anchor",
     "note": "Base + Barrelchest anchor (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [],
-    "preference": 40
+    "tier": 40
   },
   {
     "base_id": 27861,
     "name": "Abyssal dagger",
-    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      27863,
-      27865,
-      27867
-    ],
-    "preference": 40
+    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 40
   },
   {
     "base_id": 27863,
     "name": "Abyssal dagger",
-    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      27865,
-      27867
-    ],
-    "preference": 50
+    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 50
   },
   {
     "base_id": 27865,
     "name": "Abyssal dagger",
-    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      27867
-    ],
-    "preference": 60
+    "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 60
   },
   {
     "base_id": 27867,
     "name": "Abyssal dagger",
     "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [],
-    "preference": 70
+    "tier": 70
   },
   {
     "base_id": 28019,
     "name": "Dragon dagger",
-    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
+    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      1215,
-      1231,
-      5680,
-      5698,
-      28021,
-      28023,
-      28025
+      1215
     ],
-    "preference": 0
+    "tier": 0
   },
   {
     "base_id": 28021,
     "name": "Dragon dagger",
-    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
+    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      1231,
-      5680,
-      5698,
-      28023,
-      28025
+      1231
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 28023,
     "name": "Dragon dagger",
-    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
+    "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic) Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      5680,
-      5698,
-      28025
+      5680
     ],
-    "preference": 20
+    "tier": 20
   },
   {
     "base_id": 28025,
@@ -9839,7 +9542,7 @@
     "extra_ids": [
       5698
     ],
-    "preference": 30
+    "tier": 30
   },
   {
     "base_id": 28027,
@@ -9922,7 +9625,7 @@
       26376,
       26382
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 28256,
@@ -9932,7 +9635,7 @@
       26378,
       26384
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 28258,
@@ -9942,27 +9645,27 @@
       26380,
       26386
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 28826,
     "name": "Dizana's quiver (charged or blessed) (repair state)",
-    "extra_ids": [
-      28955,
-      28951,
-      28953,
-      28957,
-      28902,
-      28906
-    ],
+    "extra_ids": [],
     "slot": "cape",
-    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms. Cross-tier substitutions removed; preserve separate Wiki choices."
   },
   {
     "base_id": 28830,
     "name": "Dizana's quiver (charged or blessed) (repair state)",
+    "extra_ids": [],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms. Cross-tier substitutions removed; preserve separate Wiki choices."
+  },
+  {
+    "base_id": 28902,
+    "name": "Dizana's quiver (charged or blessed)",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
     "extra_ids": [
-      28902,
       28951,
       28953,
       28955,
@@ -9970,26 +9673,12 @@
       28906
     ],
     "slot": "cape",
-    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
-  },
-  {
-    "base_id": 28902,
-    "name": "Dizana's quiver (charged or blessed)",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
-    "extra_ids": [
-      28951,
-      28953,
-      28955,
-      28957,
-      28906
-    ],
-    "preference": 40,
-    "slot": "cape"
+    "tier": 40
   },
   {
     "base_id": 28906,
     "name": "Dizana's quiver (charged or blessed)",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
     "extra_ids": [
       28951,
       28953,
@@ -9997,45 +9686,33 @@
       28957,
       28902
     ],
-    "preference": 40,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 40
   },
   {
     "base_id": 28947,
     "name": "Dizana's quiver (uncharged)",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      28949,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906
+      28949
     ],
-    "preference": 30,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 30
   },
   {
     "base_id": 28949,
     "name": "Dizana's quiver (uncharged)",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver Cross-tier substitutions removed; preserve separate Wiki choices.",
     "extra_ids": [
-      28947,
-      28951,
-      28953,
-      28955,
-      28957,
-      28902,
-      28906
+      28947
     ],
-    "preference": 30,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 30
   },
   {
     "base_id": 28951,
     "name": "Dizana's quiver (charged or blessed)",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
     "extra_ids": [
       28953,
       28955,
@@ -10043,13 +9720,13 @@
       28902,
       28906
     ],
-    "preference": 40,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 40
   },
   {
     "base_id": 28953,
     "name": "Dizana's quiver (charged or blessed)",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
     "extra_ids": [
       28951,
       28955,
@@ -10057,13 +9734,13 @@
       28902,
       28906
     ],
-    "preference": 40,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 40
   },
   {
     "base_id": 28955,
     "name": "Dizana's quiver (charged or blessed)",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
     "extra_ids": [
       28951,
       28953,
@@ -10071,13 +9748,13 @@
       28902,
       28906
     ],
-    "preference": 40,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 40
   },
   {
     "base_id": 28957,
     "name": "Dizana's quiver (charged or blessed)",
-    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "note": "Reviewed variants of this ranged cape tier only; no cross-tier upgrades. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
     "extra_ids": [
       28951,
       28953,
@@ -10085,8 +9762,8 @@
       28902,
       28906
     ],
-    "preference": 40,
-    "slot": "cape"
+    "slot": "cape",
+    "tier": 40
   },
   {
     "base_id": 29022,
@@ -10095,7 +9772,7 @@
     "extra_ids": [
       29043
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 29025,
@@ -10104,7 +9781,7 @@
     "extra_ids": [
       29045
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 29028,
@@ -10113,7 +9790,7 @@
     "extra_ids": [
       29047
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 29043,
@@ -10122,7 +9799,7 @@
     "extra_ids": [
       29022
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 29045,
@@ -10131,7 +9808,7 @@
     "extra_ids": [
       29025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 29047,
@@ -10140,37 +9817,28 @@
     "extra_ids": [
       29028
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 29067,
     "name": "Blood moon chestplate",
-    "note": "Blood moon armour recolors (all versions)",
-    "extra_ids": [
-      29022,
-      29043
-    ],
-    "preference": 0
+    "note": "Blood moon armour recolors (all versions) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 0
   },
   {
     "base_id": 29070,
     "name": "Blood moon tassets",
-    "note": "Blood moon armour recolors (all versions)",
-    "extra_ids": [
-      29025,
-      29045
-    ],
-    "preference": 0
+    "note": "Blood moon armour recolors (all versions) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 0
   },
   {
     "base_id": 29073,
     "name": "Blood moon helm",
-    "note": "Blood moon armour recolors (all versions)",
-    "extra_ids": [
-      29028,
-      29047
-    ],
-    "preference": 0
+    "note": "Blood moon armour recolors (all versions) Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "extra_ids": [],
+    "tier": 0
   },
   {
     "base_id": 29818,
@@ -10759,7 +10427,7 @@
       27771,
       33025
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 33025,
@@ -10784,7 +10452,7 @@
       27771,
       33023
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 33027,
@@ -10809,7 +10477,7 @@
       27775,
       33029
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 33029,
@@ -10834,7 +10502,7 @@
       27775,
       33027
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 33031,
@@ -10859,7 +10527,7 @@
       27779,
       33033
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 33033,
@@ -10884,7 +10552,7 @@
       27779,
       33031
     ],
-    "preference": 10
+    "tier": 10
   },
   {
     "base_id": 33068,
@@ -11359,34 +11027,26 @@
     "name": "Void knight top / Elite void top",
     "extra_ids": [
       8839,
-      13072,
       24177,
-      24178,
       26463,
-      26469,
-      27000,
-      27003
+      27000
     ],
-    "preference": 10,
-    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
-    "slot": "body"
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07. Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "slot": "body",
+    "tier": 10
   },
   {
     "base_id": 33478,
     "name": "Void knight top / Elite void top",
     "extra_ids": [
       8839,
-      13072,
       24177,
-      24178,
       26463,
-      26469,
-      27000,
-      27003
+      27000
     ],
-    "preference": 10,
-    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
-    "slot": "body"
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07. Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "slot": "body",
+    "tier": 10
   },
   {
     "base_id": 33480,
@@ -11397,9 +11057,9 @@
       26469,
       27003
     ],
-    "preference": 20,
     "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
-    "slot": "body"
+    "slot": "body",
+    "tier": 20
   },
   {
     "base_id": 33482,
@@ -11410,43 +11070,35 @@
       26469,
       27003
     ],
-    "preference": 20,
     "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
-    "slot": "body"
+    "slot": "body",
+    "tier": 20
   },
   {
     "base_id": 33484,
     "name": "Void knight robe / Elite void robe",
     "extra_ids": [
       8840,
-      13073,
       24179,
-      24180,
       26465,
-      26471,
-      27001,
-      27004
+      27001
     ],
-    "preference": 10,
-    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
-    "slot": "legs"
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07. Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "slot": "legs",
+    "tier": 10
   },
   {
     "base_id": 33486,
     "name": "Void knight robe / Elite void robe",
     "extra_ids": [
       8840,
-      13073,
       24179,
-      24180,
       26465,
-      26471,
-      27001,
-      27004
+      27001
     ],
-    "preference": 10,
-    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
-    "slot": "legs"
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07. Cross-tier substitutions removed; preserve separate Wiki choices.",
+    "slot": "legs",
+    "tier": 10
   },
   {
     "base_id": 33488,
@@ -11457,9 +11109,9 @@
       26471,
       27004
     ],
-    "preference": 20,
     "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 20
   },
   {
     "base_id": 33490,
@@ -11470,36 +11122,22 @@
       26471,
       27004
     ],
-    "preference": 20,
     "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
-    "slot": "legs"
+    "slot": "legs",
+    "tier": 20
   },
   {
     "base_id": 33532,
     "name": "Dizana's quiver (charged or blessed) (repair state)",
-    "extra_ids": [
-      28902,
-      28951,
-      28953,
-      28955,
-      28957,
-      28906
-    ],
+    "extra_ids": [],
     "slot": "cape",
-    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms. Cross-tier substitutions removed; preserve separate Wiki choices."
   },
   {
     "base_id": 33533,
     "name": "Dizana's quiver (charged or blessed) (repair state)",
-    "extra_ids": [
-      28902,
-      28951,
-      28953,
-      28955,
-      28957,
-      28906
-    ],
+    "extra_ids": [],
     "slot": "cape",
-    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms. Cross-tier substitutions removed; preserve separate Wiki choices."
   }
 ]
