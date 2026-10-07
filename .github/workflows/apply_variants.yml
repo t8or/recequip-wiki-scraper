@@ -21,6 +21,8 @@ jobs:
     - uses: actions/setup-python@v5
       with:
         python-version: '3.12'
+    - name: Test variant matching
+      run: python -m unittest discover -s tests -v
     - name: Apply variant IDs
       run: |
         python apply_variants.py

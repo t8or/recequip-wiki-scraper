@@ -12,7 +12,10 @@ Writes:
     recs/all.min.json      -- updated (minified)
     recs/<Activity>.json   -- updated per-activity files
 
-The script is idempotent: running it twice will not double-add IDs.
+The script is idempotent: running it twice produces identical output.
+Mappings explicitly list all accepted substitutions; chains are validated, not inferred.
+Optional tier values validate that mappings never cross equipment tiers.
+Wiki recommendation order and original representative IDs are preserved.
 
 Design notes:
     - Matching is done on base_id (integer), never on item name strings.
@@ -39,10 +42,10 @@ SLOT_KEYS = [
 ]
 
 
-def load_variant_ids(path: str) -> dict[int, list[int]]:
+def load_variant_ids(path: str) -> tuple[dict[int, list[int]], dict[int, str], set[int]]:
     """Load and validate variant_ids.json.
 
-    Returns a dict mapping base_id -> list of extra_ids.
+    Returns substitutions, slot constraints, and explicitly verified warm IDs.
     Raises SystemExit on validation errors.
     """
     try:
@@ -60,6 +63,9 @@ def load_variant_ids(path: str) -> dict[int, list[int]]:
         sys.exit(1)
 
     lookup: dict[int, list[int]] = {}
+    tiers: dict[int, int] = {}
+    slots: dict[int, str] = {}
+    warm_ids: set[int] = set()
     for i, entry in enumerate(entries):
         if not isinstance(entry, dict):
             print(f"ERROR: Entry {i} in {path} is not an object.", file=sys.stderr)
@@ -71,14 +77,14 @@ def load_variant_ids(path: str) -> dict[int, list[int]]:
                     file=sys.stderr,
                 )
                 sys.exit(1)
-        if not isinstance(entry["base_id"], int):
+        if type(entry["base_id"]) is not int or entry["base_id"] <= 0:
             print(
                 f"ERROR: Entry {i} in {path}: 'base_id' must be an integer.",
                 file=sys.stderr,
             )
             sys.exit(1)
         if not isinstance(entry["extra_ids"], list) or not all(
-            isinstance(x, int) for x in entry["extra_ids"]
+            type(x) is int and x > 0 for x in entry["extra_ids"]
         ):
             print(
                 f"ERROR: Entry {i} in {path}: 'extra_ids' must be a list of integers.",
@@ -88,13 +94,39 @@ def load_variant_ids(path: str) -> dict[int, list[int]]:
         base_id: int = entry["base_id"]
         if base_id in lookup:
             print(
-                f"WARNING: Duplicate base_id {base_id} in {path}; later entry ignored.",
+                f"ERROR: Duplicate base_id {base_id} in {path}.",
                 file=sys.stderr,
             )
-            continue
-        lookup[base_id] = list(entry["extra_ids"])
+            sys.exit(1)
+        tier = entry.get("tier", 0)
+        if "preference" in entry or type(tier) is not int or tier < 0:
+            raise SystemExit(f"ERROR: Invalid tier or obsolete preference for {base_id} in {path}.")
+        if 'slot' in entry:
+            if entry['slot'] not in SLOT_KEYS:
+                raise SystemExit(f"ERROR: Invalid equipment slot for {base_id}.")
+            slots[base_id] = entry['slot']
+        tiers[base_id] = tier
+        if 'warm' in entry:
+            if type(entry['warm']) is not bool:
+                raise SystemExit(f"ERROR: Invalid warmth property for {base_id}.")
+            if entry['warm']:
+                warm_ids.add(base_id)
+        lookup[base_id] = list(dict.fromkeys(entry["extra_ids"]))
 
-    return lookup
+    # Accepted relationships must be explicit and complete. This makes replay
+    # stable without inventing transitive equipment equivalence at runtime.
+    for base_id, extra_ids in lookup.items():
+        accepted = {base_id, *extra_ids}
+        for item_id in extra_ids:
+            if tiers.get(item_id, 0) != tiers[base_id]:
+                raise SystemExit(f"ERROR: {base_id} accepts cross-tier item {item_id}.")
+            missing = set(lookup.get(item_id, [])) - accepted
+            if missing:
+                raise SystemExit(
+                    f"ERROR: Incomplete substitutions for {base_id}: {sorted(missing)}. "
+                    "Review and list accepted IDs explicitly."
+                )
+    return lookup, slots, warm_ids
 
 
 def merge_ids(existing_ids: list[int], extra_ids: list[int]) -> tuple[list[int], list[int]]:
@@ -117,12 +149,16 @@ def apply_variants_to_styles(
     styles: list,
     lookup: dict[int, list[int]],
     activity_name: str,
+    slots: dict[int, str] | None = None,
+    warm_ids: set[int] | None = None,
 ) -> list[tuple[str, str, list[int]]]:
     """Walk style objects and apply variant ID expansions in place.
 
     Returns a list of (item_name, slot_key, added_ids) tuples for reporting.
     """
     patches: list[tuple[str, str, list[int]]] = []
+    slots = slots or {}
+    warm_ids = warm_ids or set()
 
     for style in styles:
         for slot_key in SLOT_KEYS:
@@ -135,19 +171,31 @@ def apply_variants_to_styles(
                 for item_name, item_ids in tier_dict.items():
                     if not isinstance(item_ids, list):
                         continue
-                    for base_id, extra_ids in lookup.items():
-                        if base_id in item_ids:
-                            merged, added = merge_ids(item_ids, extra_ids)
-                            if added:
-                                tier_dict[item_name] = merged
-                                patches.append((item_name, slot_key, added))
+                    # Warmth is a separate game property, not a combat tier.
+                    # A max cape's ordinary counterpart need not be warm. Keep
+                    # source capes and require explicit warmth evidence for additions.
+                    # Headwear (including Slayer cosmetics) is unchanged here.
+                    warm_capes = (slot_key == "cape" and
+                                  item_name.partition("#")[0].replace("_", " ").casefold() == "warm clothing")
+                    merged = list(dict.fromkeys(item_ids))
+                    added_ids: list[int] = []
+                    for base_id in item_ids:
+                        if slots.get(base_id, slot_key) != slot_key:
+                            continue
+                        accepted = [item_id for item_id in lookup.get(base_id, [])
+                                    if not warm_capes or item_id in warm_ids]
+                        merged, added = merge_ids(merged, accepted)
+                        added_ids.extend(added)
+                    if merged != item_ids:
+                        tier_dict[item_name] = merged
+                        patches.append((item_name, slot_key, added_ids))
 
     return patches
 
 
 def main() -> None:
     # Load variant_ids.json
-    lookup = load_variant_ids(VARIANT_IDS_PATH)
+    lookup, slots, warm_ids = load_variant_ids(VARIANT_IDS_PATH)
     if not lookup:
         print("No variant entries found in variant_ids.json. Nothing to do.")
         return
@@ -170,7 +218,7 @@ def main() -> None:
     for activity in all_data:
         activity_name = activity.get("name", "<unknown>")
         styles = activity.get("styles", [])
-        patches = apply_variants_to_styles(styles, lookup, activity_name)
+        patches = apply_variants_to_styles(styles, lookup, activity_name, slots, warm_ids)
         for item_name, slot_key, added_ids in patches:
             total_patches.append((activity_name, item_name, slot_key, added_ids))
 
@@ -195,9 +243,10 @@ def main() -> None:
 
     # Print summary
     if total_patches:
-        print(f"Applied {len(total_patches)} variant expansion(s):\n")
+        print(f"Updated {len(total_patches)} recommendation ID list(s):\n")
         for activity_name, item_name, slot_key, added_ids in total_patches:
-            print(f"  [{activity_name}] {item_name} ({slot_key}): added IDs {added_ids}")
+            detail = f"added IDs {added_ids}" if added_ids else "deduplicated IDs"
+            print(f"  [{activity_name}] {item_name} ({slot_key}): {detail}")
     else:
         print("No variant expansions were needed (all extra IDs already present).")
 
