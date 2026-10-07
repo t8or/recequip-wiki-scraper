@@ -10,6 +10,11 @@ alwaysApply: false
 `variant_ids.json` is the only accepted mapping. The manual helper reports candidates
 and never rewrites it. Normal recommendation updates do not perform variant discovery.
 
+The published plugin selects the first eligible matching item in bank order within
+each recommendation. Accepted IDs define membership, not owned-item preference.
+Do not claim that sorting the scraper's ID arrays prioritizes stronger items: their
+first ID controls the missing-item fallback icon, not which owned bank item wins.
+
 1. Discover candidates with `python scripts/build_bulk_variant_ids.py --search '<regex>'`.
    It reads one Weird Gloop catalog; `--catalog <file>` reuses a local download.
 2. Verify each item's functionality and versions using Weird Gloop and Wiki infoboxes.
