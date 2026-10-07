@@ -11,21 +11,21 @@
       28021,
       28023,
       28025
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 1231,
     "name": "Dragon dagger",
     "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      1215,
       5680,
       5698,
-      28019,
       28021,
       28023,
       28025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 1377,
@@ -74,28 +74,20 @@
     "name": "Dragon dagger",
     "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      1215,
-      1231,
       5698,
-      28019,
-      28021,
       28023,
       28025
-    ]
+    ],
+    "preference": 20
   },
   {
     "base_id": 5698,
     "name": "Dragon dagger",
     "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      1215,
-      1231,
-      5680,
-      28019,
-      28021,
-      28023,
       28025
-    ]
+    ],
+    "preference": 30
   },
   {
     "base_id": 7158,
@@ -111,15 +103,15 @@
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
       13072,
-      20465,
-      20467,
       24177,
       24178,
       26463,
       26469,
       27000,
       27003
-    ]
+    ],
+    "preference": 10,
+    "slot": "body"
   },
   {
     "base_id": 8840,
@@ -127,22 +119,21 @@
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
       13073,
-      20469,
-      20471,
       24179,
       24180,
       26465,
       26471,
       27001,
       27004
-    ]
+    ],
+    "preference": 10,
+    "slot": "legs"
   },
   {
     "base_id": 8842,
     "name": "Void knight gloves",
     "note": "Base + (or) Shattered relics void ornament kit",
     "extra_ids": [
-      20475,
       24182,
       26467,
       27002
@@ -165,13 +156,65 @@
     ]
   },
   {
+    "base_id": 10498,
+    "name": "Ava's attractor",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949,
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365,
+      10499,
+      13337
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 10499,
+    "name": "Ava's accumulator",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      13337,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949,
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365
+    ],
+    "preference": 10,
+    "slot": "cape"
+  },
+  {
     "base_id": 10887,
     "name": "Barrelchest anchor",
     "note": "Base + Barrelchest anchor (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      10888,
       27855
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 10888,
@@ -180,7 +223,8 @@
     "extra_ids": [
       10887,
       27855
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 11235,
@@ -192,14 +236,14 @@
       12767,
       12768,
       27853
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 11663,
     "name": "Void mage helm",
     "note": "Mage helm only + (or); not merged with melee/ranger helms",
     "extra_ids": [
-      20477,
       24183,
       26473,
       27005
@@ -210,7 +254,6 @@
     "name": "Void ranger helm",
     "note": "Ranger helm only + (or); not merged with melee/mage helms",
     "extra_ids": [
-      20479,
       24184,
       26475,
       27006
@@ -221,7 +264,6 @@
     "name": "Void melee helm",
     "note": "Melee helm only + (or); not merged with ranger/mage helms",
     "extra_ids": [
-      20481,
       24185,
       26477,
       27007
@@ -1027,11 +1069,54 @@
   {
     "base_id": 11865,
     "name": "Slayer helmet (i)",
-    "note": "Recolor variants (all Slayer helmet (i) IDs)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
     "extra_ids": [
       25177,
-      26674
-    ]
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
   },
   {
     "base_id": 11920,
@@ -1059,7 +1144,8 @@
       12767,
       12768,
       27853
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 12766,
@@ -1071,7 +1157,8 @@
       12767,
       12768,
       27853
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 12767,
@@ -1083,7 +1170,8 @@
       12766,
       12768,
       27853
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 12768,
@@ -1095,7 +1183,8 @@
       12766,
       12767,
       27853
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 12773,
@@ -1130,32 +1219,24 @@
     "name": "Void knight top / Elite void top",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8839,
-      20465,
-      20467,
-      24177,
       24178,
-      26463,
       26469,
-      27000,
       27003
-    ]
+    ],
+    "preference": 20,
+    "slot": "body"
   },
   {
     "base_id": 13073,
     "name": "Void knight robe / Elite void robe",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8840,
-      20469,
-      20471,
-      24179,
       24180,
-      26465,
       26471,
-      27001,
       27004
-    ]
+    ],
+    "preference": 20,
+    "slot": "legs"
   },
   {
     "base_id": 13241,
@@ -1165,7 +1246,8 @@
       13242,
       25066,
       25371
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 13242,
@@ -1175,7 +1257,8 @@
       13241,
       25066,
       25371
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 13265,
@@ -1189,49 +1272,73 @@
       27863,
       27865,
       27867
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 13267,
     "name": "Abyssal dagger",
     "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      13265,
       13269,
       13271,
       27861,
       27863,
       27865,
       27867
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 13269,
     "name": "Abyssal dagger",
     "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      13265,
-      13267,
       13271,
       27861,
       27863,
       27865,
       27867
-    ]
+    ],
+    "preference": 20
   },
   {
     "base_id": 13271,
     "name": "Abyssal dagger",
     "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      13265,
-      13267,
-      13269,
       27861,
       27863,
       27865,
       27867
-    ]
+    ],
+    "preference": 30
+  },
+  {
+    "base_id": 13337,
+    "name": "Ava's accumulator",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      10499,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949,
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365
+    ],
+    "preference": 10,
+    "slot": "cape"
   },
   {
     "base_id": 13576,
@@ -3411,36 +3518,190 @@
     ]
   },
   {
+    "base_id": 19641,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 19645,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 19649,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
     "base_id": 20465,
     "name": "Void knight top / Elite void top",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
       8839,
       13072,
-      20467,
       24177,
       24178,
       26463,
       26469,
       27000,
       27003
-    ]
+    ],
+    "preference": 10,
+    "slot": "body"
   },
   {
     "base_id": 20467,
     "name": "Void knight top / Elite void top",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8839,
       13072,
-      20465,
-      24177,
       24178,
-      26463,
       26469,
-      27000,
       27003
-    ]
+    ],
+    "preference": 20,
+    "slot": "body"
   },
   {
     "base_id": 20469,
@@ -3449,30 +3710,28 @@
     "extra_ids": [
       8840,
       13073,
-      20471,
       24179,
       24180,
       26465,
       26471,
       27001,
       27004
-    ]
+    ],
+    "preference": 10,
+    "slot": "legs"
   },
   {
     "base_id": 20471,
     "name": "Void knight robe / Elite void robe",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8840,
       13073,
-      20469,
-      24179,
       24180,
-      26465,
       26471,
-      27001,
       27004
-    ]
+    ],
+    "preference": 20,
+    "slot": "legs"
   },
   {
     "base_id": 20475,
@@ -3879,6 +4138,200 @@
     ]
   },
   {
+    "base_id": 21266,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 21776,
+    "name": "Imbued Saradomin cape",
+    "note": "Equal imbued Saradomin cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Saradomin_max_cape",
+    "extra_ids": [
+      21791,
+      24248,
+      24232
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 21780,
+    "name": "Imbued Zamorak cape",
+    "note": "Equal imbued Zamorak cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Zamorak_max_cape",
+    "extra_ids": [
+      21795,
+      24250,
+      24233
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 21784,
+    "name": "Imbued Guthix cape",
+    "note": "Equal imbued Guthix cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Guthix_max_cape",
+    "extra_ids": [
+      21793,
+      24249,
+      24234
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 21791,
+    "name": "Imbued Saradomin cape",
+    "note": "Equal imbued Saradomin cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Saradomin_max_cape",
+    "extra_ids": [
+      24248,
+      21776,
+      24232
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 21793,
+    "name": "Imbued Guthix cape",
+    "note": "Equal imbued Guthix cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Guthix_max_cape",
+    "extra_ids": [
+      24249,
+      21784,
+      24234
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 21795,
+    "name": "Imbued Zamorak cape",
+    "note": "Equal imbued Zamorak cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Zamorak_max_cape",
+    "extra_ids": [
+      24250,
+      21780,
+      24233
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 21890,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 21898,
+    "name": "Ava's assembler",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      27376,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "preference": 20,
+    "slot": "cape"
+  },
+  {
     "base_id": 21902,
     "name": "Dragon crossbow",
     "note": "Base + Dragon crossbow (cr) (Bounty Hunter cosmetic)",
@@ -3887,15 +4340,128 @@
     ]
   },
   {
+    "base_id": 21914,
+    "name": "Ava's assembler (repair state)",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+  },
+  {
+    "base_id": 21916,
+    "name": "Ava's assembler (repair state)",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+  },
+  {
     "base_id": 22109,
     "name": "Ava's assembler",
-    "note": "Ornament + Masori assembler (all wiki infobox versions: Normal, Broken, Locked)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
     "extra_ids": [
       24222,
       27374,
-      27359,
-      27376
-    ]
+      27376,
+      21898,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "preference": 20,
+    "slot": "cape"
+  },
+  {
+    "base_id": 23075,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
   },
   {
     "base_id": 23677,
@@ -3910,20 +4476,18 @@
     "name": "Crystal pickaxe",
     "note": "Standard + Gauntlet + Echo (Leagues / community variants)",
     "extra_ids": [
-      23682,
-      23863,
-      25112
-    ]
+      23682
+    ],
+    "preference": 10
   },
   {
     "base_id": 23682,
     "name": "Crystal pickaxe",
     "note": "Standard + Gauntlet + Echo (Leagues / community variants)",
     "extra_ids": [
-      23680,
-      23863,
-      25112
-    ]
+      23680
+    ],
+    "preference": 10
   },
   {
     "base_id": 23863,
@@ -3931,9 +4495,9 @@
     "note": "Standard + Gauntlet + Echo (Leagues / community variants)",
     "extra_ids": [
       23680,
-      23682,
-      25112
-    ]
+      23682
+    ],
+    "preference": 10
   },
   {
     "base_id": 23971,
@@ -3957,7 +4521,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 23973,
@@ -3981,7 +4546,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 23975,
@@ -4005,7 +4571,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 23977,
@@ -4029,7 +4596,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 23979,
@@ -4053,7 +4621,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 23981,
@@ -4077,7 +4646,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 23995,
@@ -4086,7 +4656,8 @@
     "extra_ids": [
       23997,
       24551
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 23997,
@@ -4095,7 +4666,32 @@
     "extra_ids": [
       23995,
       24551
-    ]
+    ],
+    "preference": 10
+  },
+  {
+    "base_id": 24135,
+    "name": "Ava's assembler",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "preference": 20,
+    "slot": "cape"
   },
   {
     "base_id": 24177,
@@ -4104,30 +4700,26 @@
     "extra_ids": [
       8839,
       13072,
-      20465,
-      20467,
       24178,
       26463,
       26469,
       27000,
       27003
-    ]
+    ],
+    "preference": 10,
+    "slot": "body"
   },
   {
     "base_id": 24178,
     "name": "Void knight top / Elite void top",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8839,
       13072,
-      20465,
-      20467,
-      24177,
-      26463,
       26469,
-      27000,
       27003
-    ]
+    ],
+    "preference": 20,
+    "slot": "body"
   },
   {
     "base_id": 24179,
@@ -4136,30 +4728,26 @@
     "extra_ids": [
       8840,
       13073,
-      20469,
-      20471,
       24180,
       26465,
       26471,
       27001,
       27004
-    ]
+    ],
+    "preference": 10,
+    "slot": "legs"
   },
   {
     "base_id": 24180,
     "name": "Void knight robe / Elite void robe",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8840,
       13073,
-      20469,
-      20471,
-      24179,
-      26465,
       26471,
-      27001,
       27004
-    ]
+    ],
+    "preference": 20,
+    "slot": "legs"
   },
   {
     "base_id": 24182,
@@ -4167,7 +4755,6 @@
     "note": "Base + (or) Shattered relics void ornament kit",
     "extra_ids": [
       8842,
-      20475,
       26467,
       27002
     ]
@@ -4178,7 +4765,6 @@
     "note": "Mage helm only + (or); not merged with melee/ranger helms",
     "extra_ids": [
       11663,
-      20477,
       26473,
       27005
     ]
@@ -4189,7 +4775,6 @@
     "note": "Ranger helm only + (or); not merged with melee/mage helms",
     "extra_ids": [
       11664,
-      20479,
       26475,
       27006
     ]
@@ -4200,19 +4785,158 @@
     "note": "Melee helm only + (or); not merged with ranger/mage helms",
     "extra_ids": [
       11665,
-      20481,
       26477,
       27007
     ]
   },
   {
+    "base_id": 24222,
+    "name": "Ava's assembler",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      22109,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "preference": 20,
+    "slot": "cape"
+  },
+  {
+    "base_id": 24232,
+    "name": "Imbued Saradomin cape",
+    "note": "Equal imbued Saradomin cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Saradomin_max_cape",
+    "extra_ids": [
+      21791,
+      24248,
+      21776
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 24233,
+    "name": "Imbued Zamorak cape",
+    "note": "Equal imbued Zamorak cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Zamorak_max_cape",
+    "extra_ids": [
+      21795,
+      24250,
+      21780
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 24234,
+    "name": "Imbued Guthix cape",
+    "note": "Equal imbued Guthix cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Guthix_max_cape",
+    "extra_ids": [
+      21793,
+      24249,
+      21784
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 24248,
+    "name": "Imbued Saradomin cape",
+    "note": "Equal imbued Saradomin cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Saradomin_max_cape",
+    "extra_ids": [
+      21791,
+      21776,
+      24232
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 24249,
+    "name": "Imbued Guthix cape",
+    "note": "Equal imbued Guthix cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Guthix_max_cape",
+    "extra_ids": [
+      21793,
+      21784,
+      24234
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 24250,
+    "name": "Imbued Zamorak cape",
+    "note": "Equal imbued Zamorak cape and max cape cosmetics; wearable versions only. https://oldschool.runescape.wiki/w/Imbued_Zamorak_max_cape",
+    "extra_ids": [
+      21795,
+      21780,
+      24233
+    ],
+    "slot": "cape"
+  },
+  {
+    "base_id": 24444,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
     "base_id": 24551,
     "name": "Blade of saeldor",
     "note": "Inactive/active + corrupted (c)",
-    "extra_ids": [
-      23995,
-      23997
-    ]
+    "extra_ids": [],
+    "preference": 20
   },
   {
     "base_id": 24743,
@@ -4582,7 +5306,8 @@
       13241,
       13242,
       25371
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 25069,
@@ -4950,18 +5675,425 @@
     "note": "Standard + Gauntlet + Echo (Leagues / community variants)",
     "extra_ids": [
       23680,
-      23682,
-      23863
-    ]
+      23682
+    ],
+    "preference": 10
   },
   {
     "base_id": 25177,
     "name": "Slayer helmet (i)",
-    "note": "Recolor variants (all Slayer helmet (i) IDs)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
     "extra_ids": [
       11865,
-      26674
-    ]
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25179,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25181,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25183,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25185,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25187,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25189,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25191,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
   },
   {
     "base_id": 25266,
@@ -5400,7 +6532,8 @@
       13241,
       13242,
       25066
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 25862,
@@ -5409,7 +6542,8 @@
     "extra_ids": [
       25865,
       25867
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 25865,
@@ -5418,16 +6552,327 @@
     "extra_ids": [
       25862,
       25867
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 25867,
     "name": "Bow of faerdhinen",
     "note": "Inactive/active + corrupted (c)",
+    "extra_ids": [],
+    "preference": 20
+  },
+  {
+    "base_id": 25900,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
     "extra_ids": [
-      25862,
-      25865
-    ]
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25902,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25906,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25908,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25912,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 25914,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
   },
   {
     "base_id": 25985,
@@ -5445,7 +6890,8 @@
     "extra_ids": [
       26382,
       28254
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 26378,
@@ -5454,7 +6900,8 @@
     "extra_ids": [
       26384,
       28256
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 26380,
@@ -5463,7 +6910,8 @@
     "extra_ids": [
       26386,
       28258
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 26382,
@@ -5472,7 +6920,8 @@
     "extra_ids": [
       26376,
       28254
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 26384,
@@ -5481,7 +6930,8 @@
     "extra_ids": [
       26378,
       28256
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 26386,
@@ -5490,7 +6940,8 @@
     "extra_ids": [
       26380,
       28258
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 26463,
@@ -5499,14 +6950,14 @@
     "extra_ids": [
       8839,
       13072,
-      20465,
-      20467,
       24177,
       24178,
       26469,
       27000,
       27003
-    ]
+    ],
+    "preference": 10,
+    "slot": "body"
   },
   {
     "base_id": 26465,
@@ -5515,14 +6966,14 @@
     "extra_ids": [
       8840,
       13073,
-      20469,
-      20471,
       24179,
       24180,
       26471,
       27001,
       27004
-    ]
+    ],
+    "preference": 10,
+    "slot": "legs"
   },
   {
     "base_id": 26467,
@@ -5530,7 +6981,6 @@
     "note": "Base + (or) Shattered relics void ornament kit",
     "extra_ids": [
       8842,
-      20475,
       24182,
       27002
     ]
@@ -5540,32 +6990,24 @@
     "name": "Void knight top / Elite void top",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8839,
       13072,
-      20465,
-      20467,
-      24177,
       24178,
-      26463,
-      27000,
       27003
-    ]
+    ],
+    "preference": 20,
+    "slot": "body"
   },
   {
     "base_id": 26471,
     "name": "Void knight robe / Elite void robe",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8840,
       13073,
-      20469,
-      20471,
-      24179,
       24180,
-      26465,
-      27001,
       27004
-    ]
+    ],
+    "preference": 20,
+    "slot": "legs"
   },
   {
     "base_id": 26473,
@@ -5573,7 +7015,6 @@
     "note": "Mage helm only + (or); not merged with melee/ranger helms",
     "extra_ids": [
       11663,
-      20477,
       24183,
       27005
     ]
@@ -5584,7 +7025,6 @@
     "note": "Ranger helm only + (or); not merged with melee/mage helms",
     "extra_ids": [
       11664,
-      20479,
       24184,
       27006
     ]
@@ -5595,7 +7035,6 @@
     "note": "Melee helm only + (or); not merged with ranger/mage helms",
     "extra_ids": [
       11665,
-      20481,
       24185,
       27007
     ]
@@ -5621,11 +7060,574 @@
   {
     "base_id": 26674,
     "name": "Slayer helmet (i)",
-    "note": "Recolor variants (all Slayer helmet (i) IDs)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
     "extra_ids": [
       11865,
-      25177
-    ]
+      25177,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26675,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26676,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26677,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26678,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26679,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26680,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26681,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26682,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26683,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 26684,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
   },
   {
     "base_id": 26708,
@@ -6072,14 +8074,14 @@
     "extra_ids": [
       8839,
       13072,
-      20465,
-      20467,
       24177,
       24178,
       26463,
       26469,
       27003
-    ]
+    ],
+    "preference": 10,
+    "slot": "body"
   },
   {
     "base_id": 27001,
@@ -6088,14 +8090,14 @@
     "extra_ids": [
       8840,
       13073,
-      20469,
-      20471,
       24179,
       24180,
       26465,
       26471,
       27004
-    ]
+    ],
+    "preference": 10,
+    "slot": "legs"
   },
   {
     "base_id": 27002,
@@ -6103,7 +8105,6 @@
     "note": "Base + (or) Shattered relics void ornament kit",
     "extra_ids": [
       8842,
-      20475,
       24182,
       26467
     ]
@@ -6113,32 +8114,24 @@
     "name": "Void knight top / Elite void top",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8839,
       13072,
-      20465,
-      20467,
-      24177,
       24178,
-      26463,
-      26469,
-      27000
-    ]
+      26469
+    ],
+    "preference": 20,
+    "slot": "body"
   },
   {
     "base_id": 27004,
     "name": "Void knight robe / Elite void robe",
     "note": "Void + Elite + (or) Shattered relics void ornament; helms are separate families",
     "extra_ids": [
-      8840,
       13073,
-      20469,
-      20471,
-      24179,
       24180,
-      26465,
-      26471,
-      27001
-    ]
+      26471
+    ],
+    "preference": 20,
+    "slot": "legs"
   },
   {
     "base_id": 27005,
@@ -6146,7 +8139,6 @@
     "note": "Mage helm only + (or); not merged with melee/ranger helms",
     "extra_ids": [
       11663,
-      20477,
       24183,
       26473
     ]
@@ -6157,7 +8149,6 @@
     "note": "Ranger helm only + (or); not merged with melee/mage helms",
     "extra_ids": [
       11664,
-      20479,
       24184,
       26475
     ]
@@ -6168,7 +8159,6 @@
     "note": "Melee helm only + (or); not merged with ranger/mage helms",
     "extra_ids": [
       11665,
-      20481,
       24185,
       26477
     ]
@@ -6179,7 +8169,168 @@
     "note": "Menaphite ornament kit → Elidinis' ward (or)",
     "extra_ids": [
       27253
-    ]
+    ],
+    "preference": 10
+  },
+  {
+    "base_id": 27253,
+    "name": "Elidinis' ward (or)",
+    "note": "Equivalent fortified ward cosmetics",
+    "extra_ids": [
+      27251
+    ],
+    "preference": 10
+  },
+  {
+    "base_id": 27281,
+    "name": "Divine rune pouch",
+    "note": "Existing one-way Rune pouch upgrade; never return to the base pouch",
+    "extra_ids": [],
+    "preference": 10
+  },
+  {
+    "base_id": 27359,
+    "name": "Ava's assembler (repair state)",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+  },
+  {
+    "base_id": 27361,
+    "name": "Ava's assembler (repair state)",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+  },
+  {
+    "base_id": 27363,
+    "name": "Ava's assembler",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "preference": 20,
+    "slot": "cape"
+  },
+  {
+    "base_id": 27365,
+    "name": "Ava's assembler",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      27376,
+      21898,
+      24135,
+      27363,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "preference": 20,
+    "slot": "cape"
+  },
+  {
+    "base_id": 27374,
+    "name": "Ava's assembler",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      22109,
+      24222,
+      27376,
+      21898,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "preference": 20,
+    "slot": "cape"
+  },
+  {
+    "base_id": 27376,
+    "name": "Ava's assembler",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      22109,
+      24222,
+      27374,
+      21898,
+      24135,
+      27363,
+      27365,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906,
+      28947,
+      28949
+    ],
+    "preference": 20,
+    "slot": "cape"
   },
   {
     "base_id": 27444,
@@ -6563,7 +8714,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27699,
@@ -6587,7 +8739,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27701,
@@ -6611,7 +8764,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27703,
@@ -6635,7 +8789,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27705,
@@ -6659,7 +8814,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27707,
@@ -6683,7 +8839,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27709,
@@ -6707,7 +8864,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27711,
@@ -6731,7 +8889,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27713,
@@ -6755,7 +8914,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27715,
@@ -6779,7 +8939,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27717,
@@ -6803,7 +8964,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27719,
@@ -6827,7 +8989,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27721,
@@ -6851,7 +9014,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27723,
@@ -6875,7 +9039,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27725,
@@ -6899,7 +9064,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27727,
@@ -6923,7 +9089,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27729,
@@ -6947,7 +9114,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27731,
@@ -6971,7 +9139,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27733,
@@ -6995,7 +9164,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27735,
@@ -7019,7 +9189,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27737,
@@ -7043,7 +9214,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27739,
@@ -7067,7 +9239,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27741,
@@ -7091,7 +9264,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27743,
@@ -7115,7 +9289,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27745,
@@ -7139,7 +9314,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27747,
@@ -7163,7 +9339,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27749,
@@ -7187,7 +9364,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27751,
@@ -7211,7 +9389,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27753,
@@ -7235,7 +9414,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27755,
@@ -7259,7 +9439,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27757,
@@ -7283,7 +9464,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27759,
@@ -7307,7 +9489,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27761,
@@ -7331,7 +9514,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27763,
@@ -7355,7 +9539,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27765,
@@ -7379,7 +9564,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27767,
@@ -7403,7 +9589,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27769,
@@ -7427,7 +9614,8 @@
       27771,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27771,
@@ -7451,7 +9639,8 @@
       27769,
       33023,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27773,
@@ -7475,7 +9664,8 @@
       27775,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27775,
@@ -7499,7 +9689,8 @@
       27773,
       33027,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27777,
@@ -7523,7 +9714,8 @@
       27779,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27779,
@@ -7547,84 +9739,59 @@
       27777,
       33031,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 27853,
     "name": "Dark bow",
     "note": "Base + Dark bow (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      11235,
-      12765,
-      12766,
-      12767,
-      12768
-    ]
+    "extra_ids": [],
+    "preference": 40
   },
   {
     "base_id": 27855,
     "name": "Barrelchest anchor",
     "note": "Base + Barrelchest anchor (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      10887,
-      10888
-    ]
+    "extra_ids": [],
+    "preference": 40
   },
   {
     "base_id": 27861,
     "name": "Abyssal dagger",
     "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      13265,
-      13267,
-      13269,
-      13271,
       27863,
       27865,
       27867
-    ]
+    ],
+    "preference": 40
   },
   {
     "base_id": 27863,
     "name": "Abyssal dagger",
     "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      13265,
-      13267,
-      13269,
-      13271,
-      27861,
       27865,
       27867
-    ]
+    ],
+    "preference": 50
   },
   {
     "base_id": 27865,
     "name": "Abyssal dagger",
     "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      13265,
-      13267,
-      13269,
-      13271,
-      27861,
-      27863,
       27867
-    ]
+    ],
+    "preference": 60
   },
   {
     "base_id": 27867,
     "name": "Abyssal dagger",
     "note": "Base + Abyssal dagger (bh) (Bounty Hunter cosmetic)",
-    "extra_ids": [
-      13265,
-      13267,
-      13269,
-      13271,
-      27861,
-      27863,
-      27865
-    ]
+    "extra_ids": [],
+    "preference": 70
   },
   {
     "base_id": 28019,
@@ -7638,49 +9805,41 @@
       28021,
       28023,
       28025
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 28021,
     "name": "Dragon dagger",
     "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      1215,
       1231,
       5680,
       5698,
-      28019,
       28023,
       28025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 28023,
     "name": "Dragon dagger",
     "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      1215,
-      1231,
       5680,
       5698,
-      28019,
-      28021,
       28025
-    ]
+    ],
+    "preference": 20
   },
   {
     "base_id": 28025,
     "name": "Dragon dagger",
     "note": "Base + Dragon dagger (cr) (Bounty Hunter cosmetic)",
     "extra_ids": [
-      1215,
-      1231,
-      5680,
-      5698,
-      28019,
-      28021,
-      28023
-    ]
+      5698
+    ],
+    "preference": 30
   },
   {
     "base_id": 28027,
@@ -7762,7 +9921,8 @@
     "extra_ids": [
       26376,
       26382
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 28256,
@@ -7771,7 +9931,8 @@
     "extra_ids": [
       26378,
       26384
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 28258,
@@ -7780,61 +9941,206 @@
     "extra_ids": [
       26380,
       26386
-    ]
+    ],
+    "preference": 10
+  },
+  {
+    "base_id": 28826,
+    "name": "Dizana's quiver (charged or blessed) (repair state)",
+    "extra_ids": [
+      28955,
+      28951,
+      28953,
+      28957,
+      28902,
+      28906
+    ],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+  },
+  {
+    "base_id": 28830,
+    "name": "Dizana's quiver (charged or blessed) (repair state)",
+    "extra_ids": [
+      28902,
+      28951,
+      28953,
+      28955,
+      28957,
+      28906
+    ],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+  },
+  {
+    "base_id": 28902,
+    "name": "Dizana's quiver (charged or blessed)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28951,
+      28953,
+      28955,
+      28957,
+      28906
+    ],
+    "preference": 40,
+    "slot": "cape"
+  },
+  {
+    "base_id": 28906,
+    "name": "Dizana's quiver (charged or blessed)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28951,
+      28953,
+      28955,
+      28957,
+      28902
+    ],
+    "preference": 40,
+    "slot": "cape"
+  },
+  {
+    "base_id": 28947,
+    "name": "Dizana's quiver (uncharged)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28949,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906
+    ],
+    "preference": 30,
+    "slot": "cape"
+  },
+  {
+    "base_id": 28949,
+    "name": "Dizana's quiver (uncharged)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28947,
+      28951,
+      28953,
+      28955,
+      28957,
+      28902,
+      28906
+    ],
+    "preference": 30,
+    "slot": "cape"
+  },
+  {
+    "base_id": 28951,
+    "name": "Dizana's quiver (charged or blessed)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28953,
+      28955,
+      28957,
+      28902,
+      28906
+    ],
+    "preference": 40,
+    "slot": "cape"
+  },
+  {
+    "base_id": 28953,
+    "name": "Dizana's quiver (charged or blessed)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28951,
+      28955,
+      28957,
+      28902,
+      28906
+    ],
+    "preference": 40,
+    "slot": "cape"
+  },
+  {
+    "base_id": 28955,
+    "name": "Dizana's quiver (charged or blessed)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28951,
+      28953,
+      28957,
+      28902,
+      28906
+    ],
+    "preference": 40,
+    "slot": "cape"
+  },
+  {
+    "base_id": 28957,
+    "name": "Dizana's quiver (charged or blessed)",
+    "note": "Equal cosmetics or explicit ranged combat upgrades only; never backwards. Quiver ammo recovery requires the corresponding Ava unlock. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Dizana%27s_quiver",
+    "extra_ids": [
+      28951,
+      28953,
+      28955,
+      28902,
+      28906
+    ],
+    "preference": 40,
+    "slot": "cape"
   },
   {
     "base_id": 29022,
     "name": "Blood moon chestplate",
     "note": "Blood moon armour recolors (all versions)",
     "extra_ids": [
-      29043,
-      29067
-    ]
+      29043
+    ],
+    "preference": 10
   },
   {
     "base_id": 29025,
     "name": "Blood moon tassets",
     "note": "Blood moon armour recolors (all versions)",
     "extra_ids": [
-      29045,
-      29070
-    ]
+      29045
+    ],
+    "preference": 10
   },
   {
     "base_id": 29028,
     "name": "Blood moon helm",
     "note": "Blood moon armour recolors (all versions)",
     "extra_ids": [
-      29047,
-      29073
-    ]
+      29047
+    ],
+    "preference": 10
   },
   {
     "base_id": 29043,
     "name": "Blood moon chestplate",
     "note": "Blood moon armour recolors (all versions)",
     "extra_ids": [
-      29022,
-      29067
-    ]
+      29022
+    ],
+    "preference": 10
   },
   {
     "base_id": 29045,
     "name": "Blood moon tassets",
     "note": "Blood moon armour recolors (all versions)",
     "extra_ids": [
-      29025,
-      29070
-    ]
+      29025
+    ],
+    "preference": 10
   },
   {
     "base_id": 29047,
     "name": "Blood moon helm",
     "note": "Blood moon armour recolors (all versions)",
     "extra_ids": [
-      29028,
-      29073
-    ]
+      29028
+    ],
+    "preference": 10
   },
   {
     "base_id": 29067,
@@ -7843,7 +10149,8 @@
     "extra_ids": [
       29022,
       29043
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 29070,
@@ -7852,7 +10159,8 @@
     "extra_ids": [
       29025,
       29045
-    ]
+    ],
+    "preference": 0
   },
   {
     "base_id": 29073,
@@ -7861,7 +10169,164 @@
     "extra_ids": [
       29028,
       29047
-    ]
+    ],
+    "preference": 0
+  },
+  {
+    "base_id": 29818,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 29820,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 29822,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
   },
   {
     "base_id": 30045,
@@ -8293,7 +10758,8 @@
       27769,
       27771,
       33025
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 33025,
@@ -8317,7 +10783,8 @@
       27769,
       27771,
       33023
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 33027,
@@ -8341,7 +10808,8 @@
       27773,
       27775,
       33029
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 33029,
@@ -8365,7 +10833,8 @@
       27773,
       27775,
       33027
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 33031,
@@ -8389,7 +10858,8 @@
       27777,
       27779,
       33033
-    ]
+    ],
+    "preference": 10
   },
   {
     "base_id": 33033,
@@ -8413,6 +10883,623 @@
       27777,
       27779,
       33031
-    ]
+    ],
+    "preference": 10
+  },
+  {
+    "base_id": 33068,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33070,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33072,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33439,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33441,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33443,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33445,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33447,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33447,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33449,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33449,
+    "name": "Slayer helmet (i)",
+    "note": "Equal imbued cosmetics only; all three imbue sources. Verified 2026-10-07: https://oldschool.runescape.wiki/w/Slayer_helmet_(i)#Cosmetics",
+    "extra_ids": [
+      11865,
+      25177,
+      26674,
+      29818,
+      29820,
+      29822,
+      19641,
+      25179,
+      26675,
+      19645,
+      25181,
+      26676,
+      33068,
+      33070,
+      33072,
+      23075,
+      25189,
+      26680,
+      33439,
+      33441,
+      33443,
+      21266,
+      25185,
+      26678,
+      33445,
+      33447,
+      19649,
+      25183,
+      26677,
+      21890,
+      25187,
+      26679,
+      24444,
+      25191,
+      26681,
+      25912,
+      25914,
+      26684,
+      25900,
+      25902,
+      26682,
+      25906,
+      25908,
+      26683
+    ],
+    "slot": "head"
+  },
+  {
+    "base_id": 33476,
+    "name": "Void knight top / Elite void top",
+    "extra_ids": [
+      8839,
+      13072,
+      24177,
+      24178,
+      26463,
+      26469,
+      27000,
+      27003
+    ],
+    "preference": 10,
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
+    "slot": "body"
+  },
+  {
+    "base_id": 33478,
+    "name": "Void knight top / Elite void top",
+    "extra_ids": [
+      8839,
+      13072,
+      24177,
+      24178,
+      26463,
+      26469,
+      27000,
+      27003
+    ],
+    "preference": 10,
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
+    "slot": "body"
+  },
+  {
+    "base_id": 33480,
+    "name": "Void knight top / Elite void top",
+    "extra_ids": [
+      13072,
+      24178,
+      26469,
+      27003
+    ],
+    "preference": 20,
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
+    "slot": "body"
+  },
+  {
+    "base_id": 33482,
+    "name": "Void knight top / Elite void top",
+    "extra_ids": [
+      13072,
+      24178,
+      26469,
+      27003
+    ],
+    "preference": 20,
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
+    "slot": "body"
+  },
+  {
+    "base_id": 33484,
+    "name": "Void knight robe / Elite void robe",
+    "extra_ids": [
+      8840,
+      13073,
+      24179,
+      24180,
+      26465,
+      26471,
+      27001,
+      27004
+    ],
+    "preference": 10,
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
+    "slot": "legs"
+  },
+  {
+    "base_id": 33486,
+    "name": "Void knight robe / Elite void robe",
+    "extra_ids": [
+      8840,
+      13073,
+      24179,
+      24180,
+      26465,
+      26471,
+      27001,
+      27004
+    ],
+    "preference": 10,
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
+    "slot": "legs"
+  },
+  {
+    "base_id": 33488,
+    "name": "Void knight robe / Elite void robe",
+    "extra_ids": [
+      13073,
+      24180,
+      26471,
+      27004
+    ],
+    "preference": 20,
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
+    "slot": "legs"
+  },
+  {
+    "base_id": 33490,
+    "name": "Void knight robe / Elite void robe",
+    "extra_ids": [
+      13073,
+      24180,
+      26471,
+      27004
+    ],
+    "preference": 20,
+    "note": "Original Wiki repair state. Accept only usable same-tier forms or Elite upgrades; never the reverse. Verified 2026-10-07.",
+    "slot": "legs"
+  },
+  {
+    "base_id": 33532,
+    "name": "Dizana's quiver (charged or blessed) (repair state)",
+    "extra_ids": [
+      28902,
+      28951,
+      28953,
+      28955,
+      28957,
+      28906
+    ],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
+  },
+  {
+    "base_id": 33533,
+    "name": "Dizana's quiver (charged or blessed) (repair state)",
+    "extra_ids": [
+      28902,
+      28951,
+      28953,
+      28955,
+      28957,
+      28906
+    ],
+    "slot": "cape",
+    "note": "Recognize original Wiki repair-state IDs; accept usable equivalents/upgrades, never add broken IDs to wearable forms."
   }
 ]

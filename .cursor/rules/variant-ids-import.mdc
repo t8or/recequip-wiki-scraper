@@ -1,76 +1,40 @@
 ---
-description: Look up OSRS item IDs on Weird Gloop (chisel), then add mappings to variant_ids.json without running apply_variants.py until a later commit step
+description: Review item substitutions in the canonical mapping; keep discovery advisory and upgrades directional
 globs:
   - variant_ids.json
 alwaysApply: false
 ---
 
-# variant_ids.json import workflow (Weird Gloop + staged apply)
+# Maintaining accepted substitutions
 
-Use this when adding **equipment variant mappings** for [apply_variants.py](mdc:apply_variants.py): edit **`variant_ids.json` only** first; **do not run** `python3 apply_variants.py` in the same pass unless the user explicitly wants `recs/` regenerated and committed.
+`variant_ids.json` is the only accepted mapping. The manual helper reports candidates
+and never rewrites it. Normal recommendation updates do not perform variant discovery.
 
-## Authoritative ID sources (Weird Gloop / MOID)
+1. Discover candidates with `python scripts/build_bulk_variant_ids.py --search '<regex>'`.
+   It reads one Weird Gloop catalog; `--catalog <file>` reuses a local download.
+2. Verify each item's functionality and versions using Weird Gloop and Wiki infoboxes.
+   Similar names or models do not establish equivalence. Exclude placeholders, noted
+   items, and restricted-game variants from ordinary equipment substitutions.
+3. Edit the existing JSON structure. `base_id` and `extra_ids` define accepted IDs;
+   `name` and `note` document the decision. Add a source URL to `note`.
+4. Use optional `preference` only for verified ordering within a comparable recommendation.
+   Larger values are preferred. Same-tier cosmetics share a value. An upgraded item
+   must never accept a weaker item. Keep chains explicit and complete; the validator
+   rejects incomplete chains rather than inferring further substitutions.
+5. Use optional `slot` to constrain a known equipment mapping (for example `cape`).
+   Broad mixed-family recommendations retain their original order and do not acquire
+   inferred upgrades. Inspect the actual generated diff for unexpected contexts.
+6. Do not add broken/non-equipable IDs to wearable alternatives. Existing Wiki source
+   IDs remain intact. Repair-state source entries may accept usable substitutes but
+   must not make the reverse relationship valid. Quiver ammo recovery also depends on
+   account unlocks, which an ID cannot prove.
+7. Run `python -m unittest discover -s tests -v` before generating data.
+8. Regenerate recommendations when requested. Mapping additions can use
+   `python apply_variants.py`; removals need fresh raw scrape output first, because
+   previously expanded JSON has no provenance identifying old added IDs.
+9. Review source/mapping changes separately from generated recommendations. Confirm
+   that activity/style/slot/tier structure is unchanged, additions are accepted, and
+   every removal is explained. Repeat expansion must be byte-stable.
 
-Same host as [item-id-lookup.mdc](mdc:item-id-lookup.mdc):
-
-| Tool | URL pattern | Use for |
-|------|-------------|---------|
-| **Name search** | `https://chisel.weirdgloop.org/moid/item_name.html#<fragment>` | Find ID(s) from a name or regex |
-| **ID lookup** | `https://chisel.weirdgloop.org/moid/item_id.html#<id>` | Confirm name and details for a known ID |
-
-**Fragment / encoding:** The hash after `#` is the search string. Spaces are fine; apostrophes in names (e.g. `Elidinis'`) work in browsers. For ambiguous characters, use the name search with **regex** (see below) instead of relying on a single exact URL.
-
-**Example (ornament variant):** open the name DB and search for the full item name, or use a pattern such as `/Elidinis.*ward.*\(or\)/` to list **Elidinis' ward (or)** and read the **id** column in the results table.
-
-**Regex on name DB:** Surround patterns in slashes — e.g. `/ward/i` for case-insensitive substring. Full detail: [item-id-lookup.mdc](mdc:item-id-lookup.mdc).
-
-## What to put in variant_ids.json
-
-Schema (validated by `load_variant_ids` in [apply_variants.py](mdc:apply_variants.py)):
-
-- **`base_id`** (integer, required): The ID that already appears in scraped `recs` for that equipment line. Expansion runs **only** when this ID is present in an item’s ID list.
-- **`extra_ids`** (array of integers, required): Additional IDs to merge in (ornament, fortified, alternate variant, etc.).
-- **`name`** (optional, documentation): Human-readable item name for the base row.
-- **`note`** (optional, documentation): Why the mapping exists (e.g. ornament kit, one-way upgrade).
-
-**Directionality:** Each `base_id` must appear **at most once** (duplicates: later entry ignored). If the wiki recommends an upgraded item and you must not expand “back” to the base, **do not** use the upgraded ID as `base_id` for that chain.
-
-**Cross-check:** When unsure which ID the scraper uses for the “main” line, grep **`recs/all.json`** for the item display name and read the integer(s) in that array.
-
-## Collect ALL version IDs (Normal / Broken / Locked / …)
-
-`[recequip.py](mdc:recequip.py)` resolves items from the wiki **`Infobox Item`** and pulls **every** `|idN =` value when the infobox has multiple **versions** (Normal, Broken, Locked, etc.). So a scraped line like `"Ava's assembler": [22109, 21914, 24222]` already includes all three base forms.
-
-The **Recommended Equipment** RuneLite plugin matches **bank** slots by **exact item ID** (`widget.getItemId()`). If a player’s bank has the **Locked** form of a cosmetic variant, that ID must appear in the merged list or the plugin will not treat it as satisfying that recommendation.
-
-When you add a **new** variant item to `extra_ids`, you must:
-
-1. Open the **variant item’s** wiki page (or Weird Gloop row for that item).
-2. Read the **`Infobox Item`** and collect **every** `|id1 =`, `|id2 =`, … (or a single `|id =` if the item has only one version).
-3. Include **all** of those integers in `extra_ids` for that variant — typically **Normal + Broken + Locked** when the wiki lists three versions.
-4. Do **not** add noted-item IDs or placeholder-only rows; use the same judgment as the scraper (real bankable/equipable variants).
-
-**Wrong vs right (Masori assembler):**
-
-- Wrong: `"extra_ids": [27374]` — only Normal; banked **Broken** or **Locked** Masori assembler won’t match.
-- Right: `"extra_ids": [27374, 27359, 27376]` — all three Masori assembler versions from the wiki infobox.
-
-**When one version is enough:** Some items use a single `|id =` in the infobox (e.g. **Elidinis' ward**, **Elidinis' ward (f)**, **Elidinis' ward (or)** each have one ID). Then `extra_ids` only needs those IDs, not a fabricated “broken” copy.
-
-**Lookup procedure (wiki API, optional):**
-
-1. `GET https://oldschool.runescape.wiki/api.php?action=parse&page=<Title>&prop=wikitext&format=json`
-2. In the `wikitext` result, find `{{Infobox Item` and read all `|idN =` lines until the next section or template.
-3. Add every distinct integer to `extra_ids` for that variant (dedupe with existing IDs).
-
-## Workflow (swift import)
-
-1. **Look up** variants on **item_name.html** (and confirm with **item_id.html** if needed).
-2. **Add** one JSON object per distinct `base_id` to [variant_ids.json](mdc:variant_ids.json) (valid JSON array, trailing style consistent with existing entries).
-3. **Stop** unless the user asked to refresh recommendations: **do not run** `apply_variants.py` yet.
-4. **Later step** (separate commit): run `python3 apply_variants.py` to merge into `recs/all.json`, `recs/all.min.json`, and matching per-activity files.
-
-## Related
-
-- [item-id-lookup.mdc](mdc:item-id-lookup.mdc) — regex examples and when to use name vs ID DB
-- [apply_variants.py](mdc:apply_variants.py) — merge behavior and `SLOT_KEYS`
+Lookup: https://chisel.weirdgloop.org/moid/item_name.html and
+https://chisel.weirdgloop.org/moid/item_id.html . See README.md for usage and limitations.
