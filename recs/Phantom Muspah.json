@@ -199,6 +199,9 @@
         ]
       },
       {
+        "Purging staff": [
+          29594
+        ],
         "Mystic smoke staff": [
           12000
         ],
@@ -640,8 +643,16 @@
         ]
       },
       {
+        "Aquanite hopper": [
+          32879
+        ]
+      },
+      {
         "Book of Law": [
           12610
+        ],
+        "Antler guard": [
+          31081
         ]
       }
     ],

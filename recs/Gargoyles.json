@@ -834,6 +834,10 @@
         ]
       },
       {
+        "Rosewood blowpipe": [
+          31585,
+          31583
+        ],
         "Hunters' sunlight crossbow": [
           28869
         ]
@@ -926,6 +930,14 @@
         ]
       },
       {
+        "Blessed boots": [
+          19921,
+          19930,
+          19924,
+          19927,
+          19933,
+          19936
+        ],
         "Aranea boots": [
           29806
         ],
@@ -971,6 +983,18 @@
         "Toxic blowpipe": [
           12924,
           12926
+        ]
+      },
+      {
+        "Dragon knife": [
+          22804,
+          22806,
+          22808,
+          22810
+        ],
+        "Rosewood blowpipe": [
+          31585,
+          31583
         ]
       }
     ]
