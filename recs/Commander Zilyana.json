@@ -203,6 +203,12 @@
     ],
     "special": [
       {
+        "Zorya's tome": [
+          34727,
+          34725
+        ]
+      },
+      {
         "Eldritch Nightmare staff": [
           24425
         ]
@@ -211,9 +217,7 @@
         "Eye of Ayak": [
           31115,
           31113
-        ]
-      },
-      {
+        ],
         "Accursed sceptre": [
           27662,
           27665
@@ -487,6 +491,9 @@
         ]
       },
       {
+        "Ascension crossbows": [
+          34681
+        ],
         "Bow of Faerdhinen": [
           25862,
           25865
@@ -547,6 +554,9 @@
       {
         "Seeking dragon arrow": [
           33595
+        ],
+        "Diamond ascension bolts (e)": [
+          34696
         ],
         "Diamond dragon bolts (e)": [
           21946

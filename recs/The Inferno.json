@@ -306,6 +306,11 @@
         ]
       },
       {
+        "Rondache": [
+          34719
+        ]
+      },
+      {
         "Crystal shield": [
           23991,
           23993,
@@ -660,6 +665,11 @@
         "Elysian spirit shield": [
           12817
         ],
+        "Rondache": [
+          34719
+        ]
+      },
+      {
         "Crystal shield": [
           23991,
           23993,
@@ -915,11 +925,16 @@
       {
         "Arcane spirit shield": [
           12825
-        ],
+        ]
+      },
+      {
         "Crystal shield": [
           23991,
           23993,
           24127
+        ],
+        "Rondache": [
+          34719
         ]
       }
     ],

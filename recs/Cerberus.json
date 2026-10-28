@@ -295,6 +295,10 @@
     ],
     "weapon": [
       {
+        "Obligator": [
+          34717,
+          34715
+        ],
         "Scythe of Vitur": [
           22486,
           22325
@@ -337,6 +341,9 @@
           22322,
           22441,
           24186
+        ],
+        "Rondache": [
+          34719
         ],
         "Spectral spirit shield": [
           12821

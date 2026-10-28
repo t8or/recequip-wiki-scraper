@@ -240,6 +240,10 @@
         ]
       },
       {
+        "Zorya's tome": [
+          34727,
+          34725
+        ],
         "Sanguinesti staff": [
           22481,
           22323
@@ -402,6 +406,12 @@
       }
     ],
     "special": [
+      {
+        "Zorya's tome": [
+          34727,
+          34725
+        ]
+      },
       {
         "Eldritch Nightmare staff": [
           24425

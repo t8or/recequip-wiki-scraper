@@ -379,6 +379,9 @@
     ],
     "shield": [
       {
+        "Rondache": [
+          34719
+        ],
         "Elysian spirit shield": [
           12817
         ]
@@ -807,12 +810,16 @@
     ],
     "special": [
       {
-        "Accursed sceptre": [
-          27662,
-          27665
+        "Zorya's tome": [
+          34727,
+          34725
         ]
       },
       {
+        "Accursed sceptre": [
+          27662,
+          27665
+        ],
         "Eye of Ayak": [
           31115,
           31113
@@ -1085,6 +1092,17 @@
     ],
     "shield": [
       {
+        "Elysian spirit shield": [
+          12817
+        ],
+        "Rondache": [
+          34719
+        ]
+      },
+      {
+        "Spectral spirit shield": [
+          12821
+        ],
         "Dragonfire ward": [
           22003,
           22002
@@ -1093,16 +1111,20 @@
       {
         "Twisted buckler": [
           21000
+        ],
+        "Dragonfire shield": [
+          11284,
+          11283
         ]
       },
       {
         "Odium ward": [
           11926
-        ]
-      },
-      {
-        "Book of Law": [
-          12610
+        ],
+        "Crystal shield": [
+          23991,
+          23993,
+          24127
         ]
       }
     ],
@@ -1463,6 +1485,9 @@
     ],
     "shield": [
       {
+        "Rondache": [
+          34719
+        ],
         "Elysian spirit shield": [
           12817
         ]
@@ -1834,6 +1859,9 @@
       {
         "Elysian spirit shield": [
           12817
+        ],
+        "Rondache": [
+          34719
         ]
       },
       {
@@ -2252,14 +2280,18 @@
     ],
     "weapon": [
       {
-        "Osmumten's fang": [
-          26219
-        ]
-      },
-      {
         "Scythe of Vitur": [
           22486,
           22325
+        ]
+      },
+      {
+        "Osmumten's fang": [
+          26219
+        ],
+        "Obligator": [
+          34717,
+          34715
         ]
       },
       {
@@ -2302,13 +2334,9 @@
           12954,
           20463,
           24143
-        ]
-      },
-      {
-        "Rune defender": [
-          8850,
-          20461,
-          24142
+        ],
+        "Rondache": [
+          34719
         ]
       },
       {
@@ -2318,8 +2346,10 @@
         ]
       },
       {
-        "Elysian spirit shield": [
-          12817
+        "Rune defender": [
+          8850,
+          20461,
+          24142
         ]
       }
     ],
@@ -2781,15 +2811,20 @@
     ],
     "weapon": [
       {
-        "Zaryte crossbow": [
-          26374
-        ],
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
         "Bow of Faerdhinen": [
           25862,
           25865
         ]
       },
       {
+        "Zaryte crossbow": [
+          26374
+        ],
         "Armadyl crossbow": [
           11785
         ]
@@ -2807,11 +2842,6 @@
         "Dragon crossbow": [
           21902,
           28053
-        ]
-      },
-      {
-        "Rune crossbow": [
-          9185
         ]
       }
     ],

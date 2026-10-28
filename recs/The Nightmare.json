@@ -168,6 +168,10 @@
     ],
     "weapon": [
       {
+        "Obligator": [
+          34717,
+          34715
+        ],
         "Scythe of Vitur": [
           22486,
           22325
@@ -194,16 +198,16 @@
           27657,
           27660
         ],
-        "Sarachnis cudgel": [
-          23528
+        "Zamorakian hasta": [
+          11889
         ]
       },
       {
         "Zombie axe": [
           28810
         ],
-        "Zamorakian hasta": [
-          11889
+        "Sarachnis cudgel": [
+          23528
         ],
         "Osmumten's fang": [
           26219
