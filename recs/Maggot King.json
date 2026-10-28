@@ -530,17 +530,20 @@
         ]
       },
       {
-        "Armadyl crossbow": [
-          11785
-        ]
-      },
-      {
         "Dragon hunter crossbow": [
           21012
+        ],
+        "Armadyl crossbow": [
+          11785
         ],
         "Dragon crossbow": [
           21902,
           28053
+        ]
+      },
+      {
+        "Hunters' sunlight crossbow": [
+          28869
         ]
       },
       {
@@ -591,6 +594,11 @@
       {
         "Ruby bolts (e)": [
           9242
+        ]
+      },
+      {
+        "Moonlight antler bolts": [
+          28878
         ]
       },
       {
@@ -895,6 +903,12 @@
       }
     ],
     "weapon": [
+      {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
       {
         "Inquisitor's mace": [
           24417

@@ -1,0 +1,1564 @@
+[
+  {
+    "name": "Melee switch",
+    "head": [
+      {
+        "Inquisitor's great helm": [
+          24419
+        ]
+      },
+      {
+        "Torva full helm": [
+          26376,
+          26382,
+          28254
+        ],
+        "Oathplate helm": [
+          30750,
+          30777
+        ]
+      },
+      {
+        "Neitiznot faceguard": [
+          24271
+        ],
+        "Serpentine helm": [
+          12929,
+          12931
+        ]
+      },
+      {
+        "Void melee helm": [
+          11665,
+          20481,
+          24185,
+          33464,
+          33466,
+          26477,
+          27007
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Amulet of rancour": [
+          29801
+        ],
+        "Amulet of blood fury": [
+          24780
+        ]
+      },
+      {
+        "Amulet of torture": [
+          19553
+        ]
+      },
+      {
+        "Amulet of fury": [
+          6585
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Infernal cape": [
+          21295,
+          21287,
+          24224,
+          33500,
+          33502
+        ]
+      },
+      {
+        "Fire cape": [
+          6570,
+          20445,
+          24223
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Inquisitor's hauberk": [
+          24420
+        ]
+      },
+      {
+        "Torva platebody": [
+          26378,
+          26384,
+          28256
+        ],
+        "Oathplate chest": [
+          30753,
+          30779
+        ]
+      },
+      {
+        "Bandos chestplate": [
+          11832
+        ],
+        "Fighter torso": [
+          10551,
+          20513,
+          24175,
+          33520,
+          33522
+        ],
+        "Blood Moon chestplate": [
+          29022,
+          29043,
+          29067
+        ]
+      },
+      {
+        "Elite void top": [
+          13072,
+          20467,
+          24178,
+          33480,
+          33482,
+          26469,
+          27003
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Inquisitor's plateskirt": [
+          24421
+        ]
+      },
+      {
+        "Torva platelegs": [
+          26380,
+          26386,
+          28258
+        ],
+        "Oathplate legs": [
+          30756,
+          30781
+        ]
+      },
+      {
+        "Bandos tassets": [
+          11834
+        ],
+        "Blood Moon tassets": [
+          29025,
+          29045,
+          29070
+        ]
+      },
+      {
+        "Elite void robe": [
+          13073,
+          20471,
+          24180,
+          33488,
+          33490,
+          26471,
+          27004
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
+      {
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ],
+        "Soulreaper axe": [
+          28338
+        ],
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Emberlight": [
+          29589
+        ],
+        "Abyssal bludgeon": [
+          13263
+        ],
+        "Ursine chainmace": [
+          27657,
+          27660
+        ]
+      },
+      {
+        "Zombie axe": [
+          28810
+        ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Rondache": [
+          34719
+        ],
+        "Avernic defender": [
+          22322,
+          22441,
+          24186
+        ]
+      },
+      {
+        "Dragon defender": [
+          12954,
+          20463,
+          24143
+        ]
+      }
+    ],
+    "ammo": [],
+    "hands": [
+      {
+        "Ferocious gloves": [
+          22981
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182,
+          33492,
+          33494,
+          26467,
+          27002
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Primordial boots": [
+          13239
+        ]
+      },
+      {
+        "Dragon boots": [
+          11840,
+          28055
+        ],
+        "Aranea boots": [
+          29806
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Ultor ring": [
+          28307
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Berserker ring (i)": [
+          11773,
+          25264,
+          26770
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Elder maul": [
+          21003
+        ],
+        "Crimson kisten": [
+          33631
+        ]
+      },
+      {
+        "Dragon warhammer": [
+          13576,
+          28035
+        ]
+      },
+      {
+        "Bandos godsword": [
+          11804
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ranged switch",
+    "head": [
+      {
+        "Masori mask (f)": [
+          27235
+        ],
+        "Masori mask": [
+          27226
+        ]
+      },
+      {
+        "Eclipse Moon helm": [
+          29010,
+          29035,
+          29055
+        ]
+      },
+      {
+        "Void ranger helm": [
+          11664,
+          20479,
+          24184,
+          33472,
+          33474,
+          26475,
+          27006
+        ]
+      },
+      {
+        "Crystal helm": [
+          23971,
+          23973,
+          27705,
+          27707,
+          27717,
+          27719,
+          27729,
+          27731,
+          27741,
+          27743,
+          27753,
+          27755,
+          27765,
+          27767,
+          27777,
+          27779,
+          33031,
+          33033
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Necklace of rupture": [
+          33639
+        ]
+      },
+      {
+        "Necklace of anguish": [
+          19547
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "Dizana's quiver": [
+          28947,
+          28951,
+          28949,
+          28953,
+          28955,
+          28957,
+          28902,
+          28906
+        ]
+      },
+      {
+        "Ava's assembler": [
+          22109,
+          21914,
+          24222,
+          27374,
+          27376,
+          21898,
+          24135,
+          27363,
+          27365
+        ]
+      },
+      {
+        "Ava's accumulator": [
+          10499,
+          13337
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Masori body (f)": [
+          27238
+        ],
+        "Masori body": [
+          27229
+        ]
+      },
+      {
+        "Eclipse Moon chestplate": [
+          29004,
+          29031,
+          29049
+        ],
+        "Armadyl chestplate": [
+          11828
+        ]
+      },
+      {
+        "Hueycoatl hide body": [
+          30076
+        ],
+        "Elite void top": [
+          13072,
+          20467,
+          24178,
+          33480,
+          33482,
+          26469,
+          27003
+        ]
+      },
+      {
+        "Crystal body": [
+          23975,
+          23977,
+          27697,
+          27699,
+          27709,
+          27711,
+          27721,
+          27723,
+          27733,
+          27735,
+          27745,
+          27747,
+          27757,
+          27759,
+          27769,
+          27771,
+          33023,
+          33025
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Masori chaps (f)": [
+          27241
+        ],
+        "Masori chaps": [
+          27232
+        ]
+      },
+      {
+        "Eclipse Moon tassets": [
+          29007,
+          29033,
+          29052
+        ],
+        "Armadyl chainskirt": [
+          11830
+        ]
+      },
+      {
+        "Hueycoatl hide chaps": [
+          30079
+        ],
+        "Elite void robe": [
+          13073,
+          20471,
+          24180,
+          33488,
+          33490,
+          26471,
+          27004
+        ]
+      },
+      {
+        "Crystal legs": [
+          23979,
+          23981,
+          27701,
+          27703,
+          27713,
+          27715,
+          27725,
+          27727,
+          27737,
+          27739,
+          27749,
+          27751,
+          27761,
+          27763,
+          27773,
+          27775,
+          33027,
+          33029
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Ascension crossbows": [
+          34681
+        ],
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ],
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Scorching bow": [
+          29591
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902,
+          28053
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ],
+        "Bow of Faerdhinen": [
+          25862,
+          25865
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Twisted buckler": [
+          21000
+        ]
+      },
+      {
+        "Dragonfire ward": [
+          22003,
+          22002
+        ]
+      },
+      {
+        "Odium ward": [
+          11926
+        ],
+        "Aquanite hopper": [
+          32879
+        ]
+      }
+    ],
+    "ammo": [
+      {
+        "Seeking dragon arrow": [
+          33595
+        ],
+        "Ruby dragon bolts (e)": [
+          21944
+        ],
+        "Diamond ascension bolts (e)": [
+          34696
+        ]
+      },
+      {
+        "Dragon arrow": [
+          11212,
+          11227,
+          11228,
+          11229
+        ],
+        "Ruby bolts (e)": [
+          9242
+        ]
+      },
+      {
+        "Amethyst arrow": [
+          21326,
+          21332,
+          21334,
+          21336
+        ]
+      }
+    ],
+    "hands": [
+      {
+        "Zaryte vambraces": [
+          26235
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      },
+      {
+        "Void knight gloves": [
+          8842,
+          20475,
+          24182,
+          33492,
+          33494,
+          26467,
+          27002
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Venator ring": [
+          28310
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Tonalztics of Ralos": [
+          28919,
+          28922
+        ],
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Magic switch",
+    "head": [
+      {
+        "Ancestral hat": [
+          21018
+        ]
+      },
+      {
+        "Virtus mask": [
+          26241
+        ]
+      },
+      {
+        "Ahrim's hood": [
+          4708,
+          4856,
+          4857,
+          4858,
+          4859,
+          4860
+        ],
+        "Blue Moon helm": [
+          29019,
+          29041,
+          29064
+        ]
+      }
+    ],
+    "neck": [
+      {
+        "Occult necklace": [
+          12002
+        ],
+        "Elemental amulet": [
+          34428
+        ]
+      }
+    ],
+    "cape": [
+      {
+        "God capes#Imbuing": [
+          29628,
+          13280,
+          13342,
+          21791,
+          24236,
+          24248,
+          21797,
+          29617,
+          21776,
+          24238,
+          24232,
+          21795,
+          24244,
+          24250,
+          21799,
+          29613,
+          21780,
+          24246,
+          24233,
+          21793,
+          24240,
+          24249,
+          21798,
+          29615,
+          21784,
+          24242,
+          24234,
+          34633,
+          34635,
+          34637,
+          34641,
+          34607,
+          34625,
+          34629
+        ]
+      }
+    ],
+    "body": [
+      {
+        "Ancestral robe top": [
+          21021
+        ]
+      },
+      {
+        "Virtus robe top": [
+          26243
+        ]
+      },
+      {
+        "Ahrim's robetop": [
+          4712,
+          4868,
+          4869,
+          4870,
+          4871,
+          4872
+        ],
+        "Blue Moon chestplate": [
+          29013,
+          29037,
+          29058
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "Ancestral robe bottom": [
+          21024
+        ]
+      },
+      {
+        "Virtus robe bottom": [
+          26245
+        ]
+      },
+      {
+        "Ahrim's robeskirt": [
+          4714,
+          4874,
+          4875,
+          4876,
+          4877,
+          4878
+        ],
+        "Blue Moon tassets": [
+          29016,
+          29039,
+          29061
+        ]
+      }
+    ],
+    "weapon": [
+      {
+        "Tumeken's shadow": [
+          27277,
+          27275
+        ],
+        "Harmonised Nightmare staff": [
+          24423
+        ]
+      },
+      {
+        "Twinflame staff": [
+          30634
+        ]
+      },
+      {
+        "Eye of Ayak": [
+          31115,
+          31113
+        ]
+      }
+    ],
+    "shield": [
+      {
+        "Tome of Fire": [
+          20716,
+          20714
+        ],
+        "Tome of Water": [
+          25576,
+          25574
+        ],
+        "Tome of Earth": [
+          30066,
+          30064
+        ]
+      },
+      {
+        "Elidinis' ward (f)": [
+          27251,
+          27253
+        ]
+      },
+      {
+        "Arcane spirit shield": [
+          12825
+        ],
+        "Elidinis' ward": [
+          25985
+        ]
+      }
+    ],
+    "ammo": [],
+    "hands": [
+      {
+        "Confliction gauntlets": [
+          31106
+        ]
+      },
+      {
+        "Tormented bracelet": [
+          19544
+        ]
+      },
+      {
+        "Barrows gloves": [
+          7462
+        ]
+      }
+    ],
+    "feet": [
+      {
+        "Avernic treads (max)": [
+          31097
+        ]
+      },
+      {
+        "Eternal boots": [
+          13235
+        ]
+      }
+    ],
+    "ring": [
+      {
+        "Magus ring": [
+          28313
+        ],
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
+        "Seers ring (i)": [
+          11770,
+          25258,
+          26767
+        ]
+      }
+    ],
+    "special": [
+      {
+        "Eldritch Nightmare staff": [
+          24425
+        ],
+        "Eye of Ayak": [
+          31115,
+          31113
+        ]
+      }
+    ]
+  },
+  {
+    "name": "[[File:Archive Guardian icon.png]] Archive Guardian (Flying, reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Ascension crossbows": [
+          34681
+        ],
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902,
+          28053
+        ]
+      },
+      {
+        "Rune crossbow": [
+          9185
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Archive Guardian icon.png]] Archive Guardian (Grounded, reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
+      {
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ],
+        "Twisted bow": [
+          20997
+        ],
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
+        "Inquisitor's mace": [
+          24417
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ],
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Abyssal bludgeon": [
+          13263
+        ]
+      },
+      {
+        "Ursine chainmace": [
+          27657,
+          27660
+        ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Ezekiel icon.png]] Ezekiel (Reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Obligator": [
+          34717,
+          34715
+        ],
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Soulreaper axe": [
+          28338
+        ],
+        "Inquisitor's mace": [
+          24417
+        ]
+      },
+      {
+        "Abyssal bludgeon": [
+          13263
+        ]
+      },
+      {
+        "Ursine chainmace": [
+          27657,
+          27660
+        ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Ezekiel icon.png]] Ezekiel (Enrage special attacks)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Crimson kisten": [
+          33631
+        ]
+      },
+      {
+        "Dragon claws": [
+          13652,
+          26708,
+          28039
+        ]
+      },
+      {
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
+        "Abyssal bludgeon": [
+          13263
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Bork icon.png]] Bork (Stunned, reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
+      {
+        "Ascension crossbows": [
+          34681
+        ],
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ],
+        "Inquisitor's mace": [
+          24417
+        ],
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902,
+          28053
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "The Smorks (Reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Obligator": [
+          34717,
+          34715
+        ],
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ],
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ],
+        "Inquisitor's mace": [
+          24417
+        ],
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902,
+          28053
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Moia icon.png]] Moia (Reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Ascension crossbows": [
+          34681
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Dreadnoth the Jellied icon.png]]Dreadnoth the Jellied (Reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Scorching bow": [
+          29591
+        ],
+        "Dragon crossbow": [
+          21902,
+          28053
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Dagon'hai Elder icon.png]] Dagon'hai Trio (Reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Xarth icon.png]] Xarth (Reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Twisted bow": [
+          20997
+        ],
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Scorching bow": [
+          29591
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902,
+          28053
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Ocellus icon.png]] Ocellus Phase 1 (Reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
+      {
+        "Ascension crossbows": [
+          34681
+        ],
+        "Twisted bow": [
+          20997
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      },
+      {
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ],
+        "Inquisitor's mace": [
+          24417
+        ],
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Emberlight": [
+          29589
+        ],
+        "Abyssal bludgeon": [
+          13263
+        ],
+        "Zamorakian hasta": [
+          11889
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "[[File:Ocellus icon.png]] Ocellus Phase 2",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902,
+          28053
+        ]
+      },
+      {
+        "Scorching bow": [
+          29591
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Ocellus Phase 3/4 (Reduced Defence)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
+      {
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ],
+        "Inquisitor's mace": [
+          24417
+        ],
+        "Soulreaper axe": [
+          28338
+        ]
+      },
+      {
+        "Emberlight": [
+          29589
+        ],
+        "Abyssal bludgeon": [
+          13263
+        ]
+      },
+      {
+        "Twisted bow": [
+          20997
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Ocellus Phase 3/4 (Untethered and Ranged-only Enrage)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Twisted bow": [
+          20997
+        ]
+      },
+      {
+        "Scorching bow": [
+          29591
+        ],
+        "Zaryte crossbow": [
+          26374
+        ]
+      },
+      {
+        "Armadyl crossbow": [
+          11785
+        ],
+        "Dragon crossbow": [
+          21902,
+          28053
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  }
+]

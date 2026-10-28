@@ -212,6 +212,12 @@
     ],
     "weapon": [
       {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
+      {
         "Scythe of Vitur": [
           22486,
           22325
@@ -251,6 +257,9 @@
     ],
     "shield": [
       {
+        "Rondache": [
+          34719
+        ],
         "Avernic defender": [
           22322,
           22441,

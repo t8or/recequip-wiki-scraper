@@ -323,6 +323,11 @@
     ],
     "weapon": [
       {
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
         "Zaryte crossbow": [
           26374
         ],
@@ -353,12 +358,6 @@
         "Rune crossbow": [
           9185
         ]
-      },
-      {
-        "Toxic blowpipe": [
-          12924,
-          12926
-        ]
       }
     ],
     "shield": [
@@ -386,6 +385,9 @@
     ],
     "ammo": [
       {
+        "Diamond ascension bolts (e)": [
+          34696
+        ],
         "Ruby dragon bolts (e)": [
           21944
         ]

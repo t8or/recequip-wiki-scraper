@@ -134,9 +134,13 @@
         ]
       },
       {
-        "Ranging cape": [
+        "Ranging cape(t)": [
           9756,
           9757
+        ],
+        "Max cape": [
+          13280,
+          13342
         ]
       }
     ],
