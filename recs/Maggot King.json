@@ -332,6 +332,12 @@
           27662,
           27665
         ]
+      },
+      {
+        "Zorya's tome": [
+          34727,
+          34725
+        ]
       }
     ]
   },
@@ -525,6 +531,9 @@
     ],
     "weapon": [
       {
+        "Ascension crossbows": [
+          34681
+        ],
         "Zaryte crossbow": [
           26374
         ]
@@ -587,6 +596,9 @@
     ],
     "ammo": [
       {
+        "Diamond ascension bolts (e)": [
+          34696
+        ],
         "Ruby dragon bolts (e)": [
           21944
         ]

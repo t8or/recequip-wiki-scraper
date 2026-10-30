@@ -64,11 +64,14 @@
         ]
       },
       {
-        "Amulet of fury": [
-          6585
+        "Elemental amulet": [
+          34428
         ]
       },
       {
+        "Amulet of fury": [
+          6585
+        ],
         "Amulet of glory": [
           1704,
           1706,
@@ -439,7 +442,14 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Zorya's tome": [
+          34727,
+          34725
+        ]
+      }
+    ]
   },
   {
     "name": "Magic",
@@ -506,11 +516,14 @@
         ]
       },
       {
-        "Amulet of fury": [
-          6585
+        "Elemental amulet": [
+          34428
         ]
       },
       {
+        "Amulet of fury": [
+          6585
+        ],
         "Amulet of glory": [
           1704,
           1706,
