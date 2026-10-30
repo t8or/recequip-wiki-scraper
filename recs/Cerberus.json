@@ -298,7 +298,9 @@
         "Obligator": [
           34717,
           34715
-        ],
+        ]
+      },
+      {
         "Scythe of Vitur": [
           22486,
           22325
@@ -319,9 +321,7 @@
         "Arclight": [
           30305,
           19675
-        ]
-      },
-      {
+        ],
         "Osmumten's fang": [
           26219
         ],
@@ -778,6 +778,9 @@
     ],
     "weapon": [
       {
+        "Ascension crossbows": [
+          34681
+        ],
         "Twisted bow": [
           20997
         ]

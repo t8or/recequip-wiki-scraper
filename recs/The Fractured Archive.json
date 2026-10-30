@@ -1038,23 +1038,26 @@
         "Obligator": [
           34717,
           34715
-        ],
+        ]
+      },
+      {
         "Scythe of Vitur": [
           22486,
           22325
-        ]
-      },
-      {
+        ],
         "Soulreaper axe": [
           28338
-        ],
-        "Inquisitor's mace": [
-          24417
         ]
       },
       {
+        "Inquisitor's mace": [
+          24417
+        ],
         "Abyssal bludgeon": [
           13263
+        ],
+        "Zombie axe": [
+          28810
         ]
       },
       {
@@ -1138,7 +1141,9 @@
         "Scythe of Vitur": [
           22486,
           22325
-        ],
+        ]
+      },
+      {
         "Inquisitor's mace": [
           24417
         ],
@@ -1149,7 +1154,9 @@
       {
         "Zaryte crossbow": [
           26374
-        ],
+        ]
+      },
+      {
         "Armadyl crossbow": [
           11785
         ],

@@ -60,8 +60,13 @@
           25908,
           26683
         ],
-        "Ancient coif": [
-          12496
+        "Karil's coif": [
+          4732,
+          4928,
+          4929,
+          4930,
+          4931,
+          4932
         ]
       }
     ],
@@ -131,11 +136,6 @@
         ]
       },
       {
-        "Eclipse Moon chestplate": [
-          29004,
-          29031,
-          29049
-        ],
         "Karil's leathertop": [
           4736,
           4940,
@@ -146,6 +146,13 @@
         ],
         "Ancient d'hide body": [
           12492
+        ]
+      },
+      {
+        "Eclipse Moon chestplate": [
+          29004,
+          29031,
+          29049
         ]
       }
     ],
@@ -161,11 +168,6 @@
         ]
       },
       {
-        "Eclipse Moon tassets": [
-          29007,
-          29033,
-          29052
-        ],
         "Karil's leatherskirt": [
           4738,
           4946,
@@ -177,6 +179,13 @@
         "Ancient chaps": [
           12494
         ]
+      },
+      {
+        "Eclipse Moon tassets": [
+          29007,
+          29033,
+          29052
+        ]
       }
     ],
     "weapon": [
@@ -184,6 +193,11 @@
         "Zaryte crossbow": [
           26374
         ],
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
         "Twisted bow": [
           20997
         ]
@@ -230,6 +244,11 @@
         "Ruby dragon bolts (e)": [
           21944
         ],
+        "Diamond ascension bolts (e)": [
+          34696
+        ]
+      },
+      {
         "Seeking dragon arrow": [
           33595
         ]
@@ -291,6 +310,12 @@
           25260,
           26768
         ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
       }
     ],
     "special": [
@@ -326,6 +351,9 @@
         ]
       },
       {
+        "Inquisitor's great helm": [
+          24419
+        ],
         "Neitiznot faceguard": [
           24271
         ]
@@ -335,6 +363,12 @@
           12929,
           12931
         ],
+        "Oathplate helm": [
+          30750,
+          30777
+        ]
+      },
+      {
         "Eclipse Moon helm": [
           29010,
           29035,
@@ -346,16 +380,14 @@
       {
         "Amulet of rancour": [
           29801
+        ],
+        "Amulet of blood fury": [
+          24780
         ]
       },
       {
         "Amulet of torture": [
           19553
-        ]
-      },
-      {
-        "Amulet of blood fury": [
-          24780
         ]
       }
     ],
@@ -379,6 +411,14 @@
     ],
     "body": [
       {
+        "Inquisitor's hauberk": [
+          24420
+        ]
+      },
+      {
+        "Masori body (f)": [
+          27238
+        ],
         "Torva platebody": [
           26378,
           26384,
@@ -386,11 +426,12 @@
         ]
       },
       {
-        "Masori body (f)": [
-          27238
-        ],
         "Bandos chestplate": [
           11832
+        ],
+        "Oathplate chest": [
+          30753,
+          30779
         ]
       },
       {
@@ -406,6 +447,14 @@
     ],
     "legs": [
       {
+        "Inquisitor's plateskirt": [
+          24421
+        ]
+      },
+      {
+        "Masori chaps (f)": [
+          27241
+        ],
         "Torva platelegs": [
           26380,
           26386,
@@ -413,11 +462,12 @@
         ]
       },
       {
-        "Masori chaps (f)": [
-          27241
-        ],
         "Bandos tassets": [
           11834
+        ],
+        "Oathplate legs": [
+          30756,
+          30781
         ]
       },
       {
@@ -439,6 +489,9 @@
         ]
       },
       {
+        "Inquisitor's mace": [
+          24417
+        ],
         "Osmumten's fang": [
           26219
         ]
@@ -450,6 +503,9 @@
           22322,
           22441,
           24186
+        ],
+        "Rondache": [
+          34719
         ]
       },
       {
@@ -465,8 +521,16 @@
         "Seeking dragon arrow": [
           33595
         ],
+        "Diamond ascension bolts (e)": [
+          34696
+        ]
+      },
+      {
         "Ruby dragon bolts (e)": [
           21944
+        ],
+        "Onyx ascension bolts (e)": [
+          34708
         ]
       }
     ],
@@ -497,15 +561,18 @@
         "Aranea boots": [
           29806
         ]
+      },
+      {
+        "Ancient d'hide boots": [
+          19921
+        ]
       }
     ],
     "ring": [
       {
         "Lightbearer": [
           25975
-        ]
-      },
-      {
+        ],
         "Ultor ring": [
           28307
         ]
@@ -516,20 +583,26 @@
           25264,
           26770
         ]
+      },
+      {
+        "Ring of shadows": [
+          28329,
+          28327
+        ]
       }
     ],
     "special": [
       {
-        "Zaryte crossbow": [
-          26374
+        "Crimson kisten": [
+          33631
         ],
         "Voidwaker": [
           27690
         ]
       },
       {
-        "Burning claws": [
-          29577
+        "Zaryte crossbow": [
+          26374
         ]
       },
       {
