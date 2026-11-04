@@ -3241,6 +3241,11 @@
             ]
           },
           {
+            "Ascension crossbows": [
+              34681
+            ]
+          },
+          {
             "Toxic blowpipe": [
               12924,
               12926
@@ -3293,6 +3298,9 @@
           {
             "Seeking dragon arrow": [
               33595
+            ],
+            "Diamond ascension bolts (e)": [
+              34696
             ],
             "Ruby dragon bolts (e)": [
               21944
@@ -3730,7 +3738,7 @@
             "Belle's folly": [
               31248
             ],
-            "Dragon sword": [
+            "Dragon shortsword": [
               21009
             ],
             "Dual macuahuitl": [
@@ -5834,6 +5842,12 @@
         ],
         "special": [
           {
+            "Zorya's tome": [
+              34727,
+              34725
+            ]
+          },
+          {
             "Dragon claws": [
               13652,
               26708,
@@ -7346,15 +7360,15 @@
         ],
         "legs": [
           {
-            "Inquisitor's plateskirt": [
-              24421
-            ]
-          },
-          {
             "Torva platelegs": [
               26380,
               26386,
               28258
+            ]
+          },
+          {
+            "Inquisitor's plateskirt": [
+              24421
             ]
           },
           {
@@ -9204,7 +9218,7 @@
             "Dragon hunter lance": [
               22978
             ],
-            "Dragon sword": [
+            "Dragon shortsword": [
               21009
             ]
           }
@@ -16334,7 +16348,14 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Zorya's tome": [
+              34727,
+              34725
+            ]
+          }
+        ]
       }
     ]
   },
@@ -23056,7 +23077,14 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Zorya's tome": [
+              34727,
+              34725
+            ]
+          }
+        ]
       },
       {
         "name": "Melee",
@@ -24063,7 +24091,7 @@
             ]
           },
           {
-            "Dragon sword": [
+            "Dragon shortsword": [
               21009
             ]
           },
@@ -32899,14 +32927,12 @@
         ],
         "special": [
           {
-            "Eldritch Nightmare staff": [
-              24425
-            ]
-          },
-          {
             "Zorya's tome": [
               34727,
               34725
+            ],
+            "Eldritch Nightmare staff": [
+              24425
             ]
           }
         ]
@@ -34945,7 +34971,7 @@
             "Zombie axe": [
               28810
             ],
-            "Dragon sword": [
+            "Dragon shortsword": [
               21009
             ],
             "Arkan blade": [
@@ -35410,13 +35436,14 @@
         ],
         "cape": [
           {
-            "Dizana's quiver": [
-              28947,
-              28951,
-              28949,
-              28953,
+            "Blessed Dizana's quiver": [
               28955,
               28957,
+              28828,
+              33528,
+              33530,
+              28951,
+              28953,
               28902,
               28906
             ]
@@ -35927,6 +35954,11 @@
             ]
           },
           {
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
             "Osmumten's fang": [
               26219
             ]
@@ -36264,6 +36296,12 @@
           }
         ],
         "special": [
+          {
+            "Zorya's tome": [
+              34727,
+              34725
+            ]
+          },
           {
             "Accursed sceptre": [
               27662,
@@ -41153,14 +41191,12 @@
         ],
         "weapon": [
           {
-            "Bone staff": [
-              28796
-            ]
-          },
-          {
             "Tumeken's shadow": [
               27277,
               27275
+            ],
+            "Bone staff": [
+              28796
             ]
           },
           {
@@ -41323,14 +41359,14 @@
         ],
         "special": [
           {
-            "Zaryte crossbow": [
-              26374
-            ]
-          },
-          {
             "Zorya's tome": [
               34727,
               34725
+            ]
+          },
+          {
+            "Zaryte crossbow": [
+              26374
             ]
           },
           {
@@ -43268,11 +43304,11 @@
             ]
           },
           {
-            "Devout boots": [
-              22954
-            ],
             "Pegasian boots": [
               13237
+            ],
+            "Devout boots": [
+              22954
             ]
           },
           {
@@ -43301,13 +43337,13 @@
             ]
           },
           {
+            "Venator ring": [
+              28310
+            ],
             "Ring of the gods (i)": [
               13202,
               25252,
               26764
-            ],
-            "Venator ring": [
-              28310
             ]
           },
           {
@@ -43347,8 +43383,9 @@
             ]
           },
           {
-            "Armadyl crossbow": [
-              11785
+            "Tonalztics of Ralos": [
+              28919,
+              28922
             ],
             "Toxic blowpipe": [
               12924,
@@ -43356,9 +43393,8 @@
             ]
           },
           {
-            "Tonalztics of Ralos": [
-              28919,
-              28922
+            "Armadyl crossbow": [
+              11785
             ],
             "Dragon knife": [
               22804,
@@ -44094,8 +44130,9 @@
         ],
         "special": [
           {
-            "Voidwaker": [
-              27690
+            "Zorya's tome": [
+              34727,
+              34725
             ]
           },
           {
@@ -44104,6 +44141,11 @@
               26708,
               28039
             ],
+            "Voidwaker": [
+              27690
+            ]
+          },
+          {
             "Burning claws": [
               29577
             ]
@@ -47297,6 +47339,9 @@
             ]
           },
           {
+            "Ascension crossbows": [
+              34681
+            ],
             "Twisted bow": [
               20997
             ]
@@ -47430,6 +47475,11 @@
             ]
           },
           {
+            "Ascension crossbows": [
+              34681
+            ]
+          },
+          {
             "Toxic blowpipe": [
               12924,
               12926
@@ -47537,6 +47587,9 @@
             ]
           },
           {
+            "Ascension crossbows": [
+              34681
+            ],
             "Toxic blowpipe": [
               12924,
               12926
@@ -54354,11 +54407,14 @@
         ],
         "weapon": [
           {
-            "Dragon hunter crossbow": [
-              21012
+            "Ascension crossbows": [
+              34681
             ]
           },
           {
+            "Dragon hunter crossbow": [
+              21012
+            ],
             "Toxic blowpipe": [
               12924,
               12926
@@ -54402,6 +54458,11 @@
           }
         ],
         "ammo": [
+          {
+            "Diamond ascension bolts": [
+              34690
+            ]
+          },
           {
             "Ruby dragon bolts (e)": [
               21944
@@ -62874,6 +62935,12 @@
         ],
         "weapon": [
           {
+            "Obligator": [
+              34717,
+              34715
+            ]
+          },
+          {
             "Scythe of Vitur": [
               22486,
               22325
@@ -62904,14 +62971,6 @@
             ],
             "Abyssal bludgeon": [
               13263
-            ]
-          },
-          {
-            "Zombie axe": [
-              28810
-            ],
-            "Belle's folly": [
-              31248
             ]
           }
         ],
@@ -71381,15 +71440,15 @@
         ],
         "special": [
           {
-            "Eye of Ayak": [
-              31115,
-              31113
-            ]
-          },
-          {
             "Accursed sceptre": [
               27662,
               27665
+            ]
+          },
+          {
+            "Eye of Ayak": [
+              31115,
+              31113
             ]
           },
           {
@@ -79370,6 +79429,9 @@
           {
             "Occult necklace": [
               12002
+            ],
+            "Elemental amulet": [
+              34428
             ]
           },
           {
@@ -79979,7 +80041,7 @@
             ]
           },
           {
-            "Dragon sword": [
+            "Dragon shortsword": [
               21009
             ],
             "Arkan blade": [
@@ -86495,6 +86557,10 @@
         ],
         "weapon": [
           {
+            "Obligator": [
+              34717,
+              34715
+            ],
             "Scythe of Vitur": [
               22486,
               22325
@@ -93342,6 +93408,9 @@
             "Dragon warhammer": [
               13576,
               28035
+            ],
+            "Voidwaker": [
+              27690
             ]
           },
           {
@@ -94362,13 +94431,13 @@
         "legs": [],
         "weapon": [
           {
-            "Ascension crossbows": [
-              34681
+            "Twisted bow": [
+              20997
             ]
           },
           {
-            "Twisted bow": [
-              20997
+            "Ascension crossbows": [
+              34681
             ]
           },
           {
@@ -94895,6 +94964,11 @@
             ]
           },
           {
+            "Rondache": [
+              34719
+            ]
+          },
+          {
             "Rune defender": [
               8850,
               20461,
@@ -95349,7 +95423,7 @@
             ]
           },
           {
-            "Dragon sword": [
+            "Dragon shortsword": [
               21009
             ],
             "Arkan blade": [
@@ -95697,9 +95771,8 @@
             "Twisted bow": [
               20997
             ],
-            "Toxic blowpipe": [
-              12924,
-              12926
+            "Ascension crossbows": [
+              34681
             ]
           },
           {
@@ -99665,6 +99738,12 @@
             "Accursed sceptre": [
               27662,
               27665
+            ]
+          },
+          {
+            "Zorya's tome": [
+              34727,
+              34725
             ]
           },
           {

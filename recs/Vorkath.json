@@ -278,11 +278,14 @@
     ],
     "weapon": [
       {
-        "Dragon hunter crossbow": [
-          21012
+        "Ascension crossbows": [
+          34681
         ]
       },
       {
+        "Dragon hunter crossbow": [
+          21012
+        ],
         "Toxic blowpipe": [
           12924,
           12926
@@ -326,6 +329,11 @@
       }
     ],
     "ammo": [
+      {
+        "Diamond ascension bolts": [
+          34690
+        ]
+      },
       {
         "Ruby dragon bolts (e)": [
           21944

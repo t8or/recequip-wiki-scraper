@@ -926,7 +926,14 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Zorya's tome": [
+          34727,
+          34725
+        ]
+      }
+    ]
   },
   {
     "name": "Melee",
@@ -1933,7 +1940,7 @@
         ]
       },
       {
-        "Dragon sword": [
+        "Dragon shortsword": [
           21009
         ]
       },

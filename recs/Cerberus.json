@@ -222,15 +222,15 @@
     ],
     "legs": [
       {
-        "Inquisitor's plateskirt": [
-          24421
-        ]
-      },
-      {
         "Torva platelegs": [
           26380,
           26386,
           28258
+        ]
+      },
+      {
+        "Inquisitor's plateskirt": [
+          24421
         ]
       },
       {
