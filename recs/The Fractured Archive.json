@@ -296,6 +296,9 @@
         "Dragon warhammer": [
           13576,
           28035
+        ],
+        "Voidwaker": [
+          27690
         ]
       },
       {
@@ -1316,13 +1319,13 @@
     "legs": [],
     "weapon": [
       {
-        "Ascension crossbows": [
-          34681
+        "Twisted bow": [
+          20997
         ]
       },
       {
-        "Twisted bow": [
-          20997
+        "Ascension crossbows": [
+          34681
         ]
       },
       {

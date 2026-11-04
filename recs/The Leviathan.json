@@ -446,11 +446,11 @@
         ]
       },
       {
-        "Devout boots": [
-          22954
-        ],
         "Pegasian boots": [
           13237
+        ],
+        "Devout boots": [
+          22954
         ]
       },
       {
@@ -479,13 +479,13 @@
         ]
       },
       {
+        "Venator ring": [
+          28310
+        ],
         "Ring of the gods (i)": [
           13202,
           25252,
           26764
-        ],
-        "Venator ring": [
-          28310
         ]
       },
       {
@@ -525,8 +525,9 @@
         ]
       },
       {
-        "Armadyl crossbow": [
-          11785
+        "Tonalztics of Ralos": [
+          28919,
+          28922
         ],
         "Toxic blowpipe": [
           12924,
@@ -534,9 +535,8 @@
         ]
       },
       {
-        "Tonalztics of Ralos": [
-          28919,
-          28922
+        "Armadyl crossbow": [
+          11785
         ],
         "Dragon knife": [
           22804,

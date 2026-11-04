@@ -1942,14 +1942,12 @@
     ],
     "weapon": [
       {
-        "Bone staff": [
-          28796
-        ]
-      },
-      {
         "Tumeken's shadow": [
           27277,
           27275
+        ],
+        "Bone staff": [
+          28796
         ]
       },
       {
@@ -2112,14 +2110,14 @@
     ],
     "special": [
       {
-        "Zaryte crossbow": [
-          26374
-        ]
-      },
-      {
         "Zorya's tome": [
           34727,
           34725
+        ]
+      },
+      {
+        "Zaryte crossbow": [
+          26374
         ]
       },
       {

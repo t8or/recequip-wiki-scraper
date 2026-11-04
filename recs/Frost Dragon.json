@@ -244,6 +244,12 @@
     ],
     "weapon": [
       {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
+      {
         "Scythe of Vitur": [
           22486,
           22325
@@ -274,14 +280,6 @@
         ],
         "Abyssal bludgeon": [
           13263
-        ]
-      },
-      {
-        "Zombie axe": [
-          28810
-        ],
-        "Belle's folly": [
-          31248
         ]
       }
     ],
