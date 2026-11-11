@@ -2106,6 +2106,9 @@
     ],
     "weapon": [
       {
+        "Ascension crossbows": [
+          34681
+        ],
         "Toxic blowpipe": [
           12924,
           12926
@@ -2185,11 +2188,17 @@
     ],
     "ammo": [
       {
+        "Diamond ascension bolts (e)": [
+          34696
+        ],
         "Rada's blessing 4": [
           22947
         ]
       },
       {
+        "Ascension bolts": [
+          34684
+        ],
         "God blessing": [
           20220,
           20223,
@@ -2726,6 +2735,13 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Zorya's tome": [
+          34727,
+          34725
+        ]
+      }
+    ]
   }
 ]

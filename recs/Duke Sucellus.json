@@ -422,16 +422,16 @@
     ],
     "special": [
       {
-        "Burning claws": [
-          29577
-        ]
-      },
-      {
         "Dragon claws": [
           13652,
           26708,
           28039
         ],
+        "Burning claws": [
+          29577
+        ]
+      },
+      {
         "Voidwaker": [
           27690
         ]
@@ -439,12 +439,6 @@
       {
         "Bandos godsword": [
           11804
-        ],
-        "Bone dagger": [
-          8872,
-          8874,
-          8876,
-          8878
         ]
       },
       {
@@ -453,6 +447,12 @@
         ]
       },
       {
+        "Bone dagger": [
+          8872,
+          8874,
+          8876,
+          8878
+        ],
         "Abyssal dagger (p++)": [
           13265,
           13267,

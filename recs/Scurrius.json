@@ -1544,6 +1544,11 @@
     ],
     "weapon": [
       {
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
         "Toxic blowpipe": [
           12924,
           12926
@@ -1557,11 +1562,6 @@
       {
         "Twisted bow": [
           20997
-        ]
-      },
-      {
-        "Zaryte crossbow": [
-          26374
         ]
       }
     ],
@@ -1596,29 +1596,23 @@
     ],
     "ammo": [
       {
-        "Amethyst arrow": [
-          21326,
-          21332,
-          21334,
-          21336
+        "Diamond ascension bolts (e)": [
+          34696
         ]
       },
       {
-        "Dragon arrow": [
-          11212,
-          11227,
-          11228,
-          11229
+        "Seeking amethyst arrow": [
+          33589
+        ]
+      },
+      {
+        "Seeking dragon arrow": [
+          33595
         ]
       },
       {
         "Ruby dragon bolts (e)": [
           21944
-        ]
-      },
-      {
-        "Ruby bolts (e)": [
-          9242
         ]
       }
     ],
