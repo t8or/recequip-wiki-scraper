@@ -625,9 +625,8 @@
     ],
     "weapon": [
       {
-        "Toxic blowpipe": [
-          12924,
-          12926
+        "Ascension crossbows": [
+          34681
         ],
         "Kodai wand": [
           21006
@@ -651,6 +650,22 @@
         "Bow of Faerdhinen": [
           25862,
           25865
+        ]
+      },
+      {
+        "Blood ancient sceptre": [
+          28260,
+          28238,
+          28473,
+          33504,
+          33506
+        ],
+        "Ice ancient sceptre": [
+          28262,
+          28242,
+          28474,
+          33508,
+          33510
         ]
       }
     ],
@@ -685,11 +700,8 @@
         "Rada's blessing 4": [
           22947
         ],
-        "Dragon dart": [
-          11230,
-          11231,
-          11233,
-          11234
+        "Diamond ascension bolts (e)": [
+          34696
         ]
       },
       {
@@ -698,6 +710,12 @@
           11227,
           11228,
           11229
+        ],
+        "Dragon dart": [
+          11230,
+          11231,
+          11233,
+          11234
         ],
         "Amethyst arrow": [
           21326,

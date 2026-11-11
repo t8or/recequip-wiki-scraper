@@ -9368,9 +9368,11 @@
             "Crystal pickaxe": [
               23680,
               23682
-            ]
-          },
-          {
+            ],
+            "Infernal pickaxe": [
+              13243,
+              13244
+            ],
             "Dragon pickaxe": [
               11920,
               23677
@@ -16223,6 +16225,9 @@
             ]
           },
           {
+            "Mage's book": [
+              6889
+            ],
             "Malediction ward": [
               11924
             ]
@@ -16787,16 +16792,16 @@
         ],
         "special": [
           {
-            "Burning claws": [
-              29577
-            ]
-          },
-          {
             "Dragon claws": [
               13652,
               26708,
               28039
             ],
+            "Burning claws": [
+              29577
+            ]
+          },
+          {
             "Voidwaker": [
               27690
             ]
@@ -16804,12 +16809,6 @@
           {
             "Bandos godsword": [
               11804
-            ],
-            "Bone dagger": [
-              8872,
-              8874,
-              8876,
-              8878
             ]
           },
           {
@@ -16818,6 +16817,12 @@
             ]
           },
           {
+            "Bone dagger": [
+              8872,
+              8874,
+              8876,
+              8878
+            ],
             "Abyssal dagger (p++)": [
               13265,
               13267,
@@ -19646,16 +19651,9 @@
             "Zorya's tome": [
               34727,
               34725
-            ]
-          },
-          {
-            "Accursed sceptre": [
-              27662,
-              27665
             ],
-            "Eye of Ayak": [
-              31115,
-              31113
+            "Eldritch Nightmare staff": [
+              24425
             ]
           }
         ]
@@ -25693,9 +25691,8 @@
         ],
         "weapon": [
           {
-            "Toxic blowpipe": [
-              12924,
-              12926
+            "Ascension crossbows": [
+              34681
             ],
             "Kodai wand": [
               21006
@@ -25719,6 +25716,22 @@
             "Bow of Faerdhinen": [
               25862,
               25865
+            ]
+          },
+          {
+            "Blood ancient sceptre": [
+              28260,
+              28238,
+              28473,
+              33504,
+              33506
+            ],
+            "Ice ancient sceptre": [
+              28262,
+              28242,
+              28474,
+              33508,
+              33510
             ]
           }
         ],
@@ -25753,11 +25766,8 @@
             "Rada's blessing 4": [
               22947
             ],
-            "Dragon dart": [
-              11230,
-              11231,
-              11233,
-              11234
+            "Diamond ascension bolts (e)": [
+              34696
             ]
           },
           {
@@ -25766,6 +25776,12 @@
               11227,
               11228,
               11229
+            ],
+            "Dragon dart": [
+              11230,
+              11231,
+              11233,
+              11234
             ],
             "Amethyst arrow": [
               21326,
@@ -28210,6 +28226,9 @@
             ],
             "Helm of Neitiznot": [
               10828
+            ],
+            "Zombie helmet": [
+              30321
             ]
           }
         ],
@@ -28698,15 +28717,14 @@
         ],
         "weapon": [
           {
+            "Ascension crossbows": [
+              34681
+            ]
+          },
+          {
             "Toxic blowpipe": [
               12924,
               12926
-            ],
-            "Amethyst dart": [
-              25849,
-              25851,
-              25855,
-              25857
             ]
           },
           {
@@ -28732,6 +28750,11 @@
         ],
         "shield": [],
         "ammo": [
+          {
+            "Diamond ascension bolts (e)": [
+              34696
+            ]
+          },
           {
             "Rada's blessing 4": [
               22947
@@ -28794,6 +28817,11 @@
             ],
             "Echo boots": [
               28945
+            ]
+          },
+          {
+            "Aranea boots": [
+              29806
             ]
           }
         ],
@@ -29166,6 +29194,9 @@
             ],
             "Helm of Neitiznot": [
               10828
+            ],
+            "Zombie helmet": [
+              30321
             ]
           }
         ],
@@ -33486,6 +33517,11 @@
         ],
         "weapon": [
           {
+            "Ascension crossbows": [
+              34681
+            ]
+          },
+          {
             "Zaryte crossbow": [
               26374
             ]
@@ -33504,11 +33540,6 @@
             "Dragon crossbow": [
               21902,
               28053
-            ]
-          },
-          {
-            "Twisted bow": [
-              20997
             ]
           }
         ],
@@ -33543,6 +33574,11 @@
           }
         ],
         "ammo": [
+          {
+            "Diamond ascension bolts (e)": [
+              34696
+            ]
+          },
           {
             "Diamond dragon bolts (e)": [
               21946
@@ -37871,6 +37907,9 @@
               26469,
               27003
             ],
+            "Hueycoatl hide body": [
+              30076
+            ],
             "Blessed body": [
               12492,
               12508,
@@ -37923,6 +37962,9 @@
               33490,
               26471,
               27004
+            ],
+            "Hueycoatl hide chaps": [
+              30079
             ],
             "Blessed chaps": [
               12494,
@@ -38109,6 +38151,11 @@
           {
             "Burning claws": [
               29577
+            ]
+          },
+          {
+            "Arkan blade": [
+              30955
             ]
           },
           {
@@ -40793,6 +40840,11 @@
         ],
         "weapon": [
           {
+            "Ascension crossbows": [
+              34681
+            ]
+          },
+          {
             "Toxic blowpipe": [
               12924,
               12926
@@ -40806,11 +40858,6 @@
           {
             "Twisted bow": [
               20997
-            ]
-          },
-          {
-            "Zaryte crossbow": [
-              26374
             ]
           }
         ],
@@ -40845,29 +40892,23 @@
         ],
         "ammo": [
           {
-            "Amethyst arrow": [
-              21326,
-              21332,
-              21334,
-              21336
+            "Diamond ascension bolts (e)": [
+              34696
             ]
           },
           {
-            "Dragon arrow": [
-              11212,
-              11227,
-              11228,
-              11229
+            "Seeking amethyst arrow": [
+              33589
+            ]
+          },
+          {
+            "Seeking dragon arrow": [
+              33595
             ]
           },
           {
             "Ruby dragon bolts (e)": [
               21944
-            ]
-          },
-          {
-            "Ruby bolts (e)": [
-              9242
             ]
           }
         ],
@@ -52374,6 +52415,17 @@
             "Amulet of fury": [
               6585
             ]
+          },
+          {
+            "Amulet of glory": [
+              1704,
+              1706,
+              1708,
+              1710,
+              1712,
+              11976,
+              11978
+            ]
           }
         ],
         "cape": [
@@ -52426,6 +52478,23 @@
               29031,
               29049
             ]
+          },
+          {
+            "Mixed hide top": [
+              29280
+            ]
+          },
+          {
+            "Ancient d'hide body": [
+              12492
+            ],
+            "Fighter torso": [
+              10551,
+              20513,
+              24175,
+              33520,
+              33522
+            ]
           }
         ],
         "legs": [
@@ -52434,6 +52503,11 @@
               29007,
               29033,
               29052
+            ]
+          },
+          {
+            "Ancient chaps": [
+              12494
             ]
           }
         ],
@@ -54443,12 +54517,12 @@
         ],
         "shield": [
           {
+            "Twisted buckler": [
+              21000
+            ],
             "Dragonfire ward": [
               22003,
               22002
-            ],
-            "Twisted buckler": [
-              21000
             ]
           },
           {
@@ -54459,8 +54533,8 @@
         ],
         "ammo": [
           {
-            "Diamond ascension bolts": [
-              34690
+            "Diamond ascension bolts (e)": [
+              34696
             ]
           },
           {
@@ -54589,6 +54663,18 @@
             "Toxic blowpipe": [
               12924,
               12926
+            ]
+          },
+          {
+            "Elder maul": [
+              21003
+            ],
+            "Bandos godsword": [
+              11804
+            ],
+            "Tonalztics of Ralos": [
+              28919,
+              28922
             ]
           },
           {
@@ -54896,6 +54982,12 @@
             ]
           },
           {
+            "Abyssal dagger": [
+              13265,
+              13267,
+              13269,
+              13271
+            ],
             "Belle's folly": [
               31248
             ],
@@ -57097,6 +57189,10 @@
             "Toxic blowpipe": [
               12924,
               12926
+            ],
+            "Rosewood blowpipe": [
+              31585,
+              31583
             ]
           },
           {
@@ -58966,11 +59062,6 @@
           }
         ],
         "feet": [
-          {
-            "Insulated boots": [
-              7159
-            ]
-          },
           {
             "Avernic treads (max)": [
               31097
@@ -60880,15 +60971,15 @@
               13576,
               28035
             ],
-            "Burning claws": [
-              29577
-            ]
-          },
-          {
             "Dragon claws": [
               13652,
               26708,
               28039
+            ]
+          },
+          {
+            "Burning claws": [
+              29577
             ],
             "Bandos godsword": [
               11804
@@ -66841,6 +66932,9 @@
         ],
         "weapon": [
           {
+            "Ascension crossbows": [
+              34681
+            ],
             "Toxic blowpipe": [
               12924,
               12926
@@ -66920,11 +67014,17 @@
         ],
         "ammo": [
           {
+            "Diamond ascension bolts (e)": [
+              34696
+            ],
             "Rada's blessing 4": [
               22947
             ]
           },
           {
+            "Ascension bolts": [
+              34684
+            ],
             "God blessing": [
               20220,
               20223,
@@ -67461,7 +67561,14 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Zorya's tome": [
+              34727,
+              34725
+            ]
+          }
+        ]
       }
     ]
   },
@@ -68239,6 +68346,12 @@
             "Prospector boots": [
               12016,
               29478
+            ]
+          },
+          {
+            "Boots of lightness": [
+              88,
+              89
             ]
           }
         ],
@@ -70275,7 +70388,9 @@
             "Obligator": [
               34717,
               34715
-            ],
+            ]
+          },
+          {
             "Granite hammer": [
               21742
             ]
@@ -70304,19 +70419,14 @@
             ]
           },
           {
-            "Dual macuahuitl": [
-              28997
+            "Zombie axe": [
+              28810
             ],
             "Zamorakian hasta": [
               11889
-            ]
-          },
-          {
-            "Glacial temotli": [
-              29889
             ],
-            "Zombie axe": [
-              28810
+            "Dual macuahuitl": [
+              28997
             ]
           }
         ],
@@ -70634,11 +70744,17 @@
             ]
           },
           {
+            "Dual macuahuitl": [
+              28997
+            ],
             "Zombie axe": [
               28810
             ],
             "Zamorakian hasta": [
               11889
+            ],
+            "Sarachnis cudgel": [
+              23528
             ]
           },
           {
@@ -70651,6 +70767,9 @@
             ],
             "Glacial temotli": [
               29889
+            ],
+            "Belle's folly": [
+              31248
             ]
           },
           {
@@ -71440,9 +71559,9 @@
         ],
         "special": [
           {
-            "Accursed sceptre": [
-              27662,
-              27665
+            "Zorya's tome": [
+              34727,
+              34725
             ]
           },
           {
@@ -71452,9 +71571,9 @@
             ]
           },
           {
-            "Zorya's tome": [
-              34727,
-              34725
+            "Accursed sceptre": [
+              27662,
+              27665
             ]
           }
         ]
@@ -72213,6 +72332,10 @@
         "legs": [],
         "weapon": [
           {
+            "Obligator": [
+              34717,
+              34715
+            ],
             "Dharok's greataxe": [
               4718,
               4886,
@@ -84990,6 +85113,10 @@
         ],
         "weapon": [
           {
+            "Obligator": [
+              34717,
+              34715
+            ],
             "Hallowfell": [
               34027
             ],
@@ -93120,6 +93247,9 @@
             ]
           },
           {
+            "Zombie helmet": [
+              30321
+            ],
             "Torva full helm": [
               26376,
               26382,
@@ -93636,6 +93766,10 @@
             ],
             "Twisted bow": [
               20997
+            ],
+            "Venator bow": [
+              27612,
+              27610
             ]
           },
           {
@@ -94199,7 +94333,13 @@
         "cape": [],
         "body": [],
         "legs": [],
-        "weapon": [
+        "weapon": [],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": [
           {
             "Zaryte crossbow": [
               26374
@@ -94227,13 +94367,7 @@
               13263
             ]
           }
-        ],
-        "shield": [],
-        "ammo": [],
-        "hands": [],
-        "feet": [],
-        "ring": [],
-        "special": []
+        ]
       },
       {
         "name": "[[File:Bork icon.png]] Bork (Stunned, reduced Defence)",

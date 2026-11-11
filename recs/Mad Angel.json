@@ -137,7 +137,9 @@
         "Obligator": [
           34717,
           34715
-        ],
+        ]
+      },
+      {
         "Granite hammer": [
           21742
         ]
@@ -166,19 +168,14 @@
         ]
       },
       {
-        "Dual macuahuitl": [
-          28997
+        "Zombie axe": [
+          28810
         ],
         "Zamorakian hasta": [
           11889
-        ]
-      },
-      {
-        "Glacial temotli": [
-          29889
         ],
-        "Zombie axe": [
-          28810
+        "Dual macuahuitl": [
+          28997
         ]
       }
     ],
@@ -496,11 +493,17 @@
         ]
       },
       {
+        "Dual macuahuitl": [
+          28997
+        ],
         "Zombie axe": [
           28810
         ],
         "Zamorakian hasta": [
           11889
+        ],
+        "Sarachnis cudgel": [
+          23528
         ]
       },
       {
@@ -513,6 +516,9 @@
         ],
         "Glacial temotli": [
           29889
+        ],
+        "Belle's folly": [
+          31248
         ]
       },
       {

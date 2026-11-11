@@ -314,12 +314,12 @@
     ],
     "shield": [
       {
+        "Twisted buckler": [
+          21000
+        ],
         "Dragonfire ward": [
           22003,
           22002
-        ],
-        "Twisted buckler": [
-          21000
         ]
       },
       {
@@ -330,8 +330,8 @@
     ],
     "ammo": [
       {
-        "Diamond ascension bolts": [
-          34690
+        "Diamond ascension bolts (e)": [
+          34696
         ]
       },
       {
@@ -460,6 +460,18 @@
         "Toxic blowpipe": [
           12924,
           12926
+        ]
+      },
+      {
+        "Elder maul": [
+          21003
+        ],
+        "Bandos godsword": [
+          11804
+        ],
+        "Tonalztics of Ralos": [
+          28919,
+          28922
         ]
       },
       {
@@ -767,6 +779,12 @@
         ]
       },
       {
+        "Abyssal dagger": [
+          13265,
+          13267,
+          13269,
+          13271
+        ],
         "Belle's folly": [
           31248
         ],

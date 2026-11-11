@@ -78,6 +78,9 @@
         ],
         "Helm of Neitiznot": [
           10828
+        ],
+        "Zombie helmet": [
+          30321
         ]
       }
     ],
@@ -566,15 +569,14 @@
     ],
     "weapon": [
       {
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
         "Toxic blowpipe": [
           12924,
           12926
-        ],
-        "Amethyst dart": [
-          25849,
-          25851,
-          25855,
-          25857
         ]
       },
       {
@@ -600,6 +602,11 @@
     ],
     "shield": [],
     "ammo": [
+      {
+        "Diamond ascension bolts (e)": [
+          34696
+        ]
+      },
       {
         "Rada's blessing 4": [
           22947
@@ -662,6 +669,11 @@
         ],
         "Echo boots": [
           28945
+        ]
+      },
+      {
+        "Aranea boots": [
+          29806
         ]
       }
     ],
@@ -1034,6 +1046,9 @@
         ],
         "Helm of Neitiznot": [
           10828
+        ],
+        "Zombie helmet": [
+          30321
         ]
       }
     ],

@@ -733,6 +733,11 @@
     ],
     "weapon": [
       {
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
         "Zaryte crossbow": [
           26374
         ]
@@ -751,11 +756,6 @@
         "Dragon crossbow": [
           21902,
           28053
-        ]
-      },
-      {
-        "Twisted bow": [
-          20997
         ]
       }
     ],
@@ -790,6 +790,11 @@
       }
     ],
     "ammo": [
+      {
+        "Diamond ascension bolts (e)": [
+          34696
+        ]
+      },
       {
         "Diamond dragon bolts (e)": [
           21946

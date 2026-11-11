@@ -322,9 +322,9 @@
     ],
     "special": [
       {
-        "Accursed sceptre": [
-          27662,
-          27665
+        "Zorya's tome": [
+          34727,
+          34725
         ]
       },
       {
@@ -334,9 +334,9 @@
         ]
       },
       {
-        "Zorya's tome": [
-          34727,
-          34725
+        "Accursed sceptre": [
+          27662,
+          27665
         ]
       }
     ]
@@ -1095,6 +1095,10 @@
     "legs": [],
     "weapon": [
       {
+        "Obligator": [
+          34717,
+          34715
+        ],
         "Dharok's greataxe": [
           4718,
           4886,
