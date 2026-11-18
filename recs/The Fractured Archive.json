@@ -8,17 +8,17 @@
         ]
       },
       {
-        "Zombie helmet": [
-          30321
+        "Oathplate helm": [
+          30750,
+          30777
         ],
         "Torva full helm": [
           26376,
           26382,
           28254
         ],
-        "Oathplate helm": [
-          30750,
-          30777
+        "Zombie helmet": [
+          30321
         ]
       },
       {
@@ -177,11 +177,11 @@
           22486,
           22325
         ],
-        "Soulreaper axe": [
-          28338
-        ],
         "Inquisitor's mace": [
           24417
+        ],
+        "Soulreaper axe": [
+          28338
         ]
       },
       {
@@ -207,9 +207,6 @@
     ],
     "shield": [
       {
-        "Rondache": [
-          34719
-        ],
         "Avernic defender": [
           22322,
           22441,
@@ -221,6 +218,9 @@
           12954,
           20463,
           24143
+        ],
+        "Rondache": [
+          34719
         ]
       }
     ],
@@ -1358,14 +1358,27 @@
     "legs": [],
     "weapon": [
       {
+        "Obligator": [
+          34717,
+          34715
+        ]
+      },
+      {
+        "Scythe of Vitur": [
+          22486,
+          22325
+        ]
+      },
+      {
+        "Emberlight": [
+          29589
+        ],
         "Twisted bow": [
           20997
         ],
         "Ascension crossbows": [
           34681
-        ]
-      },
-      {
+        ],
         "Toxic blowpipe": [
           12924,
           12926

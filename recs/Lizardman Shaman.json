@@ -145,6 +145,9 @@
     ],
     "weapon": [
       {
+        "Ascension crossbows": [
+          34681
+        ],
         "Toxic blowpipe": [
           12924,
           12926
@@ -321,7 +324,14 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Toxic blowpipe": [
+          12924,
+          12926
+        ]
+      }
+    ]
   },
   {
     "name": "Melee",

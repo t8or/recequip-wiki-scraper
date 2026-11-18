@@ -556,9 +556,8 @@
         "Twisted bow": [
           20997
         ],
-        "Toxic blowpipe": [
-          12924,
-          12926
+        "Ascension crossbows": [
+          34681
         ]
       },
       {
@@ -567,6 +566,10 @@
         ],
         "Zaryte crossbow": [
           26374
+        ],
+        "Toxic blowpipe": [
+          12924,
+          12926
         ]
       },
       {
@@ -618,6 +621,9 @@
         ],
         "Ruby dragon bolts (e)": [
           21944
+        ],
+        "Diamond ascension bolts (e)": [
+          34696
         ]
       },
       {
