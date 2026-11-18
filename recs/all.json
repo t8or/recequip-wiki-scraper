@@ -235,7 +235,6 @@
               22109,
               21914,
               24222,
-              9706,
               882,
               883,
               5616,
@@ -2314,65 +2313,6 @@
               34607,
               34625,
               34629
-            ]
-          },
-          {
-            "God capes": [
-              2412,
-              2415,
-              2414,
-              2417,
-              2413,
-              2416,
-              29628,
-              13280,
-              13342,
-              21791,
-              24236,
-              24248,
-              21797,
-              29617,
-              21776,
-              24238,
-              24232,
-              21795,
-              24244,
-              24250,
-              21799,
-              29613,
-              21780,
-              24246,
-              24233,
-              21793,
-              24240,
-              24249,
-              21798,
-              29615,
-              21784,
-              24242,
-              24234,
-              34633,
-              34635,
-              34637,
-              34641,
-              34607,
-              34625,
-              34629
-            ]
-          },
-          {
-            "Max cape": [
-              13280,
-              13342
-            ]
-          },
-          {
-            "Infernal cape": [
-              21295,
-              21287,
-              24224,
-              33500,
-              33502
             ]
           }
         ],
@@ -5308,8 +5248,8 @@
               20232,
               20235
             ],
-            "Rada's blessing 1": [
-              22941
+            "Rada's blessing 3": [
+              22945
             ]
           }
         ],
@@ -8649,9 +8589,8 @@
             "Twisted bow": [
               20997
             ],
-            "Toxic blowpipe": [
-              12924,
-              12926
+            "Ascension crossbows": [
+              34681
             ]
           },
           {
@@ -8660,6 +8599,10 @@
             ],
             "Zaryte crossbow": [
               26374
+            ],
+            "Toxic blowpipe": [
+              12924,
+              12926
             ]
           },
           {
@@ -8711,6 +8654,9 @@
             ],
             "Ruby dragon bolts (e)": [
               21944
+            ],
+            "Diamond ascension bolts (e)": [
+              34696
             ]
           },
           {
@@ -21385,6 +21331,14 @@
             ]
           },
           {
+            "Masori mask (f)": [
+              27235
+            ],
+            "Masori mask": [
+              27226
+            ]
+          },
+          {
             "Crystal helm": [
               23971,
               23973,
@@ -21404,14 +21358,6 @@
               27779,
               33031,
               33033
-            ]
-          },
-          {
-            "Masori mask (f)": [
-              27235
-            ],
-            "Masori mask": [
-              27226
             ]
           },
           {
@@ -21518,6 +21464,11 @@
         ],
         "body": [
           {
+            "Masori body (f)": [
+              27238
+            ]
+          },
+          {
             "Crystal body": [
               23975,
               23977,
@@ -21537,11 +21488,6 @@
               27771,
               33023,
               33025
-            ]
-          },
-          {
-            "Masori body (f)": [
-              27238
             ]
           },
           {
@@ -21580,6 +21526,11 @@
         ],
         "legs": [
           {
+            "Masori chaps (f)": [
+              27241
+            ]
+          },
+          {
             "Crystal legs": [
               23979,
               23981,
@@ -21599,11 +21550,6 @@
               27775,
               33027,
               33029
-            ]
-          },
-          {
-            "Masori chaps (f)": [
-              27241
             ]
           },
           {
@@ -21708,6 +21654,9 @@
             ],
             "Diamond dragon bolts (e)": [
               21946
+            ],
+            "Diamond ascension bolts (e)": [
+              34696
             ]
           },
           {
@@ -23052,6 +23001,9 @@
           {
             "Magus ring": [
               28313
+            ],
+            "Lightbearer": [
+              25975
             ]
           },
           {
@@ -35004,6 +34956,9 @@
             ]
           },
           {
+            "Sarachnis cudgel": [
+              23528
+            ],
             "Zombie axe": [
               28810
             ],
@@ -36608,6 +36563,11 @@
             ]
           },
           {
+            "Ascension crossbows": [
+              34681
+            ]
+          },
+          {
             "Bow of Faerdhinen": [
               25862,
               25865
@@ -36620,21 +36580,19 @@
           {
             "Zaryte crossbow": [
               26374
+            ],
+            "Armadyl crossbow": [
+              11785
             ]
           },
           {
-            "Armadyl crossbow": [
-              11785
-            ],
             "Dragon crossbow": [
               21902,
               28053
             ],
             "Dragon hunter crossbow": [
               21012
-            ]
-          },
-          {
+            ],
             "Rune crossbow": [
               9185
             ]
@@ -39589,9 +39547,7 @@
           {
             "Regen bracelet": [
               11133
-            ]
-          },
-          {
+            ],
             "Combat bracelet": [
               11126,
               11124,
@@ -39714,6 +39670,9 @@
           {
             "Amulet of fury": [
               6585
+            ],
+            "Necklace of Fangs": [
+              34401
             ]
           },
           {
@@ -39730,6 +39689,11 @@
           {
             "Amulet of power": [
               1731
+            ]
+          },
+          {
+            "Amulet of sight": [
+              34762
             ]
           }
         ],
@@ -39831,6 +39795,10 @@
           {
             "Hunters' sunlight crossbow": [
               28869
+            ],
+            "Rosewood blowpipe": [
+              31585,
+              31583
             ]
           },
           {
@@ -39850,6 +39818,11 @@
           }
         ],
         "shield": [
+          {
+            "Antler guard": [
+              31081
+            ]
+          },
           {
             "Book of Law": [
               12610
@@ -39959,6 +39932,11 @@
         ],
         "ring": [
           {
+            "Lightbearer": [
+              25975
+            ]
+          },
+          {
             "Archers ring (i)": [
               11771,
               25260,
@@ -39969,7 +39947,19 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Rosewood blowpipe": [
+              31585,
+              31583
+            ]
+          },
+          {
+            "Magic shortbow (i)": [
+              12788
+            ]
+          }
+        ]
       },
       {
         "name": "Magic (mid level)",
@@ -40004,6 +39994,9 @@
           {
             "Occult necklace": [
               12002
+            ],
+            "Elemental amulet": [
+              34428
             ]
           },
           {
@@ -40501,6 +40494,9 @@
               22322,
               22441,
               24186
+            ],
+            "Rondache": [
+              34719
             ]
           },
           {
@@ -46109,6 +46105,10 @@
               22806,
               22808,
               22810
+            ],
+            "Eye of Ayak": [
+              31115,
+              31113
             ]
           }
         ],
@@ -46750,6 +46750,9 @@
             "Seeking dragon arrow": [
               33595
             ],
+            "Diamond ascension bolts (e)": [
+              34696
+            ],
             "Rada's blessing 4": [
               22947
             ]
@@ -47068,6 +47071,9 @@
             "Seeking dragon arrow": [
               33595
             ],
+            "Diamond ascension bolts (e)": [
+              34696
+            ],
             "Rada's blessing 4": [
               22947
             ]
@@ -47262,6 +47268,11 @@
             "Twisted bow": [
               20997
             ],
+            "Ascension crossbows": [
+              34681
+            ]
+          },
+          {
             "Toxic blowpipe": [
               12924,
               12926
@@ -47279,6 +47290,9 @@
           {
             "Seeking dragon arrow": [
               33595
+            ],
+            "Diamond ascension bolts (e)": [
+              34696
             ],
             "Rada's blessing 4": [
               22947
@@ -49866,15 +49880,18 @@
         ],
         "weapon": [
           {
-            "Toxic blowpipe": [
-              12924,
-              12926
+            "Ascension crossbows": [
+              34681
             ],
             "Twisted bow": [
               20997
             ]
           },
           {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ],
             "Bow of Faerdhinen": [
               25862,
               25865
@@ -49951,20 +49968,23 @@
         ],
         "ammo": [
           {
+            "Diamond ascension bolts (e)": [
+              34696
+            ],
             "Seeking dragon arrow": [
               33595
-            ],
-            "Rada's blessing 4": [
-              22947
-            ],
+            ]
+          },
+          {
             "Dragon dart": [
               11230,
               11231,
               11233,
               11234
-            ]
-          },
-          {
+            ],
+            "Rada's blessing 4": [
+              22947
+            ],
             "Seeking amethyst arrow": [
               33589
             ],
@@ -49973,6 +49993,14 @@
               11227,
               11228,
               11229
+            ]
+          },
+          {
+            "Amethyst dart": [
+              25849,
+              25851,
+              25855,
+              25857
             ],
             "God blessing": [
               20220,
@@ -49981,12 +50009,6 @@
               20229,
               20232,
               20235
-            ],
-            "Amethyst dart": [
-              25849,
-              25851,
-              25855,
-              25857
             ]
           },
           {
@@ -50116,7 +50138,14 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          }
+        ]
       },
       {
         "name": "Melee",
@@ -53013,16 +53042,13 @@
               26708,
               28039
             ],
-            "Voidwaker": [
-              27690
+            "Burning claws": [
+              29577
             ]
           },
           {
-            "Crimson kisten": [
-              33631
-            ],
-            "Burning claws": [
-              29577
+            "Voidwaker": [
+              27690
             ]
           },
           {
@@ -53031,6 +53057,9 @@
             ],
             "Arkan blade": [
               30955
+            ],
+            "Crimson kisten": [
+              33631
             ]
           },
           {
@@ -54982,6 +55011,9 @@
             ]
           },
           {
+            "Zamorakian hasta": [
+              11889
+            ],
             "Abyssal dagger": [
               13265,
               13267,
@@ -54990,9 +55022,6 @@
             ],
             "Belle's folly": [
               31248
-            ],
-            "Zamorakian hasta": [
-              11889
             ]
           }
         ],
@@ -57020,6 +57049,9 @@
             "Twisted bow": [
               20997
             ],
+            "Ascension crossbows": [
+              34681
+            ],
             "Toxic blowpipe": [
               12924,
               12926
@@ -57067,6 +57099,9 @@
           {
             "Seeking dragon arrow": [
               33595
+            ],
+            "Diamond ascension bolts (e)": [
+              34696
             ]
           },
           {
@@ -62719,6 +62754,8 @@
               31113,
               27277,
               27275,
+              34727,
+              34725,
               22290,
               22288,
               22294,
@@ -65347,6 +65384,9 @@
               22322,
               22441,
               24186
+            ],
+            "Rondache": [
+              34719
             ]
           },
           {
@@ -69630,6 +69670,9 @@
         ],
         "weapon": [
           {
+            "Ascension crossbows": [
+              34681
+            ],
             "Toxic blowpipe": [
               12924,
               12926
@@ -69806,7 +69849,14 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          }
+        ]
       },
       {
         "name": "Melee",
@@ -70898,6 +70948,11 @@
           {
             "Arkan blade": [
               30955
+            ]
+          },
+          {
+            "Ancient mace": [
+              11061
             ]
           }
         ]
@@ -76908,7 +76963,7 @@
         "special": []
       },
       {
-        "name": "Melee",
+        "name": "Melee (Low Level)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -77186,7 +77241,7 @@
         ]
       },
       {
-        "name": "Ranged",
+        "name": "Ranged (Low Level)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -77714,7 +77769,7 @@
         "special": []
       },
       {
-        "name": "Melee",
+        "name": "Melee (High Level)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -77766,19 +77821,19 @@
             ]
           },
           {
+            "Inquisitor's great helm": [
+              24419
+            ],
             "Torva full helm": [
               26376,
               26382,
               28254
-            ],
-            "Oathplate helm": [
-              30750,
-              30777
             ]
           },
           {
-            "Inquisitor's great helm": [
-              24419
+            "Oathplate helm": [
+              30750,
+              30777
             ]
           },
           {
@@ -77835,19 +77890,19 @@
         ],
         "body": [
           {
+            "Inquisitor's hauberk": [
+              24420
+            ],
             "Torva platebody": [
               26378,
               26384,
               28256
-            ],
-            "Oathplate chest": [
-              30753,
-              30779
             ]
           },
           {
-            "Inquisitor's hauberk": [
-              24420
+            "Oathplate chest": [
+              30753,
+              30779
             ]
           },
           {
@@ -77870,19 +77925,19 @@
         ],
         "legs": [
           {
+            "Inquisitor's plateskirt": [
+              24421
+            ],
             "Torva platelegs": [
               26380,
               26386,
               28258
-            ],
-            "Oathplate legs": [
-              30756,
-              30781
             ]
           },
           {
-            "Inquisitor's plateskirt": [
-              24421
+            "Oathplate legs": [
+              30756,
+              30781
             ]
           },
           {
@@ -78031,13 +78086,13 @@
             ]
           },
           {
+            "Crimson kisten": [
+              33631
+            ],
             "Dragon claws": [
               13652,
               26708,
               28039
-            ],
-            "Crimson kisten": [
-              33631
             ]
           },
           {
@@ -78046,6 +78101,9 @@
             ]
           },
           {
+            "Voidwaker": [
+              27690
+            ],
             "Dragon dagger": [
               1215,
               1231,
@@ -78055,9 +78113,6 @@
               28021,
               28023,
               28025
-            ],
-            "Voidwaker": [
-              27690
             ]
           },
           {
@@ -78070,7 +78125,7 @@
         ]
       },
       {
-        "name": "Ranged",
+        "name": "Ranged (High Level)",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -89894,6 +89949,11 @@
         ],
         "weapon": [
           {
+            "Ascension crossbows": [
+              34681
+            ]
+          },
+          {
             "Toxic blowpipe": [
               12924,
               12926
@@ -89964,6 +90024,11 @@
         ],
         "ammo": [
           {
+            "Diamond ascension bolts (e)": [
+              34696
+            ]
+          },
+          {
             "Diamond dragon bolts (e)": [
               21946
             ],
@@ -89975,14 +90040,14 @@
             ]
           },
           {
+            "Sunlight antler bolts": [
+              28872
+            ],
             "Runite bolts": [
               9144,
               9291,
               9298,
               9305
-            ],
-            "Sunlight antler bolts": [
-              28872
             ]
           },
           {
@@ -89999,9 +90064,7 @@
           {
             "Rada's blessing 4": [
               22947
-            ]
-          },
-          {
+            ],
             "God blessing": [
               20220,
               20223,
@@ -90106,7 +90169,14 @@
             ]
           }
         ],
-        "special": []
+        "special": [
+          {
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          }
+        ]
       },
       {
         "name": "Melee",
@@ -93247,17 +93317,17 @@
             ]
           },
           {
-            "Zombie helmet": [
-              30321
+            "Oathplate helm": [
+              30750,
+              30777
             ],
             "Torva full helm": [
               26376,
               26382,
               28254
             ],
-            "Oathplate helm": [
-              30750,
-              30777
+            "Zombie helmet": [
+              30321
             ]
           },
           {
@@ -93416,11 +93486,11 @@
               22486,
               22325
             ],
-            "Soulreaper axe": [
-              28338
-            ],
             "Inquisitor's mace": [
               24417
+            ],
+            "Soulreaper axe": [
+              28338
             ]
           },
           {
@@ -93446,9 +93516,6 @@
         ],
         "shield": [
           {
-            "Rondache": [
-              34719
-            ],
             "Avernic defender": [
               22322,
               22441,
@@ -93460,6 +93527,9 @@
               12954,
               20463,
               24143
+            ],
+            "Rondache": [
+              34719
             ]
           }
         ],
@@ -94597,14 +94667,27 @@
         "legs": [],
         "weapon": [
           {
+            "Obligator": [
+              34717,
+              34715
+            ]
+          },
+          {
+            "Scythe of Vitur": [
+              22486,
+              22325
+            ]
+          },
+          {
+            "Emberlight": [
+              29589
+            ],
             "Twisted bow": [
               20997
             ],
             "Ascension crossbows": [
               34681
-            ]
-          },
-          {
+            ],
             "Toxic blowpipe": [
               12924,
               12926
@@ -95033,6 +95116,10 @@
         ],
         "weapon": [
           {
+            "Obligator": [
+              34717,
+              34715
+            ],
             "Scythe of Vitur": [
               22486,
               22325
@@ -96726,6 +96813,8 @@
               31113,
               27277,
               27275,
+              34727,
+              34725,
               22290,
               22288,
               22294,
@@ -98233,6 +98322,27 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Shield down",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Twinflame staff": [
+              30634
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
       }
     ]
   },

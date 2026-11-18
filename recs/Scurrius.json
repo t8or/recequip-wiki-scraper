@@ -293,9 +293,7 @@
       {
         "Regen bracelet": [
           11133
-        ]
-      },
-      {
+        ],
         "Combat bracelet": [
           11126,
           11124,
@@ -418,6 +416,9 @@
       {
         "Amulet of fury": [
           6585
+        ],
+        "Necklace of Fangs": [
+          34401
         ]
       },
       {
@@ -434,6 +435,11 @@
       {
         "Amulet of power": [
           1731
+        ]
+      },
+      {
+        "Amulet of sight": [
+          34762
         ]
       }
     ],
@@ -535,6 +541,10 @@
       {
         "Hunters' sunlight crossbow": [
           28869
+        ],
+        "Rosewood blowpipe": [
+          31585,
+          31583
         ]
       },
       {
@@ -554,6 +564,11 @@
       }
     ],
     "shield": [
+      {
+        "Antler guard": [
+          31081
+        ]
+      },
       {
         "Book of Law": [
           12610
@@ -663,6 +678,11 @@
     ],
     "ring": [
       {
+        "Lightbearer": [
+          25975
+        ]
+      },
+      {
         "Archers ring (i)": [
           11771,
           25260,
@@ -673,7 +693,19 @@
         ]
       }
     ],
-    "special": []
+    "special": [
+      {
+        "Rosewood blowpipe": [
+          31585,
+          31583
+        ]
+      },
+      {
+        "Magic shortbow (i)": [
+          12788
+        ]
+      }
+    ]
   },
   {
     "name": "Magic (mid level)",
@@ -708,6 +740,9 @@
       {
         "Occult necklace": [
           12002
+        ],
+        "Elemental amulet": [
+          34428
         ]
       },
       {
@@ -1205,6 +1240,9 @@
           22322,
           22441,
           24186
+        ],
+        "Rondache": [
+          34719
         ]
       },
       {

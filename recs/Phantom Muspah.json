@@ -599,6 +599,11 @@
         ]
       },
       {
+        "Ascension crossbows": [
+          34681
+        ]
+      },
+      {
         "Bow of Faerdhinen": [
           25862,
           25865
@@ -611,21 +616,19 @@
       {
         "Zaryte crossbow": [
           26374
+        ],
+        "Armadyl crossbow": [
+          11785
         ]
       },
       {
-        "Armadyl crossbow": [
-          11785
-        ],
         "Dragon crossbow": [
           21902,
           28053
         ],
         "Dragon hunter crossbow": [
           21012
-        ]
-      },
-      {
+        ],
         "Rune crossbow": [
           9185
         ]

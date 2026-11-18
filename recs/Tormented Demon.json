@@ -1350,5 +1350,26 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Shield down",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Twinflame staff": [
+          30634
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
   }
 ]
