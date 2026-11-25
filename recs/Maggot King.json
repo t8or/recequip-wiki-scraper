@@ -15,7 +15,7 @@
     "special": []
   },
   {
-    "name": "Mage",
+    "name": "Magic",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "name": "Range",
+    "name": "Ranged",
     "head": [
       {
         "Slayer helmet (i)": [
@@ -952,6 +952,10 @@
         ]
       },
       {
+        "Ursine chainmace": [
+          27657,
+          27660
+        ],
         "Zombie axe": [
           28810
         ],
