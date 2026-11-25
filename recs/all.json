@@ -13712,19 +13712,24 @@
             ]
           },
           {
-            "Book of Darkness": [
-              12612
+            "Mage's book": [
+              6889
+            ],
+            "Malediction ward": [
+              11924
             ]
           },
           {
+            "Book of Darkness": [
+              12612
+            ],
             "Unholy book": [
               3842
             ]
           },
           {
-            "Tome of Fire": [
-              20716,
-              20714
+            "Book of the Dead": [
+              25818
             ]
           },
           {
@@ -13802,13 +13807,19 @@
             ]
           },
           {
-            "Dragon gloves": [
-              7461
+            "Rune gloves": [
+              7460
             ]
           },
           {
-            "Rune gloves": [
-              7460
+            "Combat bracelet": [
+              11126,
+              11124,
+              11122,
+              11120,
+              11118,
+              11974,
+              11972
             ]
           }
         ],
@@ -16758,17 +16769,17 @@
             ]
           },
           {
-            "Arkan blade": [
-              30955
-            ]
-          },
-          {
             "Bone dagger": [
               8872,
               8874,
               8876,
               8878
             ],
+            "Arkan blade": [
+              30955
+            ]
+          },
+          {
             "Abyssal dagger (p++)": [
               13265,
               13267,
@@ -28225,6 +28236,11 @@
               20445,
               24223
             ]
+          },
+          {
+            "Obsidian cape": [
+              6568
+            ]
           }
         ],
         "body": [
@@ -29186,6 +29202,11 @@
           {
             "Mixed hide cape": [
               29289
+            ]
+          },
+          {
+            "Obsidian cape": [
+              6568
             ]
           }
         ],
@@ -34915,6 +34936,10 @@
           {
             "Soulreaper axe": [
               28338
+            ],
+            "Obligator": [
+              34717,
+              34715
             ]
           },
           {
@@ -35108,6 +35133,10 @@
             "Scythe of Vitur": [
               22486,
               22325
+            ],
+            "Obligator": [
+              34717,
+              34715
             ]
           },
           {
@@ -35156,6 +35185,10 @@
               4960,
               4961,
               4962
+            ],
+            "Dragon mace": [
+              1434,
+              28027
             ]
           }
         ],
@@ -55500,7 +55533,9 @@
               28123,
               28124,
               28125,
-              28786
+              28786,
+              32930,
+              32932
             ]
           }
         ],
@@ -71307,7 +71342,7 @@
         "special": []
       },
       {
-        "name": "Mage",
+        "name": "Magic",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -71634,7 +71669,7 @@
         ]
       },
       {
-        "name": "Range",
+        "name": "Ranged",
         "head": [
           {
             "Slayer helmet (i)": [
@@ -72244,6 +72279,10 @@
             ]
           },
           {
+            "Ursine chainmace": [
+              27657,
+              27660
+            ],
             "Zombie axe": [
               28810
             ],
@@ -93325,9 +93364,6 @@
               26376,
               26382,
               28254
-            ],
-            "Zombie helmet": [
-              30321
             ]
           },
           {
@@ -93337,6 +93373,9 @@
             "Serpentine helm": [
               12929,
               12931
+            ],
+            "Zombie helmet": [
+              30321
             ]
           },
           {
@@ -93486,11 +93525,11 @@
               22486,
               22325
             ],
-            "Inquisitor's mace": [
-              24417
-            ],
             "Soulreaper axe": [
               28338
+            ],
+            "Inquisitor's mace": [
+              24417
             ]
           },
           {
@@ -93520,6 +93559,9 @@
               22322,
               22441,
               24186
+            ],
+            "Rondache": [
+              34719
             ]
           },
           {
@@ -93527,9 +93569,6 @@
               12954,
               20463,
               24143
-            ],
-            "Rondache": [
-              34719
             ]
           }
         ],
@@ -93648,28 +93687,6 @@
               26475,
               27006
             ]
-          },
-          {
-            "Crystal helm": [
-              23971,
-              23973,
-              27705,
-              27707,
-              27717,
-              27719,
-              27729,
-              27731,
-              27741,
-              27743,
-              27753,
-              27755,
-              27765,
-              27767,
-              27777,
-              27779,
-              33031,
-              33033
-            ]
           }
         ],
         "neck": [
@@ -93751,25 +93768,8 @@
             ]
           },
           {
-            "Crystal body": [
-              23975,
-              23977,
-              27697,
-              27699,
-              27709,
-              27711,
-              27721,
-              27723,
-              27733,
-              27735,
-              27745,
-              27747,
-              27757,
-              27759,
-              27769,
-              27771,
-              33023,
-              33025
+            "Black d'hide body": [
+              2503
             ]
           }
         ],
@@ -93807,25 +93807,8 @@
             ]
           },
           {
-            "Crystal legs": [
-              23979,
-              23981,
-              27701,
-              27703,
-              27713,
-              27715,
-              27725,
-              27727,
-              27737,
-              27739,
-              27749,
-              27751,
-              27761,
-              27763,
-              27773,
-              27775,
-              33027,
-              33029
+            "Black d'hide chaps": [
+              2497
             ]
           }
         ],
@@ -93866,10 +93849,6 @@
           {
             "Rune crossbow": [
               9185
-            ],
-            "Bow of Faerdhinen": [
-              25862,
-              25865
             ]
           }
         ],
@@ -94151,23 +94130,15 @@
         ],
         "shield": [
           {
-            "Tome of Fire": [
-              20716,
-              20714
-            ],
-            "Tome of Water": [
-              25576,
-              25574
-            ],
-            "Tome of Earth": [
-              30066,
-              30064
-            ]
-          },
-          {
             "Elidinis' ward (f)": [
               27251,
               27253
+            ]
+          },
+          {
+            "Tome of Water": [
+              25576,
+              25574
             ]
           },
           {
@@ -94201,11 +94172,6 @@
           {
             "Avernic treads (max)": [
               31097
-            ]
-          },
-          {
-            "Eternal boots": [
-              13235
             ]
           }
         ],
@@ -94493,7 +94459,7 @@
         "special": []
       },
       {
-        "name": "The Smorks (Reduced Defence)",
+        "name": "The Smorks (<100 Defence)",
         "head": [],
         "neck": [],
         "cape": [],
@@ -94504,33 +94470,35 @@
             "Obligator": [
               34717,
               34715
-            ],
-            "Ascension crossbows": [
-              34681
             ]
           },
           {
+            "Ascension crossbows": [
+              34681
+            ],
             "Toxic blowpipe": [
               12924,
               12926
-            ],
-            "Twisted bow": [
-              20997
             ]
           },
           {
+            "Twisted bow": [
+              20997
+            ],
             "Zaryte crossbow": [
               26374
-            ],
-            "Scythe of Vitur": [
-              22486,
-              22325
-            ],
+            ]
+          },
+          {
             "Inquisitor's mace": [
               24417
             ],
             "Soulreaper axe": [
               28338
+            ],
+            "Scythe of Vitur": [
+              22486,
+              22325
             ]
           },
           {
@@ -94559,8 +94527,24 @@
         "legs": [],
         "weapon": [
           {
+            "Obligator": [
+              34717,
+              34715
+            ],
+            "Scythe of Vitur": [
+              22486,
+              22325
+            ]
+          },
+          {
             "Twisted bow": [
               20997
+            ],
+            "Inquisitor's mace": [
+              24417
+            ],
+            "Soulreaper axe": [
+              28338
             ]
           },
           {
@@ -94583,7 +94567,7 @@
         "special": []
       },
       {
-        "name": "[[File:Dreadnoth the Jellied icon.png]]Dreadnoth the Jellied (Reduced Defence)",
+        "name": "[[File:Dreadnoth the Jellied icon.png]]Dreadnoth the Jellied (0 Defence)",
         "head": [],
         "neck": [],
         "cape": [],
@@ -94591,13 +94575,18 @@
         "legs": [],
         "weapon": [
           {
-            "Ascension crossbows": [
-              34681
+            "Obligator": [
+              34717,
+              34715
+            ],
+            "Scythe of Vitur": [
+              22486,
+              22325
             ]
           },
           {
-            "Twisted bow": [
-              20997
+            "Ascension crossbows": [
+              34681
             ],
             "Toxic blowpipe": [
               12924,
@@ -94605,13 +94594,21 @@
             ]
           },
           {
-            "Zaryte crossbow": [
-              26374
+            "Twisted bow": [
+              20997
             ]
           },
           {
+            "Zaryte crossbow": [
+              26374
+            ],
             "Scorching bow": [
               29591
+            ]
+          },
+          {
+            "Armadyl crossbow": [
+              11785
             ],
             "Dragon crossbow": [
               21902,
@@ -94627,13 +94624,19 @@
         "special": []
       },
       {
-        "name": "[[File:Dagon'hai Elder icon.png]] Dagon'hai Trio (Reduced Defence)",
+        "name": "[[File:Dagon'hai Elder icon.png]] Dagon'hai Trio (0 Defence)",
         "head": [],
         "neck": [],
         "cape": [],
         "body": [],
         "legs": [],
         "weapon": [
+          {
+            "Venator bow": [
+              27612,
+              27610
+            ]
+          },
           {
             "Twisted bow": [
               20997
@@ -94776,7 +94779,7 @@
         "special": []
       },
       {
-        "name": "[[File:Ocellus icon.png]] Ocellus Phase 2",
+        "name": "[[File:Ocellus icon.png]] Ocellus Phase 2 (Reduced Defence)",
         "head": [],
         "neck": [],
         "cape": [],
@@ -94853,6 +94856,15 @@
             "Twisted bow": [
               20997
             ]
+          },
+          {
+            "Ursine chainmace": [
+              27657,
+              27660
+            ],
+            "Zamorakian hasta": [
+              11889
+            ]
           }
         ],
         "shield": [],
@@ -94863,7 +94875,7 @@
         "special": []
       },
       {
-        "name": "Ocellus Phase 3/4 (Untethered and Ranged-only Enrage)",
+        "name": "Ocellus Phase 3/4 (Untethered and Deflect Melee)",
         "head": [],
         "neck": [],
         "cape": [],
@@ -94876,14 +94888,23 @@
             ]
           },
           {
-            "Scorching bow": [
-              29591
-            ],
-            "Zaryte crossbow": [
-              26374
+            "Ascension crossbows": [
+              34681
             ]
           },
           {
+            "Scorching bow": [
+              29591
+            ],
+            "Toxic blowpipe": [
+              12924,
+              12926
+            ]
+          },
+          {
+            "Zaryte crossbow": [
+              26374
+            ],
             "Armadyl crossbow": [
               11785
             ],
@@ -96908,7 +96929,7 @@
         "special": []
       },
       {
-        "name": "Wardens (Phase 3)",
+        "name": "Wardens (Phase 3/4)",
         "head": [],
         "neck": [],
         "cape": [],
@@ -96954,6 +96975,46 @@
             ],
             "Eclipse atlatl": [
               29000
+            ]
+          }
+        ],
+        "shield": [],
+        "ammo": [],
+        "hands": [],
+        "feet": [],
+        "ring": [],
+        "special": []
+      },
+      {
+        "name": "Wardens (Phase 3/4 specials)",
+        "head": [],
+        "neck": [],
+        "cape": [],
+        "body": [],
+        "legs": [],
+        "weapon": [
+          {
+            "Zaryte crossbow": [
+              26374
+            ],
+            "Zorya's tome": [
+              34727,
+              34725
+            ]
+          },
+          {
+            "Tonalztics of Ralos": [
+              28919,
+              28922
+            ],
+            "Accursed sceptre": [
+              27662,
+              27665
+            ]
+          },
+          {
+            "Bandos godsword": [
+              11804
             ]
           }
         ],

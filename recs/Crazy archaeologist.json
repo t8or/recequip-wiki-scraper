@@ -327,19 +327,24 @@
         ]
       },
       {
-        "Book of Darkness": [
-          12612
+        "Mage's book": [
+          6889
+        ],
+        "Malediction ward": [
+          11924
         ]
       },
       {
+        "Book of Darkness": [
+          12612
+        ],
         "Unholy book": [
           3842
         ]
       },
       {
-        "Tome of Fire": [
-          20716,
-          20714
+        "Book of the Dead": [
+          25818
         ]
       },
       {
@@ -417,13 +422,19 @@
         ]
       },
       {
-        "Dragon gloves": [
-          7461
+        "Rune gloves": [
+          7460
         ]
       },
       {
-        "Rune gloves": [
-          7460
+        "Combat bracelet": [
+          11126,
+          11124,
+          11122,
+          11120,
+          11118,
+          11974,
+          11972
         ]
       }
     ],

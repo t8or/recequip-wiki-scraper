@@ -1508,7 +1508,7 @@
     "special": []
   },
   {
-    "name": "Wardens (Phase 3)",
+    "name": "Wardens (Phase 3/4)",
     "head": [],
     "neck": [],
     "cape": [],
@@ -1554,6 +1554,46 @@
         ],
         "Eclipse atlatl": [
           29000
+        ]
+      }
+    ],
+    "shield": [],
+    "ammo": [],
+    "hands": [],
+    "feet": [],
+    "ring": [],
+    "special": []
+  },
+  {
+    "name": "Wardens (Phase 3/4 specials)",
+    "head": [],
+    "neck": [],
+    "cape": [],
+    "body": [],
+    "legs": [],
+    "weapon": [
+      {
+        "Zaryte crossbow": [
+          26374
+        ],
+        "Zorya's tome": [
+          34727,
+          34725
+        ]
+      },
+      {
+        "Tonalztics of Ralos": [
+          28919,
+          28922
+        ],
+        "Accursed sceptre": [
+          27662,
+          27665
+        ]
+      },
+      {
+        "Bandos godsword": [
+          11804
         ]
       }
     ],
